@@ -1,0 +1,498 @@
+,Instance Id,Instance Name,Is Dead,User Count,Description,Short,topic,active users
+0,5ae72ab0c8ec996cd1ee7db3,thevillastraylight.com,False,2,"A Pleroma instance, an alternative fediverse server",,La Villa Straylight,
+1,63a11195584f7ddba6d882ac,mastodon.clusterfucks.nl,False,5,"<p>This is a private Mastodon instance.</p>
+",A private instance.,Mastodon,
+2,637b23a2ad72ace2dcf16bd4,pixels.stormgrass.com,False,1,"Pixelfed is an image sharing platform, an ethical alternative to centralized platforms.",Where the food and other bits go,Pixelfed,
+3,637cd91645273fd7ff114bb6,stade.social,False,4,"<p>Ein freier, öffentlicher Mastodon Server für Menschen aus und um Stade.</p>
+
+<h2>Impressum</h2>
+
+<p>Tobias Liebig
+Helmster Weg 33
+21680 Stade</p>
+","Impressum
+
+Tobias Liebig
+Helmster Weg 33
+21680 Stade",Stade.Social,
+4,637b2d77d94dca7f11e7ac2a,mastodon.cf,False,429,Well - it's a Mastodon server.,Experimental Mastodon server.,My Mastodon Node,
+5,6432e046d83e4a2b4835de48,mastodon.noebauer.xyz,False,1,,,Mastodon,
+6,6437dfbc2476b8f07c2606e6,gts.jasminetea.uk,False,2,試しに立ててみた自分用gtsサーバーです。しばらくの間運用する予定です〜,,jasminetea,
+7,637b2739ad72ace2dcf17c13,social.mrjeda.de,False,6,"Der Server steht natürlich nicht am Eibenhardt, mehr wird nicht verraten.",privater Server,Am Eibenhardt,
+8,64f2cbf91fcd4d96531912a3,pregnant.social,False,1,"<p>An NSFW Mastodon instance dedicated to furry pregnancy kinks. </p>
+
+<p>A place to show and admire bumps! </p>
+
+<p>Running on a Raspberry Pi CM4 8GB. </p>
+","An LGBTQ+, furry, and kink-friendly pregnancy Mastodon instance. ",Pregnancy Mastodon,
+9,637b36a8d94dca7f11e7d170,social.tthi.as,False,1,,"This is my vanity server. There are many like it, but this one is mine.",Mastodon,
+10,637b3611d94dca7f11e7cee6,mastodon.common.se,False,8,,Private server used by commonists,Common,
+11,640886dc700ca62360acb760,mastodon.nakadashi.mobi,False,1,,,Mastodon,
+12,63e7407bd8c60010e7831c38,mstdn.aotake91.net,False,1,,青竹 / 麦（穀物P）の個人用Mastodonサーバー（インスタンス）,青竹荘 個人Mastodon,
+13,64a69dc0974d925448604a76,toot.zip,False,3,"<p>i happened to get <code>toot.zip</code>. nice.</p>
+",<generic mastodon instance description>,Zippy Toots,
+14,639917e00f9a1eec1dab671f,outdoors.lgbt,False,911,"<p>Hosted on <a href=""https://mastodon.social/@fedihost"">FediHost.io</a>. We are a safe space for LGBTQIA+ individuals and staunch allies that love the outdoors.</p>
+
+<p><b>We are committed to the <a href=""https://joinmastodon.org/covenant"">Mastodon Server Covenant</a>.</b></p>
+
+<p><p><p>
+<b>Please consider <a href=""https://ko-fi.com/lilymooncohen"">donating for server costs here.</b></a></p>
+",outdoors.lgbt is a safe space for LGBTQIA+ individuals and staunch allies that love the outdoors. Join us!,outdoors.lgbt,
+15,58f5e10c762338151ee6db9d,mstdn.plus,False,11269,"<p><strong>MSTDN+</strong> is a new English-language, general-purpose instance open to everyone! If you appreciate my work, please consider contributing via <a href=""https://opencollective.com/mstdnplus"">Open Collective</a>.</p>
+
+<p>I&#39;ve been a Mastodon instance admin and user since 2019, and I opened this instance to make sure there are more reliable general-purpose instances available for people to choose from during the great #TwitterMigration :)</p>
+
+<p><strong>Note</strong>: NSFW content is <strong>prohibited</strong> on this instance. Alternatively you may use <a href=""https://mstdn.party"">mstdn.party</a>.</p>
+
+<p><strong>Abuse / Harassment:</strong> If you are being harassed, please report the user using the &quot;…&quot; button and then &quot;Report.&quot; Moderators may take any action they deem appropriate, such as a warning or an expulsion.</p>
+
+<p>When reporting accounts, please make sure to include at least a few posts that show rule-breaking behavior, when applicable. If there is any additional context that might help make a decision, please also include it in the comment.</p>
+
+<p>This server follows the <a href=""https://joinmastodon.org/covenant"">Mastodon Server Covenant</a>:</p>
+
+<ol>
+<li>We agree to active moderation against racism, sexism, homophobia and transphobia</li>
+<li>We agree to daily backups to ensure your data is safe</li>
+<li>We have backup administrators ready to operate this server in emergencies or my unexpected absence</li>
+<li>In the unlikely event this instance shuts down, we agree to give our users a 3 month period to migrate to another instance</li>
+</ol>
+
+<p>As a general-purpose instance, we do not have heavy moderation in terms of what topics people are allowed to post about, however all users are expected to follow our rules at all times, and generally be nice and friendly on the federation.</p>
+
+<p>Please report all content you see which might violate our rules for evaluation. If you are on a remote server, please forward any reports of our users to our server for our moderators to take action, we pledge that remote reports will remain confidential within our moderation team and will not be used for any form of retribution against the reporter.</p>
+
+<h2>Legal</h2>
+
+<p><strong>MSTDN+</strong> is operated by <strong>Fediverse Communications LLC</strong>, a Minnesota (USA) company, and is hosted on servers operated in Germany and Finland. All content on this server is expected to be legal in all of these jurisdictions. If you have any copyright, trademark, legal concerns, please email us directly.</p>
+
+<ul>
+<li><strong>DMCA Complaints</strong>: dmca@fediverse.us</li>
+<li><strong>Trademark Complaints</strong>: trademark@fediverse.us</li>
+<li><strong>Abuse Complaints</strong>: abuse@fediverse.us</li>
+</ul>
+","MSTDN+ is an English-speaking general-purpose Mastodon instance, welcome!",MSTDN+,
+16,637b2662ad72ace2dcf17871,gorgon.city,False,1,"<p>Using emoji by emojibot@botsin.space</p>
+",,Gorgon City,
+17,637b3161d94dca7f11e7bbe1,blackrock.city,False,191,"<p>Follow the 10 principles. 
+No hate speech.
+No criminal activities.</p>
+
+<p>To support this instance send XLM to 
+GBUC42RTIY6NKX4TMCPQWBNAF57RL2IARBRYJ7T2HK5GKNUPN27WG6LB</p>
+","You don't have to go to burning man to be a Burner. <P>
+
+A community of doers celebrating life, creativity, and self-expression.
+
+",Blackrock.City,
+18,64a415e3d4ffc3eab826e5b7,owncast.mitch.science,False,1,"This is Mitch's House — an Owncast server for Mitch's various projects. Streams are intermittent, but you can subscribe to this account on the Fediverse to be the first to know when I go live. Hope to see you around!","This is Mitch's House — an Owncast server for Mitch's various projects. Streams are intermittent, but you can subscribe to this account on the Fediverse to be the first to know when I go live. Hope to see you around!",Mitch's House,
+19,637b367ed94dca7f11e7d0a1,social.jonathancandler.com,False,3,"<p>Express yourself. Talk about anything and everything. No hate speech or attacking anyone.</p>
+",This server is for those who would like to talk about anything and everything. Express yourself! ,space place,
+20,63e734dc43d3e00ef7402bfe,xn--og8haa.st,False,2,,,Mastodon,
+21,63cd5dc6fa3cbc4b92b7cc9d,neubau.social,False,3,"<p>Dieser Server hält sich an die Vereinbarungen für Mastodon Serverbetreiber:
+https://joinmastodon.org/covenant</p>
+","Fediverse/Mastodon Instanz für und aus Wien Neubau.
+",Neubau Mastodon,
+22,640886e3700ca62360acb83c,mastodon.trabus322.tk,False,2,,,mastodon.trabus322.eu,
+23,63a0f5891ed811d9ed066749,805.social,False,1,"A small testing instance for the GoToSocial alpha software. If you want to try it out, just send me an email.",A small testing instance for the GoToSocial alpha software.,805.social,
+24,64ce8cf987b491086149a751,0qz.fun,False,2,,,0qz.fun,
+25,64b5c47a1263c6ce6da13458,uwunifi.com,False,1,,,UwUnifi,
+26,63eb32cb6dc804a01487e4ff,macnemo.social,False,2,,,Mastodon,
+27,63a8602bf59fa35bae5ef3b2,fedi.justinian.codes,False,1,,"This is my personal fediverse server, powered by GoToSocial.
+
+You probably actually want <a href=""/@justinian"" rel=""noreferrer"">my profile page</a>.",justinian.codes,
+28,64b2c87de1b06b51d65a6805,social.cs.swarthmore.edu,False,21,teaching server for Swat Comp Sci department,teaching server for Swat Comp Sci department,Mastodon,
+29,643b4f4a21d0ff758c890e7f,mastodon.dtris.moe,False,2,,"I like software that's self-hostable, decentralized and federated.",Mastodon at dtris.moe,
+30,63cb6211e38bee0966b15945,fdv.saifulh.web.id,False,1,"My personal instance on fediverse, nothing special here...","My personal instance on fediverse, nothing special here...",s4if's personal instance,
+31,637b2f13d94dca7f11e7b277,gamingjp.org,False,58,"<p>ゲームのネタバレに特化したサーバーです。CW（コンテンツ ウォーニング）をつけつつゲームのネタバレをみんなで共有しましょう。ゲームに関係のない事も発言してOKです。<br>
+<br>
+＊＊＊ やってはいけないこと ＊＊＊<br>
+日本の法律に反する事は、やらないでください。<br>
+他人への度を逸した罵倒などはやらないでください。<br>
+SPAM行為は禁止します（速攻BANします）。<br>
+無修正のエロ画像（動画も含む）の投稿もやらないでください。<br>
+<br>
+＊＊＊管理者の登録メールアドレス mastodon@gamingjp.org は、送信専用です。外からのメールは届きません。＊＊＊</p>
+",ゲームのネタバレに特化したサーバーです。CWをつけつつゲームのネタバレをみんなで共有しましょう。,gamingjp.org,
+32,637b2cc5d94dca7f11e7a968,diskette.online,False,1,,"A Mastodon server celebrating trains, urbanism, computers, software development, cycling, dogs, and basically all of my interests. ",Diskette Online,
+33,637b2500ad72ace2dcf17223,social.u2s.cloud,False,2,,"A small instance with humans interested in IT, IT-SEC, LGBT, Anime and More",Social.USB 2 Serial.Cloud,
+34,64c3e63eb7e3a52037fe636d,goto.lol.camp,False,1,,,goto.lol.camp,
+35,63fd17cfcee2d4ebef8c64ba,meerjungfrauengrotte.de,False,6,"<p><strong>I&#39;m done with adulting.</strong><br>
+<strong>Let&#39;s be Mermaids.</strong><br>
+<strong>Let&#39;s make waves.</strong><br>
+<strong>Let&#39;s toot.</strong>  </p>
+
+<p>Eine Mastodon-Instanz für alle Meerjungfrauen, Meermänner und Meerpersonen bzw. Personen mit dem Hobby Mermaiding/Meerjungfrauenschwimmen sowie alle Beinmenschen, die sich dem Meer verbunden wissen. </p>
+
+<p><a href=""http://www.meerjungfrauengrotte.de"">Meer...</a></p>
+
+<h2>Admina</h2>
+
+<p><a href=""https://meerjungfrauengrotte.de/@admina"">Michaela Marina Greta Molthagen</a></p>
+
+<h2>Status</h2>
+
+<p><a href=""https://status.meerjungfrauengrotte.de/"">Uptime Monitor</a></p>
+
+<h2>Vorschaubild der Instanz</h2>
+
+<p><em>Das Vorschaubild der Instanz &quot;Ocean Sea Mermaid Illustration&quot; wurde von Linnaea Mallette geschaffen (<a href=""https://www.publicdomainpictures.net/en/view-image.php?image=456764&picture=ocean-sea-mermaid-illustration"">Original-Bild</a>). Lizenz: <a href=""http://creativecommons.org/publicdomain/zero/1.0/"">CC0 Public Domain</a>.</em></p>
+
+<h2>Impressum</h2>
+
+<p><a href=""https://www.meerjungfrauengrotte.de/impressum"">Impressum</a></p>
+
+<h2>Spenden</h2>
+
+<p><a href=""https://www.paypal.com/paypalme/mmolthagen"">PayPal</a> oder per Banküberweisung (<a href=""https://www.meerjungfrauengrotte.de#Spenden"">Link</a>)</p>
+","Eine Mastodon-Instanz für Meerjungfrauen, Meermänner, Meerpersonen und alle, die sich dem Meer verbunden fühlen. Mermaids, let's toot! ",meerjungfrauengrotte.de,
+36,64967885b66e3bb69fd3c288,laburo.social,False,29,"<p>Laburo Social es una red social de laburo, no-gubernamental dedicada a ayudar trabajadores independientes y artesanos a promocionar su laburo, el objetivo es fomentar el trabajo honesto y mejorar los ingresos de quienes realmente lo necesitan, por lo que es gratis y no se cobra comisiones, sin publicidad, sin rastreadores, sin el control de las grandes corporaciones big-tech y de código abierto. </p>
+
+<p>Las cuentas deben representar exclusivamente trabajadores independientes, artesanos o microempresas/locales de menos de 5 empleados. Tratar de no utilizar nombres propios en el @Tag, este campo no se puede cambiar después.</p>
+
+<p>Además del nombre del negocio, indicá (1) el sector al que pertenece el servicio o producto, Ej: agricultura, arte, comida, construcción, diseño, educación, tecnología, transporte, etc y (2) de qué se trata el negocio en términos generales Ej: &quot;peluquería unisex&quot;, &quot;cantante de cumbia&quot;, &quot;diseño web&quot;, &quot;clases de crochet&quot;, &quot;reparación de radiadores&quot;, etc</p>
+
+<p>Recordá leer los términos de servicio y que la única forma de ingreso son las donaciones directas, así que si lográs conseguir guitas usando la plataforma, apoyá.</p>
+
+<p><strong>Donaciones: <a href=""https://cafecito.app/laburosocial"">Cafecito/Mercado Pago</a></strong></p>
+","Red social de trabajadores independientes, artesanos y locales pequeños de Argentina",Laburo Social,
+37,648d3cc9d02cc036f82c2275,nikayin.social,False,1,,,Mastodon,
+38,63cf7a09f48ac09910c7ec12,graphvisualization.masto.host,False,3,,A server for all things related to graph visualization. Hosted by Tom Sawyer Software.,Graph Visualization,
+39,640886ecc6037b2390dc6ea4,social.dekay.se,False,2,,,dekay.se,
+40,64d5ca1f31d78231322e2489,kohodon.fedicity.net,False,4,"<p>個人のプライベートなインスタンスです。<br>
+<font color=""deepskyblue"", size=""-2"">kohodon.com/2023-8-9開設</font></p>
+",このインスタンスは「おひとりさま」、もしくはその親しい方たちのものです。ただし、その方たちが招いた方々を拒むものではありません。特定のテーマはもちません。雑多なフリースペースです。,kohodon_fedicity_Mastodon,
+41,63a7d6885cea085266b703f1,mastodon.pixeloasis.eu,False,5,"<p>This instance is physically located in Germany. To prevent bots, all new signups must be manually approved. This does not apply if you are invited by an existing user.</p>
+
+<p>If you&#39;re an instance admin reading this, please reach out to me (admin@pixeloasis.eu)[mailto:admin@pixeloasis.eu] || @admin@mastodon.pixeloasis.eu || @admin:matrix.pixeloasis.eu before blocking this instance. We can probably come to an agreement.</p>
+
+<p><strong>Be warned!</strong> this Server may be unstable at times. Statistics about our uptime are available <a href=""https://status.pixeloasis.eu/status/mastodon"">here</a>.</p>
+
+<p>Our Mozilla-Observatory scan can be found <a href=""https://observatory.mozilla.org/analyze/mastodon.pixeloasis.eu"">here</a> and our Google CSP evaluator scan can be found <a href=""https://csp-evaluator.withgoogle.com/?csp=https://mastodon.pixeloasis.eu"">here</a></p>
+
+<p>This instance has no specific theme and will not block any other instance unless they spam or use bots. All blocked instances are listed publicly.
+Note: Users can still choose to block an instance on their own account.</p>
+
+<p>This instance uses S3 storage to host content(media attachments). User content is not stored locally. As an end-user, you should not notice this.</p>
+
+<p>If you want to join please write how you found this instance and why you want to join.</p>
+","Open mastodon server (new signups require manual approval)
+Languages are: En/De
+View our uptime at https://status.pixeloasis.eu/status/mastodon",Pixeloasis,
+42,58ea5bf7dcd4660abedbeff0,loutre.info,False,21,,,River Mastodon,
+43,637b30aad94dca7f11e7b8ee,social.gitea.io,False,5,,,Gitea OSS Mastodon,
+44,63d229d005d0c3f950a6171d,mastodon.mcmullan.org,False,2,,,Mastodon,
+45,649b73b61dbeb883b94e22b0,mastodon.andrewbversfeld.co.za,False,3,,,AndrewBVersfeld,
+46,637b2db0d94dca7f11e7ad0e,f.lapo.it,False,0,,,Friendica Social Network,
+47,643fd5166be6081751b65184,support.pureharvest.net,False,1,,,Mastodon,
+48,64626737abc4aacb40a91933,mastodon.kaltes.beer,False,1,,,mastodon.kaltes.beer,
+49,637b3738d94dca7f11e7d3b3,toot.j3b.in,False,2,A place for J3B (userjack6880) and friends to be post major social media meltdown.,,J3B,
+50,637c03eac2b7109847c08351,overgrown.garden,False,6,,,Overgrown Garden,
+51,637b315cd94dca7f11e7bbcc,mastodon.knuspel.eu,False,1,,,Mastodon,
+52,64257fc9277223294d645587,social.noidorith.net,False,3,,"Site still WIP, please be patient",Noidorith,
+53,637b2615ad72ace2dcf1773d,f.freinetz.ch,False,41,freinetz.ch will einen Teil an das Fediverse beitragen und entsprechende Plattformen zur Verfügung stellen.,freinetz.ch will einen Teil an das Fediverse beitragen und entsprechende Plattformen zur Verfügung stellen.,freinetz.ch - friendica,
+54,637b30dad94dca7f11e7b9af,schnauzergang.online,False,34,"<p>SchnauzerGang server, for Schnauzers and friends of Schnauzers</p>
+",#schnauzergang Mastodon server,Schnauzer Gang,
+55,650972b89b82d24de1781c89,social.13-dx.de,False,1,"<p>social.13-dx.de ist Teil des dezentralen sozialen Netzwerks, das von Mastodon betrieben wird. Diese Instanz wird von den 13 DX Funkfreunden e.V. betreiben, um Ihren Mitgliedern und Funkfreunden eine datenschutzkonforme Alternative zu den Big Playern, Google, Facebook und Co bieten zu können. Bei uns liegt der Schwerpunkt auf alles rund um das Thma Funk,Amateurfunk, CB-Funk, Freenet Funk, PMR Funk, LDP Funk, SWL, ... Bei uns sind alle Funkfreunde willkommen, egal ob lizensiert oder nicht, ob Funkamateur oder Amateurfunker. Wir wollen zusammen Spaß am gemeinsamen Hobby haben. Weitere Informationen über uns auf unserer Homepage https://13-dx.de. Fragen richtet Ihr bitte an info@13-dx.de, technische Probleme bitte an webmaster@13-dx.de melden. 73 von den 13 DX Funkfreunden e.V.</p>
+","social.13-dx.de ist Teil des dezentralen sozialen Netzwerks, das von Mastodon betrieben wird. Bei uns liegt der Schwerpunkt auf alles rund um das Thma Funk, CB-Funk, Freenet Funk, PMR Funk, LDP Funk",13DXFunkfreunde,
+56,63a40022cf616b108f57722f,apub.abstract.properties,False,2,Pleroma: An efficient and flexible fediverse server,,apub.abstract.properties,
+57,64fbd683f6c7f614b4e94a14,f.djw.li,False,1,"This is a small instance that I intended for personal use, but I've opened up signups so feel free to join.  Please see instance rules, of course.","This is a small instance that I intended for personal use, but I've opened up signups so feel free to join.  Please see instance rules, of course.",Friendica f.djw.li,
+58,637b27b5ad72ace2dcf17db3,lowlab.social,False,1,,,LowLab Networks,
+59,637b340dd94dca7f11e7c59e,doodeman.org,False,1,,,Doodeman.Org,
+60,63cb5e81bdcaf208a68218fc,aspa.masto.host,False,11,"<p>Instancia del ASPA (Asociación de Simulación de Psicología de la Autónoma).</p>
+",Servidor para miembros del ASPA,ASPAdon,
+61,63e93bc593c1b358654bea5b,gusto.masto.host,False,2,,Etta おひとり様サーバーです。,gusto.masto.host,
+62,637b3226d94dca7f11e7becb,gts.werefox.cafe,False,3,A single-user instance that I&#39;ll be migrating masto.werefox.cafe onto at some point. Right now all you can do is follow my AD.,A single-user instance that I&#39;ll be migrating masto.werefox.cafe onto at some point. Right now all you can do is follow my AD.,[TENTATIVE] Werefox Cafe,
+63,5b0b7e8ec8ec996cd1ee7ea9,mastodon.multimob.be,False,25,"<p>This is a friendly community.  We keep a small user base of people we have met in person and trained to Mastodon.</p>
+
+<p>We occasionally accept new members to this instance.  If you know any existing member in real life, please get in touch with that person and ask.</p>
+","Small community of friends, we are based in Brussels, Belgium.  Only for people we have met in ""real life"" and whom we can trust.",Mastodon,
+64,63dfa279d1aa2e0aa947b452,social.slsrepo.com,False,1,,,Sl's Repository Social,
+65,637b309dd94dca7f11e7b8b9,rv.social,False,2,,"A friendly community interested in #rvlife, #vanlife or just plain #camping. Fulltime, Part-time, doesn't matter!",RV Social,
+66,637b3543d94dca7f11e7cb9b,toot.codatory.com,False,1,,The personal Mastodon server for Alex.,Alex's Mastodon,
+67,637b35b4d94dca7f11e7cd6f,social.lifeofpablo.com,False,1,,"Using as a user and managing a Mastodon instance. I primarily use it to connect with others and become part of the fediverse! 
+
+Future: Open server to others to sign up.",Pablo,
+68,637b3131d94dca7f11e7bb18,pubnex.us,False,4,"<p>A general topic Mastodon instance.</p>
+",A general topic Mastodon instance.,Pub Nexus,
+69,637b22bcad72ace2dcf1680f,social.birdsonbicycles.racing,False,2,,We are all in for birdsonbicycles racing. Still not lovin' the police!,BirdsOnBicycles.racing,
+70,5a298635cffadb54f9fffd6d,toot.kif.rocks,False,729,"<p>Instanz der <a href=""https://kif.fsinf.de""><abbr title=""Konferenz der Informatikfachschaften"">KIF</abbr></a> für KIFfel und nicht-KIFfel. Betrieben durch den <a href=""https://kif.fsinf.de/wiki/Verein:Hauptseite"">KIF e.V.</a>, aktuell gehostet bei der <a href=""https://fsinfo.cs.tu-dortmund.de/fsr/kontakt"">Fachschaft Informatik der TU Dortmund</a>.<br/><br/></p>
+
+<p>Auf dieser Instanz gilt der <a href=""http://berlincodeofconduct.org/de/"">Berlin Code of Conduct</a>. Verstöße können per Meldefunktion, per Direktnachricht an den Admin dieser Instanz, bzw. per Mail an die eingetragene Kontaktadresse geschickt werden.<br/><br/></p>
+
+<p>Andere Wesen als KIFfel, also nicht-KIFfel aber auch nicht-Informatiker, sind auf dieser Instanz willkommen. Die Nutzung dieser Instanz ist nicht-kommerziellen Entitäten (Studentische Initiativen, eingetragene Vereine,&nbsp;…) auch offen, kommerzielle bzw. Werbe-Accounts werden nicht geduldet. Wir behalten uns vor die Anmeldungen zu begrenzen sollte der Aufwand, diese Instanz zu betreiben, unsere Kapazitäten übersteigen.<br/><br/></p>
+
+<p>Es finden regelmäßig Wartungsarbeiten an dieser Instanz und auf dem Server, auf dem diese läuft, statt. Weitere Informationen zu Wartungsarbeiten findet Ihr unter &quot;Regelmäßige Wartung&quot; auf <a href=""https://fachschaften.org/"">fachschaften.org</a>.<br/><br/></p>
+
+<p>Diese Instanz nutzt die Mastomojies von <a href=""https://social.tchncs.de./@seppini"">@seppini@social.tchncs.de</a>, die dragn-Emojies von <a href=""https://github.com/chr-1x/dragn-emoji"">chr-1x</a> sowie die verified genders von <a href=""https://tech.lgbt/@ShadowJonathan/109546786889942712"">tech.lgbt</a>.<br/><br/></p>
+
+<p>Domain-Blockaden und weitere Verhaltensregeln über den oben verlinkten Berlin Code of Conduct sind größtenteils an den <a href=""https://chaos.social/about/more"">Instanz-Regeln von chaos.social</a> (unter CC-BY Lizenz) angelehnt.</p>
+",,MastoKIF,
+71,639393f462885374e0afcde9,mastodon.posvic.cz,False,7,,Malá privátní rodinná sociální síť.,Mastodon Pošvic,
+72,63896ebe075b9b886c85409c,groningen.social,False,69,,"Mastodonserver voor iedereen die dol is op Groningen <br>
+Foto: <u><a href=""https://www.flickr.com/photos/22746515@N02/"" target=_blank>Bert Kaufmann</a></u><p>",Groningen Social,
+73,63e3d2a2e6a1659b0047e4f9,mastodon.ealmuina.xyz,False,7,,Servidor personal de Eddy Almuiña.,Mastodon,
+74,637b30f5d94dca7f11e7ba29,thewinchester.pub,False,14,,,Mastodon,
+75,637b3449d94dca7f11e7c6ce,social.dedioste.net,False,1,Pleroma: An efficient and flexible fediverse server,,dediocial,
+76,65084f20c4769b1f06681a62,bb.010206.xyz,False,1,,"<p>生活平平淡淡，但还是要在这其中记录点东西，能让我在以后的某一天能回忆起今天的点点滴滴。</p>
+<p>欢迎关注我：<a href=""https://bb.010206.xyz/@shiyi"" rel=""nofollow noreferrer noopener"" target=""_blank"">@shiyi</a></p>
+",碎言,
+77,63a3ed60d4fb630f1c8d9053,masto.sangberg.se,False,2,"<p>Private family server not open to public registration.</p>
+",Private family server,sangberg.se,
+78,637e9b8916f5d6a4cf23a687,olifantje.hw74.com,False,1,,Tiny server running from a raspberry pi 3,Olifantje,
+79,639d94f5924ac08c85ecb894,federation.engineering,False,12,,,Federation Engineering,
+80,63de700bd9a270ceb3be6cc6,friends.myjot.net,False,1,,,Friends.MyJot.net,
+81,637b1bf8baf9cf97b71f2e8c,gts.goat.rocks,False,1,"goat dot rocks, all your favorite goatrocks content here, on the internet.","personal instance for me, hee hoooo",gts.goat.rocks,
+82,6389d59f0524545423450855,mastodon.kuenet.ch,False,3,,Dies ist ein privater Mastodon-Server.,KUENET,
+83,64e6647fd134308d547cac43,smala.akapache.co,False,1,Pleroma: An efficient and flexible fediverse server,,Smala,
+84,650a733540624b7844bacc20,social.vouaix.com,False,3,"Vouaix: Old Norman for ""People's Voice""
+A sex and sexuality positive FediVerse Server","Vouaix: Old Norman for ""People's Voice""
+A sex and ",Social.Vouaix.Com,
+85,58e64e285002cc7716dd4000,mastodon.me.uk,False,2472,"<h2><a name='welcome'></a>Welcome!</h2>
+
+<p>
+Welcome to Mastodon.me.uk, a social media community hosted in the UK; part of the Fediverse/ActivityPub/Mastodon federated social network, which allows you to follow users on other communities. It's a bit like Twitter but without a single company in control.</p>
+<p>
+If you're new to the Fediverse, the <a href='https://fedi.tips/mastodon-and-the-fediverse-beginners-start-here/'>FediTips beginners' guide</a> is a great introduction. 
+</p>
+
+<h3>Arriving from Twitter?</h3>
+
+<p>
+If you're coming from Twitter, here are a few useful tools:
+</p>
+
+<ul>
+<li>Find people you know over there by connecting your accounts up to <a href=""https://fedifinder.glitch.me/"">Fedifinder</a> or <a href=""https://twitodon.com/"">Twitodon</a>.</li>
+<li>Many thing you might consider ""missing features"" are intentional; for instance, quoting other posts is intentionally not possible. Try to get comfy and learn a bit about the space before suggesting it should change.<li>
+</ul>
+
+<h2>Fediverse Etiquette (Fediquette?)</h2>
+
+<ul>
+<li>Use content warnings on posts that people might prefer not to see (politics most often, but you'll see many other examples). It's easy and polite.</li>
+<li>Don't crosspost indiscriminately between networks.</li>
+<li>#PutHashtagsInCamelCase, it makes them easier to read for everyone.</li>
+<li>Add descriptions to your images. <a href='https://uxdesign.cc/how-to-write-an-image-description-2f30d3bf5546'>Object-Action-Context</a> is a great method.</li>
+</ul>
+
+<h2><a name='moderation'></a>How We Moderate Content</h2>
+
+<p>
+Your moderation team is <a href='https://mastodon.me.uk/@Floppy'>@Floppy</a>, <a href='https://mastodon.me.uk/@CatherineFlick'>@CatherineFlick</a>, <a href='https://mastodon.me.uk/@Darkedge'>@Darkedge</a>, <a href='https://mastodon.me.uk/@pauljrobinson'>@pauljrobinson</a>, and <a href='https://mastodon.me.uk/@jezhiggins'>@jezhiggins</a>. We hope to move to a democractically-elected mod team at some point when we work out how.
+</p>
+
+<p>
+The moderation team on this instance are responsible for enforcing our Code of Conduct (see below). In general, our approach is to let people say what they like (unless clearly illegal), but prevent them saying it publicly where it can hurt others. We think that's best aligned with the principles of the Fediverse as a whole.
+</p>
+
+<ol>
+<li>People that clearly breach UK law (or who are considered spammers by the mods) will be removed immediately.</li>
+<li>People that attack other people or groups based on who they are (<em>not</em> for what they believe) will be suspended - that basically means they'll be silenced, and fully deleted after 30 days.</li>
+<li>People that post offensive content, or who post regularly without using an appropriate content warning will be limited, making their posts only visible to their followers.</li>
+<li>People that have previously posted offensive content on other networks (including Twitter) may be pre-emptively moderated here, though in general we will limit rather than suspend until the accounts actually breach the guidelines on <em>this</em> network.<li>
+<li>Servers that fail to meet similar standards of moderation will be limited, though we much prefer to limit individuals if we can.</li>
+<li>Servers that encourage offensive content will be blocked.</li>
+</ol>
+
+<p>
+These principles apply to both local users and federated content, though obviously we can only take the ultimate action to delete content for local users.
+</p>
+
+<p>
+We will react to reports as quickly as we can, though please remember we are humans and cannot always respond straight away (especially at night). And of course, we can only respond if we know about infringements, so please use the report button!
+</p>
+
+<h2>Funding</h2>
+
+<p>
+This is a volunteer-run community administered by <a href='https://mastodon.me.uk/@floppy'>@Floppy</a>, and hosted by <a href='https://www.mythic-beasts.com/'>Mythic Beasts</a> in the UK at <a href=""https://www.equinix.co.uk/data-centers/europe-colocation/united-kingdom-colocation/london-data-centers/ld8"">Canary Wharf</a>. Please support our running costs by joining the <a href='https://opencollective.com/mastodon-me-uk'>Open Collective</a> and becoming a backer. Thanks go to our existing backers - this place exists because of them!
+</p>
+
+<h2>Service Status</h2>
+
+<p>
+Service status is available from our <a href='https://stats.uptimerobot.com/qlYxVClvM'>status page</a>, and service updates will normally be posted as server announcements which you will see at the top of your home timeline.
+</p>
+
+<h2><a name='conduct'></a>Code of Conduct</h2>
+
+<h3>Our Pledge</h3>
+
+<p>In the interest of fostering an open and welcoming environment, we as
+contributors and maintainers pledge to making participation in our project and
+our community a harassment-free experience for everyone, regardless of age, body
+size, disability, ethnicity, gender identity and expression, level of experience,
+nationality, personal appearance, race, religion, class, or sexual identity and
+orientation.</p>
+
+<h3>Our Standards</h3>
+
+<p>Examples of behavior that contributes to creating a positive environment
+include:</p>
+
+<ul>
+  <li>Using welcoming and inclusive language</li>
+  <li>Being respectful of differing viewpoints and experiences</li>
+  <li>Gracefully accepting constructive criticism</li>
+  <li>Focusing on what is best for the community</li>
+  <li>Showing empathy towards other community members</li>
+</ul>
+
+<p>Examples of unacceptable behavior by participants include:</p>
+
+<ul>
+  <li>The use of sexualized language or imagery and unwelcome sexual attention or advances</li>
+  <li>Trolling, insulting/derogatory comments, and personal attacks</li>
+  <li>Public or private harassment</li>
+  <li>Publishing others' private information, such as a physical or electronic address, without explicit permission</li>
+  <li>Other conduct which could reasonably be considered inappropriate in a professional setting</li>
+</ul>
+
+<h3>Our Responsibilities</h3>
+
+<p>Server admins are responsible for clarifying the standards of acceptable
+behavior and are expected to take appropriate and fair corrective action in
+response to any instances of unacceptable behavior.</p>
+
+<p>Server admins have the right and responsibility to remove, edit, or
+reject comments, commits, code, wiki edits, issues, and other contributions
+that are not aligned to this Code of Conduct, or to ban temporarily or
+permanently any contributor for other behaviors that they deem inappropriate,
+threatening, offensive, or harmful.</p>
+
+<h3>Scope</h3>
+
+<p>This Code of Conduct applies both within project spaces and in public spaces
+when an individual is representing the project or its community. Examples of
+representing a project or community include using an official project e-mail
+address, posting via an official social media account, or acting as an appointed
+representative at an online or offline event. Representation of a project may be
+further defined and clarified by project maintainers.</p>
+
+<h3>Enforcement</h3>
+
+<p>Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported by contacting the administrator at <a href='https://mastodon.me.uk/@floppy'>@floppy</a>. All
+complaints will be reviewed and investigated and will result in a response that
+is deemed necessary and appropriate to the circumstances. The project team is
+obligated to maintain confidentiality with regard to the reporter of an incident.
+Further details of specific enforcement policies may be posted separately.</p>
+
+<p>Server maintainers who do not follow or enforce the Code of Conduct in good
+faith may face temporary or permanent repercussions as determined by other
+members of the project's leadership.</p>
+
+<h3>Attribution</h3>
+
+<p>This Code of Conduct is adapted from the <a href=""http://contributor-covenant.org"">Contributor Covenant</a>, version 1.4,
+available at <a href=""http://contributor-covenant.org/version/1/4/"">http://contributor-covenant.org/version/1/4</a>.</p>
+
+<h2>Colophon</h2>
+<p>
+Marmite emote from <a href=""https://www.flaticon.com/authors/smashicons"">Smashicons</a>.
+</p>
+","Open, user-supported, corporation-free social media for the UK.",mastodon.me.uk,
+86,64da6708aa3522f1f2d44303,jabbex.ru,False,2,,,Jabbex.Ru,
+87,637b2d8bd94dca7f11e7ac75,pixelfilm.nz,False,100,"Pixelfilm is a place for film photography on the fediverse. Pixelfilm is federated, connected to other Pixelfed instances, along with Mastodon, Misskey, Pleroma, Peertube, and more.",Pixelfilm is a place for film photography on the fediverse.,Pixelfilm,
+88,5a5149c4c8c76b1d9b1c8368,social.farend.co.jp,False,3,"<p><a href=""https://www.farend.co.jp/"">ファーエンドテクノロジー株式会社</a>の情報を発信します。リモートフォロー専用です。</p>
+<ul>
+<li>広報: <a href=""https://social.farend.co.jp/@info"">@info</a>
+<li>サービス稼働状況: <a href=""https://social.farend.co.jp/@status"">@status</a>
+</ul>",,social.farend.co.jp,
+89,63b31bda9e33fd49f1736360,friend.fmal.com,False,0,,,FMAL Test Social Network,
+90,637b2ae7ad72ace2dcf18c71,img.fabienphoto.eu,False,1,"Pixelfed is an image sharing platform, an ethical alternative to centralized platforms.","Pixelfed is an image sharing platform, an ethical alternative to centralized platforms.",pixelfed,
+91,63856dc24dfbaf8699813085,social.devsnorte.com,False,10,,A maior comunidade do norte do Brasil.,Devs Norte,
+92,637b2758ad72ace2dcf17c80,mastodon1.artsrn.ualberta.ca,False,91,Welcome to masto1 at the University of Alberta. This community is for exploring Mastodon and the Fediverse.,"This is an instance of Mastodon at the University of Alberta.  We are using this instance mainly for testing, but we welcome those who want to learn more about open source social media.",ualberta masto1,
+93,637b2fa4d94dca7f11e7b4e1,social.brokaw.org,False,3,Akkoma: The cooler fediverse server,,social.brokaw.org,
+94,637b30fbd94dca7f11e7ba43,mastodon.internet-czas-dzialac.pl,False,4,,Oficjalna instancja Mastodona inicjatywy „Internet. Czas działać!”,Internet. Czas działać! - serwer Mastodona,
+95,64a1c2658811878b6b00ea41,gts.umany222.net,False,1,,"<p><a href=""https://gts.umany222.net/@umany"" rel=""nofollow noreferrer noopener"" target=""_blank"">umany</a>の<a href=""https://gotosocial.org"" rel=""nofollow noreferrer noopener"" target=""_blank"">GoToSocial</a>インスタンスです</p><p>This is a <a href=""https://gotosocial.org"" rel=""nofollow noreferrer noopener"" target=""_blank"">GoToSocial</a> instance owned by <a href=""https://gts.umany222.net/@umany"" rel=""nofollow noreferrer noopener"" target=""_blank"">umany</a>.</p>",gts.umany222.net,
+96,644133a479319848caa17caa,www.soraneto.com,False,375,"<p>All posts are available for adults only</p>
+","부부 커플
+18세 미만 접속금지
+All posts are available for adults only.
+No entry under the age of 18
+",소라네토,
+97,63ab40ba557cb0899c99294b,anomaly.center,False,2,"<p>Twitter is out of control and we feel it does not fit its purpose anymore. We received hundreds of messages nonrelevant to our interest and we decided that it is enough. </p>
+
+<p>This Mastodon instance is focused on covering the topic we are interested in, but in the end, this is a safe place for everybody, it does not matter the discussion if you follow the rules. </p>
+
+<p>Anomaly.center focuses on the unknown, the anomalous phenomena and we are trying to attract people who share the same interest, and in this way, we can share the same space in a clean place free of distractions.</p>
+","This is a safe place for everybody interested in anomalous phenomena, ufology, UAPs, Skinwalker Ranch, ancient history, extraterrestrial, Area 51, the Greys, the Reptilians, the Nordics, Annunaki, etc",Anomaly Center Decentralized ,
+98,637b2f92d94dca7f11e7b490,gender.systems,False,33,"<p><code>gender.systems</code> is an invite-only, general-purpose instance catering to queer &amp; left-leaning entities. Much of its core membership come from a traumaqueer/writing community known as <em>Empty Spaces</em> and the surrounding spheres.</p>
+
+<h1>Registration</h1>
+
+<p>Registration to <code>gender.systems</code> is on an invite-only basis. In order to join, you&#39;ll need to talk to someone here. Any member of <code>gender.systems</code> is capable of inviting someone.</p>
+
+<h1>Code of Conduct</h1>
+
+<h2>Short Version</h2>
+
+<p>Moderation reports are handled as quickly as possible when they come in, though this may take up to 48 hours - moderation staff are all volunteers and have very busy lives.</p>
+
+<p>This instance is not a free speech zone, and occurrences of fascism, transphobia, and any other hateful speech or ideology will be dealt with accordingly.</p>
+
+<p>This instance is meant to be a safe and cozy space for all who inhabit it and are willing to abide by its rules. Please use content warnings when appropriate!</p>
+
+<h2>Long Version</h2>
+
+<p>This is not a legally binding document, and final interpretation is wholly up to the moderation and administration of <code>gender.systems</code>. They are presented to you solely to provide an insight to our moderation policies.</p>
+
+<ol>
+<li>Hate speech and discrimination are absolutely not tolerated. This is included, but not limited to: queerphobia, racism, ableism, sexism, xenophobia</li>
+<li>This is a left-wing instance and, accordingly, &quot;centrism&quot; and right-wing politics will not be tolerated. This includes &quot;both-sides&quot;-ing issues such as transphobia.</li>
+<li>Harassment of users both on gender.systems and on other instances is not allowed. This includes stalking, impeding use of the service or degrading the performance of the service. Examples include:
+
+<ul>
+<li>Continuing to engage in conversation with a user that has specifically requested for said engagement to end, regardless of platform-specific privacy tools.</li>
+<li>Aggregating, posting, or sharing a user&#39;s personally-identifiable information (PII), known as <em>doxing</em>.</li>
+<li>Inciting users to engage in said behavior may also be considered harassment.</li>
+</ul></li>
+<li>This instance is hosted in the United States of America, and is therefore subject to its laws. Please do not post content illegal in the USA.</li>
+<li>This is not a sexual or explicit instance, but due to the nature of its content and the users within, all members must be 18 years or older. This is an internal rule only and individual gender.systems users are not restricted from interacting with minors or vice-versa.</li>
+</ol>
+
+<p>These rules notwithstanding, moderation reserves the right to revoke any user&#39;s access to the service at any time, for any reason, except where required by law.</p>
+
+<h2>Content Warning / Sensitive Media Policy</h2>
+
+<p>Content warnings are intended to make the timeline and the instance as a whole more comfortable for the community and those it federates with. Many members of <code>gender.systems</code> write about uncomfortable topics, and these may prove difficult for some users.</p>
+
+<p>Mastodon provides a very helpful content warning field that can hide posts behind a line of text, providing a useful subject line for triggering content such as sexually explicit content, politics, etc.</p>
+
+<p>Images can similarly be marked as sensitive, and we specifically ask that any sexually explicit content is marked as such.</p>
+
+<p>Additionally, as gender.systems runs the Glitch fork and has an expanded character limit, users are requested to add content warnings to long posts as vanilla Mastodon does not have the functionality to collapse long posts.</p>
+
+<p>We cannot enforce content warnings from other instances, and <strong>do not condone tone policing in any way.</strong> If you want to ask someone repost something with a content warning for any reason, please be polite and respectful.</p>
+
+<hr>
+
+<h1>Staff</h1>
+
+<ul>
+<li><img src=""https://gender.systems/system/accounts/avatars/000/000/277/original/b5ef93e3f798d421.jpg"" width=""32"" height=""32"" class=""about_avatar""> <a href=""https://gender.systems/@kvuzet"">@kvuzet</a> (Owner, Maintainer)</li>
+<li><img src=""https://gender.systems/system/accounts/avatars/000/000/038/original/9879984f0832a669.png""  width=""32"" height=""32"" class=""about_avatar""> <a href=""https://gender.systems/@oathboundFamiliar"">@oathboundFamiliar</a> (Admin)</li>
+<li><img src=""https://gender.systems/system/accounts/avatars/109/365/636/978/030/022/original/05075b2a3ad4f96d.jpg"" width=""32"" height=""32"" class=""about_avatar""> <a href=""https://gender.systems/@humvadev"">@humvadev</a> (Admin)</li>
+<li><img src=""https://gender.systems/system/accounts/avatars/000/000/004/original/a2b609c4595dc6a5.png"" width=""32"" height=""32"" class=""about_avatar""> <a href=""https://gender.systems/@retrotimelady"">@retrotimelady</a> (Moderator)</li>
+</ul>
+
+<hr>
+
+<h1>Restricted Instances</h1>
+
+<p>We maintain a blocklist of instances that we do not federate with. If you believe that an instance should be added to this list, please contact an admin or moderator.</p>
+
+<p><strong>For privacy and safety of our community, we do not comment on any specific instance blocks that we have in place.</strong></p>
+
+<p>The list is visible for logged-in members under the section <strong>Moderated servers</strong> below.</p>
+
+<hr>
+
+<h1>Attributions</h1>
+
+<p>Instance branding art by <a href=""https://gender.systems/@oathboundFamiliar"">@oathboundFamiliar</a>.</p>
+
+<p>This instance uses <a href=""https://mutant.tech/"">Mutant Standard emoji</a>, which are licensed under a <a href=""https://creativecommons.org/licenses/by-nc-sa/4.0/"">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</p>
+",gender.systems is an invite-only queer instance for those inhabiting the liminal spaces between worlds. Speak softly and tread carefully - the dolls are sleeping.,gender.systems,
+99,638800176e9a63a65335c629,strings.io,False,1,Strings: the ActivityPub instance of Jerome Gravel-Niquet,,Strings,
