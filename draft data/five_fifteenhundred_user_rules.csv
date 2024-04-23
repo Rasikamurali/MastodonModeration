@@ -1,0 +1,1053 @@
+,Unnamed: 0,Instance Id,Instance Name,Is Dead,User Count,Description,Short,topic,active users,dead,reg,rules,cleaned_rules
+142,142,636ee63b80bb3f03b435a4db,gearheads.social,False,915,"<p><strong>For gearheads, by gearheads</strong> — a federated network for those into gear: the heavy stuff, the light wear, the fetish made, the safety built, and everything in-between.</p>
+
+<h2>⚡️ Background</h2>
+
+<p>Due to increasing tensions relating to Twitter, niche groups who once called it home feel it is slowly crumbling away. As such, many people are jumping across to <a href=""https://fedi.tips/mastodon-and-the-fediverse-beginners-start-here/#whatismastodon"">Mastodon</a> — and this includes the relatively small, but substantial, assemblage of gearheads.</p>
+
+<p>And so, Gearheads, starting out (and still existing) as <a href=""https://t.me/JoinGearheads"">a Telegram group of the same name</a>, is now one of many <em>many</em> growing <a href=""https://joinmastodon.org/servers"">Mastodon providers</a>. We aim to provide a safe space for those into the gear kink, as well as stable platform for your content.</p>
+
+<p>Like every Mastodon provider, this one can talk across the federated network, allowing users from other providers to interact with it: if you already have a Mastodon account elsewhere, there&#39;s no need to even join this one! It&#39;s like your email: you only need one address to message anyone in the world.</p>
+
+<p><em>Still confused about federation or Mastodon? See <a href=""https://fedi.tips"">fedi.tips</a> for more.</em></p>
+
+<h2>🆘 Need help?</h2>
+
+<p>If a post is bothering you, please use the <strong>Report @user</strong> feature under a post&#39;s overflow menu. We&#39;ll get on it as soon as we can.</p>
+
+<p>Any other issues or concerns can be raised by tagging <a href=""https://gearheads.social/@staff"">@staff</a>, or tagging us directly:</p>
+
+<ul>
+<li><strong>Astra</strong>: <a href=""https://gearheads.social/@astra"">@astra@gearheads.social</a></li>
+<li><strong>Ducky</strong>: <a href=""https://gearheads.social/@ducky"">@ducky@gearheads.social</a></li>
+<li><strong>Kalibur</strong>: <a href=""https://gearheads.social/@KaliburVuhuni"">@KaliburVuhuni@gearheads.social</a></li>
+</ul>
+
+<p>As a last-ditch attempt, you can also shoot an email to <a href=""mailto:hello@gearheads.social"">hello@gearheads.social</a>.</p>
+
+<h2>💸 Donations</h2>
+
+<p>Like literally every decent Mastodon instance, we are entirely ad-free and rely solely on the (sometimes shallow) pockets of its owners and tips for a lovely users. Considering chipping in if you can: our goal stands at just £12/mo.</p>
+
+<p><a href=""https://liberapay.com/gearheads.social""><img src=""https://liberapay.com/assets/widgets/donate.svg"" alt=""Donate via Liberapay""></a></p>
+","For gearheads, by gearheads — a federated network for those into gear: the heavy stuff, the light wear, the fetish made, the safety built, and everything in-between.",Gearheads,,,True,"[{'id': '3', 'text': '🔞 Nobody under 18 years old'}, {'id': '4', 'text': '🤝 Be respectful of all our members'}, {'id': '5', 'text': '✨ Original photos and videos only'}, {'id': '12', 'text': '😈 Explicit content must be marked with a CW (Content Warning)'}, {'id': '19', 'text': '🤖 Bots are allowed, but be civil'}, {'id': '20', 'text': '💥 Content considered illegal in 🇫🇮 Finland, 🇳🇱 Netherlands, and 🇬🇧 UK, is not tolerated '}]","['🔞 Nobody under 18 years old', '🤝 Be respectful of all our members', '✨ Original photos and videos only', '😈 Explicit content must be marked with a CW (Content Warning)', '🤖 Bots are allowed, but be civil', '💥 Content considered illegal in 🇫🇮 Finland, 🇳🇱 Netherlands, and 🇬🇧 UK, is not tolerated ']"
+264,264,637b34c3d94dca7f11e7c951,forum-lucifer.com,False,560,"<p>脱离渣浪，回归创作</p>
+",,露西弗社区,,,True,"[{'id': '3', 'text': '禁止恋童'}, {'id': '8', 'text': '禁止官能纯肉'}, {'id': '9', 'text': '禁止侵犯版权、抄袭'}, {'id': '10', 'text': '禁止粗俗用语、人身攻击'}, {'id': '11', 'text': '禁止政治言论、敏感话题'}]","['禁止恋童', '禁止官能纯肉', '禁止侵犯版权、抄袭', '禁止粗俗用语、人身攻击', '禁止政治言论、敏感话题']"
+296,296,63dff5cd0af1d816409dc560,burma.social,False,1377,"<p>Burma Social.</p>
+
+<p>Our platform is free from censorship and we do not engage in advertising or promotion. Our aim is to provide a free and open environment.</p>
+","Burma Social.
+Our platform is free from censorship and we do not engage in advertising or promotion. Our aim is to provide a free and open environment.",Burma Social,,,True,"[{'id': '2', 'text': 'Our platform is free from censorship and we do not engage in advertising or promotion. Our aim is to provide a free and open environment.'}, {'id': '3', 'text': 'Prohibitions:\r\nIllegal content\r\nIntentionally harmful or harassing content\r\nHate speech and discrimination\r\nExcessive self-promotion\r\nSpam'}, {'id': '4', 'text': 'Emphasis:\r\nCreating a welcoming and inclusive environment'}]","['Our platform is free from censorship and we do not engage in advertising or promotion. Our aim is to provide a free and open environment.', 'Prohibitions:\r\nIllegal content\r\nIntentionally harmful or harassing content\r\nHate speech and discrimination\r\nExcessive self-promotion\r\nSpam', 'Emphasis:\r\nCreating a welcoming and inclusive environment']"
+28,28,58fb1b073765484c460d736b,mstdn.mx,False,1376,"<!-- mastodon v3.3 <ul>
+<li><strong>NO SE ACEPTAN CUENTAS NI BOTS DE MARKETING.</strong> Se darán de baja todos los bots y cuentas de marketing sin excepción y sin aviso</li>
+<li>Todo BOT nuevo (previamente autorizado) será silenciado en el timeline público, sólo lo podrán ver quienes los sigan.</li>
+<li>NO PORN</li>
+<li>NO RACISMO</li>
+<li>NO Discriminación</li>
+<li>NO Lenguaje de odio (insultos, propaganda, etc.)</li>
+<li>No se acepta propaganda política, de ningún tipo, de ninguna persona, de ningún país</li>
+</ul>
+<p>Simplemente ten sentido común, compórtate digitalmente como lo haces en tu vida diaria</p> -->
+","Primera instancia de Mastodon de México, desde Abr 2017.
+Aquí hablamos de tecnología, literatura, ciencia, cultura, música, anime, series, películas, el acontecer diario y lo que te nazca del corazón",MaSToDoN.MX,,,True,"[{'id': '1', 'text': 'NO SE ACEPTAN CUENTAS NI BOTS DE MARKETING'}, {'id': '2', 'text': 'NO PORN (de ningún tipo: soft, loli, etc.)'}, {'id': '4', 'text': 'NO Discriminación (raza, género, preferencia, identidad, clase, etc.)'}, {'id': '6', 'text': 'No se acepta propaganda política, de ningún tipo, de ninguna persona, de ningún país'}, {'id': '8', 'text': 'NO SPAM (usar la cuenta solo para anunciar productos/servicios, crossposting, postear imágenes y/o texto indiscriminadamente, etc...)'}, {'id': '11', 'text': 'Toda expresión de odio, acoso o ataque personal está prohibido.'}, {'id': '12', 'text': 'Todo tema controversial (como política) debe publicarse con un Content Warning (CW)'}]","['NO SE ACEPTAN CUENTAS NI BOTS DE MARKETING', 'NO PORN (de ningún tipo: soft, loli, etc.)', 'NO Discriminación (raza, género, preferencia, identidad, clase, etc.)', 'No se acepta propaganda política, de ningún tipo, de ninguna persona, de ningún país', 'NO SPAM (usar la cuenta solo para anunciar productos/servicios, crossposting, postear imágenes y/o texto indiscriminadamente, etc...)', 'Toda expresión de odio, acoso o ataque personal está prohibido.', 'Todo tema controversial (como política) debe publicarse con un Content Warning (CW)']"
+51,51,5a65d82063008a32652afef9,glaceon.social,False,502,"<p>glaceon.social is a community of people with diverse interests. This is a general instance with no specific topic you're required to stick to; feel free to talk about whatever! About the only constant is that if someone has an account here, they probably like pokemon at least a little. If that sounds like a good time, welcome to glaceon.social.</p>
+
+<p>Please note that at this time, this is a primarily English-language instance. Unfortunately, I can only effectively moderate a site where the vast majority of posts are in the language I understand. I apologize for the inconvenience.</p>
+
+<h3>Guidelines</h3>
+
+<p>The following guidelines are not a legal document, and final interpretation is up to the administration of glaceon.social. They are here to provide you with insight into our philosophy and content moderation policies.</p>
+
+<p><strong>The following types of content may be removed from the public timeline at the discretion of the moderator.</strong></p>
+
+<ul>
+  <li>Excessive advertising</li>
+  <li>Uncurated news bots posting from third-party news sources</li>
+  <li>Untagged nudity, pornography and sexually explicit content, including artistic depictions</li>
+  <li>Untagged gore and extremely graphic violence, including artistic depictions</li>
+<li>Deliberately inflammatory content with the intent to trigger or hurt others, at the discretion of administration.</li>
+</ul>
+
+<p><strong>The following types of content will be removed from the public timeline, and may result in account suspension and revocation of access to the service.</strong></p>
+
+<ul>
+  <li>Racism or advocation of racism</li>
+  <li>Sexism or advocation of sexism</li>
+  <li>Discrimination against gender and sexual minorities, or advocation thereof</li>
+  <li>Xenophobic and/or violent nationalism</li>
+</ul>
+
+<p><strong>The following types of content are explicitly disallowed and will result in revocation of access to the service.</strong></p>
+
+<ul>
+  <li>Sexual depictions of children</li>
+  <li>Content illegal in Germany and/or France, such as holocaust denial or Nazi symbolism</li>
+  <li>Conduct promoting the ideology of National Socialism (i.e. the Nazi party), the political far or ""alt""-right, or Gamergate</li>
+</ul>
+
+<p><strong>Any conduct intended to stalk other users, or to impede other users from utilizing the service, or to degrade the performance of the service, or to harass other users, or to incite other users to perform any of the aforementioned actions, <em>identified at the sole discretion of the administrator and moderators</em>, is also disallowed, and subject to action up to and including revocation of access to the service.</strong> This includes, but is not limited to, the following behaviors:</p>
+
+<ul>
+  <li>Continuing to engage in conversation with a user that has specifically has requested for said engagement with that user to cease and desist may be considered harassment, regardless of platform-specific privacy tools employed.</li>
+  <li>Aggregating, posting, and/or disseminating a person's demographic, personal, or private data without express permission (informally called doxing or dropping dox) may be considered harassment.</li>
+  <li>Inciting users to engage another user in continued interaction or discussion after a user has requested for said engagement with that user to cease and desist (informally called brigading or dogpiling) may be considered harassment.</li>
+</ul>
+
+<p>These provisions notwithstanding, the administration of the service reserves the right to revoke any user's access permissions, at any time, for any reason, except as limited by law.</p>
+
+<h3>GDPR and CCPA</h3>
+
+<p>glaceon.social uses cookies to maintain your login session and for no other reason.</p>
+
+<p>glaceon.social stores your email address, which is used as your account name to log you in. Your email is not visible to anyone but the administrators of the site. We do not send you email unless you request it.</p>
+
+<p>glaceon.social has no advertising partners. Because of the nature of a federated social network, we share your non-private posts with other servers. However, we do not share your personal data, or aggregated non-personal data, with anyone. We do publish statistical data about the entire body of glaceon.social users as a way for others to measure the health of our instance, but your individual information cannot be extracted from those figures.</p>
+
+<h3>Scraping</h3>
+
+<p>Each user of glaceon.socail retains all copyright to the original content of posts they make on glaceon.social. You may not make a copy of any other user's posts for any purpose other than the normal functioning of ActivityPub federation and the RSS feeds generated by the Mastodon software of any content originally posted to glaceon.social without acquiring the affirmative consent of the administrator for each post you wish to copy. If you maintain such a copy of any post that originated on glaceon.social, you must regularly check back with the server to determine whether that post has been changed or removed, and you must update your copy or depiction to reflect any changes to the post, or remove your copy or depiction if the post has been removed.</p>
+
+<h3>Help, I've been suspended!</h3>
+
+<p><strong>If you were a glaceon.social user and your account was suspended:</strong></p>
+
+<p>This is unlikely to be reverted. Account suspension is used as a measure of last resort. If you truly, truly believe that such a decision was made in error, contact <a href=""mailto:admin@glaceon.social"">admin@glaceon.social</a> with a ban appeal. Please don't waste my time.</p>
+
+<p>Note that the Mastodon software deletes all of a suspended user's data after 30 days. If 30 days have passed, your account <em>cannot</em> be unsuspended; the data no longer exists.</p>
+
+<p><strong>If you are a remote user and you believe your account or your instance was suspended by glaceon.social:</strong></p>
+
+<p>Again, this is unlikely to be reverted. Instance and remote account suspensions are intended to be final decisions. If you believe that an error has been made, contact <a href=""mailto:admin@glaceon.social"">admin@glaceon.social</a>. Please don't waste my time.</p>
+
+<h3>Acknowledgements</h3>
+
+<p>All of our pokemon sprite emojis (other than a few obviously altered ones) were graciously provided by <a href=""https://donphan.social/@Siphonay"">@Siphonay@donphan.social</a>.</p>
+
+<p>This code of conduct is based heavily on the one provided by <a href=""https://elekk.xyz"">Elekk</a>, with permission. Thanks!</p>
+
+<p><a href=""https://jortage.com""><img style=""width: 290px; height: 130px"" src=""https://blob.jortage.com/jortage-banner.svg"" alt=""This instance's media is powered by Jortage — lightning-fast pay-what-you-can media storage for Fediverse instances""/></a></p>
+","A general fediverse instance for people who generally like pokemon at least a little bit. Newly registered users must be manually approved due to an increasing number of spam bots; if you look like a person, your account will be approved as soon as possible.",glaceon.social,,,True,"[{'id': '1', 'text': 'Please see the rules here: https://glaceon.social/about/more'}]",['Please see the rules here: https://glaceon.social/about/more']
+225,225,637b30b9d94dca7f11e7b928,social.yesterweb.org,False,709,"<p>The Yesterweb is a community which acknowledges that today&#39;s internet is lacking in creativity, self-expression, and good digital social infrastructure and wants to change that.</p>
+","The Yesterweb is a community which acknowledges that today's internet is lacking in creativity, self-expression, and good digital social infrastructure and wants to change that.",social.yesterweb.org,,,True,Failed to retrieve instance information. Status code: 403,"['data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string']"
+221,221,637b3080d94dca7f11e7b839,social.kyiv.dcomm.net.ua,False,1189,"<p>Тут дискутують про #Ukraine, технології, суспільні події, підтримку ЗСУ</p>
+
+<p>Українські інстанси Mastodon, що розгорнуті в 9 українських містах у серпні-вересні 2022 року. Київський інстанс є частиною https://dcomm.net.ua</p>
+","Київський інстанс є частиною https://dcomm.net.ua.
+
+Українські локальні інстанси Mastodon були розгорнуті в 9 українських містах у серпні-вересні 2022 року ",ключовий інстанс dComm в Mastodon ,,,True,"[{'id': '2', 'text': 'Ласкаво просимо до українських локальних серверів Mastodon як частини https://dcomm.net.ua/\r\n'}, {'id': '3', 'text': 'Ми є прихильниками вільних дискусій, свободи слова, прав людини та взаємоповаги.'}, {'id': '4', 'text': 'Адміни залишають за собою право блокувати користувачів з країни-агресора;'}, {'id': '5', 'text': 'Спілкування українською та англійською мовами вітається й заохочується;'}, {'id': '6', 'text': 'Не допускається заперечення російської агресії проти України, воєнних злочинів росії, тимчасової окупації Криму, Донецької, Луганської та інших областей України; '}, {'id': '7', 'text': 'Не допускаються погрози та мова ненависті на адресу інших користувачів;'}, {'id': '8', 'text': 'Поширення російської дезінформації та кремлівських наративів є підставою для блокування.'}, {'id': '9', 'text': 'Якщо ви помітили порушення правил цього сервера – будь ласка, повідомте про це адміністратора або ж пишіть на: mastodon@equalitie.org '}]","['Ласкаво просимо до українських локальних серверів Mastodon як частини https://dcomm.net.ua/\r\n', 'Ми є прихильниками вільних дискусій, свободи слова, прав людини та взаємоповаги.', 'Адміни залишають за собою право блокувати користувачів з країни-агресора;', 'Спілкування українською та англійською мовами вітається й заохочується;', 'Не допускається заперечення російської агресії проти України, воєнних злочинів росії, тимчасової окупації Криму, Донецької, Луганської та інших областей України; ', 'Не допускаються погрози та мова ненависті на адресу інших користувачів;', 'Поширення російської дезінформації та кремлівських наративів є підставою для блокування.', 'Якщо ви помітили порушення правил цього сервера – будь ласка, повідомте про це адміністратора або ж пишіть на: mastodon@equalitie.org ']"
+179,179,637b2affad72ace2dcf18ce2,mastodon.hypnoguys.com,False,1154,"<h1>Hypnosis</h1>
+
+<p>HypnoGuys is a Mastodon server focused on guys who are into
+hypnosis, including (but not limited to) erotic applications.
+This is also commonly known as &quot;erotic hypnosis&quot; or &quot;hypnokink&quot;.
+You do not have to be interested in hypnosis to join this server,
+but you must understand and accept that hypnosis is the theme
+of this server.</p>
+
+<h1>Gendered Space</h1>
+
+<p>HypnoGuys is a gendered space: as the name implies, this server is focused on
+guys. People of all genders and sexualities are allowed to use this server, as
+long as they understand that &quot;guys&quot; are the focus here. If you are looking for
+a Mastodon server focused on hypnosis <em>without</em> this focus on guys,
+<a href=""https://mastodon.triggerphra.se"">Triggerphrase</a> is an excellent
+option.</p>
+
+<p>Note that sex and gender discrimination is not allowed on this server. Despite
+being a gendered space, HypnoGuys does not put down people who are not guys.</p>
+
+<h1>Content Warnings (CW)</h1>
+
+<p>Mastodon provides a &quot;content warning&quot; feature, where users can gate their
+posts behind a short piece of text, warning potential readers of what they
+are about to encounter. Content warnings (or CWs) must be used for content
+that involves explicit sex, such as fucking.</p>
+
+<p>However, not all erotic content requires a CW on this server. Generally
+speaking, we follow the example set by the popular
+<a href=""https://woof.group"">woof.group</a> Mastodon server: anything that you might
+see in a leather bar is perfectly acceptable and does <em>not</em> require
+a content warning.
+Flirting, groping, jockstraps, boobs, butts, moderate impact, pup gear: no CW necessary.
+If you&#39;d take it to the back bar or the playroom, use a CW.
+Genitals, piss, fucking, fisting, piercing, scat: CW please.</p>
+
+<p><a href=""https://blog.woof.group/docs/"">Check out the documentation for woof.group to see more about this policy.</a></p>
+
+<h1>Banned content</h1>
+
+<p>You may not post the following content on HypnoGuys:</p>
+
+<ul>
+<li>Sexual content involving minors, including artistic depictions</li>
+<li>Gore and extremely graphic violence, including artistic depictions</li>
+<li>National Socialism</li>
+<li>Nazism</li>
+<li>Holocaust denial</li>
+<li>Racism</li>
+<li>Alt right, including under the disguise of freedom of speech</li>
+<li>Gender-critical</li>
+<li>Sex and gender discrimination</li>
+<li>Transphobia</li>
+<li>Misogyny</li>
+<li>Pro-ana / Pro-mia</li>
+</ul>
+
+<h1>Banned activities</h1>
+
+<p>You may not engage in any of the following activities on HypnoGuys:</p>
+
+<ul>
+<li>Automated sharing of third-party content, news sources, websites or social
+media content that doesn’t belong to you</li>
+<li>Repeated trolling, insulting or derogatory comments towards others, even
+after they ask you to stop</li>
+<li>Mass following and aggregation of content</li>
+</ul>
+
+<h1>Approved content</h1>
+
+<p>As long as you don&#39;t violate any of the above rules, you may post any content
+you want on HypnoGuys, whether related to hypnosis or not. In addition, here
+are some examples that are explicitly approved, and <em>do</em> belong on this
+server:</p>
+
+<ul>
+<li>Discussions of hypnosis, including hypnotherapy and erotic hypnosis</li>
+<li>Media related to hypnosis (such as spirals, art, photo manipulations, audio,
+video, etc) that you own, or that the owner has provided written permission
+for you to post</li>
+<li>Advertising professional services related to hypnosis</li>
+<li>Explicit sexual content, <em>with an appropriate <a href=""https://docs.joinmastodon.org/user/posting/#cw"">content warning</a></em></li>
+</ul>
+",A social network for guys who are into hypnosis.,HypnoGuys,,,True,"[{'id': '1', 'text': ""Be kind! Don't be a dick.""}, {'id': '2', 'text': ""If it would be fine in a bar or public leather event space, it doesn't need a content warning here. Use content warnings for things you'd take to the back bar or a private room.""}, {'id': '3', 'text': ""We're trans-inclusive, body-positive, and anti-racist here.""}, {'id': '4', 'text': 'You must be over 18 years of age.'}, {'id': '5', 'text': 'You must have the legal rights to any content you post.'}]","[""Be kind! Don't be a dick."", ""If it would be fine in a bar or public leather event space, it doesn't need a content warning here. Use content warnings for things you'd take to the back bar or a private room."", ""We're trans-inclusive, body-positive, and anti-racist here."", 'You must be over 18 years of age.', 'You must have the legal rights to any content you post.']"
+258,258,637b31fed94dca7f11e7be3a,opalstack.social,False,1475,"<h1>Opalstack</h1>
+
+<h2>Mastodon for Professionals and Brands</h2>
+
+<p>Managed Hosting tailored for developers, entrepreneurs, and businesses. Benefit from our industry-leading support and focus on your market without the hassles of administration or content moderation.</p>
+
+<h2>Rules</h2>
+
+<p>We rigorously adhere to the <a href=""https://joinmastodon.org/covenant"">Mastodon Server Covenant</a>. The admin team actively addresses reports, offering guidance and, if necessary, immediate intervention in cases of abuse.</p>
+
+<h2>English Language Only</h2>
+
+<p>Effective from September 2023, accounts with non-English information in their profiles will be suspended. This measure addresses the surge of fake accounts promoting SPAM in other languages. Our admin team is proficient in English moderation, making it the exclusive language for our platform.</p>
+
+<h2>Server Blocking</h2>
+
+<p>We block instances promoting extreme political views (both far-right and far-left) due to their potential for abusive tactics and hate speech promotion. Additionally, instances with incompatible rules or technical issues that affect our server&#39;s functionality are subject to blocking. This includes, but is not limited to, kink, porn, anti-crypto, and anti-capitalist themed servers.</p>
+
+<h2>SPAM</h2>
+
+<p>Strictly prohibited. Accounts suspected of SPAM will be banned immediately. Maintaining the server&#39;s reputation is paramount. We emphasize personal interactions and robust moderation to prevent SPAM, which is detrimental to our and your reputation. Brand awareness works on Mastodon through one on one interactions and genuine content, not SPAM advertising.</p>
+
+<h2>Prohibition of Gambling and Betting Activities</h2>
+
+<p>We enforce a strict ban on all forms of gambling, gaming for money, betting, or related activities. This encompasses sharing links to gambling sites, discussing or promoting betting strategies, organizing betting pools, and any advertisements or sponsorships related to gambling. Violations may lead to warnings or bans, depending on the severity.</p>
+
+<h2>New Rule: Regulation of SPAM Content for Brands and Professionals</h2>
+
+<p>Link posting SPAM bots will not be tolerated. It doesn&#39;t work here. It harms the server. Build your own server or add ActivityPub to your website if you want this kind of engagement. This is an exploit pure and simple and we do not tolerate it.</p>
+
+<h3>Engagement and Authenticity</h3>
+
+<ol>
+<li><p><strong>Purposeful Engagement:</strong> Content must engage the Mastodon community or use the ActivityPub protocol. Purely promotional content without meaningful interaction is SPAM.</p></li>
+<li><p><strong>Authenticity and Relevance:</strong> Posts should be authentic, relevant, and add value. Repetitive, irrelevant, or solely promotional content is considered SPAM.</p></li>
+<li><p><strong>Community Standards:</strong> Brands and professionals should foster community by participating in discussions, responding to feedback, and sharing content that reflects the interests and values of the Mastodon community.</p></li>
+<li><p><strong>Closed Enrollment Policy:</strong> To maintain quality and community engagement, open enrollment is closed. New members are selectively admitted based on alignment with community values and standards.</p></li>
+</ol>
+
+<p>Non-compliance may lead to content removal, warnings, or account suspension. These rules aim to balance professional and brand contributions with the ethos of Mastodon and ActivityPub.</p>
+","For professionals and brands. Focus on your market, not administration.",Opalstack Social,,,True,"[{'id': '5', 'text': 'By signing up and using the service at opalstack.social you are agreeing to the terms of service outlined in the privacy policy.'}, {'id': '7', 'text': 'Follow all laws of the United States.'}, {'id': '8', 'text': 'Sexually explicit or violent media must be marked as sensitive when posting.'}, {'id': '9', 'text': 'No racism, sexism, homophobia, transphobia, xenophobia, or casteism. '}, {'id': '10', 'text': 'No incitement of violence or promotion of violent ideologies.'}, {'id': '11', 'text': 'No harassment, dogpiling or doxxing of other users. '}, {'id': '12', 'text': 'No false or misleading information that may lead to physical harm. '}, {'id': '14', 'text': ""No behavior perceived as SPAM will be tolerated. If we see this behavior we will ban your account. See 'About' page for details. SPAM is mindless posting of links to your content. Do your due diligence before attempting to market here. ActivityPub is about human interaction.""}, {'id': '18', 'text': 'Prohibition of Gambling and Betting Activities'}, {'id': '19', 'text': ""English language only. Our admin team's primary language is English. That is the language we are trained and qualified to support. ""}, {'id': '20', 'text': ""All brands need a real human representative to have an account and be human verifiable. Provide your social media links and anything our admin team needs to validate you as 'real human'. Once you have been verified PM the admin to request access for your brand. No exceptions.""}]","['By signing up and using the service at opalstack.social you are agreeing to the terms of service outlined in the privacy policy.', 'Follow all laws of the United States.', 'Sexually explicit or violent media must be marked as sensitive when posting.', 'No racism, sexism, homophobia, transphobia, xenophobia, or casteism. ', 'No incitement of violence or promotion of violent ideologies.', 'No harassment, dogpiling or doxxing of other users. ', 'No false or misleading information that may lead to physical harm. ', ""No behavior perceived as SPAM will be tolerated. If we see this behavior we will ban your account. See 'About' page for details. SPAM is mindless posting of links to your content. Do your due diligence before attempting to market here. ActivityPub is about human interaction."", 'Prohibition of Gambling and Betting Activities', ""English language only. Our admin team's primary language is English. That is the language we are trained and qualified to support. "", ""All brands need a real human representative to have an account and be human verifiable. Provide your social media links and anything our admin team needs to validate you as 'real human'. Once you have been verified PM the admin to request access for your brand. No exceptions.""]"
+136,136,636d580180bb3f03b435a46b,macaw.social,False,1062,"<p>This server is intended for current/previous twitter employees and their close friends/family.</p>
+
+<p>We filter signups to try keep the server focused for community reasons. </p>
+",A small server by some ex-tweeps mostly for other *tweeps and friends.,Macaw-Social,,,False,"[{'id': '1', 'text': ""Don't post anything which would violate the law in either your home jurisdiction, under US law, or Washington State law\r\n""}, {'id': '2', 'text': ""Don't be a jerk.  Hate speech, discrimination, and harassment of any kind are not tolerated here. ""}, {'id': '3', 'text': 'If you post adult content, please mark it as sensitive so that your followers can choose when to see it. '}, {'id': '4', 'text': 'No spam.  This includes using completely unrelated hashtags in your posts. '}, {'id': '5', 'text': 'This instance is intended only for anyone who was ever employed at twitter, and select friends. '}, {'id': '7', 'text': 'Please do not use trademarked usernames. '}, {'id': '8', 'text': 'No Misinformation. '}]","[""Don't post anything which would violate the law in either your home jurisdiction, under US law, or Washington State law\r\n"", ""Don't be a jerk.  Hate speech, discrimination, and harassment of any kind are not tolerated here. "", 'If you post adult content, please mark it as sensitive so that your followers can choose when to see it. ', 'No spam.  This includes using completely unrelated hashtags in your posts. ', 'This instance is intended only for anyone who was ever employed at twitter, and select friends. ', 'Please do not use trademarked usernames. ', 'No Misinformation. ']"
+244,244,637b3198d94dca7f11e7bcb9,occitania.social,False,721,"<h3> Sus aguesta instància</h3>
+
+<p>occitania.social ei un servidor en occitan, tara comunitat de lengua e cultura occitana, sòns amics e persones interessades en apréner era lengua, era cultura e es tradicions d&#39;aguesta region.</p>
+
+<h3>Manteniment deth servidor</h3>
+
+<p>Mantier occitania.social e eth servidor òste en bona forma a un còst. Qualsevolh ajuda, tanben d&#39;1 euro, ei plan benvenguda:</p>
+
+<p>🙏🏻 <a href=""https://www.institutaranes.com/ca/donatius/"" target=""_blank"">Hèr ua donacion</a></p>
+
+<h3>Ajuda e supòrt</h3>
+
+<p>Se te platz, envia un messatge de corrèu electronic tara adreça de contacte que ges desús.</p>
+
+<h3>Disclaimer</h3>
+
+<p>english: occitania.social it&#39;s related to the community of Occitan culture and language throughout the #fediverse . Please, sign up only if you&#39;re interested in this language. For other instances or servers, check out the Mastodon website to choose the more convenient for you. If you need help or information, don&#39;t hesitate to contact to the email above.</p>
+","Servidor creat tà aufrir as occitans a amics un espaci pròpri en hilat sociau de Mastodon.
+
+Eth hilat sociau deth futur, sense publicitat, hèt pes joeni, tàs joeni damb un servidor de proximitat.",Mastodon d'Occitània,,,True,"[{'id': '1', 'text': ""Està prohibida qualsevol mostra de discriminació que promogui o defensi l'opressió de membres de grups minoritaris.""}, {'id': '2', 'text': ""Estan prohibits els comportaments amenaçadors, l'assetjament i el doxxing.\r\nEstà prohibit l'assetjament o qualsevol altra forma de contacte amb un usuari que hagi declarat que no desitja ser contactat.""}, {'id': '3', 'text': 'No és permès fer publicitat ni fer spam.\r\nLes accions que pretenguin danyar occitania.social o el seu funcionament poden portar a la suspensió immediata del compte.'}, {'id': '4', 'text': 'Els continguts il·legals a Catalunya (Espanya) seran eliminats i poden portar a la suspensió immediata del compte.'}, {'id': '5', 'text': 'Els bots i els ""crossposters"" estan permesos mentre les publicacions estiguin marcades com a ""No llistat""'}]","[""Està prohibida qualsevol mostra de discriminació que promogui o defensi l'opressió de membres de grups minoritaris."", ""Estan prohibits els comportaments amenaçadors, l'assetjament i el doxxing.\r\nEstà prohibit l'assetjament o qualsevol altra forma de contacte amb un usuari que hagi declarat que no desitja ser contactat."", 'No és permès fer publicitat ni fer spam.\r\nLes accions que pretenguin danyar occitania.social o el seu funcionament poden portar a la suspensió immediata del compte.', 'Els continguts il·legals a Catalunya (Espanya) seran eliminats i poden portar a la suspensió immediata del compte.', 'Els bots i els ""crossposters"" estan permesos mentre les publicacions estiguin marcades com a ""No llistat""']"
+48,48,5a3788b467eb6930d0cf73f8,social.chinwag.org,False,1338,"<p><a href=""https://chinwag.org"">Chinwag</a> provides Australian-based free and open social networking and communication tools.</p>
+
+<p>We have no purpose in life other than providing people with the ability to communicate with other people on a secure, open and equal footing.</p>
+
+<p>Our general usage policy is fluid but well-summarised by &quot;don&#39;t be a dick&quot;. Management is fairly relaxed but if your purpose in life is to make other people miserable then you can piss off somewhere else, or even better, just stop posting.</p>
+
+<p>Be respectful. Take it easy. Have some fun. Don&#39;t make me come over there.</p>
+","Consider this place your friendly, local Australian pub. Make yourself at home, bring your friends, have a good time! Meet new people, have a laugh, enjoy the ambience, and the Oxford commas.",Chinwag Social,,,True,"[{'id': '1', 'text': 'Bot accounts are generally not permitted. Ask first.'}, {'id': '2', 'text': 'Chinwag is for people, not brands. Sign up as yourself, not your project.'}, {'id': '3', 'text': ""Don't upset the regulars. The longer you've been here, the more slack you get.""}, {'id': '4', 'text': 'No harassment or bullying allowed, ever.'}, {'id': '5', 'text': ""We're not prudes, but don't get overly sexual without Content Warnings.""}, {'id': '6', 'text': ""We're mostly Australians and don't fucking care if you swear a bit.""}]","['Bot accounts are generally not permitted. Ask first.', 'Chinwag is for people, not brands. Sign up as yourself, not your project.', ""Don't upset the regulars. The longer you've been here, the more slack you get."", 'No harassment or bullying allowed, ever.', ""We're not prudes, but don't get overly sexual without Content Warnings."", ""We're mostly Australians and don't fucking care if you swear a bit.""]"
+41,41,5973638bb59c3667c9be74d9,mastodon.com.pl,False,774,"<h2>PL:</h2>
+
+<hr>
+
+<p>Mastodon Poland to wskrzeszenie dawnej instancji, którą po raz pierwszy, testowo uruchomiliśmy w lipcu 2019 roku. Chcemy zapewnić bezpieczną i bezpłatną instancję otwartej sieci społecznościowej Mastodon, chroniąc wszystkich członków społeczności przed wszelkimi krzywdami.</p>
+
+<h1>Rejestracja na Mastodon.com.pl</h1>
+
+<p>Rejestracja na naszej instancji dostępna jest dla każdego, kto utworzy na niej swoje konto i zatwierdzi jej regulamin.</p>
+
+<h1>Finansowanie</h1>
+
+<p>Ta instancja jest w pełni sponsorowana i utrzymywana przez firmę hostingową <a href=""https://mastodon.com.pl/@mghost"">MGHost</a>.</p>
+
+<h1>Podejście moderacyjne</h1>
+
+<p>Rola administratora czy moderatora sprowadza się do konkretnych obowiązków, a nie do politycznej oceny wpisów czy sądownictwa. Nasz świat ma nieskończenie wiele wymiarów, nie jest czarno-biały, ma mnóstwo kolorów i odcieni – każdy z nas jest inny. Nie będziemy definiować aspektów wolności czy przyzwoitości, ponieważ one same się określają, a określone granice prawne (jeszcze) są wystarczające do ich przestrzegania.</p>
+
+<p>Informujemy, że instancja prawnie podlega całkowicie pod Prawo Polskie 🇵🇱 i Unii Europejskiej 🇪🇺.</p>
+
+<h2>Zgłaszanie niedozwolonych treści oraz procedura odwoławcza:</h2>
+
+<ol>
+<li>Użytkownik, który uważa opublikowaną na instancji treść za nielegalną, lub naruszającą warunku Regulaminu, może przesłać do Administratora zgłoszenie dotyczące tej treści za pomocą funkcji &quot;Zgłoś&quot;, dostępnej przy każdym toot&#39;cie.</li>
+<li>Administrator, lub Moderator rozpatruje zgłoszenie, bez zbędnej zwłoki, oraz podejmuje decyzję co do treści, której dotyczy zgłoszenie, w sposób terminowy (do 7 dni), niearbitralny, obiektywny i z zachowaniem należytej staranności.</li>
+<li>O podjętej decyzji, Administrator/Moderator powiadamia zgłoszonego i zgłaszającego Użytkownika.</li>
+<li>Decyzja Administratora może polegać na usunięciu treści, pozostawieniu treści na instancji, lub też zawieszeniu całego konta.</li>
+<li>Użytkownik może odwołać się od decyzji Administratora w terminie 7 dni od otrzymania uzasadnienia jej usunięcia kontaktując się z Administratorem za pośrednictwem adresu e-mal contact@mastodon.com.pl.</li>
+<li>Odwołanie powinno zawierać wyczerpujące uzasadnienie.</li>
+<li>Administrator rozpatruje odwołania w terminie 7 dni.</li>
+</ol>
+
+<h1>Instancja ELK</h1>
+
+<p>Alternatywna opcja korzystania z serwisu za pomocą skryptu ELK, dostępnego w tym miejscu: <a href=""https://elk.mastodon.com.pl"">elk.mastodon.com.pl</a>.</p>
+
+<h2>Administratorzy &amp; Moderatorzy serwera</h2>
+
+<h3>Administratorzy:</h3>
+
+<p><a href=""https://mastodon.com.pl/@spoofy"">spoofy</a><br>
+<a href=""https://mastodon.com.pl/@paulina"">paulina</a></p>
+
+<h3>Moderatorzy:</h3>
+
+<p><a href=""https://mastodon.com.pl/@74"">Kierunkowy74</a></p>
+
+<h1>Dodatkowe informacje</h1>
+
+<p>Zobowiązujemy się do bieżącego utrzymywania instancji oraz stałego informowania wszystkich jej użytkowników o informacjach jej dotyczących. Główne źródło informacji na temat instancji dostepne jest za pośrednictwem konta: <a href=""https://mastodon.com.pl/@notifications"">notifications</a>.</p>
+
+<p>Wykorzystujemy własną infrastrukturę mailową - nie blokujemy żadnych głównych dostawców usług e-mail.</p>
+
+<h1>Status</h1>
+
+<p>Globalny status dostępności serwera, dostępny <a href=""https://status.mastodon.com.pl/"">tutaj</a></p>
+
+<h1>Punkt kontaktowy</h1>
+
+<p>Administrator wyznaczył elektroniczny punkt kontaktowy związany z instancją mastodon.com.pl przeznaczony do bezpośredniej komunikacji z organami państw członkowskich, Komisją i Radą Usług Cyfrowych: contact@mastodon.com.pl. Komunikacja może być prowadzona w języku polskim, lub angielskim.</p>
+
+<h1>Zmiany Regulaminu</h1>
+
+<p>Instancja mastodon.com.pl może wprowadzać zmiany do całości, lub części postanowień Regulaminu. Wszelkie zmiany, lub modyfikacje obowiązują z chwilą ich zamieszczenia na instancji mastodon.com.pl. O wszelkich zmianach w Regulaminie, instancja mastodon.com.pl będzie informować za pośrednictwem konta: <a href=""https://mastodon.com.pl/@notifications"">notifications</a>. Użytkownik niniejszym wyraża zgodę na regularne sprawdzanie treści Regulaminu oraz jego aktualizacji, aby zapoznać się z ewentualnymi zmianami. Korzystanie z instancji mastodon.com.pl po wprowadzeniu zmian do Regulaminu będzie oznaczać ich akceptację. W przypadku niewyrażenia zgody na takie zmiany przez Użytkownika, Administracja instancji mastodon.com.pl prosi o usunięcie konta i rezygnację z dalszego korzystania z instancji mastodon.com.pl</p>
+
+<h2>EN:</h2>
+
+<hr>
+
+<p>Mastodon Poland is a resurrection of the old instance that had its first, test run in July 2019. We want to provide a safe &amp; free instance of the Mastodon open social network protecting all members of community from any harm.</p>
+
+<h1>Registration on Mastodon.com.pl</h1>
+
+<p>The registration process is available for everyone on this instance as long as they create an account and accept the terms and conditions of this instance.</p>
+
+<h1>Moderation Approach</h1>
+
+<p>The role of the administrator or moderator comes down to specific duties and not to the political evaluation of entries or the judiciary. Our world has infinitely many dimensions, is not black and white, it has a lot of colors and shades - each of us is different. We will not define the aspects of freedom or decency beacuse these define themselves, and the defined legal boundries (yet) are sufficient to comply with them.</p>
+
+<p>We want to inform that the instance is completely subordinate to Polish 🇵🇱 and European law 🇪🇺.</p>
+
+<h2>Reporting prohibited content and appeal procedure:</h2>
+
+<ol>
+<li>A user who considers content published on the instance to be illegal or in violation of the Terms of Service may submit a report to the Administrator regarding this content using the &quot;Report&quot; function, available with each toot.</li>
+<li>The Administrator or Moderator shall review the report without undue delay and make a timely (within 7 days), non-arbitrary, objective decision regarding the reported content, exercising due diligence.</li>
+<li>The Administrator/Moderator notifies both the reported and reporting users of the decision made.</li>
+<li>The Administrator&#39;s decision may involve removing the content, leaving it on the instance, or suspending the entire account.</li>
+<li>A user may appeal the Administrator&#39;s decision within 7 days of receiving the justification for its removal by contacting the Administrator via email at contact@mastodon.com.pl.</li>
+<li>The appeal should include comprehensive justification.</li>
+<li>The Administrator shall review appeals within 7 days.</li>
+</ol>
+
+<h1>ELK instance</h1>
+
+<p>An alternative option to use the service using the ELK script, available at: <a href=""https://elk.mastodon.com.pl"">elk.mastodon.com.pl</a>.</p>
+
+<h2>Server Administrators &amp; Moderators</h2>
+
+<h3>Administrators:</h3>
+
+<p><a href=""https://mastodon.com.pl/@spoofy"">spoofy</a><br>
+<a href=""https://mastodon.com.pl/@paulina"">paulina</a></p>
+
+<h3>Moderators:</h3>
+
+<p><a href=""https://mastodon.com.pl/@74"">Kierunkowy74</a></p>
+
+<h1>Funding</h1>
+
+<p>This instance is fully sponsored and maintenanced by a <a href=""https://mastodon.com.pl/@mghost"">MGHost</a> hosting company.</p>
+
+<h1>Additional information</h1>
+
+<p>We are committed to maintaining the instance on an ongoing basis and constantly informing all its users about information related with it. The main source of information about the instance is delivered through this account: <a href=""https://mastodon.com.pl/@notifications"">notifications</a>.</p>
+
+<p>We use our own email infrastructure - we don&#39;t block any major e-mail service providers.</p>
+
+<h1>Status</h1>
+
+<p>Global server availability status, available <a href=""https://status.mastodon.com.pl/"">here</a>.</p>
+
+<h1>Contact Point</h1>
+
+<p>The Administrator has designated an electronic contact point associated with the mastodon.com.pl instance for direct communication with the authorities of member states, the Digital Services Commission, and the Council: contact@mastodon.com.pl. Communication can be conducted in Polish or English.</p>
+
+<h1>Changes to the Terms of Service</h1>
+
+<p>The mastodon.com.pl instance may introduce changes to the entirety or part of the provisions of the Terms of Service. All changes or modifications take effect immediately upon their posting on the mastodon.com.pl instance. The mastodon.com.pl instance will inform about any changes in the Terms of Service through the account: notifications. By using the mastodon.com.pl instance, the user hereby agrees to regularly check the contents of the Terms of Service and their updates to become familiar with any changes. Continued use of the mastodon.com.pl instance after changes to the Terms of Service have been made will signify acceptance of those changes. In the event that the user does not consent to such changes, the Administration of the mastodon.com.pl instance kindly requests the deletion of the account and discontinuation of further use of the mastodon.com.pl instance.</p>
+","(PL): Mastodon Polska - Bezpieczna, wolna instancja otwartej sieci społecznościowej Mastodon.
+(EN): Mastodon Poland - A safe, free instance of the Mastodon open social network.",Mastodon Poland,,,True,"[{'id': '1', 'text': '(EN): No threats, harassment, racism, homophobia, sexism, and incitement to hatred towards individuals or groups. (PL): Niedozwolone są groźby, znęcanie się, rasizm, homofobia, seksizm oraz nawoływanie do nienawiści wobec jednostek oraz grup.'}, {'id': '2', 'text': '(EN): No illegal content e.g. child pornography, pornography, frauds, illegal services etc.\r\n(PL): Niedozwolony jest content zabroniony prawnie np. dziecięca pornografia, pornografia, oszustwa, nielegalne usługi itp.'}, {'id': '3', 'text': '(EN): No posting malicious links.\r\n(PL): Niedozwolone jest publikowanie złośliwych linków.'}, {'id': '4', 'text': '(EN): No hate speech.\r\n(PL): Niedozwolona jest mowa nienawiści.'}, {'id': '5', 'text': '(EN): NSFW content should be marked with a Content Warning. \r\n(PL): Content NSFW powinien być oznaczony ostrzeżeniem o zawartości.'}, {'id': '6', 'text': '(EN): No spamming or explicit advertising allowed without proper introduction and/or other activity.\r\n(PL): Niedozwolone generowanie spamu ani jawnej reklamy bez odpowiedniego wprowadzenia i/lub innej aktywności.'}, {'id': '7', 'text': '(EN): Comments should be related to the topics appearing within the thematic threads. (PL): Wypowiedzi powinny być związane z treściami pojawiającymi się w ramach wątków tematycznych.'}, {'id': '8', 'text': '(EN): No insults based on their gender, sexual orientation, nationality, ethnicity, race, religion, or lack thereof. (PL): Niedozwolone jest znieważanie Użytkowników z powodu ich przynależności płciowej, seksualnej, narodowej, etnicznej, rasowej, wyznaniowej, albo z powodu jej bezwyznaniowości.'}, {'id': '9', 'text': '(EN): No chauvinistic, misogynistic nature, as well as content displaying signs of gender discrimination. (PL): Niedozwolone są treści o charakterze szowinistycznym i mizoginistycznym, jak również noszące znamiona dyskryminacji płciowej.'}, {'id': '10', 'text': '(EN): No content violating the personal rights of any third party. (PL): Zabrania się zamieszczania treści naruszających dobra osobiste osób trzecich.'}, {'id': '11', 'text': '(EN): No content inciting dangerous behavior or praising such behaviord. (PL): Niedozwolone są treści nawołujące do zachowań niebezpiecznych, lub pochwalają takie zachowania.'}, {'id': '12', 'text': ""(EN): Upon creating an account, it is required to introduce oneself using the hashtag #introduction in one's post. (PL): Po utworzeniu konta, wymagane jest przedstawienie się z wykorzystaniem hasztagu #introduction w swoim toot'cie.""}]","['(EN): No threats, harassment, racism, homophobia, sexism, and incitement to hatred towards individuals or groups. (PL): Niedozwolone są groźby, znęcanie się, rasizm, homofobia, seksizm oraz nawoływanie do nienawiści wobec jednostek oraz grup.', '(EN): No illegal content e.g. child pornography, pornography, frauds, illegal services etc.\r\n(PL): Niedozwolony jest content zabroniony prawnie np. dziecięca pornografia, pornografia, oszustwa, nielegalne usługi itp.', '(EN): No posting malicious links.\r\n(PL): Niedozwolone jest publikowanie złośliwych linków.', '(EN): No hate speech.\r\n(PL): Niedozwolona jest mowa nienawiści.', '(EN): NSFW content should be marked with a Content Warning. \r\n(PL): Content NSFW powinien być oznaczony ostrzeżeniem o zawartości.', '(EN): No spamming or explicit advertising allowed without proper introduction and/or other activity.\r\n(PL): Niedozwolone generowanie spamu ani jawnej reklamy bez odpowiedniego wprowadzenia i/lub innej aktywności.', '(EN): Comments should be related to the topics appearing within the thematic threads. (PL): Wypowiedzi powinny być związane z treściami pojawiającymi się w ramach wątków tematycznych.', '(EN): No insults based on their gender, sexual orientation, nationality, ethnicity, race, religion, or lack thereof. (PL): Niedozwolone jest znieważanie Użytkowników z powodu ich przynależności płciowej, seksualnej, narodowej, etnicznej, rasowej, wyznaniowej, albo z powodu jej bezwyznaniowości.', '(EN): No chauvinistic, misogynistic nature, as well as content displaying signs of gender discrimination. (PL): Niedozwolone są treści o charakterze szowinistycznym i mizoginistycznym, jak również noszące znamiona dyskryminacji płciowej.', '(EN): No content violating the personal rights of any third party. (PL): Zabrania się zamieszczania treści naruszających dobra osobiste osób trzecich.', '(EN): No content inciting dangerous behavior or praising such behaviord. (PL): Niedozwolone są treści nawołujące do zachowań niebezpiecznych, lub pochwalają takie zachowania.', ""(EN): Upon creating an account, it is required to introduce oneself using the hashtag #introduction in one's post. (PL): Po utworzeniu konta, wymagane jest przedstawienie się z wykorzystaniem hasztagu #introduction w swoim toot'cie.""]"
+226,226,637b30c8d94dca7f11e7b96b,mountains.social,False,510,"<h2>Social networking, <strong>back in your hands</strong></h2>
+
+<p>Sharing your thoughts has never been more convenient. Publish anything you want: links, pictures, text, video. All on a platform that is community-owned and ad-free.</p>
+
+<p>You have <strong>1000 characters</strong>. You can adjust the thumbnails of your pictures with focal points. You can use custom emojis, hide things behind spoiler warnings and choose who sees a given post. Messed it up? You can delete &amp; redraft for quick corrections.</p>
+
+<p>Without an incentive to sell you things, Mastodon allows you to consume content you enjoy uninterrupted. Your feed is chronological, ad-free and non-algorithmic—you decide who you want to see!</p>
+
+<p>Be sure to check our <a href=""https://mountains.social/terms"">Terms &amp; Code of Conduct</a>.</p>
+
+<h2>Wiki</h2>
+
+<p>A comprehensive Wiki on Mastodon in general and mountains.social in particular can be found <a href=""https://wiki.mountains.social"">here</a>.</p>
+
+<h2>Server Info</h2>
+
+<p>The servers are hosted in Frankfurt, Germany at <a href=""https://www.hetzner.com"">Hetzner</a>.</p>
+
+<h3>Mastodon Server (Hetzner CPX31):</h3>
+
+<ul>
+<li>4 shared CPU&#39;s</li>
+<li>8 GB Memory</li>
+<li>80 GB Database Disk</li>
+<li>60 GB Disk for local backups</li>
+<li>IPv4: 142.132.227.141</li>
+<li>IPv6: 2a01:4f8:c17:14db::/64</li>
+<li>Database Backups every 24 hours</li>
+<li>System Backups</li>
+</ul>
+
+<h3>Server with ElasticSearch, Wiki and Status Pages  (Hetzner CX21):</h3>
+
+<ul>
+<li>2 shared CPU</li>
+<li>4 GB Memory</li>
+<li>40 GB Data Disk</li>
+<li>IPv4: 49.12.4.140</li>
+<li>IPv6: 2a01:4f8:c17:805e::/64</li>
+<li>System Backups</li>
+</ul>
+
+<h3>Server with Zabbix for monitoring  (Hetzner CPX11):</h3>
+
+<ul>
+<li>2 shared CPU</li>
+<li>2 GB Memory</li>
+<li>40 GB Data Disk</li>
+<li>IPv4: -</li>
+<li>IPv6: -</li>
+<li>System Backups</li>
+</ul>
+
+<h3>Storage:</h3>
+
+<ul>
+<li>1 TB Wasabi S3-compatible Storage</li>
+<li>Media Storage at Wasabi Frankfurt (eu-central-2)</li>
+<li>Backup Storage at Wasabi Amsterdam (eu-central-1)</li>
+</ul>
+
+<h3>Email Delivery:</h3>
+
+<ul>
+<li><a href=""https://sendgrid.com"">Sendgrid</a> (currently still in free plan)</li>
+</ul>
+
+<h3>Translation:</h3>
+
+<ul>
+<li><a href=""https://deepl.com"">Deepl</a> (currently still in free plan)</li>
+</ul>
+
+<h3>Total current costs:</h3>
+
+<ul>
+<li>43.12 USD / month</li>
+</ul>
+
+<h3>Server status:</h3>
+
+<p>In case you have issues connecting to the instance, please see the <a href=""https://status.mountains.social"">status</a> page first (bookmark this page for later use). It could be that there is an issue of maintenance is going on.</p>
+
+<h2>Sponsoring</h2>
+
+<p>Current recurring donations:<br>
+<em>(thanks a lot for all who have donated, really appreciate it)</em></p>
+
+<ul>
+<li>36.00 USD / month</li>
+</ul>
+
+<p>In case you can and are willing to sponsor the instance and keep it running smoothly, I have setup the following possibilities:</p>
+
+<ul>
+<li><a href=""https://ko-fi.com/mountainssocial"">Ko-fi.com</a></li>
+<li><a href=""https://paypal.me/AlexanderMeijer"">Paypal</a></li>
+<li><a href=""https://www.patreon.com/bergmeister"">Patreon</a></li>
+<li><a href=""https://liberapay.com/maestr0"">Liberapay</a></li>
+</ul>
+
+<p>IBAN would also be an option. In that case, please contact me via Direct Message:</p>
+
+<p><a href=""https://mountains.social/@bergmeister"">https://mountains.social/@bergmeister</a>.</p>
+
+<p>Thanks a lot!</p>
+","Mastodon instance focusing on hiking, mountaineering, climbing, backpacking and the outdoors.",mountains.social,,,True,"[{'id': '1', 'text': 'Sexually explicit or violent media must be marked as sensitive when posting.'}, {'id': '2', 'text': 'No spam or advertising.'}, {'id': '3', 'text': 'No racism, sexism, homophobia, transphobia, xenophobia, or casteism.'}, {'id': '4', 'text': 'No incitement of violence or promotion of violent ideologies.'}, {'id': '5', 'text': 'No harassment, dogpiling or doxxing of other users.'}, {'id': '6', 'text': 'No illegal content.'}, {'id': '7', 'text': 'Only languages that can be translated by the Deepl Translation integration are allowed (so everybody can read the posts). The supported languages are listed here: \r\n\r\nhttps://support.deepl.com/hc/en-us/articles/360019925219-Languages-included-in-DeepL-Pro'}, {'id': '8', 'text': ""Don't be a dick. Speaks for itself.""}]","['Sexually explicit or violent media must be marked as sensitive when posting.', 'No spam or advertising.', 'No racism, sexism, homophobia, transphobia, xenophobia, or casteism.', 'No incitement of violence or promotion of violent ideologies.', 'No harassment, dogpiling or doxxing of other users.', 'No illegal content.', 'Only languages that can be translated by the Deepl Translation integration are allowed (so everybody can read the posts). The supported languages are listed here: \r\n\r\nhttps://support.deepl.com/hc/en-us/articles/360019925219-Languages-included-in-DeepL-Pro', ""Don't be a dick. Speaks for itself.""]"
+163,163,637b216cad72ace2dcf162d3,podcastindex.social,False,1342,,Intended for all stake holders of podcasting who are interested in improving the eco system ,PodcastIndex Social,,,False,"[{'id': '1', 'text': 'Not for promotion of podcasts. '}]",['Not for promotion of podcasts. ']
+197,197,637b2e3cd94dca7f11e7af10,better.boston,False,645,"<p>A Mastodon server for Greater Boston/Massachusetts/New England folks interested in a more inclusive, sustainable, and equitable region.</p>
+
+<p>Many members come from transportation equity and policy backgrounds. While this server is for everyone, there may be a lot of local talk about those topics!</p>
+
+<p>If you wish migrate your account, instead of simply making a new account, use <a href=""https://docs.joinmastodon.org/user/moving/#migration"">this page</a> as a resource and follow these steps:</p>
+
+<ol>
+<li>Back up your account data</li>
+<li>Make a new account on this server (check your spam for the confirmation email!)</li>
+<li>Alias your old account to the new account by <a href=""https://better.boston/settings/aliases"">creating an alias</a> on this server</li>
+<li>Move your followers by using the &quot;Move to a different account&quot; function on your old server.</li>
+<li>Upload your following list to the new account</li>
+</ol>
+
+<p>Please note that posts are not moved when you move servers; this is due to technical limitations.</p>
+
+<h2>Server Status and Funding</h2>
+
+<p>This instance is currently running on a server donated by <a href=""https://bikesare.cool/@flyyn"">@flyyn</a> - your friendly local devops masshole who&#39;s currently between jobs.</p>
+
+<p>The server will likely need to be tuned and upgraded as members join.</p>
+
+<p>Please consider donating to keep things running smoothly! We have a <a href=""https://ko-fi.com/betterboston"">Ko-Fi page</a> set up to collect funds. </p>
+
+<h2>Registration</h2>
+
+<p>This server has a generally open registration policy, for anyone who agrees to abide by our rules.</p>
+
+<p>At times, we may require approval for new members, to ensure safety and technical stability.  We will process registrations as quickly as feasible.</p>
+
+<p><strong>Username Tip</strong> - we are in a world of federated servers.  Usernames must be unique &#39;@better.boston&#39;, but you will be sharing space with other servers.</p>
+
+<p>You may wish to choose something that stands out, similar to a Twitter username.  Sure, &#39;@bones@better.boston&#39; is (currently) available, but conversations with &#39;@bones@mastodon.social&#39; will get confusing fast!</p>
+
+<h2>Volunteers</h2>
+
+<p>This Mastodon instance is administered by <a href=""https://better.boston/@meptrsn"">Matthew</a>, who also conceptualized it.</p>
+
+<p>Technical operation and hosting by <a href=""https://bikesare.cool/@flyyn"">Flyyn</a>.</p>
+
+<h2>Moderation Policy</h2>
+
+<p>We actively moderate this server;
+this is not a &quot;free-speech zone&quot;.</p>
+
+<p>However, while we are dedicated to moderation,
+our labor is on a volunteer basis and we cannot see everything.</p>
+
+<p>If you find any objectionable material on this server or elsewhere,
+please report the content so we can take appropriate action.</p>
+
+<h2>Credit</h2>
+
+<p>Banner edited by <a href=""https://bikesare.cool/@flyyn/"">Flyyn</a>, using Mastadon graphics and  &quot;<a href=""https://www.flickr.com/photos/billdamon/15373809940"">Boston skyline from the BU Bridge on Head of the Charles Regatta Weekend</a>&quot; by Bill Damon, CC BY 2.0</p>
+","A server for people in Greater Boston and Massachusetts interested in a more inclusive, equitable, and sustainable region.",Better Boston,,,True,"[{'id': '1', 'text': 'All forms of bigotry, including racism, sexism, homophobia and transphobia are strictly prohibited and actively moderated.'}, {'id': '2', 'text': 'No harassment of other users on this or other servers.'}, {'id': '3', 'text': 'Be neighborly and cordial - please let moderators and administrators handle issues as appropriate.'}, {'id': '6', 'text': 'No explicit (NSFW) content without content warnings and/or sensitive media markers. Explicit content must not be used in user avatars or header images.'}, {'id': '7', 'text': 'No content illegal in the following countries: United States, Germany'}, {'id': '8', 'text': 'No incitement of violence or promotion of violent ideologies.'}, {'id': '9', 'text': 'No disinformation regarding public health issues, political/military campaigns, or other matters of public interest.'}, {'id': '10', 'text': 'No spam. This includes commercial advertising, promotional campaigns, and SEO. Promoting non-commercial events and causes is OK.'}]","['All forms of bigotry, including racism, sexism, homophobia and transphobia are strictly prohibited and actively moderated.', 'No harassment of other users on this or other servers.', 'Be neighborly and cordial - please let moderators and administrators handle issues as appropriate.', 'No explicit (NSFW) content without content warnings and/or sensitive media markers. Explicit content must not be used in user avatars or header images.', 'No content illegal in the following countries: United States, Germany', 'No incitement of violence or promotion of violent ideologies.', 'No disinformation regarding public health issues, political/military campaigns, or other matters of public interest.', 'No spam. This includes commercial advertising, promotional campaigns, and SEO. Promoting non-commercial events and causes is OK.']"
+162,162,637b1d54baf9cf97b71f33c3,pixelfed.noellabo.jp,False,1103,"Pixelfed is an image sharing platform, an ethical alternative to centralized platforms.","Pixelfed is an image sharing platform, an ethical alternative to centralized platforms.",Pixelfed.noellabo,,,True,[],[]
+299,299,63e73e2c739e311090e1854d,snug.moe,False,555,"snug fedi instance for snuggly beings<br/>
+Visit <a style=""color: var(--accent);"" href=""https://info.snug.moe/"">info.snug.moe</a> for more details","snug fedi instance for snuggly beings<br/>
+Visit <",Snugly Moe Moe,,,False,[],[]
+90,90,5cb74534d8bf0e50d9f596a2,mograph.social,False,1259,"<h2>Welcome to mograph.social</h2>
+
+<p>The main purpose of this server is to connect people from the broad motion design community, including VFX artist, animators (more in general designers and artists that are interested in moving images) and to contribute to the Fediverse with interesting content. It is also a place to offer to people in these fields an open space for discussion outside the toxic boxes of mainstream social media.</p>
+
+<p>If you need more information about Mastodon, about what it is and how it works, have a look at <a href=""https://fedi.tips/"" target=""_blank"">fedi.tips</a>.</p>
+
+<hr>
+
+<h2>Code of Conduct</h2>
+
+<h3>In general</h3>
+
+<p>Be excellent to each other and respect the rules. </p>
+
+<p>Keep always in mind that the aim of our server is community building and sharing of ideas and interests in respect of each others.</p>
+
+<p>If you&#39;re a new member please fill in your profile with the relevant information as soon as you can so we know who we&#39;re talking to, and add a profile picture.
+Also it is recommended to make an #introduction post with the appropriate hashtag to tell a bit about yourself and your interests.</p>
+
+<h3>Crossposting</h3>
+
+<p>Crossposting from other networks like Twitter is allowed but if done regularly the posts should be marked as unlisted.
+Most importantly the account owner should be active in the conversation on our Mastodon server as well.</p>
+
+<p>If you leave your account alone while crossposting it could be silenced.</p>
+
+<h3>Long threads</h3>
+
+<p>If you plan to post a long thread please post all the messages after the first one as unlisted so you don&#39;t spam the public timelines. Otherwise your account could be silenced.</p>
+
+<h3>Uploading videos</h3>
+
+<p>Due to the nature of our interests we naturally tend to share videos. While doing so please remember that the storage space on the server is not unlimited neither free. We encourage you if possible to upload your content on other platforms of your choice (YouTube, Vimeo, PeerTube, e.g.) and then post them as links here.</p>
+
+<h3>Image descriptions</h3>
+
+<p>Please add an image description for any picture or video you upload so that people on a screen reader can follow along too.</p>
+
+<h3>Advertising and self-promotion</h3>
+
+<p>Mograph.social aims at community building and not at advertising. This space is paid by the community for the community via donations and we can&#39;t accept people using it to do their free advertising campaigns.
+It&#39;s considered self-promotion:  showcasing your art, your portfolio and skills, sharing your video tutorials, podcasts, offering/looking for work. 
+If you&#39;re here to make a daily advertising campaign of your brand/products with the broadcasting of posts (or threads of posts) into the void, it&#39;s not going to work. Explicit advertising posts with links to direct products/services for sale will be deleted and your account might get silenced. </p>
+
+<p>People, not brands, please.</p>
+
+<h3>Personal Pronouns</h3>
+
+<p>We encourage you to add your pronouns to your profile if you want them to be used and also check your folks profiles for pronouns before engaging in conversation with them.</p>
+
+<hr>
+
+<h2>Support mograph.social</h2>
+
+<p>Mograph.social is run by members of the community. Please consider becoming a patron/backer or making a donation to help us keeping the server up and running:</p>
+
+<p><a href=""https://www.patreon.com/mograph_social"" target=""_blank"">Become a Patron</a><br>
+<a href=""https://liberapay.com/mograph.social"" target=""_blank"">Donate on LiberaPay</a><br>
+<a href=""https://ko-fi.com/mauromograph"" target=""_blank"">Donate on Ko-Fi</a><br>
+<a href=""https://www.paypal.com/paypalme/mauromograph"" target=""_blank"">Donate on PayPal</a></p>
+
+<hr>
+
+<h2>Mastodon Server Covenant</h2>
+
+<p>mograph.social fully subscribes to and complies with the <a href=""https://joinmastodon.org/covenant"" target=""_blank"">Mastodon Server Covenant</a>.</p>
+
+<hr>
+
+<h2>Hosting Information</h2>
+
+<p>mograph.social is fully hosted and managed by <a href=""https://masto.host/"" target=""_blank"">Masto.host.</a>.</p>
+
+<hr>
+","mograph.social is a space for the Motion Design community. VFX artists, 3D artists, animators, designers and coders with an interest in moving images are all welcome. NO CRYPTOART / NFTs ALLOWED.",mograph.social,,,True,"[{'id': '9', 'text': 'Be respectful of one another.'}, {'id': '10', 'text': 'Hate speech, racism, sexism, homophobia, transphobia, ableism,  fatmisia, xenophobia and/or violent nationalism, or the advocation of all of the above will not be tolerated and any account engaging in such acts will be suspended immediately.'}, {'id': '11', 'text': 'No content that includes sexual depictions of minors (this includes loli), content illegal in Germany and/or France, such as holocaust denial or Nazi symbolism, conduct promoting the ideology of National Socialism.'}, {'id': '12', 'text': ""We don't allow any illegal activity in the EU (and/or any link to that).""}, {'id': '13', 'text': 'No harassment, dogpiling or doxxing of other users.'}, {'id': '14', 'text': 'No explicit (NSFW) content without content warnings and/or sensitive media markers. Explicit content must not be used in user avatars or header images.'}, {'id': '15', 'text': 'No NFT content, DAO, web3 promotion or any kind of cryptobros content. There are more suitable instances available for this type of content and communities.'}, {'id': '16', 'text': 'No registrations of famous trademarks or username squatting (impersonification of famous personalities).'}, {'id': '17', 'text': 'No spamming and/or 4chan style memes.'}, {'id': '20', 'text': 'No advertising unless it is strictly sef-promotion (see Code of Conduct for more details).'}, {'id': '21', 'text': 'No users under 16 years of age, as per EU and EEA jurisdiction regulations (GDPR).'}]","['Be respectful of one another.', 'Hate speech, racism, sexism, homophobia, transphobia, ableism,  fatmisia, xenophobia and/or violent nationalism, or the advocation of all of the above will not be tolerated and any account engaging in such acts will be suspended immediately.', 'No content that includes sexual depictions of minors (this includes loli), content illegal in Germany and/or France, such as holocaust denial or Nazi symbolism, conduct promoting the ideology of National Socialism.', ""We don't allow any illegal activity in the EU (and/or any link to that)."", 'No harassment, dogpiling or doxxing of other users.', 'No explicit (NSFW) content without content warnings and/or sensitive media markers. Explicit content must not be used in user avatars or header images.', 'No NFT content, DAO, web3 promotion or any kind of cryptobros content. There are more suitable instances available for this type of content and communities.', 'No registrations of famous trademarks or username squatting (impersonification of famous personalities).', 'No spamming and/or 4chan style memes.', 'No advertising unless it is strictly sef-promotion (see Code of Conduct for more details).', 'No users under 16 years of age, as per EU and EEA jurisdiction regulations (GDPR).']"
+84,84,5c0dd1f01d5d5e62e494a847,dobbs.town,False,1064,"<p>JOIN<br> <a href=""http://www.subgenius.com/scatalog/membership.htm"">The Church of the SubGenius</a>. Send proof of membership (a photograph of your membership card) to gro.nwotsbbod@nano (IT'S BACKWARDS) and ask for your passport to dobbs.town today! Check your spam folder.</p>
+
+<p>Voluntary <a href=""https://www.patreon.com/dobbstown"">donations</a> to dobbs.town are rewarded with printed newsletter, stickers, more.</p>
+
+<p>Lost your membership card? It's packed away somewhere? Good news! You can <a href=""http://www.subgenius.com/scatalog/membership.htm"">get another</a>!</p>
+",Church of the SubGenius Members-Only MastoDobbs.,DOBBS.TOWN,,,False,"[{'id': '1', 'text': 'Dobbs.Town is for paid members of the Church of the SubGenius (subgenius.com).'}, {'id': '2', 'text': 'Content more or less allowed by the First Amendment of the United States Constitution, or broadcast TV in the USA, or Pro-Mutant / Anti-Conspiracy, it is more or less allowed at dobbs.town. Media cache retention, content cache retention and user archive retention are set to 14 days.'}, {'id': '3', 'text': ""Rev. Onan Canobite is the Final Boss. Don't make my party a job.""}, {'id': '4', 'text': 'Reports without a call to action may be considered for information purposes only. ""Remove this post"" is a call to action. ""That SubGenius is a jerk"" may be true but is not a call to action.'}]","['Dobbs.Town is for paid members of the Church of the SubGenius (subgenius.com).', 'Content more or less allowed by the First Amendment of the United States Constitution, or broadcast TV in the USA, or Pro-Mutant / Anti-Conspiracy, it is more or less allowed at dobbs.town. Media cache retention, content cache retention and user archive retention are set to 14 days.', ""Rev. Onan Canobite is the Final Boss. Don't make my party a job."", 'Reports without a call to action may be considered for information purposes only. ""Remove this post"" is a call to action. ""That SubGenius is a jerk"" may be true but is not a call to action.']"
+175,175,637b2a0cad72ace2dcf18867,vt.social,False,1051,"<h1>Welcome to VT Social!</h1>
+
+<p><em><strong>NOTE</strong>: Please read the &quot;Joining VT Social&quot; section below before applying, or we may reject your application.</em></p>
+
+<p>VT Social is a fediverse instance for VTubers run by VTubers. Our goal is to provide a space for VTubers and VTuber-adjacent content creators, so we can connect with each other and have a place for fans to discover our content.</p>
+
+<h2>About us</h2>
+
+<p>VT Social is run by <a href=""https://vt.social/@lina"">Lina</a>, a tech VTuber with a passion for VTuber technology and empowering everyone to be a VTuber. She spends most of her time working on open source GPU drivers, and also has experience with systems administration. She decided to start this instance to provide a place for all other VTubers to gather together! ✨</p>
+
+<p>Our instance is based on the glitch-soc fork of Mastodon, which adds things like better notification controls and the ability to use formatting in posts (our own fork is <a href=""https://github.com/nullptr-live/vt-social"">here</a> and it&#39;s based on the <a href=""https://gitea.treehouse.systems/treehouse/mastodon"">Treehouse</a> version, in case you&#39;re curious!). Over time, we plan to modify Mastodon to add better tools for VTubers to share their content and allow others to find it.</p>
+
+<p>This instance is hosted on our own hardware at a data center, and we have plans for expanding it and scaling it to be able to host everyone! We know VTubers love to post images and videos, so we are especially committed to having enough storage for all of you, starting with over 10TB of space right off the bat and able to scale up! Right now the instance is still on default settings for upload limits, but we will be optimizing it and customizing it to give everyone better options soon.</p>
+
+<p>The VT Social logo is based on a concept by <a href=""https://vt.social/@koda/109302016376315527"">K.O.D.A.</a>, itself inspired by the nullptr::live logo by <a href=""https://twitter.com/soundflora"">soundflora*</a>.</p>
+
+<h2>Rules and guidelines</h2>
+
+<p>Please see our instance rules below for the official policy, but in summary: we want VT Social to be a friendly space for all VTubers free of harassment or abuse. We&#39;re all in this together trying to have a good time and connect with fans and supporters, and we hope you are too! Here are a few guidelines to keep in mind:</p>
+
+<ul>
+<li>Be friendly with fellow VTubers! Light-hearted rivalry is okay, but don&#39;t let it escalate into name-calling or attacks. We all want to coexist together, not fight!</li>
+<li>Be respectful of others&#39; identities and styles. VTubing gives us the power to be whoever we want to be - embrace it for yourself and for others!</li>
+<li>Don&#39;t discuss the IRL identities of other VTubers, including speculation. This is considered on par with doxxing! Let&#39;s respect each others&#39; privacy!</li>
+<li>Don&#39;t sexualize others or make advances on them without consent. Many people aren&#39;t comfortable with that!</li>
+<li>Tag all R18/NSFW content as sensitive, and add a CW if necessary (e.g. gore). Do not direct suggestive/NSFW content at minors, nor involve minors or minor-presenting personas in such content.</li>
+</ul>
+
+<p>This instance allows R18/NSFW images, but all such content <em>must</em> be tagged as sensitive, and you should add CWs as necessary. The line for what counts as NSFW varies by culture, but we expect all content depicting sex acts (censored or not) or genitalia to be marked as such. We recommend that users who frequently post such content enable the &quot;Always mark media as sensitive&quot; option under Preferences → Other, and accounts primarily aimed at an 18+ audience must clearly mention &quot;18+&quot; in the bio. If you repeatedly fail to mark media as sensitive, we will mark your account as enforced-sensitive.</p>
+
+<p>We do reserve the right to use our own judgement in difficult cases, and may ask you to tone it down or remove certain content if we think it is necessary. And although we hope to never have to resort to it, if we ever have to ask someone to leave the instance, we will give them enough time to use the Fediverse migration tools to move their account and followers to another instance.</p>
+
+<h2>Joining VT Social</h2>
+
+<p>VT Social is open to all VTubers and content creators who work with them! To make sure the people on the instance are genuine creators, we ask that you prove who you are and show that you are an active content creator.</p>
+
+<ul>
+<li>If you are a VTuber, you need to have at least 2 stream VODs or videos using your avatar (2D, 3D, PNG) totaling at least 1 hour of content.</li>
+<li>If you are a VTuber-related content creator or illustrator, you need to have created official content/illustration work for one or more VTubers at least two times, or be actively involved in a VTuber-centric creation or development project. VTuber managers are also welcome.</li>
+<li>Illustrators with a focus on VTuber fanart are also welcome, as long as it is a significant part of your work and welcome by the VTubers you draw (memes don&#39;t count!).</li>
+</ul>
+
+<p>These are not hard rules, and we are open to being flexible as long as you are part of the VTubing community!</p>
+
+<p>In order to prove that you are who you say you are, please add your desired username (@someone@vt.social) to a website or social media page you control, and link it when you request an account on the instance (bio, tweets, subpages, posts, files on a domain, etc. are all fine). When you request an account, please tell us:</p>
+
+<ul>
+<li>A little bit about yourself and what you do (just one sentence or two is enough)</li>
+<li>A link to your verification post/page (you need to mention your VT Social username there!)</li>
+<li>A link to your existing content</li>
+<li>If you are a manager or otherwise associated with a VTuber, a link that we can use to verify your relationship</li>
+</ul>
+
+<p><strong>Please post a tweet or make mention of your application on your socials, so we can verify who you are!</strong> Something like &quot;I&#39;m joining VT Social at @myusername@vt.social&quot;, or even just &quot;I&#39;m applying for a VT Social account!&quot; if you use the same username on both sites is all we need. You can also add your @myusername@vt.social ID to your bio instead. Please link to the post/tweet/bio when you apply, and tell us what you did if it&#39;s not obvious, so we can verify you quickly! This helps us make sure the person creating the account is not an imposter claiming to be you.</p>
+
+<h3>What if I&#39;m just getting started and I don&#39;t have any content yet?</h3>
+
+<p>No worries! You can sign up on any other instance, and then, once you have some content, move to VT Social! Mastodon and the Fediverse allow you to move your account over and bring all your old followers, and make sure anyone who lands on your old account gets redirected to your new one.</p>
+
+<h3>What about fans?</h3>
+
+<p>Thanks to the awesomeness of the fediverse, you can connect with fans hosted on any other instance! We want to focus on the content creators themselves, so that we can help fans discover their content and find new VTubers to follow all in one place, as well as connect together VTubers and artists, modelers, riggers, and more. We think we can do a better job by working to make the best instance for creators, instead of having a general-purpose instance where anyone can sign up.</p>
+
+<h2>Federation policy</h2>
+
+<p>VT Social federates with everyone by default, and we only preemptively defederate instances in egregious cases (e.g. instances run by known serial harassers or openly hosting and condoning hate groups). However, we do expect all instances to have basic moderation and rules forbidding harassment. If we receive multiple reports from users of an instance, and it does not appear to have such rules nor be moderated appropriately, we will defederate it in order to protect our users. If you admin such an instance and have corrected the situation, please email lina@asahilina.net in order to request to have federation reinstated.</p>
+
+<h3>Content legality and CWs</h3>
+
+<p>VT Social is hosted in Japan and subject to Japanese law. We recognize that there are certain classes of content on other instances which many users may not wish to see, and which may vary in legality in other countries. For instances which host large amounts of such content without the appropriate CWs or sensitive tags, we may use media restrictions to effectively mark such media as sensitive in public timelines. We plan to work on our own improvements to Mastodon in the future, to provide finer-grained controls so that we can ensure we don&#39;t create unnecessary divisions between communities while empowering our users to decide what kinds of content they wish to see, and balance their own risk of exposure to unwanted content. At VT Social, we expect our own users to use sensitive tags and CWs appropriately, and have stricter policies for content on the instance as mentioned above.</p>
+","The biggest VTuber instance, by VTubers for VTubers and adjacent content creators.",VT Social,,,True,"[{'id': '1', 'text': 'Be nice, we want everyone to feel comfortable here.'}, {'id': '2', 'text': 'Be welcoming, we support people of all backgrounds and identities.'}, {'id': '3', 'text': ""Refer to people the way they ask you to, if you can't find their pronouns on their profile, ask.""}, {'id': '4', 'text': 'Mark NSFW/R18 posts as sensitive.'}, {'id': '5', 'text': 'Add content warnings to sensitive posts. (eg. involving gore)'}, {'id': '6', 'text': 'Do not make unsolicited advances towards other members.'}, {'id': '7', 'text': 'Cryptocurrency/NFT/related spam is not allowed.'}, {'id': '8', 'text': 'Bots need to be marked as bot accounts and may not be spammy in nature.'}, {'id': '9', 'text': 'Doxxing and/or disclosing private information is strictly prohibited.'}, {'id': '10', 'text': 'Read the instructions at https://vt.social/about before applying '}]","['Be nice, we want everyone to feel comfortable here.', 'Be welcoming, we support people of all backgrounds and identities.', ""Refer to people the way they ask you to, if you can't find their pronouns on their profile, ask."", 'Mark NSFW/R18 posts as sensitive.', 'Add content warnings to sensitive posts. (eg. involving gore)', 'Do not make unsolicited advances towards other members.', 'Cryptocurrency/NFT/related spam is not allowed.', 'Bots need to be marked as bot accounts and may not be spammy in nature.', 'Doxxing and/or disclosing private information is strictly prohibited.', 'Read the instructions at https://vt.social/about before applying ']"
+211,211,637b2fc2d94dca7f11e7b560,pieville.net,False,774,"<p>In signing up with Pieville, I understand and accept that I can be banned at any time for any reason by management, and I agree to take full responsibility for my posts.<br /><br /></p>
+
+<p>For truly private data sent between two people, Mastodon offers no End-to-End encryption. Please find your own private communication methods if needed.</p>
+
+<p><br /><br /></p>
+",,Pieville,,,True,[],[]
+0,0,58e1157fa0edbc7317b4f532,animalliberation.social,False,1308,"Animal Liberation Network is a community for <b>animal activists</b> on the Fediverse. You can connect with other activists through the <b>local timeline</b>, as well as spread your activism to the outside world with the <b>federated timeline</b>.",,Animal Liberation Network,,,True,Data not available,"['data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string']"
+30,30,59003fc70c4b3c46f854d184,eigadon.net,False,1305,"映画好きの為のマストドン、それが「映画ドン」です！
+好きな映画について思いを巡らす時間は、素敵な時間ですよね。","映画好きの為のマストドン、それが「映画ドン」です！
+好きな映画について思いを巡らす時間は、素敵な時間ですよね。",映画ドン－映画ファン、映画業界で働く方の為の日本初のマストドンです。,,,True,Data not available,"['data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string']"
+150,150,63767f0580bb3f03b435a659,urusai.social,False,797,"<p><h3>Status page:</h3> <a href=""https://status.urusai.social"">https://status.urusai.social/</a></p></h3>
+
+<p><h3>Alternative UI 'Elk' for Twitter users</h3>If you're coming from Twitter and want a familiar experience to start out, <a href=""https://elk.urusai.social"">try Elk</a></p>
+
+<p><h3>Urusai! Social is...</h3> ...a toxicity-free, English-first anime/manga and otaku community. We're focused on providing a safe place for fans of otaku culture to share their interests, whatever they are.</p>
+
+<p><h3>Federation Relays:</h3> This server uses relays to increase the variety and quantity of content on the Federated timeline. Current relays in use are: <h3>https://relay.neovibe.app/inbox</h3>
+<h3>https://relay.sakurajima.moe/inbox</h3></p>
+
+<p><h3>Defederation:</h3> Urusai! aggressively defederates with servers that may violate our Code of Conduct, based on information provided by other server admins. We do not publish our block-list here to prevent bots from scraping it and notifying bad actors, but you can <a href=""https://github.com/neatchee/mastodon/tree/main/domain_blocks.csv"">find it in our git repo</a></p>
+
+<p>We are a &quot;block first, ask questions later&quot; community. Any server block may be challenged by any Urusai! user and an audit will be performed to determine if they should stay blocked.</p></p>
+
+<p><h3>Code of Conduct:</h3> <a href=""https://rules.urusai.social/mastodon-coc.html"">rules.urusai.social/mastodon-coc.html</a>. TLDR: be a sensible, nice human being. Harassment, insults, bigotry etc. won't be tolerated.</p>
+
+<p><h3>Usage Guidelines:</h3> <a href=""https://rules.urusai.social/mastodon-guidelines.html"">rules.urusai.social/mastodon-guidelines.html</a>. TLDR: it's mostly about things that might interest fans of anime and other otaku stuff. Preferred language is English.</p>
+
+<p>This server is run by <a href=""/@neatchee"">@neatchee</a>; let me know if you have any issues or suggestions, or see inappropriate activity. If you'd like to contribute to server costs and snacks for contributors you can donate on <a href=""https://ko-fi.com/urusai_social"">ko-fi</a></p>
+
+<h3>Additional Attributions:</h3><p>The custom glitch flavors/styles 'Gekka', 'Sakura', and 'Holiday' are graciously provided via AGPL by chikorita157 of <a href=""https://sakurajima.moe"">sakurajima.moe</a> and can be found in their <a href=""https://github.com/chikorita157/mastodon-sakura"">GitHub repo</a></p>
+
+<p>'Vanilla modern' uses CSS provided by <a href=""https://codeberg.org/Freeplay/UserStyles/src/branch/main/mastodon"">Freeplay</a> while other '-modern' variants were adapted by chikorita157</p>
+
+<p>The 'Birdsite' style provided by <a href=""https://github.com/ronilaukkarinen/mastodon-bird-ui/blob/master/style.css"">ronilaukkarinen</a></p>
+
+<p><h3>DMCA Takedown Requests:</h3>
+
+<p>Only content posted by users with &quot;@urusai.social&quot; in their username is managed by this server. If you find infringing material from a user on our server, make sure it is not covered by Fair Use, then send your takedown request to this instance&#39;s admin email (neatchee@ansemreport.com). Agent Registration: DMCA-1044853</p></p>
+","A friendly and non-toxic English-first Mastodon community for anime, manga, and other otaku subjects.",URUSAI! Social,,,True,"[{'id': '9', 'text': 'No incitement of violence or promotion of violent ideologies', 'hint': ''}, {'id': '13', 'text': 'Sexually explicit, overtly lewd, or violent media must be marked as sensitive when posting. Media depicting non-consensual sex is prohibited.', 'hint': ''}, {'id': '14', 'text': ""No loli/shota/etc lewds. If I even have to question their age there are no warnings. You're simply gone."", 'hint': ''}, {'id': '15', 'text': 'No racism, sexism, homophobia, transphobia, xenophobia, ableism, casteism, or any other bigotry', 'hint': ''}, {'id': '16', 'text': 'No harassment, dogpiling or doxxing of other users anywhere in the fediverse', 'hint': ''}, {'id': '17', 'text': 'No content illegal in the US', 'hint': ''}, {'id': '18', 'text': 'Do not share intentionally false or misleading information', 'hint': ''}, {'id': '19', 'text': 'No advertisement or self-promotion accounts. Users may self-promote in moderation, but that should not be the sole purpose of the account.', 'hint': ''}, {'id': '20', 'text': 'Content Warnings must be used on posts discussing or describing common trauma-inducing topics including, but not limited to: sexual assault, domestic abuse, gore, and specific acts of violence or hatred', 'hint': ''}]","['', '', '', '', '', '', '', '', '']"
+111,111,61d968b7482824006ec0ff83,social.trom.tf,False,672,"A trade-free Friendica node. You do not have to trade your currency, attention, data, or freedom to us, in order to use it. We use it for our main project, TROM (tromsite.com), and for our personal accounts. So it is well maintained, functional, and clean. It is also part of our suite of trade-free services at TROM.tf. Check it out.","A trade-free Friendica node. You do not have to trade your currency, attention, data, or freedom to us, in order to use it. We use it for our main project, TROM (tromsite.com), and for our personal accounts. So it is well maintained, functional, and clean. It is also part of our suite of trade-free services at TROM.tf. Check it out.",social.trom.tf,,,True,[],[]
+102,102,5fde16ca88f1bd03b0d0fe1f,moresci.sale,False,750,"<p>欢迎来到 Moresci.sale（SCI站），我们欢迎任何热情、友好、乐于分享的朋友们加入，和我们一起在这个互相信任的小空间里分享这个世界的别有洞天。
+无论是艺术、书籍和学术，还是摸鱼、闲聊和吐槽，请无拘无束地在本站自由发言吧！
+<br>
+<br> 
+为了本站可以长久稳定的运行，本站实行长期的邀请注册机制，并且视在线人数和服务器的运载程度来决定是否可以增大实例的人数上限。
+<br>
+<br>
+本站点基于开源软件长毛象（Mastodon）建立。不同于微博或 Twitter，这是一个开源的去中心化社交网络。去中心化设计防止社交数据被利益集团垄断，也增加了屏蔽审查的难度。整个长毛象网络由上千个实例组成，这些实例相互连接，最终形成了一个庞大的网络，就像是一个巨大宇宙。每一个服务器都是宇宙中的一个星系，用户就是每个星系里的行星。
+<br>
+<br>
+我们启用了备用站点：<a href=""https://moresci.icu"">moresci.icu</a>
+<br>
+We have alternate site(domain) enabled: <a href=""https://moresci.icu"">moresci.icu</a>
+<br>
+<br>
+<a href=""https://jortage.com"">
+    <img
+        style=""width: 290px; height: 130px""
+        src=""https://blob.jortage.com/jortage-banner.svg""
+        alt=""This instance's media is powered by Jortage Storage Pool — lightning-fast pay-what-you-can media storage for Fediverse instances""/>
+</a></p>
+",SCI站是学术奇思妙想所创造的空间，初衷是为饱受学术之苦的小象们创造一块自留地，能够分享学术时期的心路历程从而互相安慰与互相鼓励。同时我们也欢迎所有朋友加入我们一起碎碎念，让小象们的生活哲学能够交融于此。,SCI小卖部(๑╹ヮ╹๑)ﾉ 新年灵感贩售中,,,True,"[{'id': '12', 'text': '为了保证SCI站的稳定运行我们会「严格审核你的申请」，请在注意隐私的前提下填写以下申请理由中的「至少三项」（学术方向、在SCI站想要做什么、其他实例的账号、学术计划、兴趣爱好等其他自我介绍），更详尽的申请理由可以加快我们的审核速度。'}, {'id': '16', 'text': '本站表情仅供学习交流，严禁用于商业用途，请于 1 银河年 (galactic year) 内删除。'}, {'id': '20', 'text': '本站的其他使用条款以 o3o.ca（嘟站）和m.cmx.im（长毛象中文站）的交集为准。\r\n同样的，如果您没有学术研究方向/希望讨论偏政治的内容，我们建议您重新考虑以选择更适合自己的 fedi 站点。'}]","['为了保证SCI站的稳定运行我们会「严格审核你的申请」，请在注意隐私的前提下填写以下申请理由中的「至少三项」（学术方向、在SCI站想要做什么、其他实例的账号、学术计划、兴趣爱好等其他自我介绍），更详尽的申请理由可以加快我们的审核速度。', '本站表情仅供学习交流，严禁用于商业用途，请于 1 银河年 (galactic year) 内删除。', '本站的其他使用条款以 o3o.ca（嘟站）和m.cmx.im（长毛象中文站）的交集为准。\r\n同样的，如果您没有学术研究方向/希望讨论偏政治的内容，我们建议您重新考虑以选择更适合自己的 fedi 站点。']"
+131,131,636b9b8580bb3f03b435a40b,seo.chat,False,1361,"<div class=""rich-formatting"">
+
+<h3 id=""welcome-to-seo-chat"">Welcome to SEO.chat</h3>
+<p>
+An open source, social network based on Mastodon, and focused on SEO. Managed by <a href=""https://seo.chat/@fili"">@fili@seo.chat</a>. 
+</p>
+<p>
+This Mastodon server was created and set up for the SEO community to have a place to come together, share knowledge and test things out. Its primary service is to provide a platform for the Search Engine Optimization community.
+</p>
+<p>
+The primary instance language is English.
+</p>
+<p>
+Best efforts are made to keep the server up and running, but sometimes things may be outside the admin's control, such as the managed hosting provider experiencing downtime, or <a href=""https://mastodon.social/@dannysullivan/109326516085850657"">Google inadvertently mistaking the server for phishing</a>. 
+</p>
+
+<h3 id=""code-of-conduct"">Code of Conduct</h3>
+<p>
+SEO.chat aims to be a nice community of marketers, sharing and helping each other. You are welcome to join!
+</p>
+<p>
+Basic rules:
+</p>
+<ul>
+<li>Be polite and kind. Don't be a jerk. Religious speech, hate speech, discrimination, and harassment of any kind is not tolerated on this server.</li>
+<li>Be respectful - even if you disagree.</li>
+<li>No spam or commercial advertisements.</li>
+<li>This server is intended for anyone who works in the field of Search Engine Optimization.</li>
+<li>The primary language for this server is English. Although it is fine to discuss SEO examples/cases/details related to different markets, languages and locales, make sure that the primary language of your posts are in English.</li>
+</ul>
+<p>
+And everything will be fine.
+</p>
+
+<h3 id=""application"">When applying to join</h3>
+<p>
+When you sign up to join, you will be asked to provide an answer to <em>""Why do you want to join?""</em>. Take a moment to write down your response. If your response is unrelated to SEO and is lacking the requested information, your application to join will likely be rejected.
+</p>
+<p>
+This server is committed to the <a href=""https://joinmastodon.org/covenant"">Mastodon Server Covenant</a> and is hosted in Germany.
+</p>
+
+<h3 id=""best-practices"">Best practices</h3>
+<p>
+The list below is a collection of behavior expected from SEO.chat users. If you see a user go against these best practices in a way that bothers you, please file a report and the moderators will talk to them. While these best practices are designed to be guidelines for a good communal instance, <strong>repeated malicious unwillingness</strong> to follow the best practices will be considered just like breaking a rule.
+</p>
+<ul>
+  <li>In general, use the tools provided to foster a considerate and accessible atmosphere. This includes the liberal use of content warnings (especially on potentially disturbing or controversial topics), and alt-text captioning of media files.</li>
+  <li>When possible, provide credit for creative works in your posts that are not your own.</li>
+  <li>Uninvited comments about another user's personal choices, lifestyle or family are strongly discouraged and may be considered harassment. Inappropriate sexual attention, comments about appearance and implication of physical contact will not be tolerated toward any non-consenting user.</li>
+  <li>If you post potentially graphical content or gore, use content warnings.</li>
+  <li>If you post any advertisements, use a content warning. Advertisements should not be excessive or automated.</li>
+  <li>Bots may only interact with a user when they're invited by that user to do so.</li>
+  <li>Automated posts and high-frequency posts should be <strong>unlisted</strong> (rendering visible to everybody, but not appearing on the local timeline) to keep the local timeline of SEO.chat instance a place of community dialogue and human interaction. This extends to bots, feed posters, Twitter ""retweets"" and Twitter crossposts with broken mentions (""…@twitter.com""). Crossposter accounts that stop being active participants in SEO.chat community may be removed at the discretion of the moderators.</li>
+  <li>In discussions, please remain civil, do not insult the people you're talking to. Note that irony, sarcasm, or similar modes of language don't translate well to written language and tend to escalate discussions or misunderstandings.</li>
+<li>Do not debate moderation actions in public posts. If you disagree with how a moderator enforced the rules you may direct-message the moderation team.</li>
+</ul>
+<p>
+<em>(These best practices were inspired by the Terms of bsd.network and chaos.social. Thank you!)</em>
+</p>
+
+<h3 id=""content-not-allowed"">Content not allowed</h3>
+<p>
+The following rules are a (non-exhaustive) list of behaviors and type of content that may lead to deletion of toots, silencing or suspension of accounts, at the discretion of the instance administrators, as described in the SEO.chat <a href=""/terms"">Terms</a>.
+</p>
+<ul>
+<li>Any illegal content (doxing, leaking private information, under age content, etc)</li>
+<li>Adult (pornography) content</li>
+<li>Spam</li>
+<li>Commercial advertisements</li>
+<li>Racism</li>
+<li>Political content</li>
+<li>Alt right, including under the disguise of freedom of speech</li>
+<li>Gore and extremely graphic violence, including artistic depictions</li>
+<li>National Socialism</li>
+<li>Nazism</li>
+<li>Holocaust denial</li>
+<li>Gender-critical</li>
+<li>Sex and gender discrimination</li>
+<li>Transphobia</li>
+<li>Misogyny</li>
+<li>Trolling, insulting and derogatory comments towards others using a seo.chat account</li>
+<li>Spreading falsehoods, alternative facts, anecdotal evidence, prejudice or bias towards a social group, inciting violence, circular reporting, shock-provoking content, conspiracy theories, dark patterns, deepfakes, disinformation, misinformation, sensationalism, truthiness, propaganda, rumors, hoaxes, urban myths, pseudoscience, post-truth and opinion pieces or interviews that convey any of the previous.</li>
+<li>Threats of Physical violence against any person, animal or institution.</li>
+<li>Posts in other languages than English</li>
+</ul>
+<p>
+The admin (<a href=""https://seo.chat/@fili"">@fili</a>) is maintaining this SEO.chat instance in his spare time, finances, hardware and nerves. Please don't push any of those.
+</p>
+
+<h3 id=""report"">Reporting Violations</h3>
+<p>
+Please report behavior that bothers you. The moderators will keep your report confidential.
+Accounts found to be breaking the rules will be banned without a warning.
+</p>
+
+<p>
+If you notice a post that violates the rules, please report it. It is easy to assume that someone else has already reported a post, but it is easy for everyone to feel that way and no one to report the post. If you feel personally uncomfortable with the kind of attention you’re receiving, please reach out to the moderation team.
+</p>
+
+<p>
+The moderation team will always take a pragmatic approach to every report they receive - if a problematic post isn’t explicitly called out above, yet is inappropriate for SEO.chat (not related to SEO), the post will likely be removed, and the member will be dealt with appropriately.
+</p>
+
+<h3 id=""copyright"">Copyrights</h3>
+<p>
+All product names, logos, and brands are property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.
+</p>
+
+</div>
+",The largest Search Engine Optimization (#SEO) community on Mastodon.,SEO.chat,,,True,"[{'id': '10', 'text': ""Be polite and kind. Don't be a jerk. Religious speech, hate speech, discrimination, and harassment of any kind is not tolerated on this server.""}, {'id': '11', 'text': 'Be respectful - even if you disagree.  '}, {'id': '13', 'text': 'No spam or commercial advertisements.'}, {'id': '14', 'text': 'This server is intended for anyone who works in Search Engine Optimization (SEO).'}, {'id': '16', 'text': 'The primary language for this server is English. Although it is fine to discuss SEO examples/cases/details related to different markets, languages and locales, make sure that the primary language of your posts are in English. '}, {'id': '17', 'text': 'Read the About page for best practices and content not allowed on this server.'}]","[""Be polite and kind. Don't be a jerk. Religious speech, hate speech, discrimination, and harassment of any kind is not tolerated on this server."", 'Be respectful - even if you disagree.  ', 'No spam or commercial advertisements.', 'This server is intended for anyone who works in Search Engine Optimization (SEO).', 'The primary language for this server is English. Although it is fine to discuss SEO examples/cases/details related to different markets, languages and locales, make sure that the primary language of your posts are in English. ', 'Read the About page for best practices and content not allowed on this server.']"
+151,151,637743fa80bb3f03b435a697,mastodo.fi,False,1388,,,Mastodo,,,False,"[{'id': '7', 'text': 'No rules'}]",['No rules']
+134,134,636c26e580bb3f03b435a42f,macrofurs.social,False,919,"<h2>About macrofurs.social!</h2>
+
+<p>A mastodon instance for macro/micro furries!</p>
+
+<p>Branding by <a href=""https://meow.social/@TyrKilcat"">@TyrKilcat@meow.social</a></p>
+
+<p><hr />
+<h3>Staff</h3>
+<h5>SysOp (System Operator)</h5>
+<ul>
+<li><a href=""https://macrofurs.social/@Oric"">@Oric</a></li>
+</ul>
+<h5>Administrator </h5>
+<ul>
+<li><a href=""https://macrofurs.social/@RainbowJulian"">@RainbowJulian</a></li>
+</ul>
+<hr />
+<h3>Moderation</h3>
+<p>Failure to follow any of the stated rules will lead to a warning, content removal, silencing, and/or immediate account suspension.</p>
+<p>We reserve the right to suspend and/or delete your account at our discretion.</p>
+<p>We reserve the right to take any actions towards any instances that are connected with this instance. If your instance is considered problematic by our staff, we will silence or completely suspend it.</p>
+<p>You may discuss with staff if you feel you were unfairly sanctioned (through DMs or via email if your account is suspended). However, there is no guarantee that the verdict will be revoked.</p>
+<p>Our infrastructure is hosted primarily in Germany, as such German laws do apply for the content hosted.</p>
+<hr />
+<h3>Licenses</h3>
+<p>This instance uses <a href='https://mutant.tech'>Mutant Standard emoji</a>, which are licensed under a <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</p>
+<p>Blobfox, drgn, gphn, Neofox and vlpn emoji provided by <a href=""https://mk.vulpes.one/@volpeon"">Volpeon</a>.</p>
+<p>Dragn emoji provided by <a href=""https://github.com/chr-1x/dragn-emoji"">chr-1x</a>.
+<p>Modern theme by <a href=""https://codeberg.org/Freeplay/UserStyles"">Freeplay</a></p>
+<h2>About this Server</h2>
+<p>This server is hosted via IONOS on a VPS with 8 shared CPU cores, 12GB of RAM and 240GB of SSD storage.
+Outside of system upgrades or version upgrades, there should be no downtime.</p>
+<p>Media is stored on Backblaze B2 Cloud Storage with a current limit of ~1TB.</p>
+<p>Backups are run on a weekly basis, provided by DigitalOcean.</p>
+<hr />
+<p>Additionally, E-Mail services are currently provided by SendinBlue on the free tier. This heavily limits the volume of E-Mails that can be sent per month, abuse of notifications may lead to warnings and/or account suspension.</p>
+<hr />
+<p>Any of the above may change as demand/available funds change, feel free to make a one-time or recurring donation at <a href=""https://ko-fi.com/oric_y"">my (@Oric&#39;s) ko-fi</a> or <a href=""https://patreon.com/Oric"">Patreon</a> to help keep the server running and/or upgrade specs.</p>
+<iframe id='kofiframe' src='https://ko-fi.com/oric_y/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;top:10px;background:#282c37;' height='680' width='100%' title='oric_y'></iframe>
+<p>You can check a more detailed look at our Finances here: <a href=""https://oric.dev/macrofurs_finances"">https://oric.dev/macrofurs_finances</a></p>
+<hr />
+<h2>Copyrighted Content</h2>
+<p>Should you find content that offends your copyright please submit a takedown notice <a href=""https://forms.gle/p5mi8aDPks1psJix9"">using this form</a>.</p>
+",This instance focuses on the macro/micro side of furries. We're open to both big and small~,MacroFurs.social - Where the very big and small meet,,,True,"[{'id': '1', 'text': 'Do not break any laws.\r\n\r\nUse common sense and knowledge of the laws of your country of residence.'}, {'id': '3', 'text': 'Be kind.\r\n\r\nDiscriminatory language based on gender, sexual orientation, religion, etc. is not tolerated.'}, {'id': '4', 'text': 'Be respectful.\r\nDo not make your issues with another user public. Either settle it in private or contact a moderator.'}, {'id': '5', 'text': ""Use CW (Content Warnings).\r\nMake liberal use of CW for content including but not limited to: lewd/kinky/politics (and other polarizing subjects)/drugs/game spoilers. As a rule of thumb: if it'd be awkward to explain in public, put a CW on it.""}, {'id': '6', 'text': 'Keep your avatar/banner safe. Other instances will see these, so avoid any explicit or otherwise highly suggestive content.'}, {'id': '7', 'text': 'Credit Artwork. Link back to, or at least provide the name of, the artist of any and all artwork you post. Failure to do so repeatably will result in swift account suspension.'}, {'id': '8', 'text': 'Content featuring pedophilia/zoophilia/irl snuff or gore/etc. will lead to immediate account suspension.\r\nThis includes characters that are ""technically"" of age, but look underage.'}, {'id': '10', 'text': 'While not required, alt text is highly encouraged.'}, {'id': '11', 'text': 'AI images, while allowed have to be tagged as such, do not claim the artwork as your own. Provide the AI and settings used in alt text.'}, {'id': '12', 'text': 'You alone are responsible for any and all content you post to this site. You may not post copyrighted content you do not have the right to use.'}, {'id': '13', 'text': 'Impersonating another individual without a clear indication of parody (i.e. ""Parody"" as part of the display name) will lead to swift suspension. Furthermore, parody is only permitted for lighthearted fun, mean-spirited mockery will still lead to suspension.'}, {'id': '14', 'text': 'Due to the nature of this instance, any and all users have to be of age in their respective country or at least 18 years old, whichever is higher.'}, {'id': '15', 'text': 'Migrations or new accounts onto this instance as an effort of ban/block evasion will lead to swift suspension.'}, {'id': '16', 'text': 'More rules may be added or changed in the future as necessary, this will (usually) be accompanied by an announcement and reminder to review the rules. '}, {'id': '17', 'text': ""Due to an increase of spam accounts as of late we require approval for sign-ups. Please provide a simple reason for your sign-up to ensure it's not automated.""}]","['Do not break any laws.\r\n\r\nUse common sense and knowledge of the laws of your country of residence.', 'Be kind.\r\n\r\nDiscriminatory language based on gender, sexual orientation, religion, etc. is not tolerated.', 'Be respectful.\r\nDo not make your issues with another user public. Either settle it in private or contact a moderator.', ""Use CW (Content Warnings).\r\nMake liberal use of CW for content including but not limited to: lewd/kinky/politics (and other polarizing subjects)/drugs/game spoilers. As a rule of thumb: if it'd be awkward to explain in public, put a CW on it."", 'Keep your avatar/banner safe. Other instances will see these, so avoid any explicit or otherwise highly suggestive content.', 'Credit Artwork. Link back to, or at least provide the name of, the artist of any and all artwork you post. Failure to do so repeatably will result in swift account suspension.', 'Content featuring pedophilia/zoophilia/irl snuff or gore/etc. will lead to immediate account suspension.\r\nThis includes characters that are ""technically"" of age, but look underage.', 'While not required, alt text is highly encouraged.', 'AI images, while allowed have to be tagged as such, do not claim the artwork as your own. Provide the AI and settings used in alt text.', 'You alone are responsible for any and all content you post to this site. You may not post copyrighted content you do not have the right to use.', 'Impersonating another individual without a clear indication of parody (i.e. ""Parody"" as part of the display name) will lead to swift suspension. Furthermore, parody is only permitted for lighthearted fun, mean-spirited mockery will still lead to suspension.', 'Due to the nature of this instance, any and all users have to be of age in their respective country or at least 18 years old, whichever is higher.', 'Migrations or new accounts onto this instance as an effort of ban/block evasion will lead to swift suspension.', 'More rules may be added or changed in the future as necessary, this will (usually) be accompanied by an announcement and reminder to review the rules. ', ""Due to an increase of spam accounts as of late we require approval for sign-ups. Please provide a simple reason for your sign-up to ensure it's not automated.""]"
+147,147,63756fe580bb3f03b435a641,genealysis.social,False,543,"<p>This Mastodon server is for anyone interested in #Genealogy. It is open to anyone, however it helps if you have a keen interest in the topic as the 'local' feed will be Family Research heavy.</p>
+
+<p>Genealysis.social is run as a free service, but if you ever wished to make a small donation you can find details <a href=""https://genealysis.com/donate"" target=""_blank""> here.</a>
+ 
+<p>The site abides by the <a href=""https://joinmastodon.org/covenant"">Mastodon Server Covenant</a> keeping you safe and secure.</p>
+
+<p>Service based in the UK</p>
+",Social interaction for anyone interested in #Genealogy.,Genealysis.social,,,True,"[{'id': '1', 'text': 'Be kind, courtesy and respectful.  '}, {'id': '2', 'text': 'No discrimination, including (but not limited to) racism, sexism, homophobia or transphobia.'}, {'id': '3', 'text': 'No incitement of violence or promotion of violent ideologies.'}, {'id': '4', 'text': 'No spam. This includes commercial advertising, promotional campaigns, and SEO.'}, {'id': '5', 'text': 'No impersonation of other individuals, public figures or organisations.'}, {'id': '6', 'text': 'No content that is illegal in the United Kingdom'}, {'id': '7', 'text': 'Absolutely NO sexuality explicit content.  This includes, but not limited to, images/videos/chat around sexual acts.  There are other places on the internet for this.'}, {'id': '8', 'text': 'Your primary reason for having an account on this server should be your interest in Family History and Genealogy'}, {'id': '9', 'text': 'Accounts will be deleted one month after registration if the post count remains zero.'}]","['Be kind, courtesy and respectful.  ', 'No discrimination, including (but not limited to) racism, sexism, homophobia or transphobia.', 'No incitement of violence or promotion of violent ideologies.', 'No spam. This includes commercial advertising, promotional campaigns, and SEO.', 'No impersonation of other individuals, public figures or organisations.', 'No content that is illegal in the United Kingdom', 'Absolutely NO sexuality explicit content.  This includes, but not limited to, images/videos/chat around sexual acts.  There are other places on the internet for this.', 'Your primary reason for having an account on this server should be your interest in Family History and Genealogy', 'Accounts will be deleted one month after registration if the post count remains zero.']"
+108,108,61018cddecdc3c0068754b93,feuerwehr.social,False,1481,"<p>Diese Instanz wird betrieben von<br />
+Tim Korves, c/o Korves.Net, Kirchhellener Str. 22, 46236 Bottrop, Deutschland<br />
+<br />
+Betrieben wird diese Instanz in der Infrastruktur der Korves.Net, die Datenschutzinformationen können <a href=""https://korves.net/datenschutz/"" target=""_blank"">hier</a> eingesehen werden.<br />
+<br />
+Team:<br />
+<a href=""/@tmkrvs"">@tmkrvs</a><br />
+<a href=""/@benjamin"">@benjamin</a><br/>
+<a href=""/@irls_lausitz"">@irls_lausitz</a></p>
+",Eine Mastodon Instanz für Feuerwehren sowie deren Mitglieder und Förderer.,Feuerwehr.Social,,,True,"[{'id': '1', 'text': 'Die Instanz ""Feuerwehr.Social"" soll den Feuerwehren in der DACH-Region eine Heimat sein. Gerne sind wir auch offen für Mitarbeiter und Mitglieder von Feuerwehren, Mitarbeitern und deren Arbeitgebern, sofern diese für Feuerwehren tätig sind.'}, {'id': '2', 'text': 'Wir sind generell eine offene Instanz, jedoch möchten wir darauf hinweisen, dass wir hier keinen Rassismus, Sexismus, *phobie noch extremistische Inhalte dulden.'}, {'id': '3', 'text': 'Bei mehrfachem Verstoß behalten wir uns eine Sperrung des betroffenen Accounts vor. Ebenso werden wir bei Bedarf die Strafverfolgungsbehörden hinzuziehen.'}]","['Die Instanz ""Feuerwehr.Social"" soll den Feuerwehren in der DACH-Region eine Heimat sein. Gerne sind wir auch offen für Mitarbeiter und Mitglieder von Feuerwehren, Mitarbeitern und deren Arbeitgebern, sofern diese für Feuerwehren tätig sind.', 'Wir sind generell eine offene Instanz, jedoch möchten wir darauf hinweisen, dass wir hier keinen Rassismus, Sexismus, *phobie noch extremistische Inhalte dulden.', 'Bei mehrfachem Verstoß behalten wir uns eine Sperrung des betroffenen Accounts vor. Ebenso werden wir bei Bedarf die Strafverfolgungsbehörden hinzuziehen.']"
+220,220,637b3063d94dca7f11e7b7c7,masto.bike,False,798,"<p><hr></p>
+
+<p>Administration : <a href=""/@alter_unicorn"">@alter_unicorn</a> <a href=""/@cyrille"">@cyrille</a></p>
+
+<p>Modération : <a href=""/@alter_unicorn"">@alter_unicorn</a> <a href=""/@beatricejess"">@beatricejess</a> <a href=""/@Cecile_reynaud"">@Cecile_reynaud</a> <a href=""/@cyrille"">@cyrille</a> <a href=""/@julie"">@julie</a></p>
+
+<p>Logo de l'instance généré avec Stable Diffusion (prompt : ""A mastodon riding a bike"")</p>
+
+<p>
+Infos sur la vie du serveur, le financement, la technique et les technos utilisées, les fournisseurs et les mises à jour : https://blog.masto.bike
+</p>
+","Cette instance Mastodon est ouverte à toutes et tous, dans le respect des règles barrière (https://masto.bike/about/more). Faire du vélo ou juste envisager d'essayer est un plus ;)
+",masto.bike,,,True,"[{'id': '5', 'text': 'Les propos ou idées racistes, xénophobes, islamophobes, antisémites, misogynes, sexistes, homophobes, transphobes ne sont pas les bienvenus. Comme tous les propos *-phobes ou *-istes en général.\r\n'}, {'id': '6', 'text': 'Utilisez un «\xa0content warning\xa0» quand vous relatez accidents, incivilités, réactions choquantes ou dangereuses.'}, {'id': '7', 'text': ""Le spam n'est pas autorisé ni bienvenu, pareil pour le mansplaining.""}, {'id': '8', 'text': 'Les comptes associatifs sont chaleureusement bienvenus. Les inscriptions sont interdites aux sociétés commerciales ou organismes à but lucratif.'}]","['Les propos ou idées racistes, xénophobes, islamophobes, antisémites, misogynes, sexistes, homophobes, transphobes ne sont pas les bienvenus. Comme tous les propos *-phobes ou *-istes en général.\r\n', 'Utilisez un «\xa0content warning\xa0» quand vous relatez accidents, incivilités, réactions choquantes ou dangereuses.', ""Le spam n'est pas autorisé ni bienvenu, pareil pour le mansplaining."", 'Les comptes associatifs sont chaleureusement bienvenus. Les inscriptions sont interdites aux sociétés commerciales ou organismes à but lucratif.']"
+263,263,637b3440d94dca7f11e7c6a2,sukebe.hostdon.ne.jp,False,1078,"<h1>sukebe.hostdon.ne.jpについて❤</h1>
+
+<p>sukebe.hostdon.ne.jpはsukebeなことがなんでもできちゃうMastodonサーバです❤</p>
+
+<h2>使い方❤</h2>
+
+<p>Tw●tterと同じです❤</p>
+
+<h2>おすすめのクライアントアプリ❤</h2>
+
+<p>Androidその他に関しては募集中です❤</p>
+
+<h3>iOS</h3>
+
+<h4>Metatext</h4>
+
+<p>https://metabolist.org/</p>
+
+<h2>その他❤</h2>
+
+<p>カバーイメージやfavicon、マスコットキャラクターの画像を募集中です❤</p>
+",sukebeなことができちゃうMastodonサーバです❤,Sukebe,,,True,"[{'id': '3', 'text': '他の方の迷惑にならないようsukebeを楽しんでください❤'}, {'id': '4', 'text': '2次でも3次でもリビドーに従ってください❤'}]","['他の方の迷惑にならないようsukebeを楽しんでください❤', '2次でも3次でもリビドーに従ってください❤']"
+109,109,613d2623ecdc3c0068754bd7,kazv.moe,False,830,Just another cute planet. | 又是一个可爱的星球。,,planet kazv | 飞升星,,,True,Data not available,"['data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string']"
+227,227,637b30cbd94dca7f11e7b975,pleroma.in.th,False,1131,Pleroma Thailand - ชุมชน Pleroma ในประเทศไทย,,pleroma.in.th,,,True,Data not available,"['data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string']"
+195,195,637b2dd6d94dca7f11e7ada3,mastodon.hams.social,False,653,,A home on the Fediverse for Amateur Radio operators.,mastodon.hams.social,,,True,"[{'id': '6', 'text': ""We suggest using your radio callsign as your username. If you don't have one yet, want to avoid doxing, or are a SWL that's ok too.""}, {'id': '7', 'text': 'Anyone is welcome to report inappropriate behavior, they will be listened to, and action will be taken. This will be anything from a warning, to banning. Moderation decisions will be made using the Paradox of Tolerance.'}, {'id': '8', 'text': '\r\nExpect anything you post on mastodon.hams.social to be public, including direct messages, that way you can never be surprised or embarrassed.\r\n'}, {'id': '9', 'text': '\r\nAny images or videos uploaded to mastodon.hams.social MUST have an appropriate textual description. If you need help with this, please ask!\r\n'}, {'id': '10', 'text': 'Your right to free speech does not supersede my right to call you out and kick you out for being a dick.'}, {'id': '11', 'text': 'Please be respectful of others. Their age, gender, sexual orientation, gender identity, background, preference for transistors over valves, etc. are all _NOT_ reasons to be a twit.\r\n'}, {'id': '13', 'text': 'No spam, no commercial advertising (occasional personal listings are OK), no sexually explicit or violent media (yes that includes pictures of your gun), no threats of violence.'}, {'id': '14', 'text': 'No illegal content - this server is hosted in California, United States.'}, {'id': '15', 'text': 'When apply for an account, if you\'ve actually read these rules, please end your ""Why do you want to join?"" with the phrase ""badger parsnips"".'}]","[""We suggest using your radio callsign as your username. If you don't have one yet, want to avoid doxing, or are a SWL that's ok too."", 'Anyone is welcome to report inappropriate behavior, they will be listened to, and action will be taken. This will be anything from a warning, to banning. Moderation decisions will be made using the Paradox of Tolerance.', '\r\nExpect anything you post on mastodon.hams.social to be public, including direct messages, that way you can never be surprised or embarrassed.\r\n', '\r\nAny images or videos uploaded to mastodon.hams.social MUST have an appropriate textual description. If you need help with this, please ask!\r\n', 'Your right to free speech does not supersede my right to call you out and kick you out for being a dick.', 'Please be respectful of others. Their age, gender, sexual orientation, gender identity, background, preference for transistors over valves, etc. are all _NOT_ reasons to be a twit.\r\n', 'No spam, no commercial advertising (occasional personal listings are OK), no sexually explicit or violent media (yes that includes pictures of your gun), no threats of violence.', 'No illegal content - this server is hosted in California, United States.', 'When apply for an account, if you\'ve actually read these rules, please end your ""Why do you want to join?"" with the phrase ""badger parsnips"".']"
+63,63,5ad44cfb804e241fcb2d0c80,post.lurk.org,False,664,"<h2>What is LURK?</h2>
+
+<p>LURK is both a collective and a community of communities. We host, facilitate and archive discussions around net- and computational culture and politics, proto- and post-free culture practices, (experimental) (sound) (new media) (software) art, and things like that…</p>
+
+<p>We’re volunteer run and wish to:</p>
+
+<ul><li>give the opportunity for individuals, groups and collectives working on net- and computational culture to have a presence outside of corporate silos, surveillance capitalism and closed facebook groups;</li>
+<li>offer a place where discussions and resources on self-hosting and alternative network infrastructures can exist outside of libertarian and pepe discourses;</li>
+<li>provide ourselves with something high-quality to procrastinate with, share good memes and eat pop-corn;</li>
+<li>etc.</li></ul>
+
+This is our Mastodon instance, but <a href=""https://lurk.org"">we also run a couple other things</a>.
+
+<h2>Is this for you?</h2>
+The relevant themes/practices/topics at LURK are art, sound and design practices that engage with:
+<ul>
+<li>net and computational politics/culture/critique/history</li>
+<li>play, gaming, modding</li>
+<li>art servers, self-hosting, networked infrastructures including alternative social media and networks
+<li>generative and algorithmic processes</li>
+<li>proto-, post- FLOSS development, publishing and licensing</li>
+<li>digital and networked media such as live coding, net art, software art</li>
+<li>post-digital practices including media archeology/reflective nostalgia</li>
+<li>electronics, microcontrollers, DIY/DIWO making, hardware prototyping</li> 
+<li>redefining technology in relation to sustainability and ecology like repair culture, permacomputing, collapse informatics</li>
+<li>graphic and visual design, zines, experimental publications, print making</li> 
+<li>alternative economic models, modes of organization and production</li>
+</ul>
+
+<p>While these topics expand beyond the scope of art, sound and design practices, we want LURK to be specifically welcoming for art, sound and design practitioners, from makers to writers.</p>
+","A fediverse community for discussions around cultural freedom, experimental, new media art, net and computational culture, and things like that.",post.lurk.org,,,False,"[{'id': '13', 'text': 'You agree to the LURK Terms of Service. By using LURK you agree to first read and stick to our TOS: https://lurk.org/TOS.txt '}, {'id': '21', 'text': 'Help keep sealions at bay!\r\n\r\nLURK is here for discussions, also the difficult ones. However, for particularly baity topics including cryptocurrency, NFT, Vim/Emacs and ${OUTRAGE_OF_THE_DAY} please use the local-only function to prevent attracting bad faith actors from across the network.'}, {'id': '22', 'text': ""Keep the local timeline accessible and tidy! \r\nLocal TL is our only truly shared space. Make top-level posts public and subsequent posts in the same thread 'unlisted' unless they are very important or updated at slow pace across time, like a slowly updated research log or slowly built collection.""}, {'id': '23', 'text': 'T2F crossposting is spammy, F2T is praxis!\r\nNo Twitter-to-Fediverse cross posting.However, feel free to do Fediverse-to-Twitter.'}, {'id': '24', 'text': 'Help avoid hellthreads!\r\nIf there is a discussion with many participants tagged, and some are no longer answering: Consider untagging them, especially when the discussion veers off in a completely different direction or when participants request you to do so.'}, {'id': '25', 'text': 'Make use of Content Warnings.\r\n\r\nMastodon has a strong culture of using those, especially with regards topics such as suicide, self-harm, abuse, mental health and the latest twitter or political outrage. However, they are also useful to for example summarize longer posts.'}, {'id': '26', 'text': 'Help make this space more accessible. \r\nUse the available accessibility tools. For instance to provide a summary/description for images. Yes, even for your obscure memes.'}, {'id': '27', 'text': 'Be a kind host.\r\n\r\nIf you make use of your invites to get new people to LURK, you are their point of contact! Show them around, introduce them to others who they might connect with and make sure they feel at home and make other LURKers feel at home as well.'}]","['You agree to the LURK Terms of Service. By using LURK you agree to first read and stick to our TOS: https://lurk.org/TOS.txt ', 'Help keep sealions at bay!\r\n\r\nLURK is here for discussions, also the difficult ones. However, for particularly baity topics including cryptocurrency, NFT, Vim/Emacs and ${OUTRAGE_OF_THE_DAY} please use the local-only function to prevent attracting bad faith actors from across the network.', ""Keep the local timeline accessible and tidy! \r\nLocal TL is our only truly shared space. Make top-level posts public and subsequent posts in the same thread 'unlisted' unless they are very important or updated at slow pace across time, like a slowly updated research log or slowly built collection."", 'T2F crossposting is spammy, F2T is praxis!\r\nNo Twitter-to-Fediverse cross posting.However, feel free to do Fediverse-to-Twitter.', 'Help avoid hellthreads!\r\nIf there is a discussion with many participants tagged, and some are no longer answering: Consider untagging them, especially when the discussion veers off in a completely different direction or when participants request you to do so.', 'Make use of Content Warnings.\r\n\r\nMastodon has a strong culture of using those, especially with regards topics such as suicide, self-harm, abuse, mental health and the latest twitter or political outrage. However, they are also useful to for example summarize longer posts.', 'Help make this space more accessible. \r\nUse the available accessibility tools. For instance to provide a summary/description for images. Yes, even for your obscure memes.', 'Be a kind host.\r\n\r\nIf you make use of your invites to get new people to LURK, you are their point of contact! Show them around, introduce them to others who they might connect with and make sure they feel at home and make other LURKers feel at home as well.']"
+182,182,637b2ca0d94dca7f11e7a8c1,dudu.best,False,594,Just another Pleroma site ~,,Ðu͓̽Ðu.Be̾st,,,False,Data not available,"['data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string']"
+107,107,609c646388f1bd03b0d0ff5d,stereophonic.space,False,955,Stereophonic Space: the casual and the classy,,Stereophonic,,,False,Data not available,"['data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string']"
