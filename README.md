@@ -1,5 +1,5 @@
 <h1>Analyzing Content Moderation on Mastodon</h1>
-<h2>Independent Study under Professor YY Ahn</h2>
+<h2>Independent Study</h2>
 <h3>Abstract</h3>
 <p>This project aims to analyze the moderation policies on Mastodon. 
   Mastodon rose to fame as a platform in October 2022. 
