@@ -1,0 +1,140 @@
+cleaned_rules,category
+"['Take all rules as guidelines and act accordingly. In doubt feel free to address @buggie@serenityos.social, @linusg@serenityos.social or @networkexception@serenityos.social directly. The administrator team always has the last word about enforcement of rules and does not have to explain actions taken.', ",moderation
+"Do the best you can in communication, try your best to keep a positive attitude, and try to not drag others down if/when you're having a bad day., ",general respectfulness
+"'No content condoning or advocating for the oppression of members of marginalised groups, or general discrimination of groups based on characteristics like gender, race, disabilities, nationality, education, religion etc.', ",hate speech
+"No harassment, stalking, mobbing, deadnaming, misgendering, contacting users who have made it clear they do not wish to be contacted.', ",harassment
+"No content that is illegal in Germany.', ",illegal
+"'Unlike on the Discord server, the discussion of politics is explicitly allowed here, but please keep things civil.', ",??
+"'Provide credit for creative works that are not your own.', ",copyright
+"'While we do appreciate all kinds of content you post on here, consider other instances for NSFW posts. If you still wish like publishing on here, use descriptive content warnings.']","content warning, sexual content"
+"['Geht nett und freundlich miteinander um und respektiert einander.\r\nEs werden keine Beleidigungen und Herabsetzungen akzeptiert.\r\n', ",
+"Es ist eigentlich klar, trotzdem sei nochmal darauf hingewiesen: Das Internet ist kein rechtsfreier Raum. Auch hier und auf diesem Server gelten die deutschen und europäischen Gesetze und Verordnungen!', ",
+"'Es ist nicht erlaubt, sich mit Wegwerf- bzw. temporären E-Mailadressen an diesem Server anzumelden.\r\nDer Betreiber dieses Mastodonservers hat das Recht, entsprechende Konten zu löschen.', ",
+"'English:\r\nBe nice and friendly to each other and respect each other.\r\nNo insults or put-downs are accepted.', ",general respectfulness
+"'English: It is actually clear, but it should be pointed out again: The Internet is not a legal vacuum. German and European laws and regulations also apply here and on this server!', ",illegal
+"'English: It is not permitted to log in to this server with disposable or temporary e-mail addresses.\r\nThe operator of this Mastodon server has the right to delete such accounts.', ",moderation
+"'Español: Sé amable y cordial con los demás y respétate mutuamente.\r\nNo se aceptan insultos ni menosprecios.\r\n', ",
+"'Español: En realidad está claro, pero conviene volver a señalarlo: Internet no es un vacío legal. Las leyes y normativas alemanas y europeas también se aplican aquí y en este servidor.', ",
+'Español: No está permitido iniciar sesión en este servidor con direcciones de correo electrónico desechables o temporales.\r\nEl operador de este Mastodon servidor tiene derecho a eliminar dichas cuentas.'],
+"['Diese Mastodon-Instanz wird als privates Hobby ohne Garantie für Verfügbarkeit betrieben. Es besteht kein Anspruch auf jederzeitigen funktionierenden Zugang zum Konto. Ich werde geplante Downtimes vorab über den Account ""Isidor"" ankündigen.', ",
+"' Auf dieser Instanz sind alle Nutzerinnen und Nutzer willkommen, egal welcher politischen, religiösen oder sexuellen Ausrichtung und geschlechtlicher Identität. ', ",
+"'Wenn aber der Eindruck entsteht, dass hier jemand beleidigend, diskriminierend oder schlicht nervtötend wird, behalte ich mir das Recht vor, auch ohne Ankündigung Accounts zu sanktionieren oder zu deaktivieren.', ",
+"'Ich gehe davon aus, dass alle Nutzerinnen und Nutzer dieser Instanz in der Lage sind, sich selbst gegenüber anderen zur Wehr zu setzen und Querelen unter einander zu klären. Die Meinungsfreiheit erlaubt auch hitzige Debatten. Werden Grenzen überschritten, gilt jedoch Ziffer 3.', 'Sollten deine Posts Themen wie Gewalt, sexuell eindeutige Inhalte, Tod/Krankheit oder politische Inhalte während Kriegszeiten behandeln, besonders wenn diese Themen negativ oder kontrovers sind, ist es unerlässlich, die ""Inhaltswarnung"" (Content Warning / CW) Funktion zu nutzen.']",
+"['All users must be 18 years of age or older.', ",age restriction
+"No accounts may be made for bots or corporate entities. (External accounts for bots or corporate entities followed by users on this instance will be Limited.)',",bots
+" 'All avatar and header images must be SFW. (They must follow the rest of the Acceptable Content Policies, and cannot be put behind a Content Warning or marked as sensitive.)',",content warning  
+" 'All content and conduct must comply with the laws of Japan, where this instance is hosted.', ",illegal 
+"No hate speech of any kind, period. This is not a place for any defamatory, threatening, or harmful messages. By the same logic, any violent calls to action or language that seems to encourage harm is not welcome. (See https://joinmastodon.org/covenant )', ",hate speech
+"Use Content Warnings (CW) for anything others may find troubling. CWs are required for heated political or socio-economic topics, angry rants, or depressing topics. CWs are recommended for excessively long posts to keep the timelines clean. It is also recommended to use hashtags.', ",content warning  
+"'Respect Copyright protections. Any media subject to Copyright must be posted by the Copyright owner (typically the artist) or with license from the Copyright owner (permission from the artist provided, typically the commissioner or someone whose character is in the art). Also, please credit artists.', ",copyright
+"'Explicit material (ex. porn or gore) must be suitably censored (in compliance with the law where this instance is hosted). Explanations of what constitutes adequate censorship are easy to find on the internet. (Here is one from Pixiv: https://www.pixiv.net/terms/?page=guideline )', ",sexual content
+"'All NSFW content posted from rodent.life must use Content Warnings. NSFW media must use ""Mark as Sensitive"" where applicable (which should happen automatically when you have a content warning applied).', ",content warning
+"'No NSFW photos are permitted. This includes sexually explicit imagery and photos of graphic harm. Any human in a photo must be 18 years of age or older. ', ",content warning
+"No realistic CGI renders involving minors in sexual situations. By the same logic, no hyper-realistic, drawn images of minors in sexual situations. ',",sexual content
+" 'No fully AI-generated art. (This may change in the future if there is a way to verify that the AI was not trained with stolen art, but that seems unlikely at this time.)', ",AI-generated content
+"'This instance predominantly exists for furries. If an account’s content never has to do with furries or furry art, that account may be Limited or Suspended at administration’s discretion. ', ",instance restriction
+"'This is a private server. As such, the rules are open to interpretation by the administration. Furthermore, content may be removed at the administration’s discretion in an effort to maintain a safe and welcoming environment. ']",moderation
+['Be excellent to each other'],general respectfulness
+"['No use of sexualized language or imagery', ",sexual content
+"No personal attacks', ",
+"No trolling or insulting/derogatory comments', ",harassment
+"'No public or private harassment', ",harassment
+"No publishing other's private information, such as physical or electronic addresses, without explicit permission, ",identity theft
+"'No other unethical or unprofessional conduct', ",??
+'No content which is illegal in Germany'],illegal
+"['Verzichte auf Rassismus, Sexismus, Homofeindlichkeit, Transfeindlichkeit, Fremdenfeindlichkeit oder Diskriminierung aufgrund der sozialen Herkunft. ',",
+" 'Verzichte auf Belästigung, Mobbing oder Bloßstellung (Doxxing) von Personen.', ",
+"'Verbreite keine absichtlich falschen oder irreführenden Informationen oder Verschwörungserzählungen.', ",
+"'Verbreite keine in Deutschland rechtswidrigen Inhalte.', ",
+"'Nutze für potenziell problematische oder kontroverse Themen die Funktion ""Inhaltsnotizen"" (teilweise als ""Inhaltswarnung"", ""Content Warning"" oder ""CW"" bezeichnet)', ",content warning
+"'Schwärme in der Begründung, wieso du ein Konto für diese Instanz haben möchtest, von deinem Lieblingsort in der Region. (Es gibt hierbei kein richtig und falsch, es ist lediglich zur Unterscheidung von echten Menschen und Bots.)']",
+"['You will not engage in any form of harassing, discriminatory, threatening, or offensive speech or behavior including but not limited to race, gender identity and expression, national origin, disability, marital status, age, sexual orientation, or other protected categories.', ",
+'Be yourself. Be genuine. Make connections. Have fun. We welcome you to post about topics outside of gaming as well!'],
+"['Citlivý obsah - všeobecný\r\nFotografie a média zobrazující mrtvé osoby či zvířata, utrpení lidí či zvířat, explicitní násilí na lidech či zvířatech nebo pornografický obsah musí být označené jako Citlivý obsah (CW).', ",
+"'Citlivý obsah - komerční. Komerční sdělení musí být označeno jako Citlivý obsah (CW), a to zejména pokud obsahuje erotický obsah. Označení erotiky nebo nahoty bez komerčního sdělení za citlivý obsah je pouze doporučené.', ",
+"'Netiquette. Je povinné dodržovat netiketu a zásady nekonfliktní mezilidské komunikace. Je zakázáno jiným uživatelům vyhrožovat, vydírat je, nebo je jiným způsobem obtěžovat; rovněž je zakázáno k těmto činům nabádat ostatní uživatele.', ",
+"'Zákaz hate speech a propagace totality. Je zakázáno kohokoli urážet na základě pohlaví, rasy, barvy pleti, jazyka, víry, náboženství či sexuální orientace. Je zakázána jakákoli podpora hnutí či politických stran směřujících k potlačení práv a svobod člověka.', 'Zakázaná témata: Je zakázáno schvalovat trestné činy nebo k nim ostatní uživatele nabádat. Je zakázána podpora a propagace terorismu. Je zakázáno popírat, zpochybňovat, schvalovat či ospravedlňovat holocaust, genocidy a válečné zločiny.', ",
+"'Přímé zasílání obsahu jiné osobě:  Bez předchozího výslovného souhlasu je zakázáno přímé zasílání  nevyžádaných komerčních nabídek či erotického nebo pornografického obsahu jiné osobě.', ",
+"'Citlivý obsah - dezinformace. Pokud si nejste zcela jisti, zda obsah, který šíříte, náhodou nemůže být označen jako dezinformace, označte ho raději předem jako citlivý obsah (CW). Jinak může být smazán.']",
+"['Personal attacks, derogatory remarks or discriminatory behaviour towards others based on ANY personal characteristics will not be tolerated!',",hate speech
+" 'Content that is considered obscene, libelous, hate speech or otherwise unlawful under Canadian law will be removed immediately and the user who posted it banned without warning', ","content warning, illegal, hate speech"
+"'Users are responsible for vetting articles/links they post or share. Users who deliberately and repeatedly post ""fake news"" without stating it is as such will be suspended or banned.', ",misinformation
+"'Bots are allowed only if they do not clutter the timeline, perform mass follows or otherwise engage with other users without their permission. Please contact site administration before using bots to be sure they are appropriate or the bot may be banned!', ",bots
+"'Accounts that mislead or misrepresent the true identity of a user will be banned immediately (no fake celebrities allowed unless the profile explicitly states it is fake!)', ",??
+"'Advertisements of any kind without the express written permission of site administration are PROHIBITED. Please ask permission before posting anything of a commercial nature.', ",ads
+"'Use ""Content Warnings"" for sensitive topics. Such topics include lewd/sexual content, expressly political discussions, health/sickness/disorders, pictures/media that could be disturbing or harmful (such as flashing images or loud sounds). Willful violators will have accounts silenced.']",content warnings
+"['Sexually explicit or violent media must be marked as sensitive when posting.', ",sexual content
+"'Hate speech is not tolerated. This includes racism, misogyny, transphobia, homophobia, casteism and religious intolerance such as anti-semitism. This list is illustrative but not exhaustive.', ",hate speech
+"'No incitement of violence or promotion of violent ideologies.', ",violence
+"'No harassment, dogpiling, brigading, or doxxing of other users.', ","harassment, doxxing"
+"'Do not share intentionally false or misleading information.', ",misinformation
+"'Do not post illegal content such as mass copying of copyrighted data, child pornography, revenge porn, etc.']","illegal, copyright, sexual content"
+"['No racism, sexism, homophobia, transphobia, xenophobia, or casteism.', ",hate speech
+"'No content illegal in the United States.', ",illegal
+"'No harassment.', ",harassment
+"'NSFW media must be marked as sensitive.', ","sexual content, content warning"
+'No violent rhetoric or endorsement of violence.'],violence
+"['No Nudity without NSFW tag', ","sexual content, content warning"
+"'No Pornography without NSFW tag', ","sexual content, content warning"
+"'No Sexism', ",hate speech
+"'No Racism', ",hate speech
+"'No Spam', ",hate speech
+"'No Hate Speech', ",spam
+"'No Harrassment', ",hate speech
+'No Advertising (Except for personal services such as art commissions)'],harassment
+"['Keine Belästigung, Stalking oder Doxxing.', ",ads
+"'Nicht die eigenen privaten Daten teilen.', ",doxxing
+"'Sensible Beiträge (z.B. Gewalt, Trauma etc.) mit der eingebauten Inhaltswarnung-Funktion versehen.', ",
+'Übergriffiges Verhalten bitte melden.'],
+"[""stay respectful to those around you, generally just bein' chill with others will let others be chill with us"",",geb
+" ""dont post straight up nsfw, i could care less if you follow it but i am likely liable for the stuff you post and i don't really wanna deal with that"", ",content warning
+"""try and kinda sorta follow fediverse etiquette? put stuff that might set someone off behind a CW, n' try not to spam the timelines too much (if you need to post a huge thread, set the replies to unlisted!)"",","content warning, spam"
+" ""oh yeah, and finally, don'tpostanythingillegaldon'tpostanythingillegal *DON'T* *POST* *ANYTHING* *ILLEGAL!!!!!!!!!!!*""]",illegal
+"['No nazis', ",propaganda
+"'No racism, sexism, homophobia, transphobia, xenophobia, or casteism',",hate speech
+" 'No harassment, dogpiling or doxxing of other users', ","harassment, doxxing"
+"'No incitement of violence or promotion of violent ideologies', ",violence
+"'Do not share intentionally false or misleading information', ",misinformation
+"'Violent or otherwise offensive media must be marked as sensitive when posting', '","violence, content warning"
+"No content illegal in Sweden', ",illegal
+Don't be an asshole. Play nice or play somewhere else.],general respectfulness
+"['Keine Diskriminierungen, Rassismus, Sexismus, Homophobie oder Transphobie', ",hate speech
+"'Keine NSFW Inhalte ohne NSFW Kennzeichnung', 'Keine Belästigung / Beleidigung', ",
+"'Kein Inhalt der in Deutschland oder ner Niederlande illegal ist', 'Im Allgemeinen: Seid einfach nett zueinander und haltet euch ans Gesetz']",
+"['Always be kind', ",general respectfulness
+"'Proudly be who you are', ",??
+"'Be creative, whimsical, weird, inventive, magical, ... human', ",random
+"'Aim to make the world a better place for everyone', ""!!! IMPORTANT !!! This Mastodon instance is for friends and families of Geert Bevin. If you're not either, your registration will be rejected. You can find other servers at https://joinmastodon.org and still connect through the Fediverse.""]",
+"['Les propos et contenus publiés sur cette instance doivent respecter les lois en vigueur dans chaque pays.', ",
+"Tout propos ou contenu sexiste, raciste, lgbtphobe, xénophobe peut faire l'objet d'une suppression de la part d'un modérateur.]",hate speech
+"['no bigotry (should be obvious)', ",hate speech
+"please generally keep it civil and don't be a nuisance. don't get into slap fights, especially with people on other servers. we don't want to get defederated., ",general respectfulness
+'please mark nsfw as sensitive'],content warning
+"['El código de conducta completo puedes encontrarlo en https://home.chilemasto.casa/coc/. También disponible en el about', ",
+"'Esta comunidad no tolerará el acoso de ningún tipo.', ",
+"'Les usuaries deben ser mayores de 18 años.', ",
+"'Los bots están permitidos, mientras el contenido que publiquen no este federado, para evitar spam en las líneas federadas.', ",
+"'Las cuentas dedicadas solo a hacer publicidad no están permitidas', ",
+"'El contenido NSFW (Not Safe for Work) está permitido, pero sólo bajo un aviso de contenido (CW).', 'Está prohibida la discriminación. Básicamente, no se permite ser opresivo con la gente marginalizada.', ",
+"'No se permite apología al fascismo ni nazismo', ",
+"'No se permite contenido pedofílico ni zoofilico, ni siquiera ficticio.', 'No se permite el contenido ilegal en Chile.']",
+"['Sexually explicit or violent media should not be posted, there are other options better suited for this.', ","sexual content, content warning"
+"'No spam or advertising.', ",spam
+"'No racism, sexism, homophobia, transphobia, xenophobia, or casteism.', ",hate speech
+"'No incitement of violence or promotion of violent ideologies.', ",violence
+"'No harassment, dogpiling, or doxxing of other people.', ","harassment, doxxing"
+"'No illegal content.', ",illegal
+"Use a content warning when sharing news items or politically related media. We're here to be social and respectful, politics can be an unwieldy beast and we'd really appreciate not dealing with it., ",content warning
+"When creating an account here note the service is still small and self-funded. I'm don't soliciting payments for this service and intend to keep this running as best as I can. Service interruptions can happen and in this case, I will try my best to bring everything back online as soon as possible.]",
+"['Be Nice', ",
+"'Be open minded, foster friendly conversation and embrace new ideas', ",
+'No hate speech'],
+"['Siga o Código de Conduta da Instância. Os administradores e moderadores podem banir usuários que não o seguirem.', ",
+"'Não poste conteúdo violento ou discriminatório. Isso inclui (mas não se limita a) racismo, sexismo, preconceito direcionado à sexualidade, preconceito contra identidade ou expressão de gênero, capacitismo, xenofobia etc.', ",
+"'Não faça apologia ao nazismo ou fascismo', ",
+"'Não poste conteúdo pornográfico, o foco desta instância não é este. Conteúdo pornográfico ou sensual envolvendo menores de idade ou sem o consentimento da pessoa representada leva a banimento e denúncias às autoridades competentes.', ",
+"'Não poste ou reproduza ameaças direcionadas a indivíduos ou atividades coletivas.', ",
+"'É obrigatório usar aviso de conteúdo (CW) em postagens que mencionem assuntos traumáticos, contenham spoilers de séries, jogos e filmes, contenham nudez, conteúdo sexual e imagens de violência.', ",
+"'É obrigatório usar aviso de conteúdo (CW) em vídeos com movimentos rápidos e luzes intermitentes.', ",
+"'O uso de crossposters é permitido, mas eles não podem ser postados com privacidade pública. As postagens vindas de outras redes, como o Twitter, precisam obedecer às regras de aviso de conteúdo. Os crossposters só podem ser usados se o usuário acompanhar suas notificações.', ",
+'Não é permitida a criação de robôs que replicam postagens de outros usuários desta ou de outras plataformas de redes sociais.'],
