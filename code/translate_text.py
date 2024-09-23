@@ -3,18 +3,21 @@ import pandas as pd
 import numpy as np 
 import os 
 from matplotlib import pyplot as plt 
+import requests
 
+# #data1 = pd.read_csv(r'C:\Users\rasik\Documents\Independent Study\data\1_15_final_formatted_data.csv')
+# data2= pd.read_csv(r'C:\Users\rasik\Documents\Independent Study\data\16_35_final_formatted_data.csv')
+# #data3 = pd.read_csv(r'C:\Users\rasik\Documents\Independent Study\data\36_150_final_formatted_data.csv')
+# #data4 = pd.read_csv(r'C:\Users\rasik\Documents\Independent Study\data\151_500_final_formatted_data.csv')
+# #data5 = pd.read_csv(r'C:\Users\rasik\Documents\Independent Study\data\501_1500_final_formatted_data.csv')
+# #data6 = pd.read_csv(r'C:\Users\rasik\Documents\Independent Study\data\1501_5000_final_formatted_data.csv')
+# #data7 =pd.read_csv(r'C:\Users\rasik\Documents\Independent Study\data\5001_final_formatted_data.csv')
 
-#data1 = pd.read_csv(r'C:\Users\rasik\Documents\Independent Study\data\1_15_final_formatted_data.csv')
-data2= pd.read_csv(r'C:\Users\rasik\Documents\Independent Study\data\16_35_final_formatted_data.csv')
-#data3 = pd.read_csv(r'C:\Users\rasik\Documents\Independent Study\data\36_150_final_formatted_data.csv')
-#data4 = pd.read_csv(r'C:\Users\rasik\Documents\Independent Study\data\151_500_final_formatted_data.csv')
-#data5 = pd.read_csv(r'C:\Users\rasik\Documents\Independent Study\data\501_1500_final_formatted_data.csv')
-#data6 = pd.read_csv(r'C:\Users\rasik\Documents\Independent Study\data\1501_5000_final_formatted_data.csv')
-#data7 =pd.read_csv(r'C:\Users\rasik\Documents\Independent Study\data\5001_final_formatted_data.csv')
+# # Store the DataFrames in a list
+# dataframes = [data2]
 
-# Store the DataFrames in a list
-dataframes = [data2]
+data = pd.read_csv(r'Formatted_data0.csv')
+
 
 # Initialize the translator
 translator = Translator()
@@ -47,16 +50,16 @@ def translate_text(text, dest_lang='en'):
 
 #sample = data1.sample(n=50)
 translated_text = []
-for _, row in data2.iterrows(): 
+for _, row in data.iterrows(): 
     #print(row['preprocessed rules'])
-    if row['lang'] == 'non-Englsih' or row['lang'] == 'non-English': 
+    if row['lang'] == 'non-English': 
         translated_text.append(translate_text(row['preprocessed rules']))
     else: 
         translated_text.append(row['preprocessed rules'])
 # print(translated_text)
 # print(len(translated_text))
-data2['translated rules'] = translated_text
-data2.to_csv('16_35_final.csv')
+data['translated rules'] = translated_text
+data.to_csv('complete_translated_data.csv')
 
 
 
