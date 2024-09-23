@@ -53,7 +53,7 @@ def transform_data(df):
         
         # Create a new row for each rule
         for rule in rules:
-            transformed_data.append({'instance': row['Instance Name'], 'rule': rule})
+            transformed_data.append({'instance': row['Instance Name'], 'rule': rule, 'instance group': row['instance group']})
 
     # Create a new DataFrame from the transformed data
     new_df = pd.DataFrame(transformed_data)
@@ -61,11 +61,14 @@ def transform_data(df):
     return new_df
 
 
-df = full_cleaning(r'C:\Users\rasik\Documents\IS\instance_rules_5001.csv')
-# Transform the dataset
+df = full_cleaning(r'merged_instance_data.csv')
+print(df.columns)
+print(len(df))
+#Transform the dataset
 new_df = transform_data(df)
 # print(df.columns)
-print(new_df.head())
+print(new_df.columns)
+print(len(new_df))
 
 rules_rules = new_df['rule']
 preprocessed_rules= [] 
@@ -79,7 +82,7 @@ for rule in preprocessed_rules:
         language = detect(rule)
 
         if language != 'en': 
-            lang_detect.append("non-Englsih")
+            lang_detect.append("non-English")
         else: 
             lang_detect.append("English")
     except Exception as e:
@@ -94,10 +97,11 @@ new_df['lang'] = lang_detect
 final_df = new_df[new_df['lang'] != 'Error']
 
 final_df = final_df[final_df['preprocessed rules'] != 'Rule is not a list']
-print(final_df.head())
+print(final_df.columns)
 print(len(final_df))
+print(final_df.head())
 
-final_df.to_csv('5001_final_formatted_data.csv')
+final_df.to_csv('Formatted_data0.csv')
 
 
 
