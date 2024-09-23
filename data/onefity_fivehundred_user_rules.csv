@@ -1,0 +1,814 @@
+,Unnamed: 0,Instance Id,Instance Name,Is Dead,User Count,Description,Short,topic,active users,dead,reg,rules,cleaned_rules
+109,109,5e5e59dfa9c56900489d8e6b,social.diva.exchange,False,328,"<h1><a href=""https://www.diva.exchange"">DIVA.EXCHANGE</a></h1>
+
+<p>Willkommen - teile, lerne und erweitere dein Wissen.
+Welcome - share, learn and grow your knowledge.</p>
+
+<p>Tags: #FOSS #banking #blockchain #DIVA #privacy #I2P #science</p>
+
+<p>Deutsch / English</p>
+","Willkommen - teile, lerne und erweitere dein Wissen.
+Welcome - share, learn and grow your knowledge.
+
+Tags: #FOSS #banking #blockchain #DIVA #privacy #I2P #science",social.diva.exchange,,,True,"[{'id': '1', 'text': 'Do not abuse this server. If the admins of social.diva.exchange do not like some content, the account will be wiped without notice. Be nice and ask in advance @social, if you have doubts.\r\n'}, {'id': '3', 'text': 'Add meaningful text to your profile and post a short #introduction.'}, {'id': '6', 'text': 'Regular maintenance: accounts are removed without notice after three months of inactivity. '}]","['Do not abuse this server. If the admins of social.diva.exchange do not like some content, the account will be wiped without notice. Be nice and ask in advance @social, if you have doubts.\r\n', 'Add meaningful text to your profile and post a short #introduction.', 'Regular maintenance: accounts are removed without notice after three months of inactivity. ']"
+310,310,637b30fdd94dca7f11e7ba4c,nanobyte.cafe,False,195,,Nanobyte.Cafe is an English speaking Mastodon instance that is open to anyone who is interested in technology; either on the software or hardware side.,Nanobyte.Cafe,,,True,[],[]
+110,110,5ed94a0e1bba02004a39de95,onion.social,False,253,"<p>onion social is the meeting community for enthusiasts of the Tor network and technology, for all those naturally curious people who love to explore unknown places and places such as the dark web. Onion Social is an open and inclusive community that does not discriminate but brings together people with the same curiosities and that goes beyond races, sex, religion and nations. Here we can be whoever we want and we can be whatever we want.</p>
+","Onion Social is the meeting community for enthusiasts of the Tor network and technology, for all those naturally curious people who love to explore unknown places. ",Mastodon,,,True,Failed to retrieve instance information. Status code: 404,"['data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string']"
+404,404,6392b7d6e04a6929279a269e,feral.cafe,False,379,"<p>You belong here if you like animals. This is not complicated. We are mostly just ferals, which are a subset of furries that admire animals in their natural forms.</p>
+",We're a small feral furry space for those who want a calmer environment where they can express the all the diverse facets of who they are.,Feral Cafe,,,True,"[{'id': '1', 'text': 'No hate speech, discrimination, or oppressive language/actions. Respect pronouns and avoid harassment, stalking, bullying, doxing, or callouts.'}, {'id': '2', 'text': 'Zoosexuality is accepted and supported on this instance, but no illegal content is allowed.'}, {'id': '13', 'text': 'Critiques should be positive, empowering, and respectful.'}, {'id': '18', 'text': 'Avoid suicide-baiting at all times.'}, {'id': '21', 'text': 'Except for prohibited content listed below, NSFW artwork is allowed, but must be placed under a content warning.'}, {'id': '22', 'text': 'Prohibited Content: 1. Sexually explicit real-life photos or videos.'}, {'id': '23', 'text': 'Prohibited Content: 2. Suggestive or explicit content of any kind involving minors or young characters.'}, {'id': '24', 'text': 'Prohibited Content: 3. Self-identification as a sadist or MAP, including dog-whistle terms like \'""paraphile"".'}, {'id': '25', 'text': 'Prohibited Content: 4. Discussion about minor attraction.'}, {'id': '26', 'text': 'Prohibited Content: 5. Promotion of authoritarian ideologies. '}]","['No hate speech, discrimination, or oppressive language/actions. Respect pronouns and avoid harassment, stalking, bullying, doxing, or callouts.', 'Zoosexuality is accepted and supported on this instance, but no illegal content is allowed.', 'Critiques should be positive, empowering, and respectful.', 'Avoid suicide-baiting at all times.', 'Except for prohibited content listed below, NSFW artwork is allowed, but must be placed under a content warning.', 'Prohibited Content: 1. Sexually explicit real-life photos or videos.', 'Prohibited Content: 2. Suggestive or explicit content of any kind involving minors or young characters.', 'Prohibited Content: 3. Self-identification as a sadist or MAP, including dog-whistle terms like \'""paraphile"".', 'Prohibited Content: 4. Discussion about minor attraction.', 'Prohibited Content: 5. Promotion of authoritarian ideologies. ']"
+428,428,63d22b74a7d2b4f97c91eee7,gamepad.club,False,209,"<p>Whether it&#39;s those intense couch battles playing <em>Mario Kart</em>, chilled sessions with <em>Stardew Valley</em> or franticly building barricades in <em>Fortnite</em>, Gamepad.Club is for <strong>you</strong>. However you play, this place is a home for everything gaming. Join us and chat about the latest releases, what you’re currently playing, and what upcoming launches you’re hyped for!</p>
+
+<p>Don&#39;t worry about staying on topic though. Create an account, share your interests in an introductory post, and enjoy being part of a growing community on a network of connected Mastodon instances around the globe!</p>
+
+<p><a href=""https://gamepad.club/auth/sign_up"">Signing up</a> for an account is free, although there are some ground rules that you&#39;ll see below. So that we can tell you&#39;re a human and not some basic bot, <strong>please include a reason for joining</strong>. Once checked and manually approved, you&#39;ll get an email inviting you to get started!</p>
+
+<hr>
+
+<h2>How Gamepad.Club is Run</h2>
+
+<p>To support our growing and active community, this server is moderated by a team of volunteers. It currently consists of the following, who are all on-hand to respond to your queries:</p>
+
+<ul>
+<li><a href=""https://gamepad.club/@gazimoff"">Gazimoff</a> (owner, admin)</li>
+<li><a href=""https://gamepad.club/@belghast"">Belghast</a> (co-admin)</li>
+<li><a href=""https://gamepad.club/@aywren"">Aywren</a> (mod)</li>
+<li><a href=""https://gamepad.club/@scopique"">Scopique</a> (mod)</li>
+</ul>
+
+<p>This instance of Mastodon is powered by <a href=""https://www.linode.com/"">Linode</a> cloud computing using industrial-grade data centres and infrastructure. Backups are taken daily and rotated to ensure that data is protected.</p>
+
+<p>We also adhere to the <a href=""https://joinmastodon.org/covenant"">Mastodon Server Covenant</a>, including providing at least 3 months notice should the server regrettably plan to shut down. This will provide ample opportunity if you want to download your content and/or move to another instance.</p>
+
+<p>While we&#39;re on the topic, please remember that anything you publish on Gamepad.Club (your posts and images) is stored <strong>unencrypted</strong>. This includes Direct Messages and other closed/locked posts. Please do not use this service to share anything confidential or personal that you cannot risk becoming public.</p>
+
+<p>Gamepad.Club is currently funded out-of-pocket by the admin team, with support from incredibly generous members via <a href=""https://www.patreon.com/gamepad_club"">Patreon</a>. Advance notice will be shared if that needs to change, but members will never be charged for access, adverts will never be used, trackers will never be deployed and data will never be sold to third-parties.</p>
+","Gamepad.Club has a video games focus, but we're open to all forms of gaming from tabletop RPGs to trading card games. Hosted in the UK and EU but everyone is welcome!",Gamepad.Club,,,True,"[{'id': '1', 'text': 'Racism, sexism, homophobia, transphobia, and other forms of discrimination are not acceptable on this server, and we have a zero-tolerance policy against it.'}, {'id': '2', 'text': 'Nudity and pornographic content is not permitted, including fan art and video game content. Posts that include this content will be removed.'}, {'id': '3', 'text': 'Repeated, targeted harassment against an individual or group is unacceptable behaviour, and may lead to a temporary or permanent suspension'}, {'id': '5', 'text': 'Spam, advertising and bot accounts are not permitted and will be removed.'}, {'id': '6', 'text': 'Content that is illegal in the United Kingdom, Germany, or the United States is strictly prohibited.'}, {'id': '7', 'text': ""Include why you want to join in your application so that we can tell you're a human and approve you!\r\n\r\n(Make sure to check your spam folder for any approval email)""}]","['Racism, sexism, homophobia, transphobia, and other forms of discrimination are not acceptable on this server, and we have a zero-tolerance policy against it.', 'Nudity and pornographic content is not permitted, including fan art and video game content. Posts that include this content will be removed.', 'Repeated, targeted harassment against an individual or group is unacceptable behaviour, and may lead to a temporary or permanent suspension', 'Spam, advertising and bot accounts are not permitted and will be removed.', 'Content that is illegal in the United Kingdom, Germany, or the United States is strictly prohibited.', ""Include why you want to join in your application so that we can tell you're a human and approve you!\r\n\r\n(Make sure to check your spam folder for any approval email)""]"
+96,96,5c1cb4330c359d0f64c44299,plustodon.net,False,193,"<p><h3>【サーバについて】</h3><br>
+2019年4月に終了したGoogle+の移住先の一つとして重度のG+erが立てた日本人G+er向きのMastodonサーバです。あくまでMastodonをベースとしているのでG+ほどの性能機能はありませんので予めご了承ください。<br>
+<h3>【運営について】</h3><br>
+管理人である、あきょぜ (<a href=""/@akyoz"">@akyoz</a>) が個人で行っております。<br>
+運営費も私財から出ておりますが、かなりきつくならない限りは寄付等も受け取らない予定です。<br>
+なお、モデレーター（不適切コンテンツへの対応者）はいつでも募集中です。<br>
+<h3>【セキュリティについて】</h3><br>
+本サーバではWebサーバ、DBサーバ、Storageサーバ間の通信は全て暗号化および接続制限を設けており、WebサーバはCDN/WAFサービスによりもう一段階の暗号化を行う環境を構築する等セキュリティとプライバシーに配慮した設計となっておりますが、それでも心配な場合は利用をご遠慮ください。<br>
+<br>
+また、ユーザ情報はローカルに保持せず、安全かつ高性能なGCPのマネージドサービスを使用、加えてパスワードはハッシュ化を実施した上で保管しておりますが、メールアドレス情報だけはユーザ認証のため<b>平文</b>で保管しています。そのため、登録されるメールアドレスはご注意ください<br>
+アカウント乗っ取り等の対策として、二段階認証を設けておりますので是非ご利用ください。<br>
+<h3>【プライバシーについて】</h3><br>
+Cookieの取得および、サービス向上のため利用者からのアクセス解析(GoogleAnalytics)を行っています。<br>
+また、登録の際に使用されたメールアドレスは管理者からは見えてしまいますのでご承知置きをお願いします。<br>
+ただし、それ以外の情報についてはMastodonの精神に則り、収集・解析を行ないません。<br>
+<br>
+詳しくは利用規約内の<a href=""/terms"">プライバシーポリシー</a>をご確認ください。<br>
+<h3>【トラブルや不適切と思われる投稿があった場合】</h3><br>
+個人間のトラブルについては、個人間で解決をお願いします。<br>
+ただ、サーバ全体・他サーバに迷惑がかかるレベルのトラブルが発生した場合はアカウント停止等の対処をする可能性がありますので、ご承知おきください。<br>
+また不適切と思われる投稿を見かけた際は、通報機能を使用していただければ対処します。<br>
+※2021/08/08 追記事項<br>
+当サーバのCDNとして使用している『Cloudflare』の児童ポルノ検知サービスである『CSAM 検出ツール』を採用しています。このツールは当サーバおよび、外部のサーバにて、米国が定める児童性的虐待コンテンツ (CSAM)が受信されたことを検知するもので、当サーバに該当のコンテンツがキャッシュされた場合に早期に削除することを目的としています。<br>
+なお、このCSAMとは実際の被害者がでている児童ポルノの画像データを対象とするデータベースであり、いわゆる二次元を対象とする非実在青少年のポルノ作品を対象とするものではありません。<br>
+<br>
+本ツールによって直ちにアップロード者へ逮捕等されるものではありませんが、悪質な場合は全米行方不明・被搾取児童センター (NCMEC) 経由で、データをアップロードした人に対して公権力による調査等が行われる可能性があります。<br>
+他サーバの管理者様および、当サーバの利用を検討される方の中で本ツールに対しての危険だと判断される方は、ドメインブロックや利用をしない等の対応をおとりいただくよう各位予めご了承ください。</p>
+","Google""Plus to"" Mas""todon""",+Plustodon,,,True,"[{'id': '1', 'text': 'えっちやグロ等精神負荷のあるメディアはNSFWで投稿を心がけてください。内容によっては管理人側でNSFWが処理します。', 'hint': ''}, {'id': '2', 'text': '明らかにネタの域を超える明確な攻撃行為はしないでください（罵詈雑言合戦ぐらいは大目に見ます）。悪質な場合は管理人の判断でサイレンス処理をいたします。\r\n', 'hint': ''}, {'id': '3', 'text': '何度注意されてもわからない人は利用しないでください。基本は注意、警告、退場の3アウト制です。\r\nただし、明らかに故意な危険球と判断されるようなものについては一発退場処分とし、永久凍結処理します。', 'hint': ''}]","['', '', '']"
+235,235,637b2cf0d94dca7f11e7aa10,udongein.xyz,False,398,Your friendly local Reisen U. Inaba shrine!,,Udongein,,,False,Data not available,"['data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string']"
+51,51,59f3b679fe93291dbea81108,dragon.style,False,307,"<h1>RULES</h1>
+
+<ol><li>Harshing @anthracite’s buzz will get you banned.</li>
+<li>Dragons are awesome.</li>
+<li>An it harm none, do what thou wilt shall be the whole of the law.</li>
+<li>Be Excellent To One Another.</li>
+<li>So it hath been spoken, so it hath been written, and so shall it be. Consecrated by Ye Holy Herb Of Ye Glacier Goo, in the Year Of Our Silicon Lady Number Five.</li></ol>
+
+<p><p>
+<h1>Things that may harsh @anthracite’s buzz</h1> (aka Code Of Conduct):
+<p>
+<ol><li>forgetting to tag politics</li>
+<li>being a nazi</li>
+<li>dragons being jerks to mammals (or to each other, but especially to the mammals)</li>
+<li>also non-dragons being jerks to anyone, just don&#39;t be a jerk, okay?</li>
+<li>also please be aware that @anthracite only speaks English and may thus be a lot less nuanced in her use of the banhammer if you&#39;re being a jerk to someone in another language</li>
+<li>doxxing, brigading, death threats, all that 4chan/ljdrama/kiwifarms edgelord shit</li>
+<li>posting nsfw stuff (especially Actual Human Nakeds)without a content warning</li>
+<li>posting anything that&#39;s illegal in my state (currently Louisiana) or yours</li>
+<li>being @anthracite’s significant other</li>
+<li>re-posting private messages, here or elsewhere</li>
+<li>being a corporation, or being sponsored by one</li>
+<li>posting sigils/subliminals/strobes without a content warning</li>
+<li>constant shitposting</li>
+<li>failing to be thoughtful, considerate, and polite in your disagreement if you happen to disagree with what someone else is saying</li>
+<li>evading bans/blocks/no-contact orders via multiple accounts, on this server or others (multiple systems please note: this applies to all accounts belonging to all members/systems/headmates of your system)</li>
+<li>questioning @anthracite&#39;s moderation/federation decisions, especially if you use the terms &quot;virtue signalling&quot; or &quot;filter bubble&quot; whilst doing so</li>
+<li>posting AI-generated art, it is okay if there is some buried deep in your art process but if you are a &quot;prompt engineer&quot; who spends 90% of their time on a piece typing stuff into a text input box then you are not welcome here</li>
+<li>giving @anthracite cause to expand the list of actions that are explicitly forbidden here</li></ol>
+<hr>
+<h1>TL;DR</h1>
+<p>Imagine you have a cool queer trans aunt who is a cartoon dragon sometimes. Don&#39;t do anything that&#39;d probably piss her off.
+<p>Also, we generally silence any instance that claims to be dedicated to &quot;free speech&quot;, as in practice this usually means it is happy to host hate speech. Life&#39;s too short for that shit.
+<hr></p>
+
+<h1>SOMETHING LIKE TERMS OF SERVICE:</h1>
+
+<p><p>
+This is an experiment. We currently make no promises as to the safety of any data you post to this site, nor to its persistence. Shit happens.
+<p>
+We do, however, promise not to try to monetize your attention with advertisements. We also promise not to share your private data with any other people, government agencies, or corporate entities. Well, we might share your data if the government comes knocking with a big pile of lawyers. We haven&#39;t had that happen yet.
+<p>
+We also don&#39;t want to dig into your private messages. That said, if someone is claiming you&#39;re harassing them in PMs, we will have a look at them. Please try not to make us have to look.  Also,  keep in mind that private messages are <em>not</em> encrypted, and other servers are <em>not</em> guaranteed to respect the &#39;this is private&#39; marker. I would not advise talking about anything illegal here until the Mastodon project solves this.
+<p>
+It&#39;s up to you if you trust us to keep these promises. &quot;We&quot; is currently just @anthracite, a trans lady in her mid-forties.
+<hr>
+<h3>&quot;IF YOU&#39;RE NOT PAYING FOR IT, YOU&#39;RE THE PRODUCT&quot;</h3>
+<p>The whole model of commercial social networks has been &quot;make money by selling your attention to advertisers, as increasingly-more-specific market segments&quot;. This has a lot of problems.
+<p>
+Right now, running this thing costs me about $27/month, which is pocket change for me. But if you&#39;d like to help out then I&#39;ve set up <a href=""https://www.patreon.com/dragondotstyle"">a Patreon</a>.</p>
+
+<p>Alternatively: make crazy porn of <a href=""https://www.furaffinity.net/gallery/egypturnash/folder/199712/Model-sheets"">one of my fursonas</a> happen (with or without your fursona, check out my FA faves to see if our impossible fantasy kinks overlap), or make a donation to the <a href=""https://www.splcenter.org"">Southern Poverty Law Center</a> or your local chapter of the <a href=""http://www.dsausa.org"">Democratic Socialist Party</a>. Or just take some spare money out of the bank and give it to someone near you who needs it more than either of us. &hearts;</p>
+
+<p>Also you can just throw some money at me via <a href=""https://www.paypal.com/paypalme/egypturnash"">Paypal</a> or <a href=""https://ko-fi.com/egypturnash"">Ko-fi</a>. Whatever. None of this is mandatory but it is certainly appreciated.</p>
+",I'm a grumpy queer dragon lady and this is my quiet cave for me and some friends.,Dragon Style,,,False,[],[]
+43,43,595096881143bf1b56f41a1d,hokutodon.co,False,416,"『誰もがバカになれるインターネットが帰ってきた！』<br />
+<br />
+力こそが正義の世紀末。このインスタンスは殺伐とした環境で生き残れるものだけで構成される。雑魚は失せろ。<br />
+<br />
+【Hokutodonのルール】<br />
+<br />
+・敬語はBan<br />
+<br />
+・挨拶は「ヒャッハー」<br />
+<br />
+・自由に生きろ<br />",,北斗どん.CO,,,False,Data not available,"['data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string']"
+127,127,60e8f7acf54120006939608d,social.up.edu.ph,False,218,,Mastodon@UP,University of the Philippines ,,,True,"[{'id': '3', 'text': 'Sexually explicit or violent media must be marked as sensitive when posting'}, {'id': '4', 'text': 'No racism, sexism, homophobia, transphobia, xenophobia, or casteism '}, {'id': '5', 'text': 'No incitement of violence or promotion of violent ideologies'}, {'id': '6', 'text': 'No harassment, dogpiling or doxxing of other users'}, {'id': '7', 'text': 'Must comply with the University\'s Acceptable Use Policy for IT <""https://up.edu.ph/aup"">'}]","['Sexually explicit or violent media must be marked as sensitive when posting', 'No racism, sexism, homophobia, transphobia, xenophobia, or casteism ', 'No incitement of violence or promotion of violent ideologies', 'No harassment, dogpiling or doxxing of other users', 'Must comply with the University\'s Acceptable Use Policy for IT <""https://up.edu.ph/aup"">']"
+394,394,638ada1127eacc45e89c8efe,musicworld.social,False,460,"<p>Server for all music enthusiasts. Concerts, festivals, new music discovery, music collectors, artists, music charts etc.</p>
+
+<p>Registrations only for people aiming to primarily post about music-related subjects.</p>
+
+<h1>Code of Conduct</h1>
+
+<p>(For the <strong>rules</strong> scroll down below!!)</p>
+
+<p>This Code contains the rules and principles for participating in the Musicworld.social community. It is intended to protect all members of our community from harassment and to ensure that our community is as welcoming and inclusive as possible. This is a working document, so the Musicworld.social team may amend it from time to time.</p>
+
+<h2>Goals</h2>
+
+<ul>
+<li>Provide a friendly, safe, and welcoming environment for everyone regardless of gender identity or expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, political affiliation, or other similar characteristic.</li>
+<li>Create a supportive community, where people freely share their passions and are excited and positive about each other’s successes.</li>
+<li>Protect our community from harassment, malicious or illegal content and from individual members whose goals are to disrupt our community and promote their own self-interest at the expense of the community.</li>
+</ul>
+
+<h2>Principles that Guide us</h2>
+
+<ul>
+<li><strong>We are not a free speech zone.</strong> This CoC lays out expected standards of conduct and behavior. You cannot say or post anything that violates these rules or principles and remain a member of our community. You must follow this CoC. If you are looking for something else, please do. It is not here.</li>
+<li><strong>The Moderators are not morality or thought police.</strong> Moderators are guided by this Code of Conduct. Post what you want, if what you post follows these rules, principles and the goals outlined above. Not every member of the community will appreciate controversial or explicit posts so use Content Warnings very liberally. We use Content Warnings so community members themselves can decide whether they want to see or engage with a post that may be controversial or explicit.</li>
+<li><strong>Bullies, trolls and disruptors</strong> are not welcome in Musicworld.social. We will moderate accordingly.</li>
+<li><strong>This is a voluntary community. You chose to be here.</strong> When you choose to join, you have implied that you agree with this Code of Conduct and will follow it.</li>
+</ul>
+
+<h2>Rules for posting</h2>
+
+<p>The rules you need to follow if you want to be a member of our community are stated below.</p>
+
+<h2>General guidance on posting and participating in Mastodon.world</h2>
+
+<ul>
+<li><strong>Do not post about inflammatory, controversial subjects without a Content Warning.</strong> Ideally, you would not post about inflammatory subjects at all. However, it may be acceptable to do so in some cases, but it is never acceptable to post inflammatory content without hiding the content behind an appropriate Content Warning.</li>
+<li><strong>Do not post any type of nudity without a Content Warning.</strong></li>
+<li><strong>Regarding Spam: We are not your free advertising platform.</strong> If you are here only to sell your products or services, you will be removed. Occasional posts of commercial links are OK, but when the vast majority of a user&#39;s posts are commercial in nature, we regard the account as a Spam account. Moderators will evaluate reports of Spam on a case by case basis.</li>
+<li><strong>Do not engage in name calling</strong>, <a href=""https://www.urbandictionary.com/define.php?term=Ad%20hominem"">ad hominem</a> attacks, or any other uncivil behaviour. Criticize ideas, never people.</li>
+<li><strong>Do not report every post that upsets you.</strong> Please report posts that violate our rules but for others that you may find distasteful, or just don’t like, use the tools available to you. You can block the user or mute the conversation.</li>
+</ul>
+
+<h2>Moderation Principles</h2>
+
+<p>Reported content will be assessed on a balance of probabilities by the moderators. In other words, whether it is more likely than not that the content violates one or more of these rules. Moderators will suspend an account from mastodon.world when the user demonstrates that they have breached any rule several times, or if their content (including profile description) suggests that they are likely to continue to break the rules. The number of breaches leading to suspension is deliberately not defined. In egregious cases, one breach can result in suspension of the user account.
+<br><br>
+The moderation team takes a pragmatic approach to every report they receive - if they feel that a problematic post isn’t explicitly a breach of any of these rules but is inappropriate for Mastodon.world, the post will likely be removed. Users who repeatedly post problematic content or otherwise are seen by the moderators as a negative, disruptive presence in our community can be removed at the discretion of the moderation team, even if those posts or the user did not explicitly violate our rules.</p>
+
+<h1>Donations &amp; Finances</h1>
+
+<p>Musicworld.social is run by <a href=""https://musicworld.social/@ruud"">@ruud</a>, who also pays the bills.<br>
+Since the November 2022 user influx, those bills have gone up quite steeply.<br>
+For those who would like to contribute, the following options for donations are available:</p>
+
+<ul>
+<li><a href=""https://opencollective.com/mastodonworld"">OpenCollective</a> (Either recurring or one-time donations) - Preferred.</li>
+<li><a href=""https://www.patreon.com/mastodonworld"">Patreon</a> (Recurring donations only)
+<br></li>
+</ul>
+
+<p>The running costs of Mastodon currently consist of:<br></p>
+
+<ul>
+<li>Hetzner server </li>
+<li>Hetzner backup server</li>
+<li>Hetzner cloud VPS for monitoring, blog etc</li>
+<li>Mailgun e-mailer </li>
+<li>Wasabi storage</li>
+</ul>
+
+<p>Monthly updates about the finances can be found at <a href=""https://blog.mastodon.world"">our blog</a></p>
+","Server for all music enthusiasts. Concerts, festivals, new music discovery, music collectors, artists, music charts etc.",Music World,,,True,"[{'id': '1', 'text': 'No illegal content, e.g. child pornography, solicitation of illegal services, etc…'}, {'id': '2', 'text': 'No posts or links to content supporting, featuring, or promoting hate groups, terrorism, mass violence or calls to violence.'}, {'id': '3', 'text': 'No posts or comments supporting or promoting QAnon related content or similarly disproven conspiracy theories. Moderators have sole discretion to decide if a post violates this rule. Birds are real. The Earth is round. Get over it.'}, {'id': '4', 'text': 'No posts or links featuring sexualized depictions of minors, whether photographic, written, drawn, anthropomorphic or animated.'}, {'id': '5', 'text': 'No pornography featuring depictions of rape or non-consensual violence.'}, {'id': '6', 'text': 'All other pornographic, erotic or NSFW content, whether photographic, written, drawn or animated, must be marked with a Content Warning.'}, {'id': '7', 'text': 'No racism.'}, {'id': '8', 'text': 'No visual content depicting executions, murder, suicide, dismemberment, visible innards, excessive gore, or charred bodies. All other violent imagery requires a Content Warning.'}, {'id': '9', 'text': 'No visual content depicting animal abuse. All other posts related to animal abuse require a Content Warning.\r\n'}, {'id': '10', 'text': 'No posting of malicious links.'}, {'id': '11', 'text': 'No Spam (see Code of Conduct above).'}, {'id': '12', 'text': 'No threats, bullying or attacks on an individual or group.'}, {'id': '13', 'text': 'No encouragement or promotion of self-harm.'}, {'id': '14', 'text': 'No accounts that impersonate anyone else unless clearly marked as such for the purpose of parody.'}, {'id': '15', 'text': 'No Hate Speech. Hate speech is defined as derogatory posts or links targeting any individual or group based on race, mental or physical disability, religion, gender identity, sex, nationality, age, class or sexual orientation.'}, {'id': '16', 'text': 'No “shitposting” - while humorous posts are allowed, and actually encouraged, there is no place for “shitposting” here.'}]","['No illegal content, e.g. child pornography, solicitation of illegal services, etc…', 'No posts or links to content supporting, featuring, or promoting hate groups, terrorism, mass violence or calls to violence.', 'No posts or comments supporting or promoting QAnon related content or similarly disproven conspiracy theories. Moderators have sole discretion to decide if a post violates this rule. Birds are real. The Earth is round. Get over it.', 'No posts or links featuring sexualized depictions of minors, whether photographic, written, drawn, anthropomorphic or animated.', 'No pornography featuring depictions of rape or non-consensual violence.', 'All other pornographic, erotic or NSFW content, whether photographic, written, drawn or animated, must be marked with a Content Warning.', 'No racism.', 'No visual content depicting executions, murder, suicide, dismemberment, visible innards, excessive gore, or charred bodies. All other violent imagery requires a Content Warning.', 'No visual content depicting animal abuse. All other posts related to animal abuse require a Content Warning.\r\n', 'No posting of malicious links.', 'No Spam (see Code of Conduct above).', 'No threats, bullying or attacks on an individual or group.', 'No encouragement or promotion of self-harm.', 'No accounts that impersonate anyone else unless clearly marked as such for the purpose of parody.', 'No Hate Speech. Hate speech is defined as derogatory posts or links targeting any individual or group based on race, mental or physical disability, religion, gender identity, sex, nationality, age, class or sexual orientation.', 'No “shitposting” - while humorous posts are allowed, and actually encouraged, there is no place for “shitposting” here.']"
+358,358,637b34c1d94dca7f11e7c938,india.goonj.xyz,False,252,"<p>Goonj India is an open, privacy conscious community focussed on Indians and India specific issues. </p>
+
+<p>Goonj India is part of the <a href=""https://goonj.xyz""> Goonj</a> network of community. Anyone can join and find the right community to participate.</p>
+
+<h3>Open</h3><p>Goonj is open for everyone to join, but hate speech of any kind is prohibited. Goonj can be joined through any device through our web application. Goonj is open source and based on the popular Mastodon social network. 
+</p>
+
+
+<h3>Privacy Conscious</h3><p>Users can seamlessly download their entire account data and delete their accounts any time they want. No private information like Real Name, Date of Birth etc. is required to join Goonj. Goonj provides easy control to share your content with a limited audience or to a wider audience as required. 
+</p>
+
+<h3 id=""conduct"">Code of Conduct</h3>
+
+<p>Try to be a good neighbour to everyone in the community. Please avoid all behaviour which can be considered spamming, scamming, ponography, NSFW content, advocacy of violence, ethnic/racial/homophobic slurs, harassment, or any other content/activity deemed against the law. Offending content will need to be removed by the user, and repeat offenders will be banned from the community.</p>
+
+<p>We strive to be ""work-friendly"", so if you post anything that's allowable under our policy but may reasonably be considered objectionable, please use a CW (content warning) to tag it as such.</p>
+
+<p>Moderation activities will be as transparent as possible, with rationales for each action. The community will have the opportunity to review and give input on actions, and the moderation team will be responsive to that.</p>
+
+<p>
+<small>* Nudity exceptions - the following are okay: Nudity in photos of paintings and sculptures; Breastfeeding (with content warning); Nudity in photos of political expression or significance (with content warning). Examples that don't qualify as exceptions: Nudity in digital art; Nudity with political text simply added to it; etc. 
+</small></p>
+
+<p><br></p>
+
+<h3 id=""faq"">FAQ</h3>
+
+<h4 id=""how-to-invite-people-to-follow-you"">How to invite people to follow you</h4>
+
+<p>Go to <a rel=""nofollow"" href=""/invites"">Invites</a>. Check <em>Invite to follow your account</em>, and generate a link. People who sign up through the invite will automatically follow you!</p>
+
+<h4 id=""how-to-enable-disable-email-notifications"">How to enable/disable email notifications</h4>
+
+<p>Go to <a rel=""nofollow"" href=""settings/preferences/notifications"">Notifications</a></p>
+
+<p><em>Recommended:</em> Enable all notifications to start with; then, if there are any you find you don't like, disable them.</p>
+
+<h4 id=""how-to-export-all-your-data"">How to export all your data</h4>
+
+<p>Go to <a rel=""nofollow"" href=""/settings/export"">Data export</a></p>
+","Goonj India is an open, privacy conscious community focussed on Indians and India specific issues.",goonj India,,,True,"[{'id': '1', 'text': 'Be civil. No trolling, microaggressions, or harassment.\r\n'}, {'id': '2', 'text': 'No NSFW content without Content Warning\r\n'}, {'id': '3', 'text': 'Illegal content including pornography is not permitted. \r\n'}, {'id': '4', 'text': 'Hate speech is not permitted at all. \r\n'}, {'id': '5', 'text': 'Share content only that you have permission for.\r\n'}, {'id': '6', 'text': 'No impersonation without clear indication. \r\n'}, {'id': '7', 'text': 'No spam. \r\n'}]","['Be civil. No trolling, microaggressions, or harassment.\r\n', 'No NSFW content without Content Warning\r\n', 'Illegal content including pornography is not permitted. \r\n', 'Hate speech is not permitted at all. \r\n', 'Share content only that you have permission for.\r\n', 'No impersonation without clear indication. \r\n', 'No spam. \r\n']"
+255,255,637b2e4ed94dca7f11e7af47,eveningzoo.club,False,169,,,The Evening Zoo,,,True,[],[]
+240,240,637b2d7bd94dca7f11e7ac46,freesocial.co,False,246,,"Legal content allowed, don't be a dick.",FreeSocial.co,,,True,"[{'id': '2', 'text': 'Nothing illegal in the US.'}, {'id': '3', 'text': ""Don't spam.""}]","['Nothing illegal in the US.', ""Don't spam.""]"
+212,212,637b29b4ad72ace2dcf186c8,soc.punktrash.club,False,222,"punktrash is aimed at being a cozy place for queers, anarchists, punks, leftists, and the racoon princess/admin.","punktrash is aimed at being a cozy place for queers, anarchists, punks, leftists, and the racoon princess/admin.",punk trash,,,True,Data not available,"['data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string']"
+32,32,5908aadfe50812648e3e2306,mastodon.matrix.org,False,186,,,Matrix.org's Mastodon,,,False,[],[]
+311,311,637b3102d94dca7f11e7ba66,sotl.social,False,167,"<p>The purpose of SoTL.social.  This is a site and refuge for the discussion of all issues related to the Scholarship of Teaching and Learning.  Issues, toots, and boosts unrelated to SoTL do not belong on this site.  All posts unrelated to SoTL may be deleted at the discretion of the administrator.</p>
+","Forum to discuss issues related to the Scholarship of Teaching and Learning.  Other issues or topics (cats, politics etc. belong do not belong here).",Mastodon,,,True,"[{'id': '2', 'text': 'Be kind,  respectful and thoughtful.'}, {'id': '8', 'text': 'Toots and Boosts should focus on SoTL issues.  '}, {'id': '9', 'text': 'No false or misleading information. No racism, sexism, homophobia, transphobia,  or xenophobia. No harassment of any kind. Nothing illegal. Nothing sexual.'}]","['Be kind,  respectful and thoughtful.', 'Toots and Boosts should focus on SoTL issues.  ', 'No false or misleading information. No racism, sexism, homophobia, transphobia,  or xenophobia. No harassment of any kind. Nothing illegal. Nothing sexual.']"
+2,2,58e6094bd54a5027fc0b702e,mastodon.tedomum.net,False,315,"<p>Nos conditions d&#39;utilisation détaillées sont disponibles <a target=""_blank"" href=""https://tedomum.net/documentation/general/cgu/"">sur notre site Web</a>. Elles couvrent les règles communes à nos services, où nous assurons essentiellement le respect de la loi française.</p>
+
+<p>Les éventuelles modifications apportées à Mastodon sur notre instance peuvent être visualisées <a target=""_blank"" href=""https://forge.tedomum.net/tedomum/mastodon"">ici</a>.</p>
+",Instance généraliste majoritairement francophone.,Mastodon,,,False,"[{'id': '1', 'text': 'Injures, outrage et diffamation interdits.'}, {'id': '2', 'text': 'Incitation à la haine interdite'}, {'id': '3', 'text': 'Apologie ou provocation du terrorisme interdite'}, {'id': '4', 'text': 'Propos haineux interdits'}, {'id': '5', 'text': 'Propos discriminatoires interdits'}, {'id': '6', 'text': 'Pédopornographie et référence pédophile interdites'}, {'id': '7', 'text': 'Avertissement obligatoire pour la pornographie ou les représentations choquantes du corps'}, {'id': '8', 'text': 'Avertissement obligatoire pour les représentations explicites et implicites de violence'}, {'id': '9', 'text': ""Avertissement obligatoire pour les représentations d'addiction""}, {'id': '10', 'text': 'Avertissement obligatoire pour les représentations de soi'}, {'id': '11', 'text': 'Mention explicite des biais dans les propos plausiblement dangereux (désinformation)'}, {'id': '12', 'text': ""Tentatives d'escroquerie interdites, y-compris les liens""}, {'id': '13', 'text': ""Diffusion d'informations personnelles d'autrui interdite""}, {'id': '15', 'text': ""Respect obligatoire du droit d'auteur et des droits de licence""}, {'id': '16', 'text': ""Diffusion d'informations protégées interdite""}, {'id': '17', 'text': ""Spam interdit, ainsi que toute forme d'attaque technique""}]","['Injures, outrage et diffamation interdits.', 'Incitation à la haine interdite', 'Apologie ou provocation du terrorisme interdite', 'Propos haineux interdits', 'Propos discriminatoires interdits', 'Pédopornographie et référence pédophile interdites', 'Avertissement obligatoire pour la pornographie ou les représentations choquantes du corps', 'Avertissement obligatoire pour les représentations explicites et implicites de violence', ""Avertissement obligatoire pour les représentations d'addiction"", 'Avertissement obligatoire pour les représentations de soi', 'Mention explicite des biais dans les propos plausiblement dangereux (désinformation)', ""Tentatives d'escroquerie interdites, y-compris les liens"", ""Diffusion d'informations personnelles d'autrui interdite"", ""Respect obligatoire du droit d'auteur et des droits de licence"", ""Diffusion d'informations protégées interdite"", ""Spam interdit, ainsi que toute forme d'attaque technique""]"
+373,373,637dbdf7f762d5e2120478e5,fv.reveca.es,False,266,Pleroma: An efficient and flexible fediverse server,,fv.reveca.es,,,True,Data not available,"['data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string']"
+250,250,637b2dddd94dca7f11e7adba,unstable.icu,False,494,我们中的一只@Othalan 说：行走在此处，犹如行走在比格的国。每天一次比格颂，神清气爽，感恩世界，感恩比格，赞颂比格的功德。日行一善，是为比格在世的福报。,站民的主要成分：比格犬、社交功能损坏患者、性少数、避世者。站长独裁，规则里没写具体的都是站长和管理员的自由裁量空间，谢谢大家拥护！邀请大家公投的时候请积极参与，让我们一起来假装这是一个和谐开明的民主实例！,创新比格云计算 Beagle Cloud™,,,True,"[{'id': '7', 'text': '隐私至上原则'}, {'id': '8', 'text': '低传播原则'}, {'id': '9', 'text': '善意交往原则'}, {'id': '10', 'text': '非伤害原则'}, {'id': '11', 'text': '合理分享原则'}, {'id': '12', 'text': '不准色色原则'}, {'id': '13', 'text': '合理可见原则'}, {'id': '14', 'text': '开明专制原则'}]","['隐私至上原则', '低传播原则', '善意交往原则', '非伤害原则', '合理分享原则', '不准色色原则', '合理可见原则', '开明专制原则']"
+329,329,637b31a4d94dca7f11e7bcdd,triangletoot.party,False,365,"<h2>triangletoot.party</h2>
+
+<p>This Mastodon instance is intended for those who have an interest in <a href=""https://en.wikipedia.org/wiki/Research_Triangle"" target=""_blank"">the Triangle region</a> of North Carolina. You aren't required to live here in order to join, but <strong>please mention why you want to join triangletoot.party in particular if you apply to join</strong>. There are lots of general instances out there, and your request will be denied if you give a generic response to that question. If you have a friend who is already a part of this server, they can send you an invite.</p>
+
+<h2>Getting started</h2>
+
+<p><a href=""https://docs.joinmastodon.org/"" target=""_blank"">This official Mastodon guide</a> will help explain all the different parts of Mastodon, but here's a quick rundown:</p>
+
+<ul>
+<li><strong>Toot</strong>* = post (like Twitter's <strong>tweet</strong>)</li>
+<li><strong>Boost</strong> = show that post on your profile (like Twitter's <strong>retweet</strong>)</li>
+<li><strong>Favorite</strong> = show appreciation for a post (like Twitter's <strong>like</strong>)</li>
+<li><strong>Home</strong> = posts from people you follow</li>
+<li><strong>Local</strong> = posts from everybody on triangletoot.party</li>
+<li><strong>Federated</strong> = posts from everybody known to triangletoot.party</li>
+</ul>
+
+<h3>Suggested first steps</h3>
+
+<ul>
+<li>Add a profile picture</li>
+<li>Post a toot! Tell us a little bit about yourself and make sure to add the  #introduction tag to your post so others can find you.</li>
+<li><a href=""https://triangletoot.party/settings/preferences/other"" target=""_blank"">Filter out languages to your liking</a> (especially useful for the federated timeline)</li>
+<li>Browse the local and federated timelines for people to follow</li>
+</ul>
+
+<h3>How do I find people to follow?</h3>
+
+<ul>
+<li>Browse <a href=""https://triangletoot.party/explore"">local profiles</a> to find users on triangletoot.party.</li>
+<li>Check out <a href=""https://communitywiki.org/trunk"" target=""_blank"">Trunk</a> to find individuals.</li>
+<li>Check out <a href=""https://a.gup.pe"" target=""_blank"">Guppe</a> to find and follow people with similar interests.</li>
+</ul>
+
+<h2>Funding</h2>
+
+<p>This instance is funded by <a href=""https://triangletoot.party/@autumn"">@autumn@triangletoot.party</a>. Donations for running the server and moderation can be made here: <a href=""https://liberapay.com/triangletoot.party"">https://liberapay.com/triangletoot.party</a>.</p>
+
+<h2>Prohibited content</h2>
+
+<p>This content is prohibited by the hosting service, <a href=""https://masto.host"">Masto.host</a>.</p>
+
+<ul>
+<li>Illegal activity</li>
+<li>Sexual content involving minors, including artistic depictions</li>
+<li>Gore and extremely graphic violence, including artistic depictions</li>
+<li>National Socialism</li>
+<li>Nazism</li>
+<li>Holocaust denial</li>
+<li>Racism</li>
+<li>Alt right, including under the disguise of freedom of speech</li>
+<li>Gender-critical</li>
+<li>Sex and gender discrimination</li>
+<li>Transphobia</li>
+<li>Misogyny</li>
+<li>Pro-ana / Pro-mia</li>
+<li>Automated sharing of third-party content, news sources, websites or social media content that doesn’t belong to you</li>
+<li>Trolling, insulting and derogatory comments towards others outside your server</li>
+<li>Mass following and aggregation of content</li>
+</ul>
+
+<h2>Credits</h2>
+
+<p>This instance uses <a href='https://mutant.tech'>Mutant Standard emoji</a>, which are licensed under a <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0 International License</a>.</p>
+
+<h2>Footnotes</h2>
+
+<p>* Toots are now called &quot;posts&quot; in the codebase, but colloquially they are still sometimes referred to as toots.</p>
+","Mastodon instance focused on the Triangle region of North Carolina. Keeping out jerks since 2019. Anti-racist, anti-fascist, and anti-TERF.",Triangle Toot Party!,,,False,"[{'id': '1', 'text': 'Put NSFW content behind a content warning.'}, {'id': '2', 'text': 'Do not spam the server with advertisements or blog spam. '}, {'id': '3', 'text': 'No prohibited content. See: https://triangletoot.party/about/more for a complete list.'}, {'id': '4', 'text': ""Don't be a jerk.""}]","['Put NSFW content behind a content warning.', 'Do not spam the server with advertisements or blog spam. ', 'No prohibited content. See: https://triangletoot.party/about/more for a complete list.', ""Don't be a jerk.""]"
+438,438,63e74082d8c60010e7831ce5,pixelfed.ru,False,402,"Русский сервер децентрализованной социальной сети Pixelfed — аналога Instagram, который принадлежит Meta (запрещенной в РФ экстремистской организации).",Русскоязычный сервер социальной сети Pixelfed.,Pixelfed,,,True,"[{'id': '1', 'text': 'Без оскорблений и ненормативной лексики'}, {'id': '2', 'text': 'Без языка вражды и пропаганды насилия'}, {'id': '3', 'text': 'Без материалов порнографического или сексуального характера'}, {'id': '4', 'text': 'Без шокирующего контента'}, {'id': '5', 'text': 'Без информации о запрещенных товарах и услугах'}, {'id': '6', 'text': 'Без опасного контента'}, {'id': '7', 'text': 'Без заведомо ложной информации'}, {'id': '8', 'text': 'Без материалов, нарушающих конфиденциальность'}, {'id': '9', 'text': 'Без заимствованного контента'}]","['Без оскорблений и ненормативной лексики', 'Без языка вражды и пропаганды насилия', 'Без материалов порнографического или сексуального характера', 'Без шокирующего контента', 'Без информации о запрещенных товарах и услугах', 'Без опасного контента', 'Без заведомо ложной информации', 'Без материалов, нарушающих конфиденциальность', 'Без заимствованного контента']"
+320,320,637b3161d94dca7f11e7bbe1,blackrock.city,False,203,"<p>Follow the 10 principles. 
+No hate speech.
+No criminal activities.</p>
+
+<p>To support this instance send XLM to 
+GBUC42RTIY6NKX4TMCPQWBNAF57RL2IARBRYJ7T2HK5GKNUPN27WG6LB</p>
+","You don't have to go to burning man to be a Burner. <P>
+
+A community of doers celebrating life, creativity, and self-expression.
+
+",Blackrock.City,,,False,"[{'id': '2', 'text': 'No racism, sexism, homophobia, transphobia, xenophobia, or casteism'}, {'id': '3', 'text': 'No incitement of violence or promotion of violent ideologies\r\n'}, {'id': '4', 'text': 'No harassment, dogpiling or doxxing of other users\r\n'}, {'id': '5', 'text': 'Do not share intentionally false or misleading information'}]","['No racism, sexism, homophobia, transphobia, xenophobia, or casteism', 'No incitement of violence or promotion of violent ideologies\r\n', 'No harassment, dogpiling or doxxing of other users\r\n', 'Do not share intentionally false or misleading information']"
+266,266,637b2ebdd94dca7f11e7b11a,lore.livellosegreto.it,False,457,"<b>LORE</b> è l’istanza Bookwyrm di <a href=""https://livellosegreto.it/web/home"" target=""blank"">Livello Segreto</a>.<br>
+<br>Qui potrete condividere le nostre letture, scoprire nuovi libri da leggere, organizzare bookclub e coltivare amicizie letterarie. È di fatto un piccolo social network dedicato ai libri, ma integrato nel fediverso. Quello che fate qui potrà facilmente essere seguito e condiviso su Mastodon e affini.<br>
+<br>
+Pensiamo che la lettura sia importante, tanto per l’intrattenimento quanto per il progresso, e proprio per questo riteniamo fondamentale che ci sia uno spazio libero in cui condividerla.
+<br>
+<br>
+<b>LORE</b> è libero per vari motivi:
+ - È open source
+ - Non raccoglie i vostri dati
+ - È moderato e gestito da esseri umani, non da una corporazione
+ - Non ha scopo di lucro
+<br>
+<br>
+Esattamente come <a href=""https://livellosegreto.it/web/home"" target=""blank"">Livello Segreto</a>, <b>LORE</b> è un luogo di rispetto, antirazzismo, antisessismo, antifascismo. Insomma, comportatevi bene e abbiate a cuore la serenità dellǝ altrǝ utenti. Qui potete trovare le regole complete di <a href=""https://livellosegreto.it/web/home"" target=""blank"">Livello Segreto</a>.","LORE è l’istanza Bookwyrm di Livello Segreto. Qui potrete condividere le nostre letture, scoprire nuovi libri, organizzare bookclub e coltivare amicizie letterarie. È di fatto un piccolo social network dedicato ai libri, ma integrato nel fediverso.",Lore,,,True,Data not available,"['data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string']"
+204,204,637b272ead72ace2dcf17be3,nsfw.wnymathguy.com,False,292,"This server is going to host/tolerate a bit less than ""anything but illegal"" type content. We expect users to adhere to strong ethical standards, but ethics is a subjective definition, so PLEASE try to do good while you're here.","This server is going to host/tolerate a bit less than ""anything but illegal"" type content. We expect users to adhere to strong ethical standards, but ethics is a subjective definition, so PLEASE try to do good while you're here.",WNYmathGuy's Social Network,,,True,"[{'id': '1', 'text': 'WNYmathGuy Friendica Terms of Service'}, {'id': '2', 'text': 'Last updated: Friday, March 1, 2019'}, {'id': '3', 'text': '————————————————————'}, {'id': '4', 'text': '1.\tTerms'}, {'id': '5', 'text': 'By accessing the website at https://nsfw.wnymathguy.com, you are agreeing to be bound by these terms of service, all applicable laws, and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.'}, {'id': '6', 'text': '——————————'}, {'id': '7', 'text': '2.\tUse License'}, {'id': '8', 'text': 'a. Permission is granted to store and retrieve your own files and information, as well as use the communications features and other media streaming services on the WNYmathGuy Friendica Server for personal, non-commercial purposes only. This is the grant of a license, not a transfer of title, and under this license, you may not:'}, {'id': '9', 'text': 'i. modify or copy the materials of the system or that of other users;'}, {'id': '10', 'text': 'ii. use the materials for any commercial purpose, or for any public display (commercial or non-commercial);'}, {'id': '11', 'text': 'iii. attempt to decompile or reverse engineer any software contained on the WNYmathGuy Friendica Server or the other systems it runs on;'}, {'id': '12', 'text': 'iv. remove any copyright or other proprietary notations from the materials; or'}, {'id': '13', 'text': 'v. transfer the materials to another person or ""mirror"" the materials on any other server;'}, {'id': '14', 'text': 'vi. do anything that is or appears to be of a criminal nature, or even act in the capacity of an accomplice to an actual or simulated criminal act, or even store evidence of any criminal act on the system.'}, {'id': '15', 'text': 'b. This license shall automatically terminate if you violate any of these restrictions and may be terminated by the WNYmathGuy Friendica Server at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.'}, {'id': '16', 'text': '——————————'}, {'id': '17', 'text': '3.\tDisclaimer'}, {'id': '18', 'text': ""a. The materials on the WNYmathGuy Friendica Server are provided on an 'as is' basis. The WNYmathGuy Friendica Server makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.""}, {'id': '19', 'text': 'b. Further, the WNYmathGuy Friendica Server does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site. It is up to the user to verify any and all claims made on this site with an independent source.'}, {'id': '20', 'text': '——————————'}, {'id': '21', 'text': '4.\tLimitations'}, {'id': '22', 'text': 'In no event shall the WNYmathGuy Friendica Server or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on the WNYmathGuy Friendica Server, even if the WNYmathGuy Friendica Server or a the WNYmathGuy Friendica Server authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.'}, {'id': '23', 'text': '——————————'}, {'id': '24', 'text': '5.\tAccuracy of materials'}, {'id': '25', 'text': 'The materials appearing on the WNYmathGuy Friendica Server website could include technical, typographical, or photographic errors. the WNYmathGuy Friendica Server does not warrant that any of the materials on its website are accurate, complete, or current. the WNYmathGuy Friendica Server may make changes to the materials contained on its website at any time without notice. However, the WNYmathGuy Friendica Server does not make any commitment to update the materials.'}, {'id': '26', 'text': '——————————'}, {'id': '27', 'text': '6.\tLinks'}, {'id': '28', 'text': ""The WNYmathGuy Friendica Server has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by the WNYmathGuy Friendica Server of the site. Use of any such linked website is at the user's own risk.""}, {'id': '29', 'text': '——————————'}, {'id': '30', 'text': '7.\tModifications'}, {'id': '31', 'text': 'The WNYmathGuy Friendica Server may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.'}, {'id': '32', 'text': '——————————'}, {'id': '33', 'text': '8.\tGoverning Law'}, {'id': '34', 'text': 'These terms and conditions are governed by and construed in accordance with the laws of New York, United States and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.'}, {'id': '35', 'text': '——————————'}, {'id': '36', 'text': '∞.\tContacting Us'}, {'id': '37', 'text': 'If there are any questions regarding this privacy policy, you may contact us using the information below.'}, {'id': '38', 'text': 'WNYmathGuy Friendica Admin'}, {'id': '39', 'text': '206 Harrogate Square'}, {'id': '40', 'text': 'Amherst, NY 14221-4046'}, {'id': '41', 'text': 'United States'}, {'id': '42', 'text': 'nsfw@wnymathguy.com'}, {'id': '43', 'text': '————————————————————'}, {'id': '44', 'text': 'Last Edited on 2019-03-01'}, {'id': '45', 'text': '——————————'}, {'id': '46', 'text': '——————————————————————————————'}, {'id': '47', 'text': '——————————————————————————————————————————————————'}, {'id': '48', 'text': '——————————————————————————————————————————————————————————————————————'}, {'id': '49', 'text': '——————————————————————————————————————————————————'}, {'id': '50', 'text': '——————————————————————————————'}, {'id': '51', 'text': '——————————'}, {'id': '52', 'text': 'WNYmathGuy Friendica Server Privacy Policy at nsfw.wnymathguy.com'}, {'id': '53', 'text': 'Last updated: Friday, March 1, 2019'}, {'id': '54', 'text': '————————————————————'}, {'id': '55', 'text': ""This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect, or otherwise handle your Personally Identifiable Information in accordance with our website.""}, {'id': '56', 'text': '——————————'}, {'id': '57', 'text': 'α\tWhat personal information do we collect from the people that visit our social networking, communication, and information sharing site?'}, {'id': '58', 'text': ""When registering on our site, as appropriate, you may be asked to enter your name, eMail address, mailing address, phone number, Social Media User ID's or other details to help you with your experience.""}, {'id': '59', 'text': ""At the time of registration, and for providing communications between the user account and their contacts, the user has to provide a display name (pen name), a username (nickname), and a working email address. The names will be accessible on the profile page of the account by any visitor of the page, even if other profile details are not displayed. The email address will only be used to send the user notifications about interactions, but won’t be visibly displayed. The listing of an account in the node's user directory or the global user directory is optional and can be controlled in the user settings, it is not necessary for communication.""}, {'id': '60', 'text': ""This information is required for communication and is passed on to the nodes of the communication partners and is stored there. Users can enter additional personal information that may be transmitted to the communication partner's accounts.""}, {'id': '61', 'text': 'At any point in time, a logged-in user can export their account data from the account settings. If the user wants to delete their account they can do so at http://nsfw.wnymathguy.com/removeme. The deletion of the account will be permanent. Deletion of the data will also be requested from the nodes of the communication partners.'}, {'id': '62', 'text': '——————————'}, {'id': '63', 'text': 'β\tWhen do we collect information?'}, {'id': '64', 'text': 'We collect information from you when you register on our site, respond to a non-anonymous survey, fill out a form specific to your identity, use Live Chat, or enter information on our site. Provide us with feedback on our products or services.'}, {'id': '65', 'text': '——————————'}, {'id': '66', 'text': 'γ\tHow do we use your information?'}, {'id': '67', 'text': 'We may use the information we collect from you when you register, respond to a survey, surf the website, or use certain other site features in the following ways:'}, {'id': '68', 'text': '• To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.'}, {'id': '69', 'text': '• To allow us to better service you in responding to your customer service requests.'}, {'id': '70', 'text': '• To send periodic eMails regarding your usage or other products and services.'}, {'id': '71', 'text': '——————————'}, {'id': '72', 'text': 'δ\tHow do we protect your information?'}, {'id': '73', 'text': 'We do use vulnerability scanning and/or scanning to PCI standards. We only provide storage of your content and other information streams. We never ask for credit card numbers. We use regular Malware Scanning.'}, {'id': '74', 'text': 'Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive information you supply is encrypted via Secure Socket Layer (SSL) technology.'}, {'id': '75', 'text': 'We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.'}, {'id': '76', 'text': '——————————'}, {'id': '77', 'text': ""ε\tDo we use 'cookies'?""}, {'id': '78', 'text': ""Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the preferences you store. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.""}, {'id': '79', 'text': 'We use cookies to:'}, {'id': '80', 'text': ""• Understand and save user's preferences for future visits.""}, {'id': '81', 'text': ""You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since each browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.""}, {'id': '82', 'text': 'If users disable cookies in their browser:'}, {'id': '83', 'text': '• Some of the features that make your site experience more efficient may not function properly.'}, {'id': '84', 'text': 'Third-party disclosure:'}, {'id': '85', 'text': '• We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.'}, {'id': '86', 'text': 'Third-party links:'}, {'id': '87', 'text': '• We do not include or offer third-party products or services on our website.'}, {'id': '88', 'text': 'Google:'}, {'id': '89', 'text': ""• Google's advertising requirements can be summed up by Google's Advertising Principles.""}, {'id': '90', 'text': '• They are put in place to provide a positive experience for users.'}, {'id': '91', 'text': '• https://support.google.com/adwordspolicy/answer/1316548?hl=en'}, {'id': '92', 'text': '• We do not use Google AdSense Advertising on our website.'}, {'id': '93', 'text': 'We have implemented the following:'}, {'id': '94', 'text': '• California Online Privacy Protection Act'}, {'id': '95', 'text': ""CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. - See more at http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf""}, {'id': '96', 'text': 'According to CalOPPA, we agree to the following:'}, {'id': '97', 'text': '• Users can visit our site anonymously.'}, {'id': '98', 'text': '• Once this privacy policy is created, we will add a link to it on our homepage or as a minimum, on the login page for entering our website.'}, {'id': '99', 'text': ""• Our Privacy Policy link is identified by the words 'Terms of Service' and can easily be found on the https://nsfw.wnymathguy.com page by clicking the question mark icon at the top right corner of the site.""}, {'id': '100', 'text': 'You will be notified of any Privacy Policy changes:'}, {'id': '101', 'text': ""• Via eMail, or an affirmation window during normal use of the site's services, or via the TOS page at this link https://nsfw.wnymathguy.com/tos""}, {'id': '102', 'text': 'You can change your personal information:'}, {'id': '103', 'text': '• By logging in to your account and editing via the Profile sub-tab of your Home tab'}, {'id': '104', 'text': '• By chatting with us or by sending us a support request via eMail'}, {'id': '105', 'text': '——————————'}, {'id': '106', 'text': 'ζ\tHow does our site handle Do Not Track signals?'}, {'id': '107', 'text': 'We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.'}, {'id': '108', 'text': '——————————'}, {'id': '109', 'text': 'η\tDoes our site allow third-party behavioral tracking?'}, {'id': '110', 'text': ""It's also important to note that we do not allow third-party behavioral tracking""}, {'id': '111', 'text': 'COPPA (Children Online Privacy Protection Act)'}, {'id': '112', 'text': ""When it comes to the collection of personal information from children under the age of 13 years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.""}, {'id': '113', 'text': 'We do not specifically market to children under the age of 13 years old.'}, {'id': '114', 'text': 'We do not let third-parties, including ad networks or plug-ins, collect PII from children under 13.'}, {'id': '115', 'text': '——————————'}, {'id': '116', 'text': 'θ\tFair Information Practices'}, {'id': '117', 'text': 'The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.'}, {'id': '118', 'text': 'In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:'}, {'id': '119', 'text': '• We will notify you via eMail'}, {'id': '120', 'text': '• We will notify the users via in-site notification within 1 business day of our discovery of the breach'}, {'id': '121', 'text': 'We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.'}, {'id': '122', 'text': '——————————'}, {'id': '123', 'text': 'ι\tCAN-SPAM Act'}, {'id': '124', 'text': 'The CAN-SPAM Act is a law that sets the rules for commercial eMail, establishes requirements for commercial messages, gives recipients the right to have eMails stopped from being sent to them, and spells out tough penalties for violations.'}, {'id': '125', 'text': 'We collect your email address in order to:'}, {'id': '126', 'text': '• Send information, respond to inquiries, and/or other requests or questions'}, {'id': '127', 'text': '• Send you additional information related to your use of our service'}, {'id': '128', 'text': 'To be in accordance with CAN-SPAM, we agree to the following:'}, {'id': '129', 'text': '• Not use false or misleading subjects or eMail addresses.'}, {'id': '130', 'text': '• Identify the message as an advertisement in some reasonable way.'}, {'id': '131', 'text': '• Include the physical address of our business or site headquarters.'}, {'id': '132', 'text': '• Monitor third-party eMail marketing services for compliance, if one is used.'}, {'id': '133', 'text': '• Honor opt-out/unsubscribe requests quickly.'}, {'id': '134', 'text': '• Allow users to unsubscribe by using the link at the bottom of each eMail.'}, {'id': '135', 'text': 'If at any time you would like to unsubscribe from receiving future eMails, you can eMail us at:'}, {'id': '136', 'text': '• nsfw@wnymathguy.com,'}, {'id': '137', 'text': '• or follow the instructions at the bottom of each eMail and we will promptly remove you from ALL correspondence.'}, {'id': '138', 'text': '——————————'}, {'id': '139', 'text': 'ω\tContacting Us'}, {'id': '140', 'text': 'If there are any questions regarding this privacy policy, you may contact us using the information below.'}, {'id': '141', 'text': 'WNYmathGuy Friendica Admin'}, {'id': '142', 'text': '206 Harrogate Square'}, {'id': '143', 'text': 'Amherst, NY 14221-4046'}, {'id': '144', 'text': 'United States'}, {'id': '145', 'text': 'nsfw@wnymathguy.com'}, {'id': '146', 'text': '————————————————————'}, {'id': '147', 'text': 'Last Edited on 2019-03-01'}]","['WNYmathGuy Friendica Terms of Service', 'Last updated: Friday, March 1, 2019', '————————————————————', '1.\tTerms', 'By accessing the website at https://nsfw.wnymathguy.com, you are agreeing to be bound by these terms of service, all applicable laws, and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.', '——————————', '2.\tUse License', 'a. Permission is granted to store and retrieve your own files and information, as well as use the communications features and other media streaming services on the WNYmathGuy Friendica Server for personal, non-commercial purposes only. This is the grant of a license, not a transfer of title, and under this license, you may not:', 'i. modify or copy the materials of the system or that of other users;', 'ii. use the materials for any commercial purpose, or for any public display (commercial or non-commercial);', 'iii. attempt to decompile or reverse engineer any software contained on the WNYmathGuy Friendica Server or the other systems it runs on;', 'iv. remove any copyright or other proprietary notations from the materials; or', 'v. transfer the materials to another person or ""mirror"" the materials on any other server;', 'vi. do anything that is or appears to be of a criminal nature, or even act in the capacity of an accomplice to an actual or simulated criminal act, or even store evidence of any criminal act on the system.', 'b. This license shall automatically terminate if you violate any of these restrictions and may be terminated by the WNYmathGuy Friendica Server at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.', '——————————', '3.\tDisclaimer', ""a. The materials on the WNYmathGuy Friendica Server are provided on an 'as is' basis. The WNYmathGuy Friendica Server makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights."", 'b. Further, the WNYmathGuy Friendica Server does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site. It is up to the user to verify any and all claims made on this site with an independent source.', '——————————', '4.\tLimitations', 'In no event shall the WNYmathGuy Friendica Server or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on the WNYmathGuy Friendica Server, even if the WNYmathGuy Friendica Server or a the WNYmathGuy Friendica Server authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.', '——————————', '5.\tAccuracy of materials', 'The materials appearing on the WNYmathGuy Friendica Server website could include technical, typographical, or photographic errors. the WNYmathGuy Friendica Server does not warrant that any of the materials on its website are accurate, complete, or current. the WNYmathGuy Friendica Server may make changes to the materials contained on its website at any time without notice. However, the WNYmathGuy Friendica Server does not make any commitment to update the materials.', '——————————', '6.\tLinks', ""The WNYmathGuy Friendica Server has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by the WNYmathGuy Friendica Server of the site. Use of any such linked website is at the user's own risk."", '——————————', '7.\tModifications', 'The WNYmathGuy Friendica Server may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.', '——————————', '8.\tGoverning Law', 'These terms and conditions are governed by and construed in accordance with the laws of New York, United States and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.', '——————————', '∞.\tContacting Us', 'If there are any questions regarding this privacy policy, you may contact us using the information below.', 'WNYmathGuy Friendica Admin', '206 Harrogate Square', 'Amherst, NY 14221-4046', 'United States', 'nsfw@wnymathguy.com', '————————————————————', 'Last Edited on 2019-03-01', '——————————', '——————————————————————————————', '——————————————————————————————————————————————————', '——————————————————————————————————————————————————————————————————————', '——————————————————————————————————————————————————', '——————————————————————————————', '——————————', 'WNYmathGuy Friendica Server Privacy Policy at nsfw.wnymathguy.com', 'Last updated: Friday, March 1, 2019', '————————————————————', ""This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect, or otherwise handle your Personally Identifiable Information in accordance with our website."", '——————————', 'α\tWhat personal information do we collect from the people that visit our social networking, communication, and information sharing site?', ""When registering on our site, as appropriate, you may be asked to enter your name, eMail address, mailing address, phone number, Social Media User ID's or other details to help you with your experience."", ""At the time of registration, and for providing communications between the user account and their contacts, the user has to provide a display name (pen name), a username (nickname), and a working email address. The names will be accessible on the profile page of the account by any visitor of the page, even if other profile details are not displayed. The email address will only be used to send the user notifications about interactions, but won’t be visibly displayed. The listing of an account in the node's user directory or the global user directory is optional and can be controlled in the user settings, it is not necessary for communication."", ""This information is required for communication and is passed on to the nodes of the communication partners and is stored there. Users can enter additional personal information that may be transmitted to the communication partner's accounts."", 'At any point in time, a logged-in user can export their account data from the account settings. If the user wants to delete their account they can do so at http://nsfw.wnymathguy.com/removeme. The deletion of the account will be permanent. Deletion of the data will also be requested from the nodes of the communication partners.', '——————————', 'β\tWhen do we collect information?', 'We collect information from you when you register on our site, respond to a non-anonymous survey, fill out a form specific to your identity, use Live Chat, or enter information on our site. Provide us with feedback on our products or services.', '——————————', 'γ\tHow do we use your information?', 'We may use the information we collect from you when you register, respond to a survey, surf the website, or use certain other site features in the following ways:', '• To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.', '• To allow us to better service you in responding to your customer service requests.', '• To send periodic eMails regarding your usage or other products and services.', '——————————', 'δ\tHow do we protect your information?', 'We do use vulnerability scanning and/or scanning to PCI standards. We only provide storage of your content and other information streams. We never ask for credit card numbers. We use regular Malware Scanning.', 'Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive information you supply is encrypted via Secure Socket Layer (SSL) technology.', 'We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.', '——————————', ""ε\tDo we use 'cookies'?"", ""Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the preferences you store. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future."", 'We use cookies to:', ""• Understand and save user's preferences for future visits."", ""You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since each browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies."", 'If users disable cookies in their browser:', '• Some of the features that make your site experience more efficient may not function properly.', 'Third-party disclosure:', '• We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.', 'Third-party links:', '• We do not include or offer third-party products or services on our website.', 'Google:', ""• Google's advertising requirements can be summed up by Google's Advertising Principles."", '• They are put in place to provide a positive experience for users.', '• https://support.google.com/adwordspolicy/answer/1316548?hl=en', '• We do not use Google AdSense Advertising on our website.', 'We have implemented the following:', '• California Online Privacy Protection Act', ""CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. - See more at http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf"", 'According to CalOPPA, we agree to the following:', '• Users can visit our site anonymously.', '• Once this privacy policy is created, we will add a link to it on our homepage or as a minimum, on the login page for entering our website.', ""• Our Privacy Policy link is identified by the words 'Terms of Service' and can easily be found on the https://nsfw.wnymathguy.com page by clicking the question mark icon at the top right corner of the site."", 'You will be notified of any Privacy Policy changes:', ""• Via eMail, or an affirmation window during normal use of the site's services, or via the TOS page at this link https://nsfw.wnymathguy.com/tos"", 'You can change your personal information:', '• By logging in to your account and editing via the Profile sub-tab of your Home tab', '• By chatting with us or by sending us a support request via eMail', '——————————', 'ζ\tHow does our site handle Do Not Track signals?', 'We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.', '——————————', 'η\tDoes our site allow third-party behavioral tracking?', ""It's also important to note that we do not allow third-party behavioral tracking"", 'COPPA (Children Online Privacy Protection Act)', ""When it comes to the collection of personal information from children under the age of 13 years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online."", 'We do not specifically market to children under the age of 13 years old.', 'We do not let third-parties, including ad networks or plug-ins, collect PII from children under 13.', '——————————', 'θ\tFair Information Practices', 'The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.', 'In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:', '• We will notify you via eMail', '• We will notify the users via in-site notification within 1 business day of our discovery of the breach', 'We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.', '——————————', 'ι\tCAN-SPAM Act', 'The CAN-SPAM Act is a law that sets the rules for commercial eMail, establishes requirements for commercial messages, gives recipients the right to have eMails stopped from being sent to them, and spells out tough penalties for violations.', 'We collect your email address in order to:', '• Send information, respond to inquiries, and/or other requests or questions', '• Send you additional information related to your use of our service', 'To be in accordance with CAN-SPAM, we agree to the following:', '• Not use false or misleading subjects or eMail addresses.', '• Identify the message as an advertisement in some reasonable way.', '• Include the physical address of our business or site headquarters.', '• Monitor third-party eMail marketing services for compliance, if one is used.', '• Honor opt-out/unsubscribe requests quickly.', '• Allow users to unsubscribe by using the link at the bottom of each eMail.', 'If at any time you would like to unsubscribe from receiving future eMails, you can eMail us at:', '• nsfw@wnymathguy.com,', '• or follow the instructions at the bottom of each eMail and we will promptly remove you from ALL correspondence.', '——————————', 'ω\tContacting Us', 'If there are any questions regarding this privacy policy, you may contact us using the information below.', 'WNYmathGuy Friendica Admin', '206 Harrogate Square', 'Amherst, NY 14221-4046', 'United States', 'nsfw@wnymathguy.com', '————————————————————', 'Last Edited on 2019-03-01']"
+236,236,637b2d02d94dca7f11e7aa52,mastodon.fosslife.org,False,185,,,FOSSlife,,,True,Data not available,"['data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string', 'data type is a string']"
+155,155,636821bb80bb3f03b435a2df,social.horrorhub.club,False,330,"<h1>Welcome to HorrorHub!</h1>
+
+<p>This is a large server run by one nerd.</p>
+
+<p>Do you love horror? Stories, movies, narrations, artwork? So do I. That&#39;s why I started this instance. I&#39;ve had this domain doing nothing for years, now I finally have something to use it for.</p>
+
+<p>Message <a href=""https://horrorhub.club/@bluebassist"">@bluebassist@horrorhub.club</a> if you&#39;re a horror content creator and would like to be included in the recommended accounts list for new users!</p>
+
+<h1>Patreon</h1>
+
+<p><a href=""https://patreon.com/horrorhubclub"">Support us on Patreon</a> like these awesome people!</p>
+
+<ul>
+<li>Elizabeth Lee</li>
+<li>Christian Burd</li>
+<li>Rottenartist</li>
+<li>TheSecretDavid</li>
+<li>Thudfactor</li>
+<li>Sarah Wilkes</li>
+<li>Brett Dyer</li>
+<li>Jason Parker-Burlingham</li>
+<li>grryboy</li>
+<li>Dread Hag</li>
+<li>Legion Podcasts</li>
+<li>Goretta Synn</li>
+<li>hpkomic</li>
+<li>Ryan Conley</li>
+<li>Jennifer Barnes</li>
+<li>Caracabe</li>
+<li>Will Hartzo</li>
+<li>Daniel Lundh</li>
+<li>esoteria</li>
+<li>Hangfire Books</li>
+<li>Michael Riser</li>
+<li>Anthony Michael Bianco</li>
+<li>C. in Fresno</li>
+<li>Daisy</li>
+<li>Tom O&#39;Keefe</li>
+<li>erethryn</li>
+</ul>
+
+<h1>Server Info</h1>
+
+<p>12 core Intel Xeon E-2236 @ 3.4ghz
+32GB RAM
+Located in Virginia, US</p>
+",A Mastodon server for Horror fans.,HorrorHub Social,,,True,"[{'id': '2', 'text': ""Don't be a dick. - The universal rule""}, {'id': '3', 'text': 'Slurs and hate speech are not tolerated.'}, {'id': '4', 'text': 'Use CW tags for Gore and other NSFW posts. '}, {'id': '5', 'text': ""Don't do anything that would cause another instance to defed (completely block) our instance. When I receive reports, I will take the steps necessary to resolve the remote grievance if I find it has merit, and I will reach out to you via DM to inform you of the decision I've made.""}, {'id': '6', 'text': 'Observe Mastodon etiquette as best as we can. A majority of us are new to this network that has been around for many years and has its own culture.'}, {'id': '7', 'text': 'No content that is considered illegal in the United States'}, {'id': '8', 'text': 'No posting misinformation or misleading information.'}, {'id': '9', 'text': 'No harassment, dogpiling or doxxing of other users'}]","[""Don't be a dick. - The universal rule"", 'Slurs and hate speech are not tolerated.', 'Use CW tags for Gore and other NSFW posts. ', ""Don't do anything that would cause another instance to defed (completely block) our instance. When I receive reports, I will take the steps necessary to resolve the remote grievance if I find it has merit, and I will reach out to you via DM to inform you of the decision I've made."", 'Observe Mastodon etiquette as best as we can. A majority of us are new to this network that has been around for many years and has its own culture.', 'No content that is considered illegal in the United States', 'No posting misinformation or misleading information.', 'No harassment, dogpiling or doxxing of other users']"
+399,399,638e8994eb2e8fa2c5cb1417,unvernunft.social,False,201,"<p>BDSM ist absolut unvernünftig und braucht auch im Fediverse einen Ort um sich zu entfalten.</p>
+
+<p>Wir gehen hier positiv und vorurteilsfrei miteinander um. Wir kommunizieren und fühlen uns hier willkommen: Unabhängig von Kink, sexueller Identität, Herkunft...</p>
+
+<p>Wir haben Stil und nutzen Inhaltswarnungen bei NSFW-Inhalten.</p>
+
+<p>Consent muss ich hier nicht erklären. Der wird erwartet!</p>
+",BDSM ist absolut unvernünftig und braucht auch im Fediverse einen Ort um sich zu entfalten.,Unvernunft,,,True,"[{'id': '3', 'text': 'Geht freundlich und positiv miteinander um.'}, {'id': '4', 'text': 'Wir mögen BDSM-Inhalte. Kennzeichnet NSFW-Inhalte!'}, {'id': '5', 'text': 'Illegale Inhalte haben hier nichts zu suchen'}, {'id': '6', 'text': 'Alle Menschen sind toll! - Rassismus, Hate-Speech, Rechte Parolen und Co. führen zur sofortigen Verbannung'}, {'id': '7', 'text': 'Beitritt ab 18 Jahre!'}, {'id': '8', 'text': 'Wir haben Stil und Spaß am miteinander'}, {'id': '9', 'text': 'Wenn du nicht möchtest, dass etwas geteilt, geboostert (wie Retweet) oder öffentlich angezeigt werden kann, dann poste es nicht!'}, {'id': '10', 'text': 'Wenn ihr auf eigene Shops und Produkte verlinkt, tut dies bitte nicht ständig und markiert die Beiträge mit #ad oder #werbung. So können Nutzer diese Hashtags filtern, wenn sie das nicht sehen möchten.'}]","['Geht freundlich und positiv miteinander um.', 'Wir mögen BDSM-Inhalte. Kennzeichnet NSFW-Inhalte!', 'Illegale Inhalte haben hier nichts zu suchen', 'Alle Menschen sind toll! - Rassismus, Hate-Speech, Rechte Parolen und Co. führen zur sofortigen Verbannung', 'Beitritt ab 18 Jahre!', 'Wir haben Stil und Spaß am miteinander', 'Wenn du nicht möchtest, dass etwas geteilt, geboostert (wie Retweet) oder öffentlich angezeigt werden kann, dann poste es nicht!', 'Wenn ihr auf eigene Shops und Produkte verlinkt, tut dies bitte nicht ständig und markiert die Beiträge mit #ad oder #werbung. So können Nutzer diese Hashtags filtern, wenn sie das nicht sehen möchten.']"
+487,487,656009bd67eaca47c00695d0,thejuniverse.no,False,268,,"A brand new free topich, free speech online community.",The Juniverse,,,True,"[{'id': '1', 'text': 'Be polite and respectful, always!\r\nFact-check your content before publishing.\r\nPlease do your part to stop the flow of ""fake news""\r\nMAKE SURE you have the right to share the content from everyone involved, everyone involved is at least 18 years, and content is legal before publishing.'}]","['Be polite and respectful, always!\r\nFact-check your content before publishing.\r\nPlease do your part to stop the flow of ""fake news""\r\nMAKE SURE you have the right to share the content from everyone involved, everyone involved is at least 18 years, and content is legal before publishing.']"
+183,183,637a685f057570bcb618bb35,body.social,False,325,"<h2>We're creating a safe space for naked content creators and activists.</h2>
+
+<p>Welcome to The Body Social, a small community dedicated to naked content creators and activists looking for a space to explore and share simple, non-sexual nudity inside the fediverse.</p>
+
+<h2>Audience</h2>
+
+<p>Mastodon and the fediverse, collectively, encompass around 11 million users and around 1.8 million active users per month (source: <a href=""https://fedidb.org/"" target=""__blank"">FediDB</a>). Our community is intentionally small, but has access to 25,000 other communities which can be seamlessly followed and posted to from the comfort of The Body Social.</p>
+
+<h2>Moderation</h2>
+
+<p>Keeping a safe space for naked content creators requires moderation that can't commonly be found in larger communities. We're here to treat our members with care and help them grow by moderating from a philosophy compatible with their own.</p>
+
+<h2>Our beliefs</h2>
+
+<ul>
+  <li>You only get one body, so enjoy it</li>
+  <li>Be in tune with your body on a deeper level</li>
+  <li>Health and happiness above the expectations of others</li>
+  <li>Unwind the association of sexuality and nudity</li>
+  <li>Clothing is optional and that choice shouldn't diminish your dignity</li>
+</ul>
+
+<h2>Naturism</h2>
+
+<p>A lot of our members tend to come with a background in naturism. You can read more about that at <a href=""https://naturism.is"">naturism.is</a>.</p>
+
+<h2>Our service promise to you</h2>
+
+<p>Our top priorities are to keep your data backed up and safe and your experience here seamless and uninterrupted.</p>
+
+<h2>How we're funded</h2>
+
+<p>The Body Social is self-funded at the moment and not seeking any funding. This may change in the future as we explore options, such as obtaining non-profit member organization status.</p>
+",Body positivity and acceptance social network celebrating our bodies.,The Body Social,,,True,"[{'id': '11', 'text': 'No body shaming, ageism, casteism, racism, sexism, homophobia, transphobia, or xenophobia'}, {'id': '12', 'text': 'No harassment, dogpiling, or doxxing of any user'}, {'id': '13', 'text': 'No predatory marketing practices'}, {'id': '14', 'text': 'No intentionally false or misleading information'}, {'id': '15', 'text': 'No non-sexual nudity that directs to sex businesses or accounts'}, {'id': '16', 'text': 'No non-consensual media containing nudity'}, {'id': '17', 'text': 'No incitement of violence or promotion of violent ideologies'}, {'id': '18', 'text': 'Mark violent media with a content warning'}, {'id': '19', 'text': 'Mark sexually-explicit nudity with a content warning'}, {'id': '21', 'text': ""Mark AI-generated accounts as AI-generated in the account's description.""}, {'id': '22', 'text': 'Complete your account with a profile picture, cover picture, and description'}]","['No body shaming, ageism, casteism, racism, sexism, homophobia, transphobia, or xenophobia', 'No harassment, dogpiling, or doxxing of any user', 'No predatory marketing practices', 'No intentionally false or misleading information', 'No non-sexual nudity that directs to sex businesses or accounts', 'No non-consensual media containing nudity', 'No incitement of violence or promotion of violent ideologies', 'Mark violent media with a content warning', 'Mark sexually-explicit nudity with a content warning', ""Mark AI-generated accounts as AI-generated in the account's description."", 'Complete your account with a profile picture, cover picture, and description']"
+420,420,63b040146f1b2c0a97c45a46,mastodo.neoliber.al,False,280,"<h1>Welcome!</h1>
+
+<p>This Mastodon instance was created in December 2022 for <a href=""https://reddit.com/r/neoliberal"">/r/neoliberal</a> as part of the broader <a href=""https://neoliber.al"">neoliber.al</a> domain as a reward for reaching a milestone during our <a href=""https://www.reddit.com/r/neoliberal/comments/102ozbm/rneoliberal_2022_charity_drive_wrapup_thread/"">charity drive</a>. While primarily a spinoff of the subreddit, we welcome new accounts from anyone who is looking for a community based on liberal values</p>
+
+<p>New to Mastodon? You can learn more about it <a href=""https://joinmastodon.org/"">here</a>. In short, this is an independently-run social media website that can communicate with other such websites using the ActivityPub protocol. If you create an account here, you can follow and chat with people on any other Mastodon instance and even on other social media platforms such as Lemmy and Pixelfed. This network is known as the &quot;Fediverse&quot; and is home to over 1.5 million monthly active users</p>
+
+<p><a href=""https://mastodon.social/"">mastodon.social</a> is the most popular instance, so why make an account here? First, it gives you access to our <a href=""https://mastodo.neoliber.al/public/local"">local community feed</a> of people who have also decided to create an account here (100% good takes guaranteed or your money back). Second, as a small community, you can get direct support from the admins and a say in how moderation is handled. And lastly, thanks in part to the software <a href=""https://github.com/TheEssem/mastodon"">Chuckya</a> and <a href=""https://github.com/glitch-soc/mastodon/"">glitch-soc</a>, we have some extra features here not found on other Mastodon instances including:</p>
+
+<ul>
+<li>Gigachad Obama emoji</li>
+<li><a href=""https://glitch-soc.github.io/docs/features/rich-text/"">Markdown formatting</a></li>
+<li><a href=""https://glitch-soc.github.io/docs/features/local-only-toots/"">Local-only posts</a></li>
+<li><a href=""https://glitch-soc.github.io/docs/features/doodle/"">Doodle posts</a></li>
+<li>Emoji reactions</li>
+<li>Tenor GIF selector</li>
+<li>Optional Mastodon Modern Theme (<a href=""https://codeberg.org/Freeplay/Mastodon-Modern"">source</a>)</li>
+</ul>
+
+<p>Some Mastodon apps will not support all these features, but the website always works</p>
+
+<h1>Moderation</h1>
+
+<p>This instance is actively moderated and reports are usually responded to within 12 hours. We do not allow racism, sexism, homophobia, transphobia, or bad stuff in general</p>
+
+<p>As a user, Mastodon has powerful tools for deciding what content you want to see, including word filters, blocking accounts, and blocking entire instances. As such, our current policy is to only perform site-wide blocks of other instances for spam, harassment, hate speech, and illegal or otherwise highly-objectionable content. Please reach out if you think a server has been wrongfully blocked</p>
+
+<p>In the future it may be possible to communicate with Bluesky and Threads. Some instances intend to block communication with these services because they&#39;re for-profit corporate entities, but we don&#39;t have any plans to do so</p>
+
+<h1>Privacy</h1>
+
+<p>We use the <a href=""https://mastodo.neoliber.al/privacy-policy"">default Mastodon privacy policy</a>. Please do not make an account here if you are under 13 or if handling your information as described in the privacy policy is otherwise illegal</p>
+
+<p>It is not required to sign in to see posts made on this server. Therefore, blocking someone prevents them from replying to you, but does not stop them from reading your posts. This also means that posts made here can show up in search engine results or be archived by third parties (eg. <a href=""https://archive.org/web/"">Internet Archive&#39;s Wayback Machine</a>). This is the same as how Reddit operates. If you&#39;re looking for more privacy, you&#39;ll want to find a Mastodon instance that supports what&#39;s known as &quot;authorized fetch&quot;</p>
+
+<h1>Administration</h1>
+
+<p>A minimum of 90 days notice will be given if this instance is going to shut down, and backups are automatically performed daily. That said, we are not fully compliant with the <a href=""https://joinmastodon.org/covenant"">Mastodon Server Covenant</a> due to only one person having access to the server infrastructure</p>
+
+<p>Server hosting and services are provided by Digital Ocean and Amazon AWS. Monthly costs are approximately $40. We are not accepting donations at this time, but if you would like to support the growth of Mastodon as a whole, consider contributing to the <a href=""https://www.patreon.com/mastodon"">Mastodon gGmbH Patreon</a> or another small instance</p>
+
+<p>This instance is not affiliated with the Mastodon gGmbH nonprofit corporation. Accordingly, please direct all issues regarding the content on or moderation of this instance (eg. DMCA, GDPR, ban appeals, server blocks, tech support) to jenbanim@gmail.com</p>
+",An instance for reddit.com/r/neoliberal,neoliberal,,,True,"[{'id': '2', 'text': ""Be civil: don't flame, harass, doxx, or dogpile. When disagreeing with others, don't resort to name calling or bad faith arguments.""}, {'id': '3', 'text': ""Be decent: don't post obscene or offensive content such as porn, gore, or sexualization of minors. Anything potentially shocking should be put behind adequate content warnings""}, {'id': '4', 'text': ""Be woke: don't post bigoted content and don't glorify or advocate for violence""}, {'id': '5', 'text': ""Be law-abiding: don't post any content illegal under US laws such as copyrighted material""}, {'id': '6', 'text': ""Be a good neighbor: don't cause trouble with Reddit or other Fediverse instances""}, {'id': '8', 'text': ""Be honest: don't post deliberate misinformation unless it's really funny like convincing someone to eat the stickers on fruit""}, {'id': '9', 'text': ""Don't spam: treat the Fediverse as a place for conversation, not a captive audience""}, {'id': '10', 'text': ""Other: Feel free to report content that doesn't violate the letter of the rules, and please understand that mods may take action even when content doesn't break the letter of the rules""}]","[""Be civil: don't flame, harass, doxx, or dogpile. When disagreeing with others, don't resort to name calling or bad faith arguments."", ""Be decent: don't post obscene or offensive content such as porn, gore, or sexualization of minors. Anything potentially shocking should be put behind adequate content warnings"", ""Be woke: don't post bigoted content and don't glorify or advocate for violence"", ""Be law-abiding: don't post any content illegal under US laws such as copyrighted material"", ""Be a good neighbor: don't cause trouble with Reddit or other Fediverse instances"", ""Be honest: don't post deliberate misinformation unless it's really funny like convincing someone to eat the stickers on fruit"", ""Don't spam: treat the Fediverse as a place for conversation, not a captive audience"", ""Other: Feel free to report content that doesn't violate the letter of the rules, and please understand that mods may take action even when content doesn't break the letter of the rules""]"
+267,267,637b2ebed94dca7f11e7b11b,a2mi.social,False,421,"<p>Updates on site status, ToS/CoC changes, and so forth will be announced from <a href=""https://a2mi.social/@instance"">@instance@a2mi.social</a>.</p>
+
+<h2>Donations</h2>
+
+<p>This site costs roughly $100 per month to run. If you'd like to contribute, you can send some money to the site administrator (Chris Dzombak) via:</p>
+
+<ul>
+<li>PayPal at <a href=""https://www.paypal.me/chrisdzombak"">paypal.me/chrisdzombak</a></li>
+<li>Venmo at <a href=""https://venmo.com/dzombak"">@dzombak</a></li>
+</ul>
+
+<p>To support development of the open-source Mastodon software, consider contributing to <a href=""https://www.patreon.com/mastodon"">the Mastodon Patreon</a>.</p>
+
+<h2>Conduct, Content, and Moderation Policies</h2>
+
+<h3>Terms of Service</h3>
+
+<p>All users are expected to follow the site rules, and repeated or serious violations will lead to account suspension.</p>
+
+<p>Creation of multiple accounts in order to avoid or evade moderation actions is not allowed. Violations will lead to suspension of all your accounts.</p>
+
+<p>Regardless of your a2mi.social account status:</p>
+
+<ul><li>Usage that may undermine users’ security and privacy expectations (like scraping, indexing, or followbots) is not permitted.</li>
+<li>Usage that enables harassment, abuse, hate speech, spamming, or that enables violation of any other site rule is likewise disallowed.</li>
+<li>Usage that violates or aims to subvert the server-level moderation policies is not allowed.</li>
+</ul>
+
+<p>Violations may result in suspension of your account, suspension of federation with your server, or network-level blocks, with no warning.</p>
+
+<h3>Reporting Accounts</h3>
+
+<p>When reporting accounts, please include a few posts that show rule-breaking behavior, when applicable. If there is any additional context that might help make a decision, please also include it in the comment.</p>
+
+<p>We usually handle reports within 24 hours. Please note that you are not notified when a report you have made has led to a punitive action, and that not all punitive actions are externally visible. For first time offenses, we may opt to delete offending content, escalating to harsher measures on repeat offenses.</p>
+
+<h3>Server-level Moderation</h3>
+
+<p>To provide a pleasant space for the community, we block federation at the server level with Mastodon sites known to:</p>
+
+<ul>
+<li>Present security or privacy risks</li>
+<li>Enable hate speech, violent speech, or other violent/hateful ideologies</li>
+<li>Enable harassment or abuse</li>
+<li>Propagate dangerous conspiracy theories</li>
+<li>Tolerate/host content that's illegal in the US</li>
+<li>Enable spamming</li>
+</ul>
+
+<p>These blocks are largely based on the list available at <a href=""https://joinfediverse.wiki/FediBlock"">joinfediverse.wiki/FediBlock</a>.</p>
+
+<h2>Site News</h2>
+
+<p>Updates on site status, ToS and CoC changes, and so forth will be provided through the Instance News account: <a href=""https://a2mi.social/@instance"">@instance@a2mi.social</a>.</p>
+
+<p>If the site is offline, check <a href=""https://status.a2mi.social"">status.a2mi.social</a>, which is hosted on an external service, for news.</p>
+","👋 A2mi.social is a friendly social network for people living, working, studying around Ann Arbor — including Ypsilanti and elsewhere — and our friends.","Ann Arbor, Ypsilanti & Friends Community",,,True,"[{'id': '2', 'text': 'Provide relevant content warnings on potentially sensitive posts, spoilers, and other content that not everyone may want to see. This includes any adult, sexually explicit, violent or other graphic content.'}, {'id': '4', 'text': 'No racism, sexism, homophobia, transphobia, xenophobia, or casteism'}, {'id': '5', 'text': 'No incitement of violence or promotion of violent ideologies'}, {'id': '6', 'text': 'No harassment, dogpiling or doxxing of other users'}, {'id': '7', 'text': 'No content illegal in in the United States'}, {'id': '8', 'text': 'Do not share intentionally false or misleading information'}, {'id': '9', 'text': 'Behavior/content that undermines privacy or security expectations is not allowed'}]","['Provide relevant content warnings on potentially sensitive posts, spoilers, and other content that not everyone may want to see. This includes any adult, sexually explicit, violent or other graphic content.', 'No racism, sexism, homophobia, transphobia, xenophobia, or casteism', 'No incitement of violence or promotion of violent ideologies', 'No harassment, dogpiling or doxxing of other users', 'No content illegal in in the United States', 'Do not share intentionally false or misleading information', 'Behavior/content that undermines privacy or security expectations is not allowed']"
+263,263,637b2eadd94dca7f11e7b0da,calculate.social,False,241,"<h3>🇬🇧 Calculate.Social is a Calculate Linux users community</h3>
+
+<p>Share your experience, meet, be friends!</p>
+
+<h3>🇷🇺 Calculate.Social это сообщество пользователей Calculate Linux</h3>
+
+<p>Делитесь опытом, знакомьтесь, дружите!</p>
+
+<h3>Не допускается</h3>
+
+<ul>
+<li>Размещать материалы 18+ и нарушающие законодательство РФ.</li>
+<li>Грубить, хамить, оскорблять других пользователей</li>
+<li>Рассылать спам</li>
+</ul>
+",This is a Calculate Linux users community.,Calculate Social,,,False,[],[]
+216,216,637b2a1d165e9097a989ee43,songbird.cloud,False,210,"<h1>ようこそ！ 🐣</h1>
+
+<p>Songbird は特に決まったテーマの無い Mastodon サーバーですが、生活や社会、文化全般の話題に興味のある方に向いています。</p>
+
+<p>サーバーのルールを遵守していただく限り自由にご利用いただけます。</p>
+
+<p>多様な方々が安心して過ごせる場所を目指しています。</p>
+
+<h2>少し便利な Mastodon</h2>
+
+<p>このサーバーでは <a href=""https://glitch-soc.github.io/docs/"">Mastodon Glitch Edition</a> という、普通の Mastodon にいくつか機能を追加したものを使っています。例えば、</p>
+
+<ul>
+<li>ローカルタイムライン限定投稿（このサーバーに居る人だけに見える投稿）</li>
+<li>HTML や Markdown による投稿の書式設定</li>
+<li>Web・PWA クライアントの UI カスタマイズ</li>
+<li>フォロワー数の非表示</li>
+</ul>
+
+<p>など、便利な機能をご利用いただけます。</p>
+
+<h2>免責事項</h2>
+
+<p>このサービスはベストエフォート方式です。運営上やむを得ない場合、新規登録の停止やデータの削除を行う可能性があります。</p>
+
+<h1>Welcome! 🐤</h1>
+
+<p>Songbird is a general Mastodon server suitable to those who are interested in daily life and social topics.</p>
+
+<p>Feel free to sign up and toot as long as you agree to obey our server rules.</p>
+
+<h2>Additional Features</h2>
+
+<p>This server is running on <a href=""https://glitch-soc.github.io/docs/"">Mastodon Glitch Edition</a> which provides some additional features. For example,</p>
+
+<ul>
+<li>&quot;Local-only&quot; toots: visible only for people on this server</li>
+<li>Formatted toots: you can write Markdown and HTML</li>
+<li>Additional UI customization</li>
+<li>Hiding follower count</li>
+<li>etc.</li>
+</ul>
+
+<h2>Disclaimer</h2>
+
+<p>This service is provided in best-effort manner. Registration could be closed anytime and any data could be lost for operational reasons.</p>
+
+<h2>Current Admin</h2>
+
+<p><a href=""/@nmkj"">nmkj</a></p>
+
+<h2>Attributions</h2>
+
+<ul>
+<li>Server banner by <a href=""https://lviv.social/@ihor"">ihor@lviv.social</a></li>
+<li><a href=""https://blobs.gg/"">Blobs</a> by the Blob Emoji community (Apache License 2.0)</li>
+<li>BlobBone by @roughtime@calckey.jp (CC BY-SA 4.0)</li>
+<li><a href=""https://github.com/ZoeBijl/QueerCats"">QueerCats</a> by Zoë Bijl (The Unlicense)</li>
+<li><a href=""https://volpeon.ink/projects/emojis/bunhd/"">BunHD, neofox</a> by Volpeon (Apache License 2.0)</li>
+<li><a href=""https://www.celestegame.com/"">Celeste</a> by EXTREMELY OK GAMES, LTD (All Rights Reserved)</li>
+</ul>
+",特に決まったテーマはありませんが、主に生活や社会、文化全般の話題に興味のある方に向いている Mastodon サーバーです。多様な方々が安心して過ごせる場所を目指しています。,Songbird,,,False,"[{'id': '5', 'text': 'ポルノ・猥雑な投稿はご遠慮ください。その他性的・暴力表現を含む可能性があるものは投稿時に必ず閲覧注意やCWを使ってください。No pornography. Other sexually explicit or violent contents must be marked as sensitive or CW when posting.'}, {'id': '6', 'text': '人種差別、性差別、同性愛嫌悪、トランスフォビア、外国人嫌悪、障碍者差別、カースト主義など、あらゆる差別を助長するような投稿・ヘイト発言は一切禁止です。Zero tolerance for any discrimination, e.g., racism, sexism, homophobia, transphobia, xenophobia, ableism, and casteism. '}, {'id': '8', 'text': '他のユーザーに対する嫌がらせや脅迫、犬笛行為をしてはいけません。No harassment, dogpiling or doxxing of other users.'}, {'id': '9', 'text': '暴力や暴力的なイデオロギーを扇動・奨励してはいけません。No incitement of violence or promotion of violent ideologies.'}, {'id': '10', 'text': '意図的に誤解を招くような情報やわざと偽情報を流してはいけません。Do not share intentionally false or misleading information.'}, {'id': '11', 'text': 'オンタリオ州（カナダ）または日本の法律で違法となる投稿は禁止です。No content illegal in Ontario (Canada) nor Japan.'}, {'id': '12', 'text': 'パロディー・なりすましアカウントは禁止です。Parody and accounts intended to impersonate are prohibited.'}, {'id': '13', 'text': '不適切な投稿やアカウントは予告なしに削除・凍結される場合があります。Our moderation team preserves the right to delete harmful posts and suspend suspicious accounts without any notice.'}, {'id': '14', 'text': '同じ内容の過度な連投や自動フォローなど、サーバーへ意図的に負荷をかける行為は禁止です。Do not intentionally overload the server, e.g., post fraud or automatic following.'}, {'id': '15', 'text': '性的な同意をすることができない主体に対する性的欲求の発露・表現をする行動をとることは禁止です。 No Pedophilia nor Zoophilia.'}]","['ポルノ・猥雑な投稿はご遠慮ください。その他性的・暴力表現を含む可能性があるものは投稿時に必ず閲覧注意やCWを使ってください。No pornography. Other sexually explicit or violent contents must be marked as sensitive or CW when posting.', '人種差別、性差別、同性愛嫌悪、トランスフォビア、外国人嫌悪、障碍者差別、カースト主義など、あらゆる差別を助長するような投稿・ヘイト発言は一切禁止です。Zero tolerance for any discrimination, e.g., racism, sexism, homophobia, transphobia, xenophobia, ableism, and casteism. ', '他のユーザーに対する嫌がらせや脅迫、犬笛行為をしてはいけません。No harassment, dogpiling or doxxing of other users.', '暴力や暴力的なイデオロギーを扇動・奨励してはいけません。No incitement of violence or promotion of violent ideologies.', '意図的に誤解を招くような情報やわざと偽情報を流してはいけません。Do not share intentionally false or misleading information.', 'オンタリオ州（カナダ）または日本の法律で違法となる投稿は禁止です。No content illegal in Ontario (Canada) nor Japan.', 'パロディー・なりすましアカウントは禁止です。Parody and accounts intended to impersonate are prohibited.', '不適切な投稿やアカウントは予告なしに削除・凍結される場合があります。Our moderation team preserves the right to delete harmful posts and suspend suspicious accounts without any notice.', '同じ内容の過度な連投や自動フォローなど、サーバーへ意図的に負荷をかける行為は禁止です。Do not intentionally overload the server, e.g., post fraud or automatic following.', '性的な同意をすることができない主体に対する性的欲求の発露・表現をする行動をとることは禁止です。 No Pedophilia nor Zoophilia.']"
+412,412,639f97dc2ba9bebf3560650d,super-gay.co,False,190,"<p><b>Super-Gay is a queer-oriented Mastodon.  The goal is to provide a safe space for queer folk and allies.</b></p>
+
+<p><b>Code of Conduct</b><br>
+<b>Short Version</b><br>
+I try to handle moderation ASAP, but it may take a few hours to handle your request/report.<br><br>
+I am not a free speech absolutist, and there are instances available for that. I’m not interested in Nazis, TERFS, or hate speech of any sort, which I will define at my sole discretion. No homophobia, transphobia, queerphobia, racism allowed.<br><br>
+This instance is meant to be a friendly, welcoming space to all who are willing to reciprocate in helping to create that environment.</p>
+
+<p><b>Long Version</b><br>
+The following guidelines are not a legal document, and final interpretation is up to the administration of super-gay.co; I am here to provide you with an insight into our content moderation policies:</p>
+
+<p>The following types of content will be removed from the public timeline:
+<ul>
+<li>Excessive advertising</li>
+<li>Uncurated news bots posting from third-party news sources</li>
+<li>Untagged nudity, pornography and sexually explicit content, including artistic depictions</li>
+<li>Untagged gore and extremely graphic violence, including artistic depictions</li>
+<li>Racism or advocation of racism</li>
+<li>Sexism or advocation of sexism</li>
+<li>Discrimination against gender and sexual minorities, or advocation thereof</li>
+<li>Xenophobic and/or violent nationalism</li>
+</ul></p>
+
+<p>The following types of content are explicitly disallowed and will result in revocation of access to the service:
+<ul>
+<li>Sexual depictions of children</li>
+<li>Any conduct intended to stalk or harass other users, or to impede other users from utilizing the service, or to degrade the performance of the service, or to harass other users, or to incite other users to perform any of the aforementioned actions, is also disallowed, and subject to punishment up to and including revocation of access to the service.</li>
+</ul></p>
+
+<p><b>Content Warnings and Sensitive Media</b></p>
+
+<p>The Content Warning (CW) policy is intended to make the server comfortable for the community.</p>
+
+<p>Content Warnings are a feature of Mastodon that enable you to hide the body of a &quot;toot&quot; (post) behind a line of text. The intended use of this feature is to provide a way to discuss sensitive and/or potentially harmful topics without causing duress or harm to anyone who might stumble upon it, though content warnings may be used for a wide variety of reasons.</p>
+
+<p>Images can be marked as sensitive. This is a feature which hides an image until a warning banner is clicked. Images may be marked as sensitive separately from Content Warnings, though using a Content Warning automatically marks the toot&#39;s images as sensitive.</p>
+
+<p>Please note that our sensitive media rules apply to profile photos and headers as well. Since those images cannot be hidden behind sensitive media warnings, they are not allowed to contain content from enforced content warnings.
+We cannot enforce content warnings on users from other instances, but can help to manage content that you see when reported to instance moderators.
+Please be clear and accurate when labeling content warnings, to ensure that they follow both the letter and spirit of the enforcements that we have.
+Above all, try to be polite, and come from a place of mutual respect when discussing content warnings with others.</p>
+
+<p><b>Enforced Content Warnings:</b>
+<ul>
+<li>NSFW/sexual discussion and imagery must be behind descriptive CWs (nudity, sex, kink discussion, etc)</li>
+<li>Sensitive imagery (please use your best judgement on what content that most other users would find sensitive, such as photos of surgeries, abuse, war, deceased individuals, etc)</li>
+<li>Triggering topics (direct discussion of rape, trauma, abuse, suicide, transphobia, homophobia, etc.).</li>
+<li>Drugs or drug use.</li>
+</ul></p>
+
+<p>I do not allow the promotion, advertisement, or sale of NFTs on this instance. I do not allow content from this instance, including content and media uploaded by the community members, to be sold as NFTs.</p>
+
+<p><b>Staff</b><br>
+This instance is administered by the site owner, <a href=""https://www.super-gay.co/@kilcannon"">@kilcannon</a>.</p>
+
+<p><b>Attribution</b><br>
+I leveraged a significant portion of tech.lgbt’s code of conduct to help frame super-gay.co’s user expectations.  A big thank you for their efforts.</p>
+
+<p>If you would like to expand this Mastodon instance to more users, consider helping cover the additional server costs here:
+<br><a href=""https://www.patreon.com/kilcannon"" target=_blank"">Sponsor A Queer</a></p>
+",A place for queer folk and allies to congregate.,Super-Gay,,,True,"[{'id': '1', 'text': ""Don't be a dick.""}, {'id': '2', 'text': 'No bulk posting to the public timeline (i.e., flooding).'}, {'id': '3', 'text': 'Sensitive content including pornography, sexually explicit content, gore, and extreme violence (including artistic depictions) must include a Content Warning.'}, {'id': '4', 'text': 'Discrimination or advocation of racism, sexism, casteism, homophobia, transphobia, Nazism, xenophobia, or nationalism will not be tolerated.'}, {'id': '5', 'text': 'No sexual depictions of children, including artistic depictions.'}]","[""Don't be a dick."", 'No bulk posting to the public timeline (i.e., flooding).', 'Sensitive content including pornography, sexually explicit content, gore, and extreme violence (including artistic depictions) must include a Content Warning.', 'Discrimination or advocation of racism, sexism, casteism, homophobia, transphobia, Nazism, xenophobia, or nationalism will not be tolerated.', 'No sexual depictions of children, including artistic depictions.']"
+64,64,5a921b45bd0a7e1b806f929d,sawakai.space,False,197,"個人同人サークル（もしくは個人ウェブサイト）「<a href=""https://michikusawakai.info"" target=""_blank"">みちく茶話会</a>」のBBS的なものになったらいいな、と軽い気持ちで立ち上げたインスタンスです。","ようこそ。ここは「<a href=""https://michikusawakai.info"" target=""_blank"">みちく茶話会</a>」の雑談・休憩スペースです。お知り合いの方もそうでない方も、お茶でも飲んでのんびりしていってください。",茶話会部屋,,,True,[],[]
+393,393,638771076de0ac59d2a104a4,masto.bg,False,214,"<p>Masto BG е един от първите българоезични сървъри на децентрализираната социална мрежа Mastodon. Нашата цел е да създадем среда за българи, които искат да избягат от токсичността на корпоративните социални мрежи, най-вече Facebook.</p>
+
+<h2>Защо трябва да се откъснем от Facebook?</h2>
+
+<p>Доминацията на Facebook в България е безспорна. Към момента във Facebook има 4,3 милиона български потребители, което е около 65% от цялото население на страната.</p>
+
+<p>Алгоритмите на Facebook насърчават разпространението на дезинформация, фалшиви новини и радикално съдържание, което дестабилизира нашето общество. </p>
+
+<p>Изключително притеснителна е и тенденцията алгоритмите на Facebook да се експлоатират от руски агенти за разпространението на дезинформация, което във време на война е буквална заплаха за националната сигурност на България.</p>
+
+<p>За жалост Meta са показали цялостно нежелание да адресират тези проблеми и вместо да ограничават разпространението на дестабилизиращо съдържание, техните алгоритми му дават тласък, докато същевременно модераторската политика заглушава автентични граждански гласове.</p>
+
+<h2>Защо Mastodon предоставя алтернатива?</h2>
+
+<p>Борбата с корпоративни гиганти като Meta е почти непосилна за държави като България. Произволът, който си позволяват тези големи компании, е заплаха за тъканта на обществата по света.</p>
+
+<p>Mastodon е най-голямата децентрализирана социална мрежа, която не се притежава от нито една корпорация, а от хиляди администратори на сървъри по целия свят.</p>
+
+<p>Разбира се, тези администратори могат да упражняват авторитарен контрол върху своите потребители. Но в Mastodon потребителят винаги има избор да се премести на друг сървър само с един клик и да запази всичките си последователи. Това значи, че сървър, който злоупотребява със своите модераторски правомощия ще бъде бързо напуснат от всичките си потребители. Никоя корпоративна социална мрежа не може да се похвали със същото.</p>
+
+<p>От друга страна, на който и сървър да се намираш, ти си част от Fediverse, тоест всички сме на една мрежа, дори и да сме на различни сървъри. Всеки потребител може да следва потребители от всеки друг сървър и да споделя тяхното съдържание.</p>
+
+<p>Това означава, че Mastodon ни предоставя алтернатива на централизираните социални мрежи. Тук можем да намерим баланса между свобода на словото и модерация на съдържанието.</p>
+
+<h2>Модераторска философия</h2>
+
+<p>Цялостният ни стремеж е да създадем общност, в която хората да могат да споделят мислите си, да водят конструктивни диалози и да си прекарват приятно, без да им бъдат насаждани постоянно гняв, страх, омраза.</p>
+
+<p>Ако сте мили, учтиви, уравновесени и не разпространявате руска или фашистка пропаганда, няма нужда да се притеснявате от модераторската ни политика.</p>
+
+<h2>Информация за собственост</h2>
+
+<p>Masto BG е собственост на Блу Дот Технолоджис ЕООД, еднолично дружество, собственост на Благослав Михайлов, с ЕИК 204744767, седалище и адрес на управление град София, бул „Цариградско шосе“ №133.</p>
+
+<p>Ако нашата общност се разрастне достатъчно, имаме пълното желание да обособим този сървър като сдружение, което членовете да издържат и да имат възможност да участват във взимането на решения, включително такива касаещи модераторската политика.</p>
+","Masto BG е един от първите българоезични сървъри. Нашата цел е да създадем среда за българи, които искат да избягат от токсичността на корпоративните социални мрежи, най-вече Facebook.",Masto BG,,,True,"[{'id': '2', 'text': 'Материали с явен сексуален характер или изобразяващи насилие трябва да бъдат обозначени като чувствителни при публикуване.'}, {'id': '3', 'text': 'Без расизъм, сексизъм, хомофобия, трансфобия и ксенофобия.'}, {'id': '4', 'text': 'Без подбуждане към насилие или проповядване на насилствени идеологии.'}, {'id': '5', 'text': 'Никакъв тормоз, подигравки или доксинг на други потребители.'}, {'id': '6', 'text': 'Никакво съдържание, забранено по законите на Република България.'}, {'id': '7', 'text': 'Не споделяйте умишлено невярна или подвеждаща информация.'}]","['Материали с явен сексуален характер или изобразяващи насилие трябва да бъдат обозначени като чувствителни при публикуване.', 'Без расизъм, сексизъм, хомофобия, трансфобия и ксенофобия.', 'Без подбуждане към насилие или проповядване на насилствени идеологии.', 'Никакъв тормоз, подигравки или доксинг на други потребители.', 'Никакво съдържание, забранено по законите на Република България.', 'Не споделяйте умишлено невярна или подвеждаща информация.']"
+289,289,637b3022d94dca7f11e7b6e2,mastodon.pirati.cz,False,377,"<p>Pirátská instance nejen pro členy. Budujeme Fediverse od roku 2019.</p>
+","Pirátská instance nejen pro členy. Budujeme Fediverse od roku 2019.
+Jsme připojeni k české relay.witter.cz (ve federované ose uvidíte mnoho českých příspěvků).",Pirátský Mastodon - Sharing is caring,,,True,"[{'id': '3', 'text': 'Ověřujte si informace před jejich sdílením nebo šířením'}, {'id': '4', 'text': 'Sexuálně explicitní nebo násilné příspěvky musí být při zveřejňování označené jako citlivé'}, {'id': '5', 'text': 'Nepodněcujte nenávist ani násilí'}, {'id': '6', 'text': 'Rasistické, sexistické, homofobní a xenofobní projevy nebudou tolerovány'}, {'id': '7', 'text': 'Respektujte druhé i jejich názory'}, {'id': '8', 'text': 'Mějte chladnou hlavu a nadhled v diskuzích'}, {'id': '10', 'text': 'Respektujte obecná pravidla netikety: https://cs.wikipedia.org/wiki/Netiketa'}]","['Ověřujte si informace před jejich sdílením nebo šířením', 'Sexuálně explicitní nebo násilné příspěvky musí být při zveřejňování označené jako citlivé', 'Nepodněcujte nenávist ani násilí', 'Rasistické, sexistické, homofobní a xenofobní projevy nebudou tolerovány', 'Respektujte druhé i jejich názory', 'Mějte chladnou hlavu a nadhled v diskuzích', 'Respektujte obecná pravidla netikety: https://cs.wikipedia.org/wiki/Netiketa']"
+374,374,637eb192e590e6f3337ca9a7,tldr.nettime.org,False,443,"<h2>About</h2>
+
+<p>
+<strong>tldr.nettime</strong> is an instance for artists, researchers, and activists interested in exploring the intersections of technology, culture, and politics.
+</p>
+
+<p>
+It has grown out of <a href=""https://nettime.org"">nettime-l</a>, one of the longest-running mailing lists on the net with a focus on the 'cultural politics of the internet'.
+</p>
+
+<p><a href=""https://nettime.org"">nettime.org</a></p>
+
+<h2>Server</h2>
+
+<p>tldr.nettime is based on <a href=""https://github.com/hometown-fork/hometown""> Hometown</a>, a fork of Mastodon. It&#39;s compatible with the wider fediverse, but it also offers two tweaks we hope will help make it particularly engaging and fostering a shared sense of place:
+<ul>
+<li>The character count per message is higher — 2000 chars at the moment.</li>
+<li>You can choose whether your post is public or visible only on tldr&#39;s local timeline</li>
+</ul>
+<p>
+We try to run a stable server, but this is a community effort, so we don&#39;t provide guarantees for uptime.</p>
+
+<h2>Funding</h2>
+
+<p>The server is run by care and free labor of everyone involved. To cover infrastructure cost, we need donations. If you value this instance and have some money to contribute, please do so.</p>
+
+<p>The best way is to send money directly to our bank account.</p>
+
+<p>Account holder: TLDR Association<br>
+IBAN: CH50 0900 0000 1607 0884 6<br>
+BIC: POFICHBEXXX<br></p>
+
+<p>You can also <a href=""https://donorbox.org/community-funding-for-nettime""> a donation form (link to donorbox.org)</a>, though processing fees are considerably higher.</p>
+
+<h2>Guidelines</h2>
+
+<p>
+Please read the information below before signing up to and/or using tldr.nettime. If you don’t agree to the terms set out here, please do not use this server. It's that simple.</p>
+
+<p>
+<strong>We have a commitment to critical analysis, experiments, mutual care, diversity, and anti-discriminatory practices. The instance is lightly moderated, on an account basis. In other words, we will ban accounts that don't share our commitment.</strong> 
+</p>
+
+<p>The community will give itself more detailed rules if necessary. </p>
+
+<p><p>
+<strong>Language:</strong> There are no language rules on this server. English is de facto the main language, but feel free (even encouraged!) to post in other languages.
+<br><br>
+<strong>Content warnings:</strong> We do not require a content warning (CW). However, we ask that you be kind and considerate: include CWs if you believe your post may be distressing to others.
+<br><br>
+<strong>Bots:</strong> Bots are allowed. Try to make them fun.
+<br><br>
+<strong>Cross-posting:</strong> Cross-posting from Twitter, RSS, etc. is fine (and even encouraged if it helps you become more active here).
+<br><br>
+<strong>Topics:</strong> You do not need to remain permanently &quot;on topic&quot;. The point of this community is to gather like-minded people who will make posts that are interesting to each other. But that doesn&#39;t mean that everything has to be about the &#39;cultural politics of the internet&#39; (whatever that is....). This is a community to connect people, not enforce specific topics of discussion.
+<br><br>
+<strong>Self-promotion:</strong> There are many writers, artists, and other cultural producers on this server, and we are more than happy for you to promote your work from your personal account. We request, however, that you do so in a tasteful and not spammy manner.
+<br><br>
+(Guidelines adapted from <a href=""https://zirk.us"">zirk.us</a>)</p>
+
+<h2>Impressum</h2>
+
+<p>This server is run by &quot;TLDR Association&quot;, a non-profit association (based on <a href=""https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_60"">Art. 60ff Swiss Civil Code</a>), registered in Switzerland.
+<p>
+<p>
+<strong>Postal Address:</strong><br>
+TLDR Association<br>
+Avenue de France 41<br> 
+1004 Lausanne<br>
+Switzerland
+<p>
+Email: tldr <em>AT</em> nettime.org<br></p>
+","tldr.nettime is an instance for artists, researchers, and activists interested in exploring the intersections of technology, culture, and politics.",tldr.nettime,,,True,[],[]
+242,242,637b2d8dd94dca7f11e7ac7e,terere.social,False,162,"<p>Tereré social es una instancia de Mastodon, que es una plataforma de microblogging parecida a Twitter pero no es Twitter ;)</p>
+
+<p>Si estas un poco perdido podes ver esta guía sobre Mastodon en general
+<a href=""https://mastodon.help/es"">https://mastodon.help/es</a></p>
+
+<p>Mas tips se van a agregar en este hilo:
+<a href=""https://terere.social/@cebador/109380054152579309"">https://terere.social/@cebador/109380054152579309</a></p>
+
+<p>Si no encontrás el correo de confirmación revisá en tu bandeja de spam</p>
+","Primer servidor Mastodon Paraguayo(que sepamos) para toda latinoamerica y el mundo!
+¿Que esperás, unite a la ronda de tereré!",Tereré Social,,,True,"[{'id': '1', 'text': 'El discurso de odio y el comportamiento abusivo o amenazante no están permitidos, específicamente aquellos dirigidos a cualquier género, nacionalidad, religión, raza, edad, preferencia de ingredientes de pizza o identidad sexual.'}, {'id': '2', 'text': 'No difusión de contenido/actividad ilegales en Paraguay\r\nEl contenido ilegal, como la pornografía infantil entre otros, como es de esperarse no está permitido'}, {'id': '3', 'text': 'No se permite el spam, esto incluye la creación de cuentas de spam que solo sirven para proporcionar enlaces de perfil o publicitar productos y servicios.'}, {'id': '4', 'text': 'No puede hacerse pasar por una persona o marca sin una indicación clara de que la cuenta no es oficial y/o es una parodia. Se permiten las cuentas de parodia, al igual que las cuentas de marca legítimas.'}, {'id': '5', 'text': 'Publicaciones explícitas deben marcarse con advertencia de contenido/content warning'}, {'id': '6', 'text': 'No contenido o apología a la violencia, fascismo o nazismo'}, {'id': '7', 'text': 'La violación de una o más de estas reglas puede resultar en ban inmediato y permanente sin previo aviso o advertencia.'}]","['El discurso de odio y el comportamiento abusivo o amenazante no están permitidos, específicamente aquellos dirigidos a cualquier género, nacionalidad, religión, raza, edad, preferencia de ingredientes de pizza o identidad sexual.', 'No difusión de contenido/actividad ilegales en Paraguay\r\nEl contenido ilegal, como la pornografía infantil entre otros, como es de esperarse no está permitido', 'No se permite el spam, esto incluye la creación de cuentas de spam que solo sirven para proporcionar enlaces de perfil o publicitar productos y servicios.', 'No puede hacerse pasar por una persona o marca sin una indicación clara de que la cuenta no es oficial y/o es una parodia. Se permiten las cuentas de parodia, al igual que las cuentas de marca legítimas.', 'Publicaciones explícitas deben marcarse con advertencia de contenido/content warning', 'No contenido o apología a la violencia, fascismo o nazismo', 'La violación de una o más de estas reglas puede resultar en ban inmediato y permanente sin previo aviso o advertencia.']"

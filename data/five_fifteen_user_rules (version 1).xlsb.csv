@@ -1,0 +1,96 @@
+cleaned_rules,category
+"['By registering or login here, you must read and agree to our ToS, Privacy Policy and Code of Ethics. You acknowledge that your IP & email addresses can be logged for security purposes. Skip signin / signup if you do not agree.', ",technical details
+"'You can provide interesting links and commentary on longer articles / content published elsewhere. If you just send in a little blurb saying “I like xyz.com app and think they are great” it goes to junk.', ",instance restrictions
+"'Though if statements are just a kind of multiverse geolocation device being embedded into the connected mob as standalone, drive with care! You can send detailed suggestions, grievances or complaints to editor@wisepoint.org with your full profile, phone and email.']",??
+"['No racism, sexism, homophobia, transphobia, xenophobia, or casteism', ",hate speech
+"'No incitement or depictions of violence, or the promotion of violent ideologies', ",violence
+"'No harassment, dogpiling or doxxing of other users', ","harassment, doxxing"
+"NSFW content (nudity, sexual acts) is permitted so long as it's marked as sensitive AND behind a content warning, ","content warning, sexual content"
+"'No illegal content (depictions of minors, drug use, etc)']",illegal
+"['Do not share, trade, link to, or distribute in any manner here, any copyright material, without the express written consent of the owner.', ",copyright
+"'Spam is not tolerated on BoLS.', ",spam
+"'No Prohibited Content: It is prohibited to link to pornography or content that can damage computers or data such as viruses or malware.', ",??
+"'Do not use racist slurs, prejudiced comments, profanity, derogatory statements, or hate speech. Evading the moderation filters by using punctuation marks or purposefully misspelling words is considered an offense.', ","hate speech, general respectfulness"
+"'Do not initiate arguments of a personal nature. Be courteous to other users, even if you disagree with someone or believe that they are ill-informed. Refrain from flaming posts or comments. You may argue and debate, but do not make any attacks of a personal nature (including grammar trolling).']",general respectfulness
+['Only photos of T-shirts or designs'],random
+"['Sexually explicit or violent media must be marked as sensitive when posting.', ","violence, sexual content, content warning"
+"'No discrimination, including racism, sexism, homophobia, transphobia, xenophobia, or casteism.', ",hate speech
+"'No incitement of violence or promotion of violent ideologies.', ",violence
+"'No harassment, dogpiling or doxxing of other users.', ","harassment, doxxing"
+"'Do not share false or misleading information that may lead to physical harm.', ",misinformation
+'No accounts owned by Elon Musk.'],random
+"['Jeder wird respektvoll behandelt, egal welchen Glaubens, Herkunft, sexuelle Identität oder Ausrichtung. Höflicher Umgang wird bevorzugt. #NoAfd. Bei Nichtbeachtung, Ausschluss!']",??
+"['Be nice', ",random
+"'Nothing hateful, toxic, or illegal']","hate speech, illegal"
+['meow'],random
+"['This server is for the members of the Van Gogh-Goghs Comedy Collective (https://vgg.com).', ",instance restrictions
+"'The server is not open to the general public. But if you are or know one of the Van Gogh-Goghs, you can have an account here. \r\n',",instance restrictions
+Illegal content of any kind will not be tolerated. Any kind. Any. Kind. Don't make me go research what this means in every jurisdiction in the world. it's easier to just ban you.],illegal
+"['Only people who are 18+ may join', ",age restriction
+"'Use content warnings and appropriate tags for any NSFW / Lewd content', ","content warning, sexual content"
+"'Be excellent to each other. No racism, homophobia, ageism, classism, ableism, anti-semitism, etc. will be tolerated.', ","general respectfulness, hate speech"
+"'No illegal content allowed', ",illegal
+"'If you are able, add sources to image / video posts. Giving models / creators credit is a good thing to do. :)', ",disclaimer
+"'No spam / advertising / crap like that', ",spam
+"If you are trying to register to join this server, I will consider adding you if we have spoken before and you can point me to an account of yours I've interacted with. Everyone else will be denied sight unseen., ",moderation
+"'No under 18 anything. Real, fake, written fantasy, nothing like that will be allowed here. This is a place for people to post 18+ content. No exceptions. ']",age restriction
+"['Serverstandort: Deutschland. EU-Recht und deutsche Gesetze gelten.',",
+" 'Beiträge, für die die noAFD oder noSVP applaudieren würden, sind hier unerwünscht. Also keine faschistischen, rassistischen, sexistischen, queerfeindlichen und sonstigen entmenschlichenden Inhalte.']",hate speech
+"['No racism, sexism, homophobia, transphobia, ableism, or other discriminatory or hateful content.\r\n', ",hate speech
+"'No harassment, dogpiling, doxxing, or other personal attacks.', ","harassment, doxxing"
+"'No deliberately antagonistic, inflammatory posting meant to provoke angry and emotional responses. (trolling/shitposting)', ",??
+"'No hate speech or promotion of violence, white supremacy, antisemitism, or other hateful ideologies.', ",violence
+"No pornography or depictions of sexual violence.',","sexual content, violence"
+" 'No posts promoting unsupported conspiracy theories, or other false or misleading information.', ","misinformation, conspiracy theories"
+'No content illegal in the United States.'],illegal
+"['There is no room here for insults, hatred, misinformation, falsified data, racism, Nazism, homophobia, hostility towards the disabled, faecal language, threats to minors, and the like... this applies to texts as well as pictures and videos.', ","hate speech, misinformation, propaganda"
+"'Hier ist kein Platz für Beleidigungen, Hass, Fehlinformationen, gefälschte Daten, Rassismus, Nazismus, Homophobie, Behindertenfeindlichkeit, Fäkalsprache, Bedrohung von Minderjährigen und dergleichen... dies gilt sowohl für Texte als auch für Bilder und Videos.', ",hate speech
+"Il n'y a pas de place ici pour les insultes, la haine, la désinformation, les données falsifiées, le racisme, le nazisme, l'homophobie, l'hostilité envers les handicapés, le langage ordurier, les menaces envers les mineurs, etc... ceci s'applique aussi bien aux textes qu'aux images et aux vidéos.,","misinformation, hate speech"
+"'Aquí no tienen cabida los insultos, el odio, la desinformación, los datos falsificados, el racismo, el nazismo, la homofobia, la hostilidad hacia los discapacitados, el lenguaje fecal, las amenazas a los menores y similares... esto se aplica tanto a los textos como a las imágenes y los vídeos.', ",hate speech
+"Qui non c'è spazio per insulti, odio, disinformazione, dati falsificati, razzismo, nazismo, omofobia, ostilità verso i disabili, linguaggio fecale, minacce ai minori e simili... Questo vale sia per i testi che per le immagini e i video., ",
+"'Siin ei ole ruumi solvangutele, vihkamisele, valeinformatsioonile, võltsitud andmetele, rassismile, natsismile, homofoobiale, vaenulikkusele puuetega inimeste suhtes, fekaalsele keelele, alaealiste ähvardamisele jms... see kehtib nii tekstide kui ka piltide ja videote kohta.', ",
+"'Šeit nav vietas apvainojumiem, naidam, dezinformācijai, viltotiem datiem, rasismam, nacismam, homofobijai, naidīgumam pret invalīdiem, fekālijām, draudiem nepilngadīgajiem un tamlīdzīgi... tas attiecas gan uz tekstiem, gan attēliem un video.', ",
+"'Čia nėra vietos įžeidimams, neapykantai, dezinformacijai, suklastotiems duomenims, rasizmui, nacizmui, homofobijai, priešiškumui neįgaliesiems, fekalijoms, grasinimams nepilnamečiams ir panašiai... Tai taikoma tiek tekstams, tiek nuotraukoms ir vaizdo įrašams.', ",
+"'Nie ma tu miejsca na obelgi, nienawiść, dezinformację, fałszowanie danych, rasizm, nazizm, homofobię, wrogość wobec osób niepełnosprawnych, język fekalny, groźby wobec nieletnich i tym podobne... dotyczy to zarówno tekstów, jak i zdjęć oraz filmów.', ",
+"'Nie ma tu miejsca na obelgi, nienawiść, dezinformację, fałszowanie danych, rasizm, nazizm, homofobię, wrogość wobec osób niepełnosprawnych, język fekalny, groźby wobec nieletnich i tym podobne... dotyczy to zarówno tekstów, jak i zdjęć oraz filmów.', ",
+" 'Her er der ikke plads til fornærmelser, had, misinformation, forfalskede oplysninger, racisme, nazisme, homofobi, fjendtlighed over for handicappede, fækal sprogbrug, trusler mod mindreårige og lignende... dette gælder både for tekster, billeder og videoer.']",
+"['Sexuell eindeutige oder gewalttätige Medien müssen bei der Einstellung als sensibel gekennzeichnet werden.', ",
+"'Kein Rassismus, Sexismus, Homophobie, Transphobie, Fremdenfeindlichkeit oder Kastendenken.', 'Keine Aufforderung zur Gewalt oder Förderung von Gewaltideologien.', ",hate speech
+"'Keine Belästigung, kein Dogpiling oder Doxxing anderer Nutzer.', ",doxxing
+"'Keine in Deutschland illegalen Inhalte.', ",illegal
+'Keine absichtlich falschen oder irreführenden Informationen verbreiten.'],
+"['Sexually explicit or violent media must be marked as sensitive when posting', ","sexual content, violence"
+"'No harassment, dogpiling or doxxing of other users', ","harassment, doxxing"
+"'Do not share intentionally false or misleading information', ",misinformation
+"Be respectful rergarding the expression of different worldviews', '",general respectfulness
+No content illegal in Germany'],illegal
+"['No racism, sexism, transphobia, or xenophobia. ', ",hate speech
+"'CW all nudity and gore', ","content warning, sexual content"
+"'No nazis, No fash, no cops/feds, no sexual depictions of children. ', ","propaganda, sexual content"
+"'No stalking or harassment.  No ban evasions.', ",harassment  
+"'Ad policy: Music promotion is allowed, but ONLY 2 posts per show.  Do not spam. ', ","spam, ads"
+'Jeff Bezos is not allowed on this server.  Do not let him in. This is a bannable offense. '],random
+"['Be excellent to each other.',",general respectfulness
+" '@chris is the boss. His rule is LAW.', ",random
+"Don't post anything that will get us de-federated., ",random
+Don't be an asshole.],general respectfulness
+"['We do not tolerate threatening behaviour, stalking, and doxxing.', ","harassment, doxxing"
+"'We do not tolerate discriminatory behaviour and content promoting or advocating the oppression of members of marginalized groups.', ",hate speech
+"'We do not tolerate harassment, including brigading, dogpiling, or any other form of contact with a user who has stated that they do not wish to be contacted.', ",harassment  
+"'We do not tolerate mobbing, including name-calling, intentional misgendering or deadnaming.', ",??
+"'We do not tolerate nationalist propaganda, Nazi symbolism or promoting the ideology of National Socialism.', ",propaganda  
+"We do not tolerate conspiracy narratives or other reactionary myths supporting or leading to the above-mentioned (and/or similar) behavior.',",conspiracy theory 
+" 'Actions intended to damage this instance or its performance may lead to immediate account suspension.', ",general
+"'Content that is illegal in Germany will be deleted and may lead to immediate account suspension.', ",illegal
+"Toots containing a piece of art must be credited, ideally with a link back to the source.', ",copyright
+"""Use of bots on this instance is subject to admins' authorization.""]",bots
+"['DO: Post content that is meaningful to you', ",general
+"'DO: Treat everyone on server and across servers with respect and decency', ",general respectfulness
+"'DO: Support claims with clear evidence from reputable sources', ","disclaimer, copyright"
+"'DO: Use content warnings when discussing sensitive topics (ex. violence)', ",content warning  
+"DON'T: Be tolerant of intolerance - report and disengage from people or servers that do not treat all people with respect and decency,",hate speech
+" ""DON'T: Stalk, harass, or dox anyone"", ","harassment, doxxing"
+"DON'T: Post gore, graphic violence, pedophilia, necrophilia, etc., ",sexual content  
+"DON'T: Discriminate against others (ex. no racism, sexism, xenophobia, homophobia, transphobia, etc.), ",hate speech
+"DON'T: Run commercial accounts or post advertisements for business services,",ads
+DON'T: Spam people with unwanted or repetitive content (ex. no bots)],spam 
