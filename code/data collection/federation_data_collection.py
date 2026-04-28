@@ -1,18 +1,27 @@
-import pandas as pd 
-import numpy as np 
-import os 
-import requests 
-from matplotlib import pyplot as plt 
-import requests 
+# federation_data_collection.py
+#
+# Fetches the federation peer list for each Mastodon instance via the public
+# /api/v1/instance/peers endpoint. Records both the raw list of federated
+# instances and the total count (federating number) for each instance.
+#
+# Input:  complete_strat20_translated_rules.csv  (stratified sample of instances)
+# Output: federation_data_strat20.csv
+
+import pandas as pd
+import numpy as np
+import os
+import requests
+from matplotlib import pyplot as plt
+import requests
 import urllib3
-import nltk 
+import nltk
 import json
 from sklearn.model_selection import train_test_split
 import time
 import requests
 
 
-
+# Load the stratified sample; deduplicate to get one row per instance
 #df = pd.read_csv(r'Independent Study\data\complete_instance_list.csv')
 df = pd.read_csv(r'complete_strat20_translated_rules.csv')
 df = df.rename(columns={'instance': 'Instance Name'})

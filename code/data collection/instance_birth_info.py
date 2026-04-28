@@ -1,16 +1,27 @@
-import pandas as pd 
-import numpy as np 
-import os 
-import requests 
-from matplotlib import pyplot as plt 
-import requests 
+# instance_birth_info.py
+#
+# Fetches the creation date (birth date) of each Mastodon instance by reading
+# contact_account.created_at from the /api/v1/instance API response. This date
+# serves as a proxy for instance age in regression analyses.
+#
+# Input:  data/translated_rules_dataset.csv  (primary instance list)
+#         complete_strat20_translated_rules.csv  (stratified sample)
+# Output: instance_births5.csv  (birth date per instance)
+#         instance_count.csv    (intermediate instance name list)
+
+import pandas as pd
+import numpy as np
+import os
+import requests
+from matplotlib import pyplot as plt
+import requests
 import urllib3
-import nltk 
+import nltk
 import json
 from sklearn.model_selection import train_test_split
 import time
 
-#Id and token for Instances API to collect instances 
+# API credentials for instances.social (used elsewhere; not needed for /api/v1/instance)
 id = '796768437'
 id_token = 'ZMaefRB4oUfPcOx892VsAlWuU5sIYlGWXEiw7DVYt0AXDVUsPBSjsIegFol0EBIm0hKz2NWv7I1WKofhysQlWMoXGWHcJ6z6GJlKhcKXD5FqQ537Bvz0A7Bq3wvAOwHN'
 

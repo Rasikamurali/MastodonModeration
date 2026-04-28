@@ -1,11 +1,21 @@
-import pandas as pd 
-import numpy as np 
-import os 
-import requests 
-from matplotlib import pyplot as plt 
-import requests 
+# weekly_activity_data_collection.py
+#
+# Fetches weekly activity data (statuses, logins, registrations) from each
+# Mastodon instance's public activity API endpoint (/api/v1/instance/activity).
+# Data is summed per instance and saved for use as an engagement proxy in
+# robustness analyses.
+#
+# Input:  complete_strat20_translated_rules.csv  (stratified sample of instances)
+# Output: strat20_weeklyactivity_data.csv
+
+import pandas as pd
+import numpy as np
+import os
+import requests
+from matplotlib import pyplot as plt
+import requests
 import urllib3
-import nltk 
+import nltk
 import json
 from sklearn.model_selection import train_test_split
 import time
@@ -13,7 +23,7 @@ import requests
 from datetime import datetime, timedelta
 
 
-
+# Load the stratified sample and extract unique instance names
 df = pd.read_csv(r'complete_strat20_translated_rules.csv')
 print(df.columns)
 df = df.rename(columns={'instance': 'Instance Name'})
