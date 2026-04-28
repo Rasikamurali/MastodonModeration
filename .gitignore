@@ -1,1 +1,24 @@
-__pycache__
+# Environment & secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Data files
+data/
+*.csv
+*.xlsx
+*.xls
+*.gexf
+
+# Figures & outputs
+figures/
+*.txt
+
+# Archive
+archive/
+
+# Git tools
+git-filter-repo
