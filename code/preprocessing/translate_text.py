@@ -1,14 +1,23 @@
+# translate_text.py
+#
+# Detects the language of each rule using langdetect, then translates
+# non-English rules to English using the googletrans library. Outputs one
+# row per rule with the original, language label, and translated text.
+#
+# Input:  final_rules.csv  (flattened, cleaned rules from final_cleaning.py)
+# Output: translated_final2.csv  (rules with 'translated text' column added)
+
 from googletrans import Translator, LANGUAGES
-import pandas as pd 
-import numpy as np 
-import os 
-from matplotlib import pyplot as plt 
+import pandas as pd
+import numpy as np
+import os
+from matplotlib import pyplot as plt
 import requests
-import ast 
+import ast
 from langdetect import detect
 
 
-#First we need to remove everything that is empty or that says 'Data not available' 
+# Remove rows with missing or error rule values before processing
 def full_cleaning(df): 
     df = pd.read_csv(df)
     df = df[df['rules'] != '[]']

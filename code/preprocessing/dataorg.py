@@ -1,6 +1,17 @@
-import pandas as pd 
-import numpy as np 
+# dataorg.py
+#
+# Concatenates 7 CSV files from different user count size bins into a single
+# merged dataset and assigns log-scale instance group labels (e.g. '1 to 5').
+# This is the first preprocessing step after raw data collection.
+#
+# Input:  data/instance rules/instance_rules_1_15.csv  ... instance_rules_5001.csv
+#         (7 per-bin CSVs from full_pipeline.py)
+# Output: merged_instance_data.csv
 
+import pandas as pd
+import numpy as np
+
+# Load each size-bin CSV produced by the data collection pipeline
 data_1_15 = pd.read_csv(r'data\instance rules\instance_rules_1_15.csv')
 data_16_35 = pd.read_csv(r'data\instance rules\instance_rules_16_35.csv')
 data_36_150 =pd.read_csv(r'data\instance rules\instance_rules_36_150.csv')

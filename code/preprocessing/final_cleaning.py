@@ -1,16 +1,29 @@
-import pandas as pd 
-import numpy as np 
+# final_cleaning.py
+#
+# Cleans raw Mastodon instance rules: filters out empty/error rows, flattens
+# the list-of-rules column to one rule per row, strips punctuation/HTML, and
+# detects each rule's language. Outputs a clean rule-per-row CSV ready for
+# translation and annotation.
+#
+# Input:  instance_rules_1_15.csv  (raw rules from data collection)
+# Output: 5001_final_formatted_data.csv  (cleaned, language-labeled rules)
+#         Tester.csv     (intermediate debug output)
+#         checker.csv    (rules that failed language detection)
+
+import pandas as pd
+import numpy as np
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 import nltk
 nltk.download('stopwords')
 from collections import Counter
-import ast 
-import regex as re 
+import ast
+import regex as re
 nltk.download('punkt')
 from bs4 import BeautifulSoup
 from langdetect import detect
 
+# Load raw rules; rules column contains nested lists as strings
 df = pd.read_csv(r'C:\Users\rasik\Documents\IS\instance_rules_1_15.csv')
 print(df.head())
 print(df.columns)

@@ -1,3 +1,14 @@
+# getting_annotated_dataset.py
+#
+# Creates annotation sample sets for inter-rater reliability (IRR) evaluation.
+# Produces a shared 50-rule overlap set plus 100 unique rules per annotator,
+# then merges them into full annotation sheets (150 rules each).
+#
+# Input:  data/translated_rules_dataset.csv  (translated, cleaned rule dataset)
+# Output: sample_50_common_annotation.csv  (shared overlap set)
+#         Rasika_annotation.csv, Bao_annotation.csv  (individual 100-rule sets)
+#         Rasika_annotation_full.csv, Bao_annotation_full.csv  (150-rule sheets)
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -8,8 +19,9 @@ import regex as re
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS
 import seaborn as sns
-import ast 
+import ast
 
+# Load the translated, cleaned rule dataset
 data = pd.read_csv(r'Independent Study\data\translated_rules_dataset.csv')
 
 print(len(data))
