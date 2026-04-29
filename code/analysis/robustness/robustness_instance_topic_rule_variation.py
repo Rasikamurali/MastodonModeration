@@ -4,7 +4,7 @@
 # grouped by GPT-assigned instance topic categories. Tests whether instances of
 # the same topic type share similar rule topics (low variance = consistent norms).
 #
-# Input:  data/sampled_annotations_GPT_category(4)_full.csv  (GPT instance topics)
+# Input:  data/topical analysis/instance_topics_rules_categorization.csv  (GPT instance topics)
 #         data/llm_category_analysis_data.csv                 (GPT rule topics per instance)
 # Output: two plots showing within- and across-instance variance (plt.show only)
 
@@ -16,7 +16,7 @@ import scipy.stats as stats
 import regex as re
 
 # Load GPT-assigned instance topic annotations
-topical_df = pd.read_csv(r'data\sampled_annotations_GPT_category(4)_full.csv')    
+topical_df = pd.read_csv(r'data\topical analysis\instance_topics_rules_categorization.csv')    
 print(topical_df.columns)
 print(len(topical_df))
 print(topical_df.head())

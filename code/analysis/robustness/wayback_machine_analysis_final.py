@@ -7,7 +7,7 @@
 # similarity. Saves a rule change comparison table.
 #
 # Input:  non_personal_preelon_notnull.csv   (pre-Elon rules, filtered)
-#         non_personal_preelon(2).csv        (pre-Elon user counts)
+#         non_personal_preelon_2022.csv      (pre-Elon user counts)
 #         non_personal_postelon_2024(1).csv  (post-Elon 2024 rules)
 #         non_personal_postelon_2023(1).csv  (post-Elon 2023 rules)
 #         data/chunks/rule_category_comparison.csv  (GPT categories across periods)
@@ -29,7 +29,7 @@ import random
 # Pre-Elon snapshot: Sep-Oct 2022
 df_1 = pd.read_csv(r'non_personal_preelon_notnull.csv')       # Sept-Oct 2022 (Pre-Elon)
 
-temp_df = pd.read_csv(r'non_personal_preelon(2).csv')   
+temp_df = pd.read_csv(r'non_personal_preelon_2022.csv')   
 
 print(len(df_1), len(temp_df))
 print(df_1.columns)

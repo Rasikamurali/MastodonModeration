@@ -28,10 +28,10 @@ reqd_columns_2 = ['Instance Name', 'rule', 'instance group', 'lang', 'translated
 complete_instance_list = complete_instance_list[reqd_columns_1]
 mstdn_instance_list = mstdn_instance_list[reqd_columns_2]   
 print(len(mstdn_instance_list))
-mstdn_topics_wnorms = pd.merge(mstdn_instance_list, complete_instance_list, on='Instance Name', how='left')
-print(len(mstdn_topics_wnorms))
-print(mstdn_topics_wnorms.columns)
-# mstdn_topics_wnorms.to_csv(r'data\mstdn_topics_wnorms.csv', index=False)
+mastodon_topics_wrules = pd.merge(mstdn_instance_list, complete_instance_list, on='Instance Name', how='left')
+print(len(mastodon_topics_wrules))
+print(mastodon_topics_wrules.columns)
+mastodon_topics_wrules.to_csv(r'data\topical analysis\mastodon_topics_wrules.csv', index=False)
 
 #----------------------------------------------------
 

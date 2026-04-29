@@ -31,7 +31,7 @@ PALETTE = ["#F18447", "#550F6B",  "#3863AC", "#209B8A", "#F8D625", "#BC3684"]
 
 sns.set_palette(PALETTE)
 
-updated_df = pd.read_csv(r'C:\Users\rasik\Documents\Independent Study\data\deduplicated_oneshot.csv')
+updated_df = pd.read_csv(r'data\primary\one_shot_llm_category_encoding.csv')
 print(updated_df.columns)
 print(len(updated_df))
 updated_df = updated_df.rename(columns={'Instance Id_x': 'Instance Id'})

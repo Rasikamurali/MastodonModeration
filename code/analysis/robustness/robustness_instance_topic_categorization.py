@@ -32,10 +32,10 @@ print(len(df))
 data = df.dropna(subset='translated short')
 print(len(data))
 
-df2 = pd.read_csv(r'data\sampled_instances_topics.csv')
-print(len(df2))
-df2 = df2[['Instance Name', 'translated short']].drop_duplicates()
-print(len(df2))
+# df2 = pd.read_csv(r'data\sampled_instances_topics.csv')
+# print(len(df2))
+# df2 = df2[['Instance Name', 'translated short']].drop_duplicates()
+# print(len(df2))
 
 
 gpt_model = "gpt-4o-mini"
@@ -139,7 +139,6 @@ Based on the given {rule_types}, select the appropriate categories for the insta
 """
 
 
-data = data[5000:]
 language_assessment = []
 rules = data['translated short']
 
@@ -159,5 +158,5 @@ for rule in rules:
 # print(language_assessment)
 data['GPT category'] = language_assessment
 # print(data.head())
-data.to_csv('data\sampled_annotations_GPT_category(4)_5000_6000.csv')
+data.to_csv('data\instance_topics_rules_categorization.csv')
 

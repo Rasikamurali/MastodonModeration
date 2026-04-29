@@ -5,7 +5,7 @@
 # instance focus predicts rule content. Builds a normalized heatmap showing
 # rule topic frequency per instance topic.
 #
-# Input:  data/sampled_annotations_GPT_category(4)_full.csv  (GPT instance topics)
+# Input:  data/topical analysis/instance_topics_rules_categorization.csv  (GPT instance topics)
 #         data/llm_category_analysis_data.csv                 (GPT rule topics per instance)
 # Output: normalized heatmap figure (plt.show only; save is commented out)
 
@@ -17,7 +17,7 @@ import scipy.stats as stats
 import regex as re
 
 # Load GPT-assigned instance topic annotations
-topical_df = pd.read_csv(r'data\sampled_annotations_GPT_category(4)_full.csv')    
+topical_df = pd.read_csv(r'data\topical analysis\instance_topics_rules_categorization.csv')    
 print(topical_df.columns)
 print(len(topical_df))
 print(topical_df.head())

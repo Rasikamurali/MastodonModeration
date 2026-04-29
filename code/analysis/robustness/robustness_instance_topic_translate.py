@@ -4,7 +4,7 @@
 # langdetect for language identification and googletrans for translation.
 # The translated descriptions are used for GPT-based instance topic categorization.
 #
-# Input:  data/mstdn_topics_wnorms.csv        (instance metadata with short descriptions)
+# Input:  data/topical analysis/mastodon_topics_wrules.csv  (instance metadata with short descriptions)
 # Output: data/instance_topics_translated.csv  (short descriptions with translated text)
 
 import pandas as pd
@@ -16,10 +16,10 @@ from langdetect import detect
 from googletrans import Translator, LANGUAGES
 
 # Load instance metadata containing short descriptions to be translated
-mstdn_topics_wnorms = pd.read_csv(r'data/mstdn_topics_wnorms.csv')
-print(mstdn_topics_wnorms.columns)
+mastodon_topics_wrules = pd.read_csv(r'data/topical analysis/mastodon_topics_wrules.csv')
+print(mastodon_topics_wrules.columns)
 
-instance_topics = mstdn_topics_wnorms[['Instance Name', 'Description', 'Short', 'topic']].drop_duplicates()
+instance_topics = mastodon_topics_wrules[['Instance Name', 'Description', 'Short', 'topic']].drop_duplicates()
 
 topics = instance_topics['Short'].tolist()
 

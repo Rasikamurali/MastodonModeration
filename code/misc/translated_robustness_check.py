@@ -149,197 +149,197 @@ print(df['differnce'].std())
 print(df['normalized_difference'].mean())
 print(df['normalized_difference'].std())
 
-# plt.figure(figsize=(10, 6))
+plt.figure(figsize=(10, 6))
 
-# for lang in sorted(languages):
-#     subset = df[df['original_lang'] == lang]
-#     sns.kdeplot(
-#         subset['differnce'],  # I assume you meant 'difference', typo
-#         label=lang,
-#         fill=True,
-#         alpha=0.3  # lighter fill so multiple curves are visible
-#     )
+for lang in sorted(languages):
+    subset = df[df['original_lang'] == lang]
+    sns.kdeplot(
+        subset['differnce'],  # I assume you meant 'difference', typo
+        label=lang,
+        fill=True,
+        alpha=0.3  # lighter fill so multiple curves are visible
+    )
 
-# plt.title('Flesch-Kincaid Difference Distributions by Language')
-# plt.xlabel('Flesch-Kincaid Score Difference (Original - Translated)')
-# plt.ylabel('Density')
-# plt.legend(title='Language')
-# plt.tight_layout()
-# plt.savefig('fk_diff_distribution_all_languages.png')
+plt.title('Flesch-Kincaid Difference Distributions by Language')
+plt.xlabel('Flesch-Kincaid Score Difference (Original - Translated)')
+plt.ylabel('Density')
+plt.legend(title='Language')
+plt.tight_layout()
+plt.savefig('fk_diff_distribution_all_languages.png')
 
-# plt.show()
+plt.show()
 
-# plt.figure(figsize=(10, 6))
+plt.figure(figsize=(10, 6))
 
-# # Plot overall distribution (aggregate across all languages)
-# sns.kdeplot(
-#     df['differnce'].dropna(),  # Drop NA values to avoid issues
-#     fill=True,
-#     alpha=0.5
-# )
+# Plot overall distribution (aggregate across all languages)
+sns.kdeplot(
+    df['differnce'].dropna(),  # Drop NA values to avoid issues
+    fill=True,
+    alpha=0.5
+)
 
-# plt.xlabel('Readability Score Difference (Original – Translated)')
-# plt.ylabel('Density')
-# plt.tight_layout()
+plt.xlabel('Readability Score Difference (Original – Translated)')
+plt.ylabel('Density')
+plt.tight_layout()
 
-# plt.savefig('fk_diff_distribution_aggregate.png')
+plt.savefig('fk_diff_distribution_aggregate.png')
 
-# plt.show()
-
-
-# plt.figure(figsize=(10, 6))
-
-# # Plot overall distribution (aggregate across all languages)
-# sns.kdeplot(
-#     df['normalized_difference'].dropna(),  # Drop NA values to avoid issues
-#     fill=True,
-#     alpha=0.5
-# )
-
-# plt.title('Aggregate Flesch-Kincaid Difference Distribution')
-# plt.xlabel('Flesch-Kincaid Score Difference (Original - Translated)')
-# plt.ylabel('Density')
-# plt.tight_layout()
-
-# plt.savefig('fk_normdiff_distribution_aggregate.png')
-
-# plt.show()
+plt.show()
 
 
+plt.figure(figsize=(10, 6))
+
+# Plot overall distribution (aggregate across all languages)
+sns.kdeplot(
+    df['normalized_difference'].dropna(),  # Drop NA values to avoid issues
+    fill=True,
+    alpha=0.5
+)
+
+plt.title('Aggregate Flesch-Kincaid Difference Distribution')
+plt.xlabel('Flesch-Kincaid Score Difference (Original - Translated)')
+plt.ylabel('Density')
+plt.tight_layout()
+
+plt.savefig('fk_normdiff_distribution_aggregate.png')
+
+plt.show()
 
 
 
 
 
-# languages = df['lang'].unique()
-# print(languages)
 
-# for lang in sorted(languages):
-#     subset = df[df['lang'] == lang]
+
+languages = df['lang'].unique()
+print(languages)
+
+for lang in sorted(languages):
+    subset = df[df['lang'] == lang]
     
-#     plt.figure(figsize=(8, 5))
-#     sns.kdeplot(subset['original_flesch_kincaid'], label='Original', fill=True, alpha=0.5, color='blue')
-#     sns.kdeplot(subset['translated_flesch_kincaid'], label='Translated', fill=True, alpha=0.5, color='orange')
+    plt.figure(figsize=(8, 5))
+    sns.kdeplot(subset['original_flesch_kincaid'], label='Original', fill=True, alpha=0.5, color='blue')
+    sns.kdeplot(subset['translated_flesch_kincaid'], label='Translated', fill=True, alpha=0.5, color='orange')
 
-#     plt.title(f'Flesch-Kincaid Readability Distribution for {lang}')
-#     plt.xlabel('Flesch-Kincaid Score')
-#     plt.ylabel('Density')
-#     plt.legend()
-#     plt.tight_layout()
-#     plt.savefig(f'fk_distribution_{lang}.png')
+    plt.title(f'Flesch-Kincaid Readability Distribution for {lang}')
+    plt.xlabel('Flesch-Kincaid Score')
+    plt.ylabel('Density')
+    plt.legend()
+    plt.tight_layout()
+    plt.savefig(f'fk_distribution_{lang}.png')
 
-#     plt.show()
+    plt.show()
 
-# results = []
+results = []
 
-# df = df.dropna(subset= ['original_flesch_kincaid'])
-# df = df.dropna(subset= ['translated_flesch_kincaid'])
+df = df.dropna(subset= ['original_flesch_kincaid'])
+df = df.dropna(subset= ['translated_flesch_kincaid'])
 
-# for lang in df['original_lang'].unique():
-#     print(f"Running t-test for: {lang}")
+for lang in df['original_lang'].unique():
+    print(f"Running t-test for: {lang}")
     
-#     subset = df[df['original_lang'] == lang]
-#     original_fk = subset['original_flesch_kincaid']
-#     translated_fk = subset['translated_flesch_kincaid']
+    subset = df[df['original_lang'] == lang]
+    original_fk = subset['original_flesch_kincaid']
+    translated_fk = subset['translated_flesch_kincaid']
     
-#     if len(original_fk) > 1:  # Make sure there's enough data
-#         t_stat, p_value = ttest_rel(original_fk, translated_fk)
-#         results.append({'language': lang, 't_stat': t_stat, 'p_value': p_value, 'n_samples': len(subset)})
-#     else:
-#         results.append({'language': lang, 't_stat': None, 'p_value': None, 'n_samples': len(subset)})
+    if len(original_fk) > 1:  # Make sure there's enough data
+        t_stat, p_value = ttest_rel(original_fk, translated_fk)
+        results.append({'language': lang, 't_stat': t_stat, 'p_value': p_value, 'n_samples': len(subset)})
+    else:
+        results.append({'language': lang, 't_stat': None, 'p_value': None, 'n_samples': len(subset)})
 
-# # Convert to DataFrame
-# results_df = pd.DataFrame(results)
-# print(results_df)
+# Convert to DataFrame
+results_df = pd.DataFrame(results)
+print(results_df)
 
-# # Create a results DataFrame
-# results_df = pd.DataFrame(results)
-# print(results_df)
-# #results_df.to_csv('language_ttest_results.csv', index=False)
+# Create a results DataFrame
+results_df = pd.DataFrame(results)
+print(results_df)
+#results_df.to_csv('language_ttest_results.csv', index=False)
 
 
 
-# results = []
+results = []
 
-# df = df.dropna(subset= ['original_flesch_kincaid'])
-# df = df.dropna(subset= ['translated_flesch_kincaid'])
+df = df.dropna(subset= ['original_flesch_kincaid'])
+df = df.dropna(subset= ['translated_flesch_kincaid'])
 
-# for lang in df['original_lang'].unique():
+for lang in df['original_lang'].unique():
     
-#     subset = df[df['original_lang'] == lang]
-#     original_fk = subset['original_flesch_kincaid']
-#     translated_fk = subset['translated_flesch_kincaid']
+    subset = df[df['original_lang'] == lang]
+    original_fk = subset['original_flesch_kincaid']
+    translated_fk = subset['translated_flesch_kincaid']
 
     
-#     var_diff = subset['differnce'].var()
-#     var_orig = original_fk.var()
-#     var_trans = translated_fk.var()
+    var_diff = subset['differnce'].var()
+    var_orig = original_fk.var()
+    var_trans = translated_fk.var()
 
-#     # Ratio of variance of difference to original
-#     ratio_to_orig = var_diff / var_orig
+    # Ratio of variance of difference to original
+    ratio_to_orig = var_diff / var_orig
 
-#     # Ratio of variance of difference to translated
-#     ratio_to_trans = var_diff / var_trans
+    # Ratio of variance of difference to translated
+    ratio_to_trans = var_diff / var_trans
 
-#     print(f"Variance Ratio (Difference / Original): {ratio_to_orig:.4f}")
-#     print(f"Variance Ratio (Difference / Translated): {ratio_to_trans:.4f}")
-#     results.append({'language': lang, 'var_og_ratio': ratio_to_orig})
-#     results.append({'languge': lang,  'var_trans_ratio': ratio_to_trans})
+    print(f"Variance Ratio (Difference / Original): {ratio_to_orig:.4f}")
+    print(f"Variance Ratio (Difference / Translated): {ratio_to_trans:.4f}")
+    results.append({'language': lang, 'var_og_ratio': ratio_to_orig})
+    results.append({'languge': lang,  'var_trans_ratio': ratio_to_trans})
     
 
-# # Convert to DataFrame
-# results_df = pd.DataFrame(results)
-# print(results_df)
+# Convert to DataFrame
+results_df = pd.DataFrame(results)
+print(results_df)
 
-# from scipy import stats
+from scipy import stats
 
-# results = []
+results = []
 
-# for lang in df['original_lang'].unique():
-#     subset = df[df['original_lang'] == lang]
-#     diff = subset['normalized_difference'].dropna()
+for lang in df['original_lang'].unique():
+    subset = df[df['original_lang'] == lang]
+    diff = subset['normalized_difference'].dropna()
     
-#     if len(diff) < 5:  # Avoid very small samples
-#         continue
+    if len(diff) < 5:  # Avoid very small samples
+        continue
     
-#     t_statistic, p_value = stats.ttest_1samp(diff, popmean=0)
-#     one_sided_p = p_value / 2 if t_statistic < 0 else 1.0  # Only consider p if in right direction
+    t_statistic, p_value = stats.ttest_1samp(diff, popmean=0)
+    one_sided_p = p_value / 2 if t_statistic < 0 else 1.0  # Only consider p if in right direction
     
-#     results.append({
-#         'language': lang,
-#         'n': len(diff),
-#         'mean_diff': diff.mean(),
-#         't_stat': t_statistic,
-#         'p_value (one-sided)': one_sided_p
-#     })
+    results.append({
+        'language': lang,
+        'n': len(diff),
+        'mean_diff': diff.mean(),
+        't_stat': t_statistic,
+        'p_value (one-sided)': one_sided_p
+    })
 
-# # Create DataFrame for results
-# import pandas as pd
-# lang_ttest_df = pd.DataFrame(results).sort_values(by='p_value (one-sided)')
-# print(lang_ttest_df)
+# Create DataFrame for results
+import pandas as pd
+lang_ttest_df = pd.DataFrame(results).sort_values(by='p_value (one-sided)')
+print(lang_ttest_df)
 
-# results = []
+results = []
 
-# for lang in df['original_lang'].unique():
-#     subset = df[df['original_lang'] == lang]
-#     diff = subset['differnce'].dropna()
+for lang in df['original_lang'].unique():
+    subset = df[df['original_lang'] == lang]
+    diff = subset['differnce'].dropna()
     
-#     if len(diff) < 5:  # Avoid very small samples
-#         continue
+    if len(diff) < 5:  # Avoid very small samples
+        continue
     
-#     t_statistic, p_value = stats.ttest_1samp(diff, popmean=0)
-#     one_sided_p = p_value / 2 if t_statistic < 0 else 1.0  # Only consider p if in right direction
+    t_statistic, p_value = stats.ttest_1samp(diff, popmean=0)
+    one_sided_p = p_value / 2 if t_statistic < 0 else 1.0  # Only consider p if in right direction
     
-#     results.append({
-#         'language': lang,
-#         'n': len(diff),
-#         'mean_diff': diff.mean(),
-#         't_stat': t_statistic,
-#         'p_value (one-sided)': one_sided_p
-#     })
+    results.append({
+        'language': lang,
+        'n': len(diff),
+        'mean_diff': diff.mean(),
+        't_stat': t_statistic,
+        'p_value (one-sided)': one_sided_p
+    })
 
-# lang_ttest_df = pd.DataFrame(results).sort_values(by='p_value (one-sided)')
-# print(lang_ttest_df)
+lang_ttest_df = pd.DataFrame(results).sort_values(by='p_value (one-sided)')
+print(lang_ttest_df)
 
 
 

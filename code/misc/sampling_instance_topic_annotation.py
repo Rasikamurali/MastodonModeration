@@ -16,10 +16,10 @@ import seaborn as sns
 
 # Load instance metadata with translated short descriptions
 # Stratified sampling of instances based on topics and instance groups
-mstdn_topics_wnorms = pd.read_csv(r'data/instance_topics_translated.csv')
-print(mstdn_topics_wnorms.columns)
+mastodon_topics_wrules = pd.read_csv(r'data/instance_topics_translated.csv')
+print(mastodon_topics_wrules.columns)
 
-instance_topics = mstdn_topics_wnorms[['Instance Name', 'translated short']].drop_duplicates()
+instance_topics = mastodon_topics_wrules[['Instance Name', 'translated short']].drop_duplicates()
 print(len(instance_topics))
 
 # if translated short is empty, remove row

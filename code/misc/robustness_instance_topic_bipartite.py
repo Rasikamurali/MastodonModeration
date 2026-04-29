@@ -5,7 +5,7 @@
 # Computes projections onto each node type and exports .gexf files for
 # visualization in Gephi. Duplicate of the main topical_bipartite_analysis.py.
 #
-# Input:  data/sampled_annotations_GPT_category(4)_full.csv  (GPT instance topics)
+# Input:  data/topical analysis/instance_topics_rules_categorization.csv  (GPT instance topics)
 #         data/llm_category_analysis_data.csv                 (GPT rule topics per instance)
 # Output: bipartite_gpt_rule_topics.gexf  (full bipartite graph)
 #         gpt_category_projection.gexf    (instance-topic projection)
@@ -23,7 +23,7 @@ from collections import Counter
 import re
 
 # Load GPT-assigned instance topic annotations
-topical_df = pd.read_csv(r'data\sampled_annotations_GPT_category(4)_full.csv')    
+topical_df = pd.read_csv(r'data\topical analysis\instance_topics_rules_categorization.csv')    
 print(topical_df.columns)
 print(len(topical_df))
 print(topical_df.head())

@@ -1,12 +1,12 @@
 # waybackmachine_preelon.py
 #
-# Collects pre-Elon (Sept-Oct 2022) Mastodon instance rules from Wayback
-# Machine snapshots. Focuses specifically on the Sept-Oct 2022 window for
-# instances in the seed list, enabling longitudinal comparison.
+# Collects post-Elon (Jan-Feb 2024) Mastodon instance rules from Wayback
+# Machine snapshots. Focuses specifically on the Jan-Feb 2024 window for
+# instances already captured pre-Elon, enabling longitudinal comparison.
 # Uses CDX API with retry logic and falls back to the availability API.
 #
 # Input:  non_personal_preelon_notnull.csv  (instances with valid pre-Elon snapshots)
-# Output: non_personal_preelon_2022.csv     (Sept-Oct 2022 rules per instance)
+# Output: non_personal_postelon_2024.csv    (Jan-Feb 2024 rules per instance)
 
 import pandas as pd
 import requests
@@ -46,7 +46,7 @@ def make_session():
 session = make_session()
 
 
-def fallback_available_api(url, date="20221001"):
+def fallback_available_api(url, date="20240130"):
     params = {"url": url, "timestamp": date}
     try:
         res = session.get(WAYBACK_AVAILABLE, params=params, headers=HEADERS, timeout=30)
@@ -91,7 +91,7 @@ def try_fetch_snapshot(ts, url):
         return None
 
 
-def find_snapshot_in_window(url, start_ts="20220901000000", end_ts="20221031235959", retries=5):
+def find_snapshot_in_window(url, start_ts="20240101000000", end_ts="20240228235959", retries=5):
     params = {
         "url": url,
         "matchType": "exact",
@@ -125,7 +125,7 @@ def find_snapshot_in_window(url, start_ts="20220901000000", end_ts="202210312359
             print(f"Error finding snapshot: {e}")
             return fallback_available_api(url, start_ts), "available-blue-dot"
 
-def collect_instance_sept_oct_2022(host):
+def collect_instance_jan_feb_2024(host):
     api_path = "/api/v1/instance"
     full_url = f"https://{host}{api_path}"
 
@@ -133,11 +133,11 @@ def collect_instance_sept_oct_2022(host):
 
     if not ts:
         return {
-            "sept-oct2022": {
+            "jan-feb2024": {
                 "timestamp": None,
                 "instance_name": None,
                 "rules": None,
-                "note": "no valid snapshot Sept-Oct 2022",
+                "note": "no valid snapshot Jan-Feb 2024",
             }
         }
 
@@ -145,7 +145,7 @@ def collect_instance_sept_oct_2022(host):
 
     if not data or not isinstance(data, dict):
         return {
-            "sept-oct2022": {
+            "jan-feb2024": {
                 "timestamp": ts,
                 "instance_name": None,
                 "rules": None,
@@ -154,7 +154,7 @@ def collect_instance_sept_oct_2022(host):
         }
 
     return {
-        "sept-oct2022": {
+        "jan-feb2024": {
             "timestamp": ts,
             "instance_name": data.get("title"),
             "rules": data.get("rules", []),
@@ -242,9 +242,9 @@ if __name__ == "__main__":
     popular_instance_names = df['instance'].tolist()
     print(len(popular_instance_names))
 
-    outfile = "non_personal_preelon_2022.csv"
+    outfile = "non_personal_postelon_2024.csv"
     for instance in popular_instance_names:
         print(f"Fetching {instance}")
-        result = collect_instance_sept_oct_2022(instance)
+        result = collect_instance_jan_feb_2024(instance)
         write_instance_to_csv(instance, result, outfile)
         time.sleep(2)  # polite delay

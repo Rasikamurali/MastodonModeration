@@ -1,12 +1,12 @@
-# waybackmachine_preelon.py
+# waybackmachine_preelon2023.py
 #
-# Collects pre-Elon (Sept-Oct 2022) Mastodon instance rules from Wayback
-# Machine snapshots. Focuses specifically on the Sept-Oct 2022 window for
-# instances in the seed list, enabling longitudinal comparison.
+# Collects post-Elon (Jan 2023 - Jan 2024) Mastodon instance rules from Wayback
+# Machine snapshots. Focuses specifically on the Jan 2023 - Jan 2024 window for
+# instances already captured pre-Elon, enabling longitudinal comparison.
 # Uses CDX API with retry logic and falls back to the availability API.
 #
 # Input:  non_personal_preelon_notnull.csv  (instances with valid pre-Elon snapshots)
-# Output: non_personal_preelon_2022.csv     (Sept-Oct 2022 rules per instance)
+# Output: non_personal_postelon_2023.csv    (Jan 2023 - Jan 2024 rules per instance)
 
 import pandas as pd
 import requests
@@ -46,7 +46,7 @@ def make_session():
 session = make_session()
 
 
-def fallback_available_api(url, date="20221001"):
+def fallback_available_api(url, date="20230115"):
     params = {"url": url, "timestamp": date}
     try:
         res = session.get(WAYBACK_AVAILABLE, params=params, headers=HEADERS, timeout=30)
@@ -91,7 +91,7 @@ def try_fetch_snapshot(ts, url):
         return None
 
 
-def find_snapshot_in_window(url, start_ts="20220901000000", end_ts="20221031235959", retries=5):
+def find_snapshot_in_window(url, start_ts="20230101000000", end_ts="20240131235959", retries=5):
     params = {
         "url": url,
         "matchType": "exact",
@@ -125,7 +125,7 @@ def find_snapshot_in_window(url, start_ts="20220901000000", end_ts="202210312359
             print(f"Error finding snapshot: {e}")
             return fallback_available_api(url, start_ts), "available-blue-dot"
 
-def collect_instance_sept_oct_2022(host):
+def collect_instance_jan2023_jan2024(host):
     api_path = "/api/v1/instance"
     full_url = f"https://{host}{api_path}"
 
@@ -133,11 +133,11 @@ def collect_instance_sept_oct_2022(host):
 
     if not ts:
         return {
-            "sept-oct2022": {
+            "jan2023-jan2024": {
                 "timestamp": None,
                 "instance_name": None,
                 "rules": None,
-                "note": "no valid snapshot Sept-Oct 2022",
+                "note": "no valid snapshot Jan 2023 - Jan 2024",
             }
         }
 
@@ -145,7 +145,7 @@ def collect_instance_sept_oct_2022(host):
 
     if not data or not isinstance(data, dict):
         return {
-            "sept-oct2022": {
+            "jan2023-jan2024": {
                 "timestamp": ts,
                 "instance_name": None,
                 "rules": None,
@@ -154,7 +154,7 @@ def collect_instance_sept_oct_2022(host):
         }
 
     return {
-        "sept-oct2022": {
+        "jan2023-jan2024": {
             "timestamp": ts,
             "instance_name": data.get("title"),
             "rules": data.get("rules", []),
@@ -187,54 +187,7 @@ def write_instance_to_csv(instance: str, results: dict, outfile: str):
 # --- Example usage ---
 if __name__ == "__main__":
 
-    # popular_instances = pd.read_csv(r'data/community_rules_data.csv')
-    # print(popular_instances.columns)
-    # popular_instances = popular_instances.drop_duplicates(subset=['Instance Name'])
-
-    # bins = [1, 10, 100, 1000, 10000, 100000, 1000000]  
-    # bin_labels = [r"$10^{1}$", r"$10^{2}$", r"$10^{3}$", r"$10^{4}$", r"$10^{5}$", r"$10^{6}$"]
-
-
-    # # Assign each instance to a user count bin
-    # popular_instances['User Count Bin'] = pd.cut(popular_instances['User Count'], bins=bins, labels=bin_labels, right=False)
-
-    # # Find the minimum group size (so sampling is fair across all groups)
-    # min_size = popular_instances['User Count Bin'].value_counts().min()
-    # print("Minimum group size:", min_size)
-
-    # # Sample equal number of instances from each group
-    # sampled_instances = (
-    #     popular_instances.groupby('User Count Bin', group_keys=False)
-    #     .apply(lambda x: x.sample(n=min_size, random_state=42))  # random_state for reproducibility
-    # )
-
-    # print("Sampled shape:", sampled_instances.shape)
-    # print(sampled_instances['User Count Bin'].value_counts())
-
-    # # Get the names as a list if needed
-    # popular_instance_names = sampled_instances['Instance Name'].tolist()
-
-    # print(len(popular_instance_names))
-    # print(popular_instance_names[:10])
-
-    # df = pd.read_csv(r'data\topical analysis\instance_topics_rules_categorization.csv')
-    # print(df.columns)
-    # df = df.drop_duplicates(subset=['Instance Name'])
-    # print(len(df))
-    # # Only get instance with topic != personal
-    # GPT_category1 = []
-    # for row in df['GPT category']: 
-    #     GPT_category1.append(re.sub(r'A:\s*|[\[\]\'"]', '', row).strip())
-        
-    # df['GPT category cleaned'] = GPT_category1
-    # print(df['GPT category cleaned'].unique())
-    # df = df[~df['GPT category cleaned'].str.contains(r'\bPersonal\b', case=False, na=False)]
-
-
-    # print(len(df))
-    # popular_instance_names = df['Instance Name'].tolist()
-    # popular_instance_names = popular_instance_names[1426:]
-    # print(len(popular_instance_names))
+    
 
     df = pd.read_csv('non_personal_preelon_notnull.csv')
     print(len(df))
@@ -242,9 +195,9 @@ if __name__ == "__main__":
     popular_instance_names = df['instance'].tolist()
     print(len(popular_instance_names))
 
-    outfile = "non_personal_preelon_2022.csv"
+    outfile = "non_personal_postelon_2023(1).csv"
     for instance in popular_instance_names:
         print(f"Fetching {instance}")
-        result = collect_instance_sept_oct_2022(instance)
+        result = collect_instance_jan2023_jan2024(instance)
         write_instance_to_csv(instance, result, outfile)
         time.sleep(2)  # polite delay
