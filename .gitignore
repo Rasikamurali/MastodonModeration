@@ -15,6 +15,7 @@ data/
 
 # Figures & outputs
 figures/
+fk lang distributions/
 *.txt
 
 # Archive
