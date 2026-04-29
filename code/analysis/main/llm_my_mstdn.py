@@ -23,7 +23,7 @@ from dotenv import load_dotenv
 load_dotenv()
 openai.api_key = os.environ.get('OPEN_AI_KEY')
 # Load the deduplicated rules; path points to the within-analysis copy
-df = pd.read_csv(r'C:\Users\rasik\Documents\Independent Study\code\analysis\mastodon_rules_deduplicated.csv')
+df = pd.read_csv(r'data\primary\translated_rules_dataset.csv')
 
 print(df.columns)
 print(len(df))
@@ -122,10 +122,7 @@ for rule in rules:
 #print(language_assessment)
 data['GPT category'] = language_assessment
 print(data.head())
-data.to_csv('sampled_categorized_rules_my_mastodon_gpt4omini_deduplicated_0109(5).csv')
-# language_assessment = list(np.concatenate(language_assessment).flat)
-# print(language_assessment)
-# print(Counter(language_assessment))
+data.to_csv(r'data\llm categorization\categorized_full_mastodon_rule_set.csv')
 
 
 

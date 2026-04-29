@@ -35,7 +35,7 @@ PALETTE = ["#F18447", "#550F6B",  "#3863AC", "#209B8A", "#F8D625", "#BC3684"]
 # df1 = pd.read_csv(r'final_categorized_rules_my_mastodon_gpt4omini_0106.csv')
 # df1= pd.read_csv(r'sampled_categorized_rules_my_mastodon_gpt4omini_0326(1).csv')
 
-df1 = pd.read_csv(r'categorized_full_mastodon_rule_set.csv')
+df1 = pd.read_csv(r'data\llm categorization\categorized_full_mastodon_rule_set.csv')
 print(len(df1))
 print(df1.head())
 GPT_category1 = [] 
@@ -127,5 +127,5 @@ updated_df = updated_df.apply(update_columns, axis=1)
 
 print(updated_df.head())
 
-updated_df.to_csv('one_shot_llm_category_encoding.csv', index=False)
+updated_df.to_csv(r'data\primary\one_shot_llm_category_encoding.csv', index=False)
 

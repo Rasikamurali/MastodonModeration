@@ -25,7 +25,7 @@ PALETTE = ["#F18447", "#550F6B",  "#3863AC", "#209B8A", "#F8D625", "#BC3684"]
 sns.set_palette(PALETTE)
 
 # Load main rules dataset and aggregate one row per instance to get user counts
-df= pd.read_csv(r'data\community_rules_data.csv')
+df= pd.read_csv(r'data\primary\community_rules_data.csv')
 # df = pd.read_csv(r'temp2.csv')
 print(len(df))
 print(df.columns)

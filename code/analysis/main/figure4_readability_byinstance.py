@@ -68,7 +68,7 @@ def point_violinplot(
             colors = sns.color_palette(palette, n_colors=n) * (len(violins) // n)
             violins[i].set_facecolor(colors[i])
 
-df= pd.read_csv(r'data\community_rules_data.csv')
+df= pd.read_csv(r'data\primary\community_rules_data.csv')
 print(len(df))
 print(df.columns)
 df = df.dropna(subset='translated text')

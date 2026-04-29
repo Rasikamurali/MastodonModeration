@@ -17,7 +17,7 @@ import seaborn as sns
 import ast
 from itertools import chain
 from scipy.stats import kruskal, spearmanr
-plt.style.use(r'C:\Users\rasik\Documents\Independent Study\code\main_stylesheet.mplstyle')
+plt.style.use(r'code\main_stylesheet.mplstyle')
 import ast
 from scipy.stats import zscore
 
@@ -26,7 +26,7 @@ from scipy.stats import zscore
 PALETTE = ["#F18447", "#550F6B",  "#3863AC", "#209B8A", "#F8D625", "#BC3684"]
 
 # Load deduplicated rule category encoding
-updated_df = pd.read_csv(r'C:\Users\rasik\Documents\Independent Study\data\deduplicated_oneshot.csv')
+updated_df = pd.read_csv(r'data\deduplicate\deduplicated_oneshot.csv')
 print(updated_df.head())
 print(updated_df['GPT category set'])
 

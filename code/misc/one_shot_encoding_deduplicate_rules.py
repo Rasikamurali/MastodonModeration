@@ -11,7 +11,7 @@
 import pandas as pd
 
 # Load GPT categorization output for the full rule dataset
-df = pd.read_csv(r'C:\Users\rasik\Documents\Independent Study\data\community_rules_data.csv')
+df = pd.read_csv(r'data\primary\community_rules_data.csv')
 print(len(df))
 print(df.columns)
 
@@ -30,10 +30,10 @@ df['User Count Bin'] = pd.cut(df['User_Count'], bins=bins, labels=bin_labels, ri
 #Show count for each USer Count Bin
 print(df['User Count Bin'].value_counts().sort_index())
 
-data = pd.read_csv(r'C:\Users\rasik\Documents\Independent Study\data\one_shot_llm_category_encoding.csv')
+data = pd.read_csv(r'data\primary\one_shot_llm_category_encoding.csv')
 
 # I want to sift through data and only keep rows where Insntance Name and translated text match 
 merged_df = pd.merge(data, df[['Instance Name', 'User Count Bin']], on='Instance Name', how='inner')
 print(len(merged_df))
 
-merged_df.to_csv(r'C:\Users\rasik\Documents\Independent Study\data\deduplicated_oneshot.csv', index=False)
+merged_df.to_csv(r'data\deduplicate\deduplicated_oneshot.csv', index=False)

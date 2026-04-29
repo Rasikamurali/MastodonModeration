@@ -24,7 +24,7 @@ import os
 load_dotenv()
 openai.api_key = os.environ.get('OPEN_AI_KEY')
 # Load translated instance descriptions for GPT categorization
-df = pd.read_csv(r'data\instance_topics_translated.csv')
+df = pd.read_csv(r'data\topical analysis\instance_topics_translated.csv')
 
 print(df.columns)
 print(len(df))

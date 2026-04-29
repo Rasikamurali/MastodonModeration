@@ -19,7 +19,7 @@ from matplotlib import pyplot as plt
 import seaborn as sns 
 import ast
 from itertools import chain
-plt.style.use(r'C:\Users\rasik\Documents\Independent Study\code\main_stylesheet.mplstyle')
+plt.style.use(r'code\main_stylesheet.mplstyle')
 import ast
 from scipy.stats import zscore
 import matplotlib

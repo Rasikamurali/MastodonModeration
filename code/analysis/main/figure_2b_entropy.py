@@ -76,7 +76,7 @@ def point_violinplot(
 
 
 # Read the data from CSV
-updated_df = pd.read_csv(r'data\one_shot_llm_category_encoding.csv')
+updated_df = pd.read_csv(r'data\primary\one_shot_llm_category_encoding.csv')
 print(updated_df.head())
 print(updated_df['GPT category set'])
 

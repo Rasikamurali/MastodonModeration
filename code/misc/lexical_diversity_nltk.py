@@ -100,7 +100,7 @@ def informational_lexical_diversity(text):
     return diversity_score
 
 # Example usage
-data = pd.read_csv(r'data/community_rules_data.csv')
+data = pd.read_csv(r'data/primary/community_rules_data.csv')
 
 print(data.columns)
 data = data.dropna(subset=['translated text']) 

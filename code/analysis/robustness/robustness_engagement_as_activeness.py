@@ -26,7 +26,7 @@ from itertools import chain
 from scipy.stats import spearmanr
 from scipy.stats import kruskal
 
-plt.style.use(r'C:\Users\rasik\Documents\Independent Study\code\main_stylesheet.mplstyle')
+plt.style.use(r'code\main_stylesheet.mplstyle')
 PALETTE = ["#F18447", "#550F6B",  "#3863AC", "#209B8A", "#F8D625", "#BC3684"]
 
 sns.set_palette(PALETTE)
@@ -61,7 +61,7 @@ def point_violinplot(ax, palette=PALETTE, n=1, pointsize=1, edgecolor="white", m
 # ----------------------
 # Load data
 # ----------------------
-df = pd.read_csv(r"C:\Users\rasik\Documents\Independent Study\data\community_rules_data.csv")
+df = pd.read_csv(r"data\primary\community_rules_data.csv")
 df = df.dropna(subset=["translated text"])
 df = df[df["translated text"].str.split().str.len() > 1]
 
@@ -69,7 +69,7 @@ df['Instance Name'] = df['Instance Name'].str.strip().str.lower()
 df = df[~df['Instance Name'].isin(['libranet.de', 'venera.social', 'social.outsourcedmath.com'])]
 df = df[~df['Instance Name'].isin(['mastodon.social'])]
 
-df_weekly = pd.read_csv(r"C:\Users\rasik\Documents\Independent Study\data\weekly_combined.csv")
+df_weekly = pd.read_csv(r"data\instance meta data\weekly_combined.csv")
 
 # Merge in TOTAL STATUSES instead of user count
 merged_df = pd.merge(

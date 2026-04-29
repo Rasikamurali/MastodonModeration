@@ -187,62 +187,14 @@ def write_instance_to_csv(instance: str, results: dict, outfile: str):
 # --- Example usage ---
 if __name__ == "__main__":
 
-    # popular_instances = pd.read_csv(r'data/community_rules_data.csv')
-    # print(popular_instances.columns)
-    # popular_instances = popular_instances.drop_duplicates(subset=['Instance Name'])
 
-    # bins = [1, 10, 100, 1000, 10000, 100000, 1000000]  
-    # bin_labels = [r"$10^{1}$", r"$10^{2}$", r"$10^{3}$", r"$10^{4}$", r"$10^{5}$", r"$10^{6}$"]
-
-
-    # # Assign each instance to a user count bin
-    # popular_instances['User Count Bin'] = pd.cut(popular_instances['User Count'], bins=bins, labels=bin_labels, right=False)
-
-    # # Find the minimum group size (so sampling is fair across all groups)
-    # min_size = popular_instances['User Count Bin'].value_counts().min()
-    # print("Minimum group size:", min_size)
-
-    # # Sample equal number of instances from each group
-    # sampled_instances = (
-    #     popular_instances.groupby('User Count Bin', group_keys=False)
-    #     .apply(lambda x: x.sample(n=min_size, random_state=42))  # random_state for reproducibility
-    # )
-
-    # print("Sampled shape:", sampled_instances.shape)
-    # print(sampled_instances['User Count Bin'].value_counts())
-
-    # # Get the names as a list if needed
-    # popular_instance_names = sampled_instances['Instance Name'].tolist()
-
-    # print(len(popular_instance_names))
-    # print(popular_instance_names[:10])
-
-    # df = pd.read_csv(r'data\topical analysis\instance_topics_rules_categorization.csv')
-    # print(df.columns)
-    # df = df.drop_duplicates(subset=['Instance Name'])
-    # print(len(df))
-    # # Only get instance with topic != personal
-    # GPT_category1 = []
-    # for row in df['GPT category']: 
-    #     GPT_category1.append(re.sub(r'A:\s*|[\[\]\'"]', '', row).strip())
-        
-    # df['GPT category cleaned'] = GPT_category1
-    # print(df['GPT category cleaned'].unique())
-    # df = df[~df['GPT category cleaned'].str.contains(r'\bPersonal\b', case=False, na=False)]
-
-
-    # print(len(df))
-    # popular_instance_names = df['Instance Name'].tolist()
-    # popular_instance_names = popular_instance_names[1426:]
-    # print(len(popular_instance_names))
-
-    df = pd.read_csv('non_personal_preelon_notnull.csv')
+    df = pd.read_csv(r'data\wayback machine\non_personal_preelon_notnull.csv')
     print(len(df))
     print(df.columns)
     popular_instance_names = df['instance'].tolist()
     print(len(popular_instance_names))
 
-    outfile = "non_personal_postelon_2024.csv"
+    outfile = r"data\wayback machine\non_personal_postelon_2024(1).csv"
     for instance in popular_instance_names:
         print(f"Fetching {instance}")
         result = collect_instance_jan_feb_2024(instance)

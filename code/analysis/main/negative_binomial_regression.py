@@ -24,12 +24,12 @@ from datetime import datetime, timezone
 # Load and preprocess per-instance regression dataset
 # ── Data loading & preprocessing (mirrors updated_regression.py) ─────────────
 
-df = pd.read_csv(r'data\regression_data_lexicalfeature_fed_birth.csv')
+df = pd.read_csv(r'data\regression\regression_data_lexicalfeature_fed_birth.csv')
 df = df.rename(columns={'User Count_x': 'User Count'})
 
 # ── Merge topic count (from updated_regression.py) ───────────────────────────
 
-topic_df = pd.read_csv(r'data\one_shot_llm_category_encoding.csv')
+topic_df = pd.read_csv(r'data\primary\one_shot_llm_category_encoding.csv')
 
 def ensure_set_of_words(value):
     try:
@@ -114,7 +114,7 @@ def has_japanese(text):
     return bool(re.search(r'[\u3040-\u30ff\u4e00-\u9fff]', text))
 
 # Use instance descriptions from the lang reference file to identify Japanese instances
-lang_df = pd.read_csv(r'data\instance_topics_translated.csv')
+lang_df = pd.read_csv(r'data\topical analysis\instance_topics_translated.csv')
 japanese_instances = set(
     lang_df[
         lang_df['Description'].apply(has_japanese) |

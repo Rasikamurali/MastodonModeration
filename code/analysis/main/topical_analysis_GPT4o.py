@@ -34,7 +34,7 @@ print(topical_df.head())
 
 topical_df = topical_df.drop(columns=['Unnamed: 0'])
 
-rule_topic_data = pd.read_csv(r'data\llm_category_analysis_data.csv')
+rule_topic_data = pd.read_csv(r'data\llm categorization\llm_category_analysis_data.csv')
 
 print(rule_topic_data.columns)
 print(len(rule_topic_data))

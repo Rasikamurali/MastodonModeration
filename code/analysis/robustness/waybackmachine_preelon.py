@@ -236,13 +236,13 @@ if __name__ == "__main__":
     # popular_instance_names = popular_instance_names[1426:]
     # print(len(popular_instance_names))
 
-    df = pd.read_csv('non_personal_preelon_notnull.csv')
+    df = pd.read_csv(r'data\wayback machine\non_personal_preelon_notnull.csv')
     print(len(df))
     print(df.columns)
     popular_instance_names = df['instance'].tolist()
     print(len(popular_instance_names))
 
-    outfile = "non_personal_preelon_2022.csv"
+    outfile = r"data\wayback machine\non_personal_preelon_2022.csv"
     for instance in popular_instance_names:
         print(f"Fetching {instance}")
         result = collect_instance_sept_oct_2022(instance)

@@ -27,10 +27,10 @@ sns.set_palette(PALETTE)
 # federation_combined: one row per instance with federation (cross-instance connection) data
 # weekly_combined: weekly activity metrics (statuses, logins, registrations) per instance
 # complete_instance_list: master list of instances with user counts
-df = pd.read_csv(r'data\federation_combined.csv')
+df = pd.read_csv(r'data\instance meta data\federation_combined.csv')
 print(df.columns)
-df_weekly_activity = pd.read_csv(r'data\weekly_combined.csv')
-df_merge = pd.read_csv(r'data\complete_instance_list.csv')
+df_weekly_activity = pd.read_csv(r'data\instance meta data\weekly_combined.csv')
+df_merge = pd.read_csv(r'data\primary\complete_instance_list.csv')
 
 merged_inner = pd.merge(df_weekly_activity, df_merge, on='Instance Name', how='inner')
 print(merged_inner.columns)

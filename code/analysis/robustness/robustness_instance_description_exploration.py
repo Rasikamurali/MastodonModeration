@@ -16,8 +16,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load full instance list and the filtered sample with rules
-complete_instance_list = pd.read_csv(r'data\complete_instance_list.csv')
-mstdn_instance_list = pd.read_csv(r'data\community_rules_data.csv')
+complete_instance_list = pd.read_csv(r'data\primary\complete_instance_list.csv')
+mstdn_instance_list = pd.read_csv(r'data\primary\community_rules_data.csv')
 
 print(complete_instance_list.columns)
 print(mstdn_instance_list.columns)
@@ -38,7 +38,7 @@ mastodon_topics_wrules.to_csv(r'data\topical analysis\mastodon_topics_wrules.csv
 # Analysis of topical norms
 # First, we need to explore the Short descriptions and the topics 
 
-mstdn_translated_shorts = pd.read_csv(r'data/instance_topics_translated.csv')
+mstdn_translated_shorts = pd.read_csv(r'data/topical analysis/instance_topics_translated.csv')
 
 #Let's remove duplicates first
 mstdn_translated_shorts = mstdn_translated_shorts.drop_duplicates(subset=['Instance Name'])

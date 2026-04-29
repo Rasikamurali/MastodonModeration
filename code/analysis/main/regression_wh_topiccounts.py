@@ -17,7 +17,7 @@ import seaborn as sns
 import ast
 from itertools import chain
 from scipy.stats import kruskal, spearmanr
-plt.style.use(r'C:\Users\rasik\Documents\Independent Study\code\main_stylesheet.mplstyle')
+plt.style.use(r'code\main_stylesheet.mplstyle')
 import ast
 from scipy.stats import zscore
 import pandas as pd
@@ -40,7 +40,7 @@ from datetime import datetime, timezone
 PALETTE = ["#F18447", "#550F6B",  "#3863AC", "#209B8A", "#F8D625", "#BC3684"]
 
 # Load binary-encoded LLM category data; derive number of unique topics per instance
-updated_df = pd.read_csv(r'C:\Users\rasik\Documents\Independent Study\data\one_shot_llm_category_encoding.csv')
+updated_df = pd.read_csv(r'data\primary\one_shot_llm_category_encoding.csv')
 
 # Ensure 'GPT category set' contains a set of words
 def ensure_set_of_words(value):
@@ -81,7 +81,7 @@ topics_per_instance['Number of Unique Topics'] = topics_per_instance['Topics'].a
 
 #print(topics_per_instance)
 
-df = pd.read_csv(r'C:\Users\rasik\Documents\Independent Study\data\regression_data_lexicalfeature_fed_birth.csv')
+df = pd.read_csv(r'data\regression\regression_data_lexicalfeature_fed_birth.csv')
 print(len(topics_per_instance), len(df))
 
 print(topics_per_instance.columns)

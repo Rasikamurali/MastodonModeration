@@ -385,7 +385,7 @@ if __name__ == "__main__":
     # domains = instance_name[:10]
     # print(domains)
 
-    popular_instances = pd.read_csv(r'data/community_rules_data.csv')
+    popular_instances = pd.read_csv(r'data/primary/community_rules_data.csv')
     print(popular_instances.columns)
     popular_instances = popular_instances.drop_duplicates(subset=['Instance Name'])
 

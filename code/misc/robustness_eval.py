@@ -15,7 +15,7 @@ import seaborn as sns
 
 # Load translation robustness scores
 # (Make sure the file path is correct and the file exists)
-df = pd.read_csv(r'data\translation_robustness_scores(2).csv')
+df = pd.read_csv(r'data\primary\translation_robustness_scores(2).csv')
 
 print(df.columns)
 print(len(df))

@@ -22,7 +22,7 @@ import html
 import regex as re
 
 # Load the main rules dataset; rename column if needed
-df = pd.read_csv(r'data/community_rules_data.csv')
+df = pd.read_csv(r'data/primary/community_rules_data.csv')
 df = df.rename({'instance': 'Instance Name'})
 # df = df.rename(columns={'instance': 'Instance Name'})
 print(df.columns)
@@ -216,7 +216,7 @@ grouped_df = grouped_df[final_columns]
 # #df2.to_csv(r'regression_data_final2.csv', index=False)
 
 # print(len(df2))
-new = pd.read_csv(r'data/instance_births_full.csv')
+new = pd.read_csv(r'data/instance meta data/instance_births_full.csv')
 print(new.columns)
 print(len(new))
 
@@ -226,7 +226,7 @@ print(len(new_df))
 instance_names = new_df['Instance Name']
 #new_df.to_csv(r'regression_data_final2_strat20.csv', index=False)
 
-fed_new = pd.read_csv(r'federation_data_combined.csv')
+fed_new = pd.read_csv(r'data/instance meta data/federation_combined.csv')
 print(fed_new.columns)
 print(len(fed_new))
 fed_new = fed_new[fed_new['Instance Name'].isin(instance_names)]
@@ -240,7 +240,7 @@ print(len(new_new))
 
 print("Checking for topic counts")
 
-updated_df1 = pd.read_csv(r'data\llm_category_analysis_data.csv')
+updated_df1 = pd.read_csv(r'data\llm categorization\llm_category_analysis_data.csv')
 print(updated_df1.columns)
 print(len(updated_df1))
 updated_df2 = pd.read_csv(r'temp2.csv')
@@ -287,4 +287,4 @@ print(another_new_new.columns)  # Check final columns
 print(len(another_new_new))  # Should match len(new_new)
 
 
-another_new_new.to_csv(r'regression_wTopicCounts.csv', index=False)
+another_new_new.to_csv(r'data/regression/regression_lexicalfeature_def_birth_TopicCounts.csv', index=False)

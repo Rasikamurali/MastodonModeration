@@ -17,7 +17,7 @@ import pandas as pd
 import textstat
 
 # Load and filter rules data
-df = pd.read_csv(r'data/community_rules_data.csv')
+df = pd.read_csv(r'data/primary/community_rules_data.csv')
 df = df.dropna(subset=['translated text'])
 df = df[df['translated text'].str.split().str.len() > 1]
 
@@ -87,13 +87,13 @@ final_columns = ['Instance Name', 'word_count', 'User_Count', 'instance_group',
 instance_df = instance_df[final_columns]
 
 # Merge with instance birth dates
-births_df = pd.read_csv(r'data/instance_births_full.csv')
+births_df = pd.read_csv(r'data/instance meta data/instance_births_full.csv')
 instance_df = pd.merge(instance_df, births_df, on='Instance Name', how='inner')
 
 # Merge with federation data, keeping one row per instance
-fed_df = pd.read_csv(r'data/federation_data_combined.csv')
+fed_df = pd.read_csv(r'data/instance meta data/federation_combined.csv')
 fed_df = fed_df[fed_df['Instance Name'].isin(instance_df['Instance Name'])]
 fed_df = fed_df.drop_duplicates(subset='Instance Name')
 instance_df = pd.merge(instance_df, fed_df, on='Instance Name', how='inner')
 
-instance_df.to_csv(r'data/regression_data_lexicalfeature_fed_birth.csv', index=False)
+instance_df.to_csv(r'data/regression/regression_data_lexicalfeature_fed_birth.csv', index=False)

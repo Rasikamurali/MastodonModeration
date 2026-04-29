@@ -16,7 +16,7 @@ import seaborn as sns
 import scipy.stats as stats
 
 # Load instance birth dates collected from /api/v1/instance contact_account.created_at
-births = pd.read_csv(r'data\instance_births_full.csv')
+births = pd.read_csv(r'data\instance meta data\instance_births_full.csv')
 print(len(births))
 print(births.columns)
 print(births.head())
@@ -35,7 +35,7 @@ print(f"Instances born after Oct 2022: {len(after_oct_2022)}")
 print(after_oct_2022.head())
 
 # Merged with rules data 
-rules = pd.read_csv(r'data\llm_category_analysis_data.csv')
+rules = pd.read_csv(r'data\llm categorization\llm_category_analysis_data.csv')
 
 merged = pd.merge(rules, births, on='Instance Name', how='inner')
 print(len(merged))

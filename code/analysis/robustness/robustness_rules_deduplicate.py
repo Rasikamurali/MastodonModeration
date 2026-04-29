@@ -163,7 +163,7 @@ def deduplicate_all_instances_and_save(
             instances_with_duplicates += 1
 
 
-    # ---- Deduplicate per instance (UNCHANGED LOGIC) ----
+    # ---- Deduplicate per instance ----
     rows = []
     stats = {}
 
@@ -194,7 +194,7 @@ def deduplicate_all_instances_and_save(
     return df_clean, stats, threshold
 
 
-df = pd.read_csv(r'C:\Users\rasik\Documents\Independent Study\data\community_rules_data.csv')
+df = pd.read_csv(r'data\primary\community_rules_data.csv')
 print(df.columns)
 
 instances = {}
@@ -207,7 +207,7 @@ for _, row in df.iterrows():
 
 df_clean, stats, threshold = deduplicate_all_instances_and_save(
     df,
-    output_path="mastodon_rules_deduplicated.csv"
+    output_path="data/deduplicate/mastodon_rules_deduplicated.csv"
 )
 
 

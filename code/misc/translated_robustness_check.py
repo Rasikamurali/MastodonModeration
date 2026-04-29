@@ -69,7 +69,7 @@ def point_violinplot(
 
 
 
-community_rules = pd.read_csv(r'data\community_rules_data.csv')
+community_rules = pd.read_csv(r'data\primary\community_rules_data.csv')
 # community_rules = community_rules[:1000]
 print(community_rules.columns)
 print(len(community_rules))

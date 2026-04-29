@@ -27,9 +27,9 @@ from functools import reduce
 from dotenv import load_dotenv
 
 # Load pre-Elon snapshot (Sep-Oct 2022)
-df_1 = pd.read_csv(r'non_personal_preelon_notnull.csv')       # Sept-Oct 2022 (Pre-Elon)
+df_1 = pd.read_csv(r'data\wayback machine\non_personal_preelon_notnull.csv')       # Sept-Oct 2022 (Pre-Elon)
 
-temp_df = pd.read_csv(r'non_personal_preelon_2022.csv')   
+temp_df = pd.read_csv(r'data\wayback machine\non_personal_preelon_2022.csv')
 
 print(len(df_1), len(temp_df))
 print(df_1.columns)
@@ -43,8 +43,8 @@ df_1 = pd.merge(df_1, temp_df, on='instance', how='left')
 print(df_1.head())
 
 
-df_2 = pd.read_csv(r'non_personal_postelon_2024(1).csv')     # Post-Elon 2024
-df_4 = pd.read_csv(r'non_personal_postelon_2023(1).csv')     # Post-Elon 2023
+df_2 = pd.read_csv(r'data\wayback machine\non_personal_postelon_2024(1).csv')     # Post-Elon 2024
+df_4 = pd.read_csv(r'data\wayback machine\non_personal_postelon_2023(1).csv')     # Post-Elon 2023
 
 # # print(len(df_1), len(df_2), len(df_3), len(df_4))
 print(len(df_1), len(df_2), len(df_4))
@@ -247,4 +247,4 @@ merged = (
 )
 
 print(merged.head())
-merged.to_csv("rule_category_comparison.csv", index=False)
+merged.to_csv(r"data\wayback machine\rule_category_comparison.csv", index=False)

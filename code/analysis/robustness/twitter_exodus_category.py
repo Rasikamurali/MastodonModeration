@@ -25,7 +25,7 @@ import re
 # 11. GPT category cleaning
 # ==============================
 # Load rule category comparison; normalize whitespace and encoding in column names
-df_categories = pd.read_csv(r'C:\Users\rasik\Documents\Independent Study\data\chunks\rule_category_comparison.csv')
+df_categories = pd.read_csv(r'data\wayback machine\rule_category_comparison.csv')
 df_categories.columns = df_categories.columns.str.strip()
 df_categories.columns = df_categories.columns.str.replace(r'\s+', ' ', regex=True)
 df_categories.columns = df_categories.columns.str.replace(r'[^\x00-\x7F]+', '', regex=True)

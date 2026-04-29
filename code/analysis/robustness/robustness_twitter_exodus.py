@@ -26,15 +26,15 @@ import re
 # 1. Load CSVs
 # ==============================
 # Pre-Elon snapshot: Sep-Oct 2022
-df_1 = pd.read_csv(r'non_personal_preelon_notnull.csv')       # Sept-Oct 2022 (Pre-Elon)
-temp_df = pd.read_csv(r'non_personal_preelon_2022.csv')   
+df_1 = pd.read_csv(r'data\wayback machine\non_personal_preelon_notnull.csv')       # Sept-Oct 2022 (Pre-Elon)
+temp_df = pd.read_csv(r'data\wayback machine\non_personal_preelon_2022.csv')
 
 # Merge user_count into df_1
 temp_df = temp_df[['instance', 'user_count']]
 df_1 = pd.merge(df_1, temp_df, on='instance', how='left')
 
-df_2 = pd.read_csv(r'non_personal_postelon_2024(1).csv')     # Post-Elon 2024
-df_4 = pd.read_csv(r'non_personal_postelon_2023(1).csv')     # Post-Elon 2023
+df_2 = pd.read_csv(r'data\wayback machine\non_personal_postelon_2024(1).csv')     # Post-Elon 2024
+df_4 = pd.read_csv(r'data\wayback machine\non_personal_postelon_2023(1).csv')     # Post-Elon 2023
 
 # ==============================
 # 2. Merge datasets step by step

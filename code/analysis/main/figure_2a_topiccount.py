@@ -91,7 +91,7 @@ def ensure_set_of_words(value):
         return set()
 
 # regression_wTopicCounts.csv: one row per instance, includes user count and GPT-assigned topic counts
-df= pd.read_csv(r'regression_wTopicCounts.csv')
+df= pd.read_csv(r'data\regression\regression_lexicalfeature_def_birth_TopicCounts.csv')
 print(len(df))
 print(df.columns)
 df = df.rename(columns={'User Count_x': 'User Count'})

@@ -16,7 +16,7 @@ load_dotenv()
 openai.api_key = os.environ.get('OPEN_AI_KEY')
 
 # Load deduplicated rules; drop rows with missing or single-word translations
-df = pd.read_csv(r'data\mastodon_rules_deduplicated.csv')
+df = pd.read_csv(r'data\deduplicate\mastodon_rules_deduplicated.csv')
 df = df.dropna(subset=['translated text'])
 df = df[df['translated text'].str.split().str.len() >= 1]
 df = df.rename(columns={'instance': 'Instance Name'})
