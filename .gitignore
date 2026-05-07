@@ -6,11 +6,9 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Data files
-data/
-*.csv
-*.xlsx
-*.xls
+# Data files — exclude large files that exceed GitHub limits
+data/instance meta data/federation_combined.csv
+data/topical analysis/mastodon_topics_wrules.csv
 *.gexf
 
 # Figures & outputs
