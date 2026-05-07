@@ -15,6 +15,7 @@ data/topical analysis/mastodon_topics_wrules.csv
 figures/
 fk lang distributions/
 *.txt
+!requirements.txt
 
 # READMEs in progress
 code/README.md

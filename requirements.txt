@@ -1,0 +1,15 @@
+pandas==2.3.3
+numpy==1.26.2
+matplotlib==3.8.2
+seaborn==0.13.0
+scipy==1.11.4
+statsmodels==0.14.4
+scikit-learn==1.5.2
+openai==1.68.2
+langdetect==1.0.9
+textstat==0.7.3
+regex==2023.10.3
+nltk==3.8.1
+requests==2.32.3
+networkx==3.2.1
+python-dotenv==1.0.1
