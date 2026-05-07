@@ -16,6 +16,10 @@ figures/
 fk lang distributions/
 *.txt
 
+# READMEs in progress
+code/README.md
+data/README.md
+
 # Archive
 archive/
 
