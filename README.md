@@ -1,6 +1,6 @@
-# Rule-Writing in the Fediverse: How Instance Size Shapes Community Moderation on Mastodon
+# Federating Governance: How Community Rules Scale with Mastodon Instances
 
-**Rasika Murali** · Indiana University Bloomington
+**Rasika Muralidharan**, Yong-Yeol Ahn, Bao Tran Truong · Indiana University Bloomington
 
 ---
 
