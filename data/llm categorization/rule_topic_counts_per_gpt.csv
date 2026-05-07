@@ -1,0 +1,2333 @@
+GPT category single,GPT category set,Count
+Activism,{'Hate Speech'},98
+Activism,{'Mis/Disinformation/Conspiracy'},35
+Activism,{'Illegal Content'},24
+Activism,{'Harassment'},18
+Activism,"{'Harassment', 'Doxxing/ Personal Info'}",16
+Activism,{'Incitement of Violence'},16
+Activism,"{'Advertising & Commercialization', 'Spam'}",12
+Activism,"{'NSFW', 'Images'}",12
+Activism,"{'Content Warnings', 'Images'}",9
+Activism,"{'Hate Speech', 'Harassment'}",9
+Activism,"{'NSFW', 'Content Warnings'}",9
+Activism,{'Off-topic/topic specific'},9
+Activism,"{'Hate Speech', 'Incitement of Violence'}",8
+Activism,{'Content Warnings'},7
+Activism,{'NSFW'},6
+Activism,{'Spam'},6
+Activism,{'Advertising & Commercialization'},5
+Activism,{'Doxxing/ Personal Info'},5
+Activism,"{'Illegal Content', 'Hate Speech'}",5
+Activism,"{'Illegal Content', 'NSFW'}",5
+Activism,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info'}",4
+Activism,"{'Harassment', 'Trolling'}",4
+Activism,"{'Hate Speech', 'Off-topic/topic specific'}",4
+Activism,{'Images'},4
+Activism,"{'Mis/Disinformation/Conspiracy', 'Hate Speech'}",4
+Activism,{'Copyright/ Piracy'},3
+Activism,"{'Hate Speech', 'Harassment', 'Doxxing/ Personal Info'}",3
+Activism,"{'Links & Outside Content', 'NSFW'}",3
+Activism,{'Links & Outside Content'},3
+Activism,"{'Not Applicable', 'Hate Speech'}",3
+Activism,"{'Advertising & Commercialization', 'Links & Outside Content'}",2
+Activism,{'Automated tools'},2
+Activism,"{'Harassment', 'Trolling', 'Spam'}",2
+Activism,"{'Illegal Content', 'Mis/Disinformation/Conspiracy', 'Hate Speech'}",2
+Activism,{'Impersonation'},2
+Activism,"{'Links & Outside Content', 'Not Applicable'}",2
+Activism,"{'Links & Outside Content', 'Off-topic/topic specific'}",2
+Activism,"{'NSFW', 'Content Warnings', 'Images'}",2
+Activism,"{'Not Applicable', 'Automated tools'}",2
+Activism,"{'Advertising & Commercialization', 'Not Applicable'}",1
+Activism,"{'Automated tools', 'Spam'}",1
+Activism,"{'Dogpiling', 'Harassment'}",1
+Activism,"{'Doxxing/ Personal Info', 'Images'}",1
+Activism,"{'Doxxing/ Personal Info', 'NSFW', 'Hate Speech', 'Harassment', 'Incitement of Violence'}",1
+Activism,"{'Harassment', 'Automated tools'}",1
+Activism,"{'Harassment', 'Doxxing/ Personal Info', 'Impersonation'}",1
+Activism,"{'Harassment', 'Spam'}",1
+Activism,"{'Hate Speech', 'Content Warnings'}",1
+Activism,"{'Hate Speech', 'Images'}",1
+Activism,"{'Illegal Content', 'Doxxing/ Personal Info'}",1
+Activism,"{'Illegal Content', 'Harassment', 'Doxxing/ Personal Info'}",1
+Activism,"{'Illegal Content', 'Links & Outside Content'}",1
+Activism,"{'Illegal Content', 'Mis/Disinformation/Conspiracy'}",1
+Activism,"{'Illegal Content', 'NSFW', 'Hate Speech', 'Incitement of Violence'}",1
+Activism,"{'Illegal Content', 'Spam'}",1
+Activism,"{'Images', 'Copyright/ Piracy'}",1
+Activism,"{'Images', 'Spam'}",1
+Activism,"{'Links & Outside Content', 'Content Warnings', 'Illegal Content'}",1
+Activism,"{'Links & Outside Content', 'Copyright/ Piracy'}",1
+Activism,"{'Links & Outside Content', 'Illegal Content', 'Incitement of Violence'}",1
+Activism,"{'Links & Outside Content', 'Off-topic/topic specific', 'Reposting/Crossposting'}",1
+Activism,"{'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Harassment', 'Spam'}",1
+Activism,"{'Not Applicable', 'Content Warnings'}",1
+Activism,"{'Not Applicable', 'Doxxing/ Personal Info'}",1
+Activism,"{'Not Applicable', 'Impersonation'}",1
+Activism,"{'Not Applicable', 'Mis/Disinformation/Conspiracy'}",1
+Activism,"{'Not Applicable', 'NSFW'}",1
+Activism,"{'Off-topic/topic specific', 'Spam'}",1
+Activism,"{'Reposting/Crossposting', 'Copyright/ Piracy'}",1
+Activism,"{'Spam', 'Automated tools'}",1
+Art & Culture,{'Hate Speech'},67
+Art & Culture,{'Illegal Content'},31
+Art & Culture,{'Mis/Disinformation/Conspiracy'},24
+Art & Culture,"{'Advertising & Commercialization', 'Spam'}",21
+Art & Culture,{'Incitement of Violence'},21
+Art & Culture,{'Harassment'},19
+Art & Culture,"{'NSFW', 'Content Warnings'}",19
+Art & Culture,"{'Hate Speech', 'Harassment'}",18
+Art & Culture,{'Copyright/ Piracy'},17
+Art & Culture,"{'Harassment', 'Doxxing/ Personal Info'}",17
+Art & Culture,"{'Content Warnings', 'Images'}",15
+Art & Culture,{'Doxxing/ Personal Info'},13
+Art & Culture,{'Content Warnings'},12
+Art & Culture,"{'Illegal Content', 'Hate Speech'}",12
+Art & Culture,"{'Harassment', 'Trolling'}",11
+Art & Culture,{'NSFW'},10
+Art & Culture,{'Spam'},10
+Art & Culture,{'Advertising & Commercialization'},9
+Art & Culture,{'Automated tools'},9
+Art & Culture,"{'NSFW', 'Content Warnings', 'Images'}",9
+Art & Culture,"{'NSFW', 'Images'}",9
+Art & Culture,{'Impersonation'},8
+Art & Culture,"{'Harassment', 'Incitement of Violence'}",7
+Art & Culture,"{'Illegal Content', 'NSFW'}",7
+Art & Culture,"{'Not Applicable', 'Automated tools'}",6
+Art & Culture,"{'Hate Speech', 'Incitement of Violence'}",5
+Art & Culture,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info'}",4
+Art & Culture,"{'Illegal Content', 'Copyright/ Piracy'}",4
+Art & Culture,{'Images'},4
+Art & Culture,{'Links & Outside Content'},4
+Art & Culture,{'Off-topic/topic specific'},4
+Art & Culture,"{'Spam', 'Automated tools'}",4
+Art & Culture,"{'Advertising & Commercialization', 'Spam', 'Automated tools'}",3
+Art & Culture,"{'Not Applicable', 'Harassment'}",3
+Art & Culture,"{'Harassment', 'Impersonation'}",2
+Art & Culture,"{'Hate Speech', 'Harassment', 'Doxxing/ Personal Info'}",2
+Art & Culture,"{'Hate Speech', 'Harassment', 'Incitement of Violence'}",2
+Art & Culture,"{'Hate Speech', 'Harassment', 'Trolling'}",2
+Art & Culture,"{'Links & Outside Content', 'Illegal Content'}",2
+Art & Culture,"{'Mis/Disinformation/Conspiracy', 'Hate Speech'}",2
+Art & Culture,"{'Not Applicable', 'Images'}",2
+Art & Culture,"{'Reposting/Crossposting', 'Copyright/ Piracy'}",2
+Art & Culture,{'Trolling'},2
+Art & Culture,"{'Advertising & Commercialization', 'Automated tools', 'Spam'}",1
+Art & Culture,"{'Advertising & Commercialization', 'Illegal Content'}",1
+Art & Culture,"{'Advertising & Commercialization', 'Off-topic/topic specific'}",1
+Art & Culture,"{'Advertising & Commercialization', 'Trolling', 'Spam'}",1
+Art & Culture,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info', 'Impersonation'}",1
+Art & Culture,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info', 'Incitement of Violence'}",1
+Art & Culture,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info', 'Trolling'}",1
+Art & Culture,"{'Dogpiling', 'Harassment'}",1
+Art & Culture,"{'Dogpiling', 'Hate Speech', 'Harassment'}",1
+Art & Culture,"{'Dogpiling', 'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Harassment'}",1
+Art & Culture,"{'Harassment', 'Automated tools'}",1
+Art & Culture,"{'Harassment', 'Content Warnings'}",1
+Art & Culture,"{'Harassment', 'Images'}",1
+Art & Culture,"{'Harassment', 'Spam'}",1
+Art & Culture,"{'Hate Speech', 'Harassment', 'Impersonation'}",1
+Art & Culture,"{'Hate Speech', 'Trolling'}",1
+Art & Culture,"{'Illegal Content', 'Doxxing/ Personal Info'}",1
+Art & Culture,"{'Illegal Content', 'Harassment', 'Doxxing/ Personal Info', 'Incitement of Violence'}",1
+Art & Culture,"{'Illegal Content', 'Harassment', 'Doxxing/ Personal Info'}",1
+Art & Culture,"{'Illegal Content', 'Harassment'}",1
+Art & Culture,"{'Illegal Content', 'Images'}",1
+Art & Culture,"{'Illegal Content', 'Links & Outside Content'}",1
+Art & Culture,"{'Illegal Content', 'Mis/Disinformation/Conspiracy'}",1
+Art & Culture,"{'Illegal Content', 'NSFW', 'Content Warnings'}",1
+Art & Culture,"{'Illegal Content', 'NSFW', 'Doxxing/ Personal Info', 'Copyright/ Piracy'}",1
+Art & Culture,"{'Illegal Content', 'NSFW', 'Images'}",1
+Art & Culture,"{'Illegal Content', 'Not Applicable', 'Harassment'}",1
+Art & Culture,"{'Illegal Content', 'Not Applicable'}",1
+Art & Culture,"{'Links & Outside Content', 'Content Warnings'}",1
+Art & Culture,"{'Links & Outside Content', 'NSFW'}",1
+Art & Culture,"{'Links & Outside Content', 'Not Applicable'}",1
+Art & Culture,"{'Links & Outside Content', 'Off-topic/topic specific'}",1
+Art & Culture,"{'Mis/Disinformation/Conspiracy', 'Copyright/ Piracy'}",1
+Art & Culture,"{'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Copyright/ Piracy'}",1
+Art & Culture,"{'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Harassment'}",1
+Art & Culture,"{'Mis/Disinformation/Conspiracy', 'Incitement of Violence'}",1
+Art & Culture,"{'NSFW', 'Harassment'}",1
+Art & Culture,"{'NSFW', 'Hate Speech', 'Images'}",1
+Art & Culture,"{'NSFW', 'Hate Speech'}",1
+Art & Culture,"{'Not Applicable', 'Reposting/Crossposting'}",1
+Art & Culture,"{'Off-topic/topic specific', 'Content Warnings', 'Images'}",1
+Art & Culture,"{'Off-topic/topic specific', 'Content Warnings', 'Spam'}",1
+Art & Culture,"{'Off-topic/topic specific', 'Content Warnings'}",1
+Art & Culture,"{'Off-topic/topic specific', 'Spam'}",1
+Art & Culture,"{'Off-topic/topic specific', 'Trolling', 'Spam'}",1
+Art & Culture,"{'Reposting/Crossposting', 'Automated tools'}",1
+Art & Culture,"{'Reposting/Crossposting', 'Spam'}",1
+Art & Culture,"{'Trolling', 'Spam'}",1
+Bots,{'Hate Speech'},8
+Bots,{'Automated tools'},4
+Bots,"{'NSFW', 'Images'}",4
+Bots,"{'Advertising & Commercialization', 'Spam'}",3
+Bots,{'Harassment'},3
+Bots,{'Illegal Content'},3
+Bots,{'Spam'},3
+Bots,{'Content Warnings'},2
+Bots,{'Doxxing/ Personal Info'},2
+Bots,"{'Harassment', 'Doxxing/ Personal Info'}",2
+Bots,"{'Hate Speech', 'Harassment'}",2
+Bots,{'Impersonation'},2
+Bots,{'Mis/Disinformation/Conspiracy'},2
+Bots,"{'Automated tools', 'Spam'}",1
+Bots,"{'Dogpiling', 'Harassment'}",1
+Bots,"{'Harassment', 'Automated tools'}",1
+Bots,"{'Harassment', 'Trolling'}",1
+Bots,"{'Hate Speech', 'Images'}",1
+Bots,"{'Illegal Content', 'Incitement of Violence'}",1
+Bots,{'Incitement of Violence'},1
+Bots,"{'Mis/Disinformation/Conspiracy', 'Hate Speech'}",1
+Bots,"{'NSFW', 'Content Warnings', 'Images'}",1
+Bots,"{'NSFW', 'Content Warnings'}",1
+Bots,"{'Not Applicable', 'Automated tools'}",1
+Bots,"{'Off-topic/topic specific', 'Harassment'}",1
+Bots,"{'Reposting/Crossposting', 'Impersonation'}",1
+Bots,"{'Spam', 'Automated tools'}",1
+Community,{'Advertising & Commercialization'},1
+Community,{'Content Warnings'},1
+Community,"{'Hate Speech', 'Harassment', 'Doxxing/ Personal Info'}",1
+Community,"{'Links & Outside Content', 'Off-topic/topic specific'}",1
+Community,"{'Not Applicable', 'Automated tools'}",1
+Education,{'Impersonation'},3
+Education,{'Harassment'},2
+Education,{'Hate Speech'},2
+Education,"{'NSFW', 'Hate Speech'}",2
+Education,{'Advertising & Commercialization'},1
+Education,"{'Harassment', 'Doxxing/ Personal Info'}",1
+Education,{'Images'},1
+Education,"{'Impersonation', 'Automated tools'}",1
+Education,"{'Links & Outside Content', 'Not Applicable'}",1
+Education,{'Links & Outside Content'},1
+Education,"{'Not Applicable', 'Mis/Disinformation/Conspiracy'}",1
+Education,"{'Reposting/Crossposting', 'Automated tools'}",1
+Education,"{'Spam', 'Automated tools'}",1
+Education,{'Spam'},1
+Entertainment,{'Hate Speech'},71
+Entertainment,{'Illegal Content'},35
+Entertainment,{'Mis/Disinformation/Conspiracy'},23
+Entertainment,"{'NSFW', 'Content Warnings'}",21
+Entertainment,{'Doxxing/ Personal Info'},18
+Entertainment,{'Harassment'},17
+Entertainment,{'Incitement of Violence'},17
+Entertainment,"{'Hate Speech', 'Harassment'}",16
+Entertainment,"{'Harassment', 'Doxxing/ Personal Info'}",15
+Entertainment,"{'Content Warnings', 'Images'}",13
+Entertainment,"{'Advertising & Commercialization', 'Spam'}",12
+Entertainment,{'Content Warnings'},11
+Entertainment,{'Spam'},11
+Entertainment,{'Off-topic/topic specific'},10
+Entertainment,"{'Hate Speech', 'Incitement of Violence'}",9
+Entertainment,{'Impersonation'},9
+Entertainment,"{'NSFW', 'Images'}",9
+Entertainment,"{'Illegal Content', 'NSFW'}",8
+Entertainment,{'NSFW'},8
+Entertainment,{'Automated tools'},7
+Entertainment,{'Advertising & Commercialization'},6
+Entertainment,"{'Mis/Disinformation/Conspiracy', 'Hate Speech'}",6
+Entertainment,"{'NSFW', 'Content Warnings', 'Images'}",6
+Entertainment,{'Copyright/ Piracy'},5
+Entertainment,"{'Harassment', 'Incitement of Violence'}",5
+Entertainment,"{'Illegal Content', 'Hate Speech'}",4
+Entertainment,"{'Illegal Content', 'NSFW', 'Content Warnings'}",4
+Entertainment,"{'Automated tools', 'Spam'}",3
+Entertainment,{'Images'},3
+Entertainment,"{'Links & Outside Content', 'Not Applicable'}",3
+Entertainment,{'Links & Outside Content'},3
+Entertainment,"{'Mis/Disinformation/Conspiracy', 'Incitement of Violence'}",3
+Entertainment,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info'}",2
+Entertainment,"{'Dogpiling', 'Harassment'}",2
+Entertainment,"{'Dogpiling', 'Hate Speech', 'Harassment', 'Doxxing/ Personal Info'}",2
+Entertainment,"{'Hate Speech', 'Images'}",2
+Entertainment,"{'Illegal Content', 'Incitement of Violence'}",2
+Entertainment,"{'Illegal Content', 'Links & Outside Content'}",2
+Entertainment,"{'Links & Outside Content', 'Illegal Content'}",2
+Entertainment,"{'Links & Outside Content', 'Spam'}",2
+Entertainment,"{'Mis/Disinformation/Conspiracy', 'Spam'}",2
+Entertainment,"{'NSFW', 'Hate Speech'}",2
+Entertainment,"{'Not Applicable', 'Automated tools'}",2
+Entertainment,"{'Not Applicable', 'Hate Speech'}",2
+Entertainment,"{'Off-topic/topic specific', 'Harassment'}",2
+Entertainment,"{'Reposting/Crossposting', 'Automated tools'}",2
+Entertainment,"{'Reposting/Crossposting', 'Copyright/ Piracy'}",2
+Entertainment,{'Reposting/Crossposting'},2
+Entertainment,"{'Spam', 'Automated tools'}",2
+Entertainment,{'Trolling'},2
+Entertainment,"{'Advertising & Commercialization', 'Automated tools', 'Spam'}",1
+Entertainment,"{'Advertising & Commercialization', 'Spam', 'Automated tools'}",1
+Entertainment,"{'Dogpiling', 'Doxxing/ Personal Info', 'Hate Speech', 'Trolling', 'Harassment', 'Incitement of Violence'}",1
+Entertainment,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info', 'Trolling'}",1
+Entertainment,"{'Harassment', 'Automated tools'}",1
+Entertainment,"{'Harassment', 'Doxxing/ Personal Info', 'Impersonation'}",1
+Entertainment,"{'Harassment', 'Doxxing/ Personal Info', 'Incitement of Violence'}",1
+Entertainment,"{'Harassment', 'Trolling'}",1
+Entertainment,"{'Hate Speech', 'Harassment', 'Doxxing/ Personal Info'}",1
+Entertainment,"{'Hate Speech', 'Harassment', 'Incitement of Violence'}",1
+Entertainment,"{'Hate Speech', 'Harassment', 'Off-topic/topic specific'}",1
+Entertainment,"{'Hate Speech', 'Trolling'}",1
+Entertainment,"{'Illegal Content', 'Copyright/ Piracy'}",1
+Entertainment,"{'Illegal Content', 'Hate Speech', 'Advertising & Commercialization'}",1
+Entertainment,"{'Illegal Content', 'Hate Speech', 'Harassment'}",1
+Entertainment,"{'Illegal Content', 'Images'}",1
+Entertainment,"{'Illegal Content', 'Mis/Disinformation/Conspiracy', 'Hate Speech'}",1
+Entertainment,"{'Illegal Content', 'Mis/Disinformation/Conspiracy'}",1
+Entertainment,"{'Illegal Content', 'NSFW', 'Hate Speech', 'Incitement of Violence'}",1
+Entertainment,"{'Images', 'Copyright/ Piracy'}",1
+Entertainment,"{'Impersonation', 'Automated tools'}",1
+Entertainment,"{'Impersonation', 'Copyright/ Piracy'}",1
+Entertainment,"{'Links & Outside Content', 'Illegal Content', 'Spam', 'Copyright/ Piracy'}",1
+Entertainment,"{'Links & Outside Content', 'NSFW', 'Illegal Content'}",1
+Entertainment,"{'Links & Outside Content', 'Off-topic/topic specific'}",1
+Entertainment,"{'Links & Outside Content', 'Reposting/Crossposting'}",1
+Entertainment,"{'Mis/Disinformation/Conspiracy', 'Doxxing/ Personal Info'}",1
+Entertainment,"{'Mis/Disinformation/Conspiracy', 'Harassment'}",1
+Entertainment,"{'NSFW', 'Automated tools', 'Images', 'Spam', 'Reposting/Crossposting'}",1
+Entertainment,"{'NSFW', 'Hate Speech', 'Images'}",1
+Entertainment,"{'Not Applicable', 'Images'}",1
+Entertainment,"{'Not Applicable', 'NSFW'}",1
+Entertainment,"{'Not Applicable', 'Reposting/Crossposting'}",1
+Entertainment,"{'Off-topic/topic specific', 'Harassment', 'Trolling'}",1
+Entertainment,"{'Off-topic/topic specific', 'Trolling', 'Spam'}",1
+Entertainment,"{'Off-topic/topic specific', 'Trolling'}",1
+Entertainment,"{'Reposting/Crossposting', 'Images', 'Spam'}",1
+Entertainment,"{'Reposting/Crossposting', 'Spam'}",1
+Entertainment,"{'Trolling', 'Spam'}",1
+Family & Friends,{'Hate Speech'},302
+Family & Friends,{'Illegal Content'},163
+Family & Friends,{'Mis/Disinformation/Conspiracy'},90
+Family & Friends,{'Incitement of Violence'},86
+Family & Friends,"{'Harassment', 'Doxxing/ Personal Info'}",72
+Family & Friends,"{'NSFW', 'Content Warnings'}",69
+Family & Friends,{'Harassment'},64
+Family & Friends,"{'Hate Speech', 'Harassment'}",50
+Family & Friends,"{'Content Warnings', 'Images'}",49
+Family & Friends,"{'Advertising & Commercialization', 'Spam'}",45
+Family & Friends,{'Content Warnings'},43
+Family & Friends,{'NSFW'},34
+Family & Friends,{'Spam'},29
+Family & Friends,{'Doxxing/ Personal Info'},24
+Family & Friends,{'Images'},21
+Family & Friends,{'Copyright/ Piracy'},19
+Family & Friends,"{'Harassment', 'Trolling'}",19
+Family & Friends,"{'Illegal Content', 'NSFW'}",19
+Family & Friends,"{'NSFW', 'Content Warnings', 'Images'}",19
+Family & Friends,"{'NSFW', 'Images'}",18
+Family & Friends,{'Impersonation'},16
+Family & Friends,{'Automated tools'},14
+Family & Friends,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info'}",14
+Family & Friends,"{'Dogpiling', 'Harassment'}",13
+Family & Friends,"{'Illegal Content', 'Hate Speech'}",13
+Family & Friends,{'Off-topic/topic specific'},13
+Family & Friends,{'Advertising & Commercialization'},12
+Family & Friends,"{'Hate Speech', 'Incitement of Violence'}",11
+Family & Friends,"{'Mis/Disinformation/Conspiracy', 'Hate Speech'}",10
+Family & Friends,"{'Illegal Content', 'Copyright/ Piracy'}",7
+Family & Friends,"{'Mis/Disinformation/Conspiracy', 'Incitement of Violence'}",7
+Family & Friends,"{'Spam', 'Automated tools'}",7
+Family & Friends,{'Links & Outside Content'},6
+Family & Friends,"{'Hate Speech', 'Off-topic/topic specific'}",5
+Family & Friends,"{'Illegal Content', 'Incitement of Violence'}",5
+Family & Friends,"{'Not Applicable', 'Automated tools'}",5
+Family & Friends,"{'Reposting/Crossposting', 'Automated tools'}",5
+Family & Friends,"{'Harassment', 'Incitement of Violence'}",4
+Family & Friends,"{'Harassment', 'Spam'}",4
+Family & Friends,"{'Illegal Content', 'Mis/Disinformation/Conspiracy'}",4
+Family & Friends,"{'Off-topic/topic specific', 'Content Warnings'}",4
+Family & Friends,"{'Off-topic/topic specific', 'Harassment'}",4
+Family & Friends,"{'Dogpiling', 'Harassment', 'Trolling'}",3
+Family & Friends,"{'Harassment', 'Doxxing/ Personal Info', 'Incitement of Violence'}",3
+Family & Friends,"{'Hate Speech', 'Content Warnings'}",3
+Family & Friends,"{'Mis/Disinformation/Conspiracy', 'Impersonation'}",3
+Family & Friends,"{'NSFW', 'Harassment'}",3
+Family & Friends,"{'Not Applicable', 'Doxxing/ Personal Info'}",3
+Family & Friends,"{'Not Applicable', 'Hate Speech'}",3
+Family & Friends,"{'Advertising & Commercialization', 'Not Applicable'}",2
+Family & Friends,"{'Automated tools', 'Spam'}",2
+Family & Friends,"{'Content Warnings', 'Incitement of Violence'}",2
+Family & Friends,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info', 'Trolling'}",2
+Family & Friends,"{'Hate Speech', 'Harassment', 'Trolling'}",2
+Family & Friends,"{'Hate Speech', 'Spam'}",2
+Family & Friends,"{'Hate Speech', 'Trolling'}",2
+Family & Friends,"{'Illegal Content', 'Doxxing/ Personal Info'}",2
+Family & Friends,"{'Illegal Content', 'Harassment'}",2
+Family & Friends,"{'Illegal Content', 'Links & Outside Content'}",2
+Family & Friends,"{'Links & Outside Content', 'Copyright/ Piracy'}",2
+Family & Friends,"{'Links & Outside Content', 'Illegal Content'}",2
+Family & Friends,"{'Links & Outside Content', 'Reposting/Crossposting'}",2
+Family & Friends,"{'Links & Outside Content', 'Spam'}",2
+Family & Friends,"{'Mis/Disinformation/Conspiracy', 'Spam'}",2
+Family & Friends,"{'NSFW', 'Hate Speech'}",2
+Family & Friends,"{'NSFW', 'Incitement of Violence'}",2
+Family & Friends,"{'Not Applicable', 'Content Warnings'}",2
+Family & Friends,"{'Not Applicable', 'Images'}",2
+Family & Friends,"{'Not Applicable', 'Mis/Disinformation/Conspiracy'}",2
+Family & Friends,"{'Not Applicable', 'Reposting/Crossposting'}",2
+Family & Friends,"{'Off-topic/topic specific', 'Spam'}",2
+Family & Friends,"{'Off-topic/topic specific', 'Trolling'}",2
+Family & Friends,"{'Reposting/Crossposting', 'Copyright/ Piracy'}",2
+Family & Friends,"{'Reposting/Crossposting', 'Spam'}",2
+Family & Friends,{'Trolling'},2
+Family & Friends,"{'Advertising & Commercialization', 'Hate Speech'}",1
+Family & Friends,"{'Advertising & Commercialization', 'Links & Outside Content'}",1
+Family & Friends,"{'Advertising & Commercialization', 'Spam', 'Automated tools'}",1
+Family & Friends,{'Dogpiling'},1
+Family & Friends,"{'Doxxing/ Personal Info', 'NSFW', 'Hate Speech', 'Trolling', 'Harassment'}",1
+Family & Friends,"{'Harassment', 'Doxxing/ Personal Info', 'Impersonation'}",1
+Family & Friends,"{'Harassment', 'Impersonation'}",1
+Family & Friends,"{'Harassment', 'Incitement of Violence', 'Spam'}",1
+Family & Friends,"{'Harassment', 'Trolling', 'Incitement of Violence'}",1
+Family & Friends,"{'Harassment', 'Trolling', 'Spam'}",1
+Family & Friends,"{'Hate Speech', 'Harassment', 'Doxxing/ Personal Info'}",1
+Family & Friends,"{'Hate Speech', 'Harassment', 'Incitement of Violence'}",1
+Family & Friends,"{'Hate Speech', 'Harassment', 'Trolling', 'Incitement of Violence'}",1
+Family & Friends,"{'Hate Speech', 'Images'}",1
+Family & Friends,"{'Illegal Content', 'Harassment', 'Spam'}",1
+Family & Friends,"{'Illegal Content', 'Hate Speech', 'Spam'}",1
+Family & Friends,"{'Illegal Content', 'Images', 'Copyright/ Piracy'}",1
+Family & Friends,"{'Illegal Content', 'Images'}",1
+Family & Friends,"{'Illegal Content', 'NSFW', 'Content Warnings'}",1
+Family & Friends,"{'Illegal Content', 'NSFW', 'Hate Speech', 'Advertising & Commercialization', 'Spam', 'Harassment', 'Incitement of Violence'}",1
+Family & Friends,"{'Illegal Content', 'NSFW', 'Hate Speech', 'Spam'}",1
+Family & Friends,"{'Illegal Content', 'NSFW', 'Spam', 'Incitement of Violence'}",1
+Family & Friends,"{'Images', 'Copyright/ Piracy'}",1
+Family & Friends,"{'Impersonation', 'Automated tools'}",1
+Family & Friends,"{'Impersonation', 'Copyright/ Piracy'}",1
+Family & Friends,"{'Links & Outside Content', 'Illegal Content', 'Spam'}",1
+Family & Friends,"{'Links & Outside Content', 'Images', 'Copyright/ Piracy'}",1
+Family & Friends,"{'Links & Outside Content', 'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Incitement of Violence'}",1
+Family & Friends,"{'Links & Outside Content', 'NSFW', 'Content Warnings'}",1
+Family & Friends,"{'Links & Outside Content', 'Not Applicable'}",1
+Family & Friends,"{'Mis/Disinformation/Conspiracy', 'Copyright/ Piracy'}",1
+Family & Friends,"{'Mis/Disinformation/Conspiracy', 'Doxxing/ Personal Info'}",1
+Family & Friends,"{'Mis/Disinformation/Conspiracy', 'Trolling', 'Incitement of Violence'}",1
+Family & Friends,"{'NSFW', 'Content Warnings', 'Images', 'Incitement of Violence'}",1
+Family & Friends,"{'NSFW', 'Copyright/ Piracy'}",1
+Family & Friends,"{'NSFW', 'Harassment', 'Spam'}",1
+Family & Friends,"{'NSFW', 'Hate Speech', 'Trolling', 'Harassment', 'Incitement of Violence'}",1
+Family & Friends,"{'NSFW', 'Off-topic/topic specific', 'Spam'}",1
+Family & Friends,"{'NSFW', 'Spam'}",1
+Family & Friends,"{'Not Applicable', 'Harassment'}",1
+Family & Friends,"{'Not Applicable', 'Off-topic/topic specific'}",1
+Family & Friends,"{'Off-topic/topic specific', 'Content Warnings', 'Spam'}",1
+Family & Friends,"{'Off-topic/topic specific', 'Harassment', 'Trolling'}",1
+Family & Friends,"{'Off-topic/topic specific', 'Reposting/Crossposting', 'Spam'}",1
+Family & Friends,"{'Off-topic/topic specific', 'Reposting/Crossposting'}",1
+Fediverse,{'Hate Speech'},262
+Fediverse,{'Illegal Content'},149
+Fediverse,{'Mis/Disinformation/Conspiracy'},93
+Fediverse,"{'Advertising & Commercialization', 'Spam'}",69
+Fediverse,{'Incitement of Violence'},68
+Fediverse,"{'Harassment', 'Doxxing/ Personal Info'}",67
+Fediverse,"{'NSFW', 'Content Warnings'}",56
+Fediverse,{'Harassment'},54
+Fediverse,"{'Hate Speech', 'Harassment'}",49
+Fediverse,{'NSFW'},44
+Fediverse,"{'Content Warnings', 'Images'}",43
+Fediverse,{'Spam'},43
+Fediverse,{'Copyright/ Piracy'},36
+Fediverse,{'Doxxing/ Personal Info'},34
+Fediverse,{'Content Warnings'},31
+Fediverse,{'Advertising & Commercialization'},27
+Fediverse,"{'NSFW', 'Images'}",27
+Fediverse,"{'Hate Speech', 'Incitement of Violence'}",25
+Fediverse,"{'Illegal Content', 'NSFW'}",23
+Fediverse,{'Impersonation'},22
+Fediverse,{'Automated tools'},21
+Fediverse,{'Links & Outside Content'},19
+Fediverse,"{'Mis/Disinformation/Conspiracy', 'Hate Speech'}",17
+Fediverse,"{'NSFW', 'Content Warnings', 'Images'}",17
+Fediverse,"{'Illegal Content', 'Hate Speech'}",16
+Fediverse,"{'Harassment', 'Trolling'}",15
+Fediverse,{'Off-topic/topic specific'},13
+Fediverse,{'Images'},10
+Fediverse,"{'Not Applicable', 'Automated tools'}",10
+Fediverse,"{'Illegal Content', 'Incitement of Violence'}",9
+Fediverse,"{'Links & Outside Content', 'Spam'}",9
+Fediverse,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info'}",7
+Fediverse,"{'Harassment', 'Incitement of Violence'}",7
+Fediverse,"{'Illegal Content', 'Copyright/ Piracy'}",7
+Fediverse,"{'Reposting/Crossposting', 'Automated tools'}",6
+Fediverse,"{'Spam', 'Automated tools'}",6
+Fediverse,"{'Dogpiling', 'Harassment'}",5
+Fediverse,"{'Hate Speech', 'Harassment', 'Incitement of Violence'}",5
+Fediverse,"{'NSFW', 'Hate Speech', 'Trolling', 'Spam', 'Harassment', 'Incitement of Violence'}",5
+Fediverse,"{'Off-topic/topic specific', 'Harassment'}",5
+Fediverse,"{'Hate Speech', 'Images'}",4
+Fediverse,"{'Links & Outside Content', 'Not Applicable'}",4
+Fediverse,"{'NSFW', 'Hate Speech'}",4
+Fediverse,"{'Not Applicable', 'Harassment'}",4
+Fediverse,"{'Reposting/Crossposting', 'Spam'}",4
+Fediverse,{'Trolling'},4
+Fediverse,"{'Advertising & Commercialization', 'Automated tools'}",3
+Fediverse,"{'Automated tools', 'Spam'}",3
+Fediverse,"{'Harassment', 'Spam'}",3
+Fediverse,"{'Hate Speech', 'Harassment', 'Trolling'}",3
+Fediverse,"{'Illegal Content', 'Not Applicable'}",3
+Fediverse,"{'Images', 'Copyright/ Piracy'}",3
+Fediverse,"{'Mis/Disinformation/Conspiracy', 'Copyright/ Piracy'}",3
+Fediverse,"{'Mis/Disinformation/Conspiracy', 'Incitement of Violence'}",3
+Fediverse,"{'NSFW', 'Incitement of Violence'}",3
+Fediverse,"{'Not Applicable', 'Hate Speech'}",3
+Fediverse,"{'Not Applicable', 'Spam'}",3
+Fediverse,"{'Off-topic/topic specific', 'Content Warnings'}",3
+Fediverse,"{'Off-topic/topic specific', 'Spam'}",3
+Fediverse,{'Reposting/Crossposting'},3
+Fediverse,"{'Advertising & Commercialization', 'Mis/Disinformation/Conspiracy'}",2
+Fediverse,"{'Advertising & Commercialization', 'Not Applicable'}",2
+Fediverse,"{'Advertising & Commercialization', 'Spam', 'Automated tools'}",2
+Fediverse,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info', 'Spam'}",2
+Fediverse,"{'Harassment', 'Trolling', 'Spam'}",2
+Fediverse,"{'Hate Speech', 'Off-topic/topic specific'}",2
+Fediverse,"{'Illegal Content', 'Automated tools'}",2
+Fediverse,"{'Illegal Content', 'Hate Speech', 'Harassment'}",2
+Fediverse,"{'Illegal Content', 'Images'}",2
+Fediverse,"{'Illegal Content', 'Mis/Disinformation/Conspiracy'}",2
+Fediverse,"{'Illegal Content', 'Spam'}",2
+Fediverse,"{'Links & Outside Content', 'Off-topic/topic specific'}",2
+Fediverse,"{'Mis/Disinformation/Conspiracy', 'Harassment'}",2
+Fediverse,"{'Not Applicable', 'Doxxing/ Personal Info'}",2
+Fediverse,"{'Not Applicable', 'Impersonation'}",2
+Fediverse,"{'Advertising & Commercialization', 'Hate Speech'}",1
+Fediverse,"{'Advertising & Commercialization', 'Illegal Content'}",1
+Fediverse,"{'Advertising & Commercialization', 'Links & Outside Content'}",1
+Fediverse,"{'Advertising & Commercialization', 'NSFW', 'Spam', 'Incitement of Violence'}",1
+Fediverse,"{'Advertising & Commercialization', 'Off-topic/topic specific'}",1
+Fediverse,"{'Advertising & Commercialization', 'Trolling', 'Spam'}",1
+Fediverse,"{'Content Warnings', 'Incitement of Violence'}",1
+Fediverse,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info', 'Incitement of Violence'}",1
+Fediverse,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info', 'Trolling'}",1
+Fediverse,"{'Dogpiling', 'Hate Speech', 'Harassment', 'Doxxing/ Personal Info'}",1
+Fediverse,"{'Dogpiling', 'Hate Speech', 'Harassment'}",1
+Fediverse,"{'Doxxing/ Personal Info', 'Hate Speech', 'Advertising & Commercialization', 'Harassment', 'Incitement of Violence'}",1
+Fediverse,"{'Harassment', 'Doxxing/ Personal Info', 'Spam'}",1
+Fediverse,"{'Harassment', 'Doxxing/ Personal Info', 'Trolling'}",1
+Fediverse,"{'Harassment', 'Incitement of Violence', 'Spam'}",1
+Fediverse,"{'Hate Speech', 'Content Warnings'}",1
+Fediverse,"{'Hate Speech', 'Harassment', 'Doxxing/ Personal Info'}",1
+Fediverse,"{'Hate Speech', 'Harassment', 'Off-topic/topic specific'}",1
+Fediverse,"{'Hate Speech', 'Harassment', 'Spam'}",1
+Fediverse,"{'Hate Speech', 'Trolling'}",1
+Fediverse,"{'Illegal Content', 'Content Warnings', 'Images'}",1
+Fediverse,"{'Illegal Content', 'Content Warnings', 'NSFW', 'Hate Speech', 'Mis/Disinformation/Conspiracy', 'Spam'}",1
+Fediverse,"{'Illegal Content', 'Doxxing/ Personal Info', 'Incitement of Violence'}",1
+Fediverse,"{'Illegal Content', 'Harassment', 'Impersonation', 'Incitement of Violence'}",1
+Fediverse,"{'Illegal Content', 'Harassment', 'Incitement of Violence'}",1
+Fediverse,"{'Illegal Content', 'Harassment'}",1
+Fediverse,"{'Illegal Content', 'Hate Speech', 'Advertising & Commercialization'}",1
+Fediverse,"{'Illegal Content', 'Hate Speech', 'Images', 'Incitement of Violence'}",1
+Fediverse,"{'Illegal Content', 'Hate Speech', 'Impersonation'}",1
+Fediverse,"{'Illegal Content', 'Hate Speech', 'Mis/Disinformation/Conspiracy', 'Harassment', 'Incitement of Violence'}",1
+Fediverse,"{'Illegal Content', 'Images', 'Copyright/ Piracy'}",1
+Fediverse,"{'Illegal Content', 'Links & Outside Content'}",1
+Fediverse,"{'Illegal Content', 'Mis/Disinformation/Conspiracy', 'Incitement of Violence'}",1
+Fediverse,"{'Illegal Content', 'NSFW', 'Content Warnings', 'Hate Speech'}",1
+Fediverse,"{'Illegal Content', 'NSFW', 'Content Warnings'}",1
+Fediverse,"{'Illegal Content', 'NSFW', 'Harassment', 'Hate Speech'}",1
+Fediverse,"{'Illegal Content', 'NSFW', 'Hate Speech', 'Harassment', 'Incitement of Violence'}",1
+Fediverse,"{'Illegal Content', 'NSFW', 'Hate Speech', 'Incitement of Violence'}",1
+Fediverse,"{'Illegal Content', 'NSFW', 'Hate Speech', 'Mis/Disinformation/Conspiracy', 'Incitement of Violence'}",1
+Fediverse,"{'Illegal Content', 'NSFW', 'Images', 'Incitement of Violence'}",1
+Fediverse,"{'Images', 'Incitement of Violence'}",1
+Fediverse,"{'Impersonation', 'Automated tools'}",1
+Fediverse,"{'Impersonation', 'Spam'}",1
+Fediverse,"{'Links & Outside Content', 'Automated tools'}",1
+Fediverse,"{'Links & Outside Content', 'Content Warnings', 'Incitement of Violence'}",1
+Fediverse,"{'Links & Outside Content', 'Doxxing/ Personal Info'}",1
+Fediverse,"{'Links & Outside Content', 'Hate Speech'}",1
+Fediverse,"{'Links & Outside Content', 'Illegal Content'}",1
+Fediverse,"{'Links & Outside Content', 'Images'}",1
+Fediverse,"{'Links & Outside Content', 'Reposting/Crossposting', 'Spam'}",1
+Fediverse,"{'Mis/Disinformation/Conspiracy', 'Content Warnings'}",1
+Fediverse,"{'Mis/Disinformation/Conspiracy', 'Harassment', 'Doxxing/ Personal Info'}",1
+Fediverse,"{'Mis/Disinformation/Conspiracy', 'Impersonation'}",1
+Fediverse,"{'Mis/Disinformation/Conspiracy', 'Off-topic/topic specific'}",1
+Fediverse,"{'Mis/Disinformation/Conspiracy', 'Spam'}",1
+Fediverse,"{'NSFW', 'Harassment', 'Incitement of Violence'}",1
+Fediverse,"{'NSFW', 'Harassment', 'Trolling'}",1
+Fediverse,"{'NSFW', 'Hate Speech', 'Images'}",1
+Fediverse,"{'NSFW', 'Images', 'Incitement of Violence'}",1
+Fediverse,"{'Not Applicable', 'Off-topic/topic specific'}",1
+Fediverse,"{'Not Applicable', 'Reposting/Crossposting', 'Automated tools'}",1
+Fediverse,"{'Not Applicable', 'Reposting/Crossposting'}",1
+Fediverse,"{'Off-topic/topic specific', 'Automated tools'}",1
+Fediverse,"{'Off-topic/topic specific', 'Images'}",1
+Fediverse,"{'Off-topic/topic specific', 'Trolling'}",1
+Fediverse,"{'Reposting/Crossposting', 'Copyright/ Piracy'}",1
+Fediverse,"{'Reposting/Crossposting', 'Images'}",1
+Fediverse,"{'Trolling', 'Harassment', 'Impersonation'}",1
+Fediverse,"{'Trolling', 'Spam'}",1
+Gaming,{'Hate Speech'},66
+Gaming,{'Illegal Content'},40
+Gaming,{'NSFW'},29
+Gaming,"{'Hate Speech', 'Harassment'}",26
+Gaming,{'Incitement of Violence'},24
+Gaming,{'Mis/Disinformation/Conspiracy'},24
+Gaming,"{'NSFW', 'Content Warnings'}",24
+Gaming,"{'Advertising & Commercialization', 'Spam'}",19
+Gaming,"{'Harassment', 'Doxxing/ Personal Info'}",18
+Gaming,{'Off-topic/topic specific'},17
+Gaming,{'Content Warnings'},16
+Gaming,{'Harassment'},14
+Gaming,{'Spam'},14
+Gaming,"{'Content Warnings', 'Images'}",10
+Gaming,{'Doxxing/ Personal Info'},10
+Gaming,"{'NSFW', 'Content Warnings', 'Images'}",10
+Gaming,{'Impersonation'},9
+Gaming,{'Copyright/ Piracy'},8
+Gaming,"{'Illegal Content', 'Copyright/ Piracy'}",8
+Gaming,"{'Dogpiling', 'Harassment'}",7
+Gaming,"{'Harassment', 'Trolling'}",7
+Gaming,"{'Illegal Content', 'Hate Speech'}",7
+Gaming,"{'NSFW', 'Images'}",7
+Gaming,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info'}",6
+Gaming,{'Advertising & Commercialization'},5
+Gaming,{'Automated tools'},4
+Gaming,"{'Illegal Content', 'NSFW'}",4
+Gaming,"{'Hate Speech', 'Incitement of Violence'}",3
+Gaming,"{'Illegal Content', 'NSFW', 'Content Warnings'}",3
+Gaming,{'Links & Outside Content'},3
+Gaming,"{'Reposting/Crossposting', 'Automated tools'}",3
+Gaming,"{'Harassment', 'Impersonation'}",2
+Gaming,"{'Illegal Content', 'Incitement of Violence'}",2
+Gaming,"{'Images', 'Copyright/ Piracy'}",2
+Gaming,{'Images'},2
+Gaming,"{'Links & Outside Content', 'Mis/Disinformation/Conspiracy'}",2
+Gaming,"{'Links & Outside Content', 'Not Applicable'}",2
+Gaming,"{'Mis/Disinformation/Conspiracy', 'Incitement of Violence'}",2
+Gaming,"{'NSFW', 'Harassment'}",2
+Gaming,"{'NSFW', 'Hate Speech'}",2
+Gaming,"{'Not Applicable', 'Automated tools'}",2
+Gaming,"{'Not Applicable', 'Hate Speech'}",2
+Gaming,"{'Not Applicable', 'Off-topic/topic specific'}",2
+Gaming,"{'Off-topic/topic specific', 'Content Warnings'}",2
+Gaming,"{'Off-topic/topic specific', 'Harassment'}",2
+Gaming,"{'Off-topic/topic specific', 'Reposting/Crossposting'}",2
+Gaming,"{'Advertising & Commercialization', 'Not Applicable'}",1
+Gaming,"{'Advertising & Commercialization', 'Spam', 'Automated tools'}",1
+Gaming,"{'Automated tools', 'Spam'}",1
+Gaming,"{'Doxxing/ Personal Info', 'Impersonation'}",1
+Gaming,"{'Harassment', 'Incitement of Violence'}",1
+Gaming,"{'Hate Speech', 'Harassment', 'Incitement of Violence'}",1
+Gaming,"{'Hate Speech', 'Off-topic/topic specific'}",1
+Gaming,"{'Illegal Content', 'Automated tools'}",1
+Gaming,"{'Illegal Content', 'Hate Speech', 'Harassment', 'Incitement of Violence'}",1
+Gaming,"{'Illegal Content', 'Hate Speech', 'Harassment', 'Spam'}",1
+Gaming,"{'Illegal Content', 'Links & Outside Content'}",1
+Gaming,"{'Illegal Content', 'NSFW', 'Hate Speech', 'Incitement of Violence'}",1
+Gaming,"{'Illegal Content', 'Not Applicable'}",1
+Gaming,"{'Images', 'Incitement of Violence'}",1
+Gaming,"{'Links & Outside Content', 'Images'}",1
+Gaming,"{'Links & Outside Content', 'NSFW'}",1
+Gaming,"{'Links & Outside Content', 'Off-topic/topic specific'}",1
+Gaming,"{'Links & Outside Content', 'Reposting/Crossposting', 'Spam'}",1
+Gaming,"{'Links & Outside Content', 'Spam'}",1
+Gaming,"{'Mis/Disinformation/Conspiracy', 'Harassment'}",1
+Gaming,"{'Mis/Disinformation/Conspiracy', 'Hate Speech'}",1
+Gaming,"{'Mis/Disinformation/Conspiracy', 'NSFW', 'Harassment', 'Trolling'}",1
+Gaming,"{'Mis/Disinformation/Conspiracy', 'Spam'}",1
+Gaming,"{'Mis/Disinformation/Conspiracy', 'Trolling'}",1
+Gaming,"{'NSFW', 'Harassment', 'Trolling'}",1
+Gaming,"{'NSFW', 'Hate Speech', 'Trolling', 'Spam', 'Harassment', 'Incitement of Violence'}",1
+Gaming,"{'NSFW', 'Incitement of Violence'}",1
+Gaming,"{'Not Applicable', 'Doxxing/ Personal Info'}",1
+Gaming,"{'Not Applicable', 'Mis/Disinformation/Conspiracy'}",1
+Gaming,"{'Not Applicable', 'Spam'}",1
+Gaming,"{'Reposting/Crossposting', 'Copyright/ Piracy'}",1
+Gaming,"{'Reposting/Crossposting', 'Spam'}",1
+Gaming,{'Reposting/Crossposting'},1
+Gaming,"{'Spam', 'Automated tools'}",1
+General,{'Hate Speech'},242
+General,{'Illegal Content'},163
+General,{'Mis/Disinformation/Conspiracy'},87
+General,"{'NSFW', 'Content Warnings'}",80
+General,{'Incitement of Violence'},77
+General,"{'Advertising & Commercialization', 'Spam'}",75
+General,"{'Harassment', 'Doxxing/ Personal Info'}",66
+General,"{'Content Warnings', 'Images'}",51
+General,{'Harassment'},49
+General,"{'Hate Speech', 'Harassment'}",49
+General,"{'NSFW', 'Images'}",42
+General,{'Spam'},41
+General,{'Copyright/ Piracy'},40
+General,{'NSFW'},39
+General,{'Doxxing/ Personal Info'},37
+General,{'Content Warnings'},36
+General,{'Impersonation'},31
+General,"{'Hate Speech', 'Incitement of Violence'}",27
+General,{'Automated tools'},26
+General,{'Advertising & Commercialization'},24
+General,"{'Illegal Content', 'NSFW'}",24
+General,"{'Harassment', 'Trolling'}",22
+General,"{'Illegal Content', 'Hate Speech'}",20
+General,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info'}",18
+General,"{'Not Applicable', 'Automated tools'}",18
+General,"{'Mis/Disinformation/Conspiracy', 'Hate Speech'}",17
+General,{'Off-topic/topic specific'},16
+General,{'Images'},15
+General,"{'NSFW', 'Content Warnings', 'Images'}",14
+General,{'Links & Outside Content'},12
+General,"{'Dogpiling', 'Harassment'}",9
+General,"{'Off-topic/topic specific', 'Harassment'}",9
+General,"{'Spam', 'Automated tools'}",9
+General,"{'Illegal Content', 'Copyright/ Piracy'}",8
+General,"{'Harassment', 'Incitement of Violence'}",7
+General,"{'Off-topic/topic specific', 'Content Warnings'}",7
+General,"{'Reposting/Crossposting', 'Automated tools'}",7
+General,{'Trolling'},7
+General,"{'Hate Speech', 'Harassment', 'Incitement of Violence'}",6
+General,"{'Illegal Content', 'Incitement of Violence'}",6
+General,"{'Advertising & Commercialization', 'Mis/Disinformation/Conspiracy'}",5
+General,"{'Automated tools', 'Spam'}",5
+General,"{'Illegal Content', 'Doxxing/ Personal Info'}",5
+General,"{'Illegal Content', 'NSFW', 'Content Warnings'}",5
+General,"{'Links & Outside Content', 'Copyright/ Piracy'}",5
+General,"{'Mis/Disinformation/Conspiracy', 'Spam'}",5
+General,"{'Reposting/Crossposting', 'Spam'}",5
+General,"{'Advertising & Commercialization', 'Automated tools'}",4
+General,"{'Hate Speech', 'Images'}",4
+General,"{'Illegal Content', 'Hate Speech', 'Harassment'}",4
+General,"{'Illegal Content', 'Mis/Disinformation/Conspiracy'}",4
+General,"{'Mis/Disinformation/Conspiracy', 'Incitement of Violence'}",4
+General,"{'Harassment', 'Doxxing/ Personal Info', 'Incitement of Violence'}",3
+General,"{'Hate Speech', 'Harassment', 'Trolling'}",3
+General,"{'Illegal Content', 'Harassment'}",3
+General,"{'Illegal Content', 'Hate Speech', 'Harassment', 'Spam'}",3
+General,"{'Illegal Content', 'Hate Speech', 'Incitement of Violence'}",3
+General,"{'Links & Outside Content', 'Not Applicable'}",3
+General,"{'Links & Outside Content', 'Off-topic/topic specific'}",3
+General,"{'Links & Outside Content', 'Spam'}",3
+General,"{'Mis/Disinformation/Conspiracy', 'Copyright/ Piracy'}",3
+General,"{'NSFW', 'Incitement of Violence'}",3
+General,"{'Not Applicable', 'Mis/Disinformation/Conspiracy'}",3
+General,"{'Doxxing/ Personal Info', 'Copyright/ Piracy'}",2
+General,"{'Harassment', 'Doxxing/ Personal Info', 'Trolling'}",2
+General,"{'Hate Speech', 'Content Warnings'}",2
+General,"{'Hate Speech', 'Harassment', 'Doxxing/ Personal Info'}",2
+General,"{'Illegal Content', 'Images'}",2
+General,"{'Illegal Content', 'NSFW', 'Images'}",2
+General,"{'Impersonation', 'Spam'}",2
+General,"{'NSFW', 'Hate Speech', 'Spam'}",2
+General,"{'NSFW', 'Spam'}",2
+General,"{'Not Applicable', 'Harassment', 'Content Warnings'}",2
+General,"{'Not Applicable', 'Hate Speech'}",2
+General,"{'Not Applicable', 'Impersonation'}",2
+General,"{'Not Applicable', 'Spam'}",2
+General,"{'Off-topic/topic specific', 'Trolling'}",2
+General,"{'Trolling', 'Spam'}",2
+General,"{'Advertising & Commercialization', 'Automated tools', 'Copyright/ Piracy'}",1
+General,"{'Advertising & Commercialization', 'Content Warnings'}",1
+General,"{'Advertising & Commercialization', 'Copyright/ Piracy'}",1
+General,"{'Advertising & Commercialization', 'Harassment', 'Doxxing/ Personal Info', 'Spam'}",1
+General,"{'Advertising & Commercialization', 'Illegal Content', 'Spam'}",1
+General,"{'Advertising & Commercialization', 'Impersonation'}",1
+General,"{'Advertising & Commercialization', 'Links & Outside Content', 'Spam'}",1
+General,"{'Advertising & Commercialization', 'Links & Outside Content'}",1
+General,"{'Advertising & Commercialization', 'Not Applicable'}",1
+General,"{'Advertising & Commercialization', 'Off-topic/topic specific', 'Spam'}",1
+General,"{'Automated tools', 'Copyright/ Piracy'}",1
+General,"{'Content Warnings', 'Copyright/ Piracy'}",1
+General,"{'Content Warnings', 'Incitement of Violence'}",1
+General,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info', 'Spam'}",1
+General,"{'Dogpiling', 'Hate Speech', 'Harassment', 'Doxxing/ Personal Info'}",1
+General,"{'Dogpiling', 'Illegal Content', 'Doxxing/ Personal Info', 'Hate Speech', 'Spam', 'Harassment', 'Incitement of Violence'}",1
+General,"{'Doxxing/ Personal Info', 'Hate Speech', 'Harassment', 'Reposting/Crossposting', 'Incitement of Violence'}",1
+General,"{'Doxxing/ Personal Info', 'Images'}",1
+General,"{'Harassment', 'Impersonation'}",1
+General,"{'Hate Speech', 'Doxxing/ Personal Info'}",1
+General,"{'Hate Speech', 'Harassment', 'Doxxing/ Personal Info', 'Impersonation'}",1
+General,"{'Hate Speech', 'Harassment', 'Doxxing/ Personal Info', 'Trolling'}",1
+General,"{'Hate Speech', 'Harassment', 'Impersonation'}",1
+General,"{'Hate Speech', 'Harassment', 'Off-topic/topic specific'}",1
+General,"{'Hate Speech', 'Off-topic/topic specific'}",1
+General,"{'Hate Speech', 'Spam'}",1
+General,"{'Illegal Content', 'Copyright/ Piracy', 'Hate Speech', 'Harassment', 'Incitement of Violence'}",1
+General,"{'Illegal Content', 'Copyright/ Piracy', 'Hate Speech', 'Mis/Disinformation/Conspiracy', 'Incitement of Violence'}",1
+General,"{'Illegal Content', 'Harassment', 'Incitement of Violence'}",1
+General,"{'Illegal Content', 'Hate Speech', 'Advertising & Commercialization'}",1
+General,"{'Illegal Content', 'Hate Speech', 'Doxxing/ Personal Info'}",1
+General,"{'Illegal Content', 'Hate Speech', 'Mis/Disinformation/Conspiracy', 'Harassment', 'Incitement of Violence'}",1
+General,"{'Illegal Content', 'Hate Speech', 'Mis/Disinformation/Conspiracy', 'Trolling', 'Harassment'}",1
+General,"{'Illegal Content', 'Incitement of Violence', 'Copyright/ Piracy'}",1
+General,"{'Illegal Content', 'Mis/Disinformation/Conspiracy', 'Advertising & Commercialization', 'Spam'}",1
+General,"{'Illegal Content', 'Mis/Disinformation/Conspiracy', 'Hate Speech'}",1
+General,"{'Illegal Content', 'Mis/Disinformation/Conspiracy', 'NSFW'}",1
+General,"{'Illegal Content', 'NSFW', 'Copyright/ Piracy'}",1
+General,"{'Illegal Content', 'NSFW', 'Doxxing/ Personal Info', 'Spam'}",1
+General,"{'Illegal Content', 'NSFW', 'Harassment', 'Hate Speech'}",1
+General,"{'Illegal Content', 'NSFW', 'Harassment', 'Incitement of Violence'}",1
+General,"{'Illegal Content', 'NSFW', 'Images', 'Incitement of Violence'}",1
+General,"{'Illegal Content', 'NSFW', 'Incitement of Violence'}",1
+General,"{'Illegal Content', 'NSFW', 'Spam'}",1
+General,"{'Illegal Content', 'Not Applicable', 'Hate Speech'}",1
+General,"{'Images', 'Incitement of Violence'}",1
+General,"{'Impersonation', 'Automated tools'}",1
+General,"{'Links & Outside Content', 'Doxxing/ Personal Info'}",1
+General,"{'Links & Outside Content', 'Hate Speech'}",1
+General,"{'Links & Outside Content', 'Illegal Content', 'Spam', 'Copyright/ Piracy'}",1
+General,"{'Links & Outside Content', 'Illegal Content', 'Spam'}",1
+General,"{'Links & Outside Content', 'Images', 'Spam'}",1
+General,"{'Links & Outside Content', 'Reposting/Crossposting', 'Illegal Content'}",1
+General,"{'Mis/Disinformation/Conspiracy', 'Content Warnings'}",1
+General,"{'Mis/Disinformation/Conspiracy', 'Harassment', 'Doxxing/ Personal Info'}",1
+General,"{'Mis/Disinformation/Conspiracy', 'Harassment'}",1
+General,"{'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Incitement of Violence'}",1
+General,"{'Mis/Disinformation/Conspiracy', 'Impersonation'}",1
+General,"{'Mis/Disinformation/Conspiracy', 'Spam', 'Automated tools'}",1
+General,"{'NSFW', 'Automated tools', 'Images', 'Spam', 'Reposting/Crossposting'}",1
+General,"{'NSFW', 'Content Warnings', 'Automated tools'}",1
+General,"{'NSFW', 'Content Warnings', 'Hate Speech'}",1
+General,"{'NSFW', 'Content Warnings', 'Spam'}",1
+General,"{'NSFW', 'Copyright/ Piracy'}",1
+General,"{'NSFW', 'Doxxing/ Personal Info'}",1
+General,"{'NSFW', 'Harassment'}",1
+General,"{'NSFW', 'Hate Speech', 'Incitement of Violence'}",1
+General,"{'NSFW', 'Hate Speech', 'Spam', 'Harassment', 'Incitement of Violence'}",1
+General,"{'NSFW', 'Hate Speech'}",1
+General,"{'NSFW', 'Off-topic/topic specific', 'Content Warnings'}",1
+General,"{'NSFW', 'Off-topic/topic specific', 'Spam'}",1
+General,"{'Not Applicable', 'Content Warnings'}",1
+General,"{'Not Applicable', 'Copyright/ Piracy'}",1
+General,"{'Not Applicable', 'Images'}",1
+General,"{'Not Applicable', 'NSFW'}",1
+General,"{'Not Applicable', 'Reposting/Crossposting'}",1
+General,"{'Off-topic/topic specific', 'Harassment', 'Trolling', 'Hate Speech'}",1
+General,"{'Off-topic/topic specific', 'Hate Speech'}",1
+General,"{'Off-topic/topic specific', 'Reposting/Crossposting'}",1
+General,"{'Off-topic/topic specific', 'Trolling', 'Spam'}",1
+General,"{'Reposting/Crossposting', 'Content Warnings', 'Images', 'Spam'}",1
+General,"{'Reposting/Crossposting', 'Content Warnings'}",1
+General,"{'Reposting/Crossposting', 'Impersonation'}",1
+General,{'Reposting/Crossposting'},1
+General,"{'Trolling', 'Incitement of Violence'}",1
+Geographic,{'Hate Speech'},499
+Geographic,{'Illegal Content'},280
+Geographic,{'Mis/Disinformation/Conspiracy'},189
+Geographic,{'Incitement of Violence'},145
+Geographic,"{'Advertising & Commercialization', 'Spam'}",143
+Geographic,"{'Harassment', 'Doxxing/ Personal Info'}",130
+Geographic,"{'NSFW', 'Content Warnings'}",98
+Geographic,{'Harassment'},89
+Geographic,"{'Hate Speech', 'Harassment'}",87
+Geographic,{'NSFW'},80
+Geographic,"{'Content Warnings', 'Images'}",65
+Geographic,{'Doxxing/ Personal Info'},64
+Geographic,{'Spam'},60
+Geographic,{'Content Warnings'},57
+Geographic,"{'NSFW', 'Images'}",51
+Geographic,"{'Hate Speech', 'Incitement of Violence'}",49
+Geographic,{'Impersonation'},48
+Geographic,{'Advertising & Commercialization'},41
+Geographic,{'Automated tools'},40
+Geographic,{'Copyright/ Piracy'},38
+Geographic,"{'Illegal Content', 'Hate Speech'}",35
+Geographic,"{'Illegal Content', 'NSFW'}",32
+Geographic,{'Images'},30
+Geographic,"{'NSFW', 'Content Warnings', 'Images'}",28
+Geographic,"{'Mis/Disinformation/Conspiracy', 'Hate Speech'}",27
+Geographic,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info'}",26
+Geographic,{'Off-topic/topic specific'},26
+Geographic,"{'Harassment', 'Trolling'}",23
+Geographic,"{'Dogpiling', 'Harassment'}",18
+Geographic,{'Links & Outside Content'},17
+Geographic,"{'Spam', 'Automated tools'}",17
+Geographic,"{'Illegal Content', 'Incitement of Violence'}",16
+Geographic,"{'Not Applicable', 'Automated tools'}",15
+Geographic,"{'Illegal Content', 'Copyright/ Piracy'}",14
+Geographic,"{'Automated tools', 'Spam'}",13
+Geographic,"{'Harassment', 'Incitement of Violence'}",12
+Geographic,"{'Reposting/Crossposting', 'Automated tools'}",12
+Geographic,"{'Off-topic/topic specific', 'Harassment'}",11
+Geographic,"{'Hate Speech', 'Harassment', 'Incitement of Violence'}",10
+Geographic,"{'Illegal Content', 'Mis/Disinformation/Conspiracy'}",9
+Geographic,{'Trolling'},9
+Geographic,"{'NSFW', 'Hate Speech'}",8
+Geographic,"{'NSFW', 'Incitement of Violence'}",8
+Geographic,"{'Not Applicable', 'Doxxing/ Personal Info'}",7
+Geographic,"{'Hate Speech', 'Images'}",6
+Geographic,"{'Illegal Content', 'Hate Speech', 'Harassment'}",6
+Geographic,"{'Links & Outside Content', 'Spam'}",6
+Geographic,"{'Advertising & Commercialization', 'Automated tools'}",5
+Geographic,"{'Harassment', 'Doxxing/ Personal Info', 'Incitement of Violence'}",5
+Geographic,"{'Images', 'Incitement of Violence'}",5
+Geographic,"{'Links & Outside Content', 'Illegal Content'}",5
+Geographic,"{'Links & Outside Content', 'Not Applicable'}",5
+Geographic,"{'Mis/Disinformation/Conspiracy', 'Incitement of Violence'}",5
+Geographic,"{'NSFW', 'Harassment'}",5
+Geographic,{'Reposting/Crossposting'},5
+Geographic,"{'Trolling', 'Spam'}",5
+Geographic,"{'Harassment', 'Spam'}",4
+Geographic,"{'Hate Speech', 'Content Warnings'}",4
+Geographic,"{'Illegal Content', 'Doxxing/ Personal Info'}",4
+Geographic,"{'Illegal Content', 'NSFW', 'Content Warnings'}",4
+Geographic,"{'Images', 'Copyright/ Piracy'}",4
+Geographic,"{'Mis/Disinformation/Conspiracy', 'Harassment'}",4
+Geographic,"{'Not Applicable', 'Impersonation'}",4
+Geographic,"{'Off-topic/topic specific', 'Content Warnings'}",4
+Geographic,"{'Off-topic/topic specific', 'Spam'}",4
+Geographic,"{'Reposting/Crossposting', 'Spam'}",4
+Geographic,"{'Advertising & Commercialization', 'Automated tools', 'Spam'}",3
+Geographic,"{'Advertising & Commercialization', 'Spam', 'Automated tools'}",3
+Geographic,"{'Doxxing/ Personal Info', 'Images'}",3
+Geographic,"{'Hate Speech', 'Harassment', 'Doxxing/ Personal Info'}",3
+Geographic,"{'Illegal Content', 'Images'}",3
+Geographic,"{'Links & Outside Content', 'Mis/Disinformation/Conspiracy'}",3
+Geographic,"{'Mis/Disinformation/Conspiracy', 'Spam'}",3
+Geographic,"{'NSFW', 'Hate Speech', 'Trolling', 'Spam', 'Harassment', 'Incitement of Violence'}",3
+Geographic,"{'Not Applicable', 'Content Warnings'}",3
+Geographic,"{'Advertising & Commercialization', 'Copyright/ Piracy'}",2
+Geographic,"{'Advertising & Commercialization', 'Links & Outside Content'}",2
+Geographic,"{'Content Warnings', 'Incitement of Violence'}",2
+Geographic,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info', 'Incitement of Violence'}",2
+Geographic,"{'Harassment', 'Impersonation'}",2
+Geographic,"{'Hate Speech', 'Doxxing/ Personal Info'}",2
+Geographic,"{'Hate Speech', 'Spam'}",2
+Geographic,"{'Illegal Content', 'Harassment', 'Doxxing/ Personal Info'}",2
+Geographic,"{'Illegal Content', 'Harassment'}",2
+Geographic,"{'Illegal Content', 'Links & Outside Content'}",2
+Geographic,"{'Illegal Content', 'NSFW', 'Hate Speech', 'Harassment', 'Incitement of Violence'}",2
+Geographic,"{'Illegal Content', 'Not Applicable'}",2
+Geographic,"{'Illegal Content', 'Spam'}",2
+Geographic,"{'Impersonation', 'Spam'}",2
+Geographic,"{'Links & Outside Content', 'Off-topic/topic specific'}",2
+Geographic,"{'Links & Outside Content', 'Reposting/Crossposting', 'Spam'}",2
+Geographic,"{'Mis/Disinformation/Conspiracy', 'Impersonation'}",2
+Geographic,"{'NSFW', 'Harassment', 'Incitement of Violence'}",2
+Geographic,"{'NSFW', 'Images', 'Incitement of Violence'}",2
+Geographic,"{'NSFW', 'Spam'}",2
+Geographic,"{'Not Applicable', 'Harassment'}",2
+Geographic,"{'Not Applicable', 'Images'}",2
+Geographic,"{'Not Applicable', 'Reposting/Crossposting'}",2
+Geographic,"{'Not Applicable', 'Spam'}",2
+Geographic,"{'Off-topic/topic specific', 'Trolling'}",2
+Geographic,"{'Reposting/Crossposting', 'Images', 'Spam'}",2
+Geographic,"{'Advertising & Commercialization', 'Harassment', 'Doxxing/ Personal Info', 'Spam'}",1
+Geographic,"{'Advertising & Commercialization', 'Hate Speech'}",1
+Geographic,"{'Advertising & Commercialization', 'Links & Outside Content', 'Spam'}",1
+Geographic,"{'Advertising & Commercialization', 'Mis/Disinformation/Conspiracy', 'Spam'}",1
+Geographic,"{'Advertising & Commercialization', 'Mis/Disinformation/Conspiracy'}",1
+Geographic,"{'Advertising & Commercialization', 'NSFW', 'Images'}",1
+Geographic,"{'Advertising & Commercialization', 'Not Applicable'}",1
+Geographic,"{'Automated tools', 'Copyright/ Piracy'}",1
+Geographic,"{'Dogpiling', 'Doxxing/ Personal Info', 'NSFW', 'Hate Speech', 'Harassment'}",1
+Geographic,"{'Dogpiling', 'Doxxing/ Personal Info'}",1
+Geographic,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info', 'Spam'}",1
+Geographic,"{'Dogpiling', 'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Harassment'}",1
+Geographic,"{'Doxxing/ Personal Info', 'Content Warnings', 'Copyright/ Piracy'}",1
+Geographic,"{'Doxxing/ Personal Info', 'Content Warnings'}",1
+Geographic,"{'Doxxing/ Personal Info', 'Hate Speech', 'Advertising & Commercialization', 'Harassment', 'Incitement of Violence'}",1
+Geographic,"{'Doxxing/ Personal Info', 'Incitement of Violence'}",1
+Geographic,"{'Doxxing/ Personal Info', 'Trolling', 'Spam'}",1
+Geographic,"{'Harassment', 'Content Warnings'}",1
+Geographic,"{'Harassment', 'Doxxing/ Personal Info', 'Copyright/ Piracy'}",1
+Geographic,"{'Harassment', 'Doxxing/ Personal Info', 'Trolling'}",1
+Geographic,"{'Harassment', 'Reposting/Crossposting'}",1
+Geographic,"{'Harassment', 'Trolling', 'Spam'}",1
+Geographic,"{'Hate Speech', 'Harassment', 'Copyright/ Piracy'}",1
+Geographic,"{'Hate Speech', 'Harassment', 'Doxxing/ Personal Info', 'Impersonation'}",1
+Geographic,"{'Hate Speech', 'Harassment', 'Doxxing/ Personal Info', 'Incitement of Violence'}",1
+Geographic,"{'Hate Speech', 'Harassment', 'Doxxing/ Personal Info', 'Trolling'}",1
+Geographic,"{'Hate Speech', 'Harassment', 'Off-topic/topic specific'}",1
+Geographic,"{'Hate Speech', 'Harassment', 'Trolling'}",1
+Geographic,"{'Hate Speech', 'Off-topic/topic specific', 'Images'}",1
+Geographic,"{'Hate Speech', 'Off-topic/topic specific'}",1
+Geographic,"{'Hate Speech', 'Trolling'}",1
+Geographic,"{'Illegal Content', 'Advertising & Commercialization', 'Harassment'}",1
+Geographic,"{'Illegal Content', 'Copyright/ Piracy', 'Hate Speech', 'Mis/Disinformation/Conspiracy', 'Incitement of Violence'}",1
+Geographic,"{'Illegal Content', 'Doxxing/ Personal Info', 'Copyright/ Piracy'}",1
+Geographic,"{'Illegal Content', 'Doxxing/ Personal Info', 'NSFW', 'Hate Speech', 'Mis/Disinformation/Conspiracy', 'Spam', 'Harassment'}",1
+Geographic,"{'Illegal Content', 'Harassment', 'Spam'}",1
+Geographic,"{'Illegal Content', 'Hate Speech', 'Copyright/ Piracy'}",1
+Geographic,"{'Illegal Content', 'Hate Speech', 'Harassment', 'Doxxing/ Personal Info'}",1
+Geographic,"{'Illegal Content', 'Hate Speech', 'Harassment', 'Spam'}",1
+Geographic,"{'Illegal Content', 'Hate Speech', 'Incitement of Violence'}",1
+Geographic,"{'Illegal Content', 'Mis/Disinformation/Conspiracy', 'Advertising & Commercialization', 'Spam'}",1
+Geographic,"{'Illegal Content', 'Mis/Disinformation/Conspiracy', 'Impersonation'}",1
+Geographic,"{'Illegal Content', 'Mis/Disinformation/Conspiracy', 'Incitement of Violence'}",1
+Geographic,"{'Illegal Content', 'NSFW', 'Content Warnings', 'Hate Speech'}",1
+Geographic,"{'Illegal Content', 'NSFW', 'Doxxing/ Personal Info', 'Incitement of Violence'}",1
+Geographic,"{'Illegal Content', 'NSFW', 'Harassment', 'Hate Speech'}",1
+Geographic,"{'Illegal Content', 'NSFW', 'Harassment', 'Incitement of Violence'}",1
+Geographic,"{'Illegal Content', 'NSFW', 'Hate Speech', 'Incitement of Violence'}",1
+Geographic,"{'Illegal Content', 'NSFW', 'Hate Speech', 'Mis/Disinformation/Conspiracy', 'Incitement of Violence'}",1
+Geographic,"{'Illegal Content', 'NSFW', 'Images'}",1
+Geographic,"{'Illegal Content', 'Reposting/Crossposting'}",1
+Geographic,"{'Links & Outside Content', 'Advertising & Commercialization', 'Illegal Content', 'Spam'}",1
+Geographic,"{'Links & Outside Content', 'Copyright/ Piracy'}",1
+Geographic,"{'Links & Outside Content', 'Hate Speech'}",1
+Geographic,"{'Links & Outside Content', 'Illegal Content', 'Spam'}",1
+Geographic,"{'Mis/Disinformation/Conspiracy', 'Automated tools'}",1
+Geographic,"{'Mis/Disinformation/Conspiracy', 'Content Warnings'}",1
+Geographic,"{'Mis/Disinformation/Conspiracy', 'Harassment', 'Doxxing/ Personal Info'}",1
+Geographic,"{'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Automated tools'}",1
+Geographic,"{'Mis/Disinformation/Conspiracy', 'Off-topic/topic specific'}",1
+Geographic,"{'NSFW', 'Automated tools'}",1
+Geographic,"{'NSFW', 'Copyright/ Piracy'}",1
+Geographic,"{'NSFW', 'Harassment', 'Hate Speech', 'Incitement of Violence'}",1
+Geographic,"{'NSFW', 'Harassment', 'Hate Speech'}",1
+Geographic,"{'NSFW', 'Hate Speech', 'Trolling', 'Harassment', 'Incitement of Violence'}",1
+Geographic,"{'NSFW', 'Off-topic/topic specific', 'Spam'}",1
+Geographic,"{'Not Applicable', 'Incitement of Violence'}",1
+Geographic,"{'Not Applicable', 'Trolling'}",1
+Geographic,"{'Off-topic/topic specific', 'Automated tools'}",1
+Geographic,"{'Off-topic/topic specific', 'Reposting/Crossposting'}",1
+Geographic,"{'Reposting/Crossposting', 'Images'}",1
+Geographic,"{'Trolling', 'Harassment', 'Content Warnings'}",1
+Geographic,"{'Trolling', 'Incitement of Violence'}",1
+Ideology,{'Hate Speech'},173
+Ideology,{'Illegal Content'},55
+Ideology,{'Mis/Disinformation/Conspiracy'},53
+Ideology,"{'Hate Speech', 'Harassment'}",34
+Ideology,"{'Advertising & Commercialization', 'Spam'}",32
+Ideology,"{'NSFW', 'Content Warnings'}",32
+Ideology,{'Incitement of Violence'},31
+Ideology,{'Harassment'},30
+Ideology,"{'Harassment', 'Doxxing/ Personal Info'}",29
+Ideology,{'Advertising & Commercialization'},19
+Ideology,{'Content Warnings'},19
+Ideology,{'Spam'},19
+Ideology,"{'Content Warnings', 'Images'}",18
+Ideology,{'Images'},18
+Ideology,{'Impersonation'},15
+Ideology,{'Doxxing/ Personal Info'},14
+Ideology,{'NSFW'},14
+Ideology,{'Copyright/ Piracy'},13
+Ideology,"{'Harassment', 'Trolling'}",12
+Ideology,"{'NSFW', 'Images'}",12
+Ideology,{'Automated tools'},11
+Ideology,"{'Hate Speech', 'Incitement of Violence'}",10
+Ideology,{'Off-topic/topic specific'},10
+Ideology,"{'Illegal Content', 'Hate Speech'}",9
+Ideology,"{'Illegal Content', 'NSFW'}",9
+Ideology,"{'NSFW', 'Content Warnings', 'Images'}",9
+Ideology,"{'Mis/Disinformation/Conspiracy', 'Hate Speech'}",8
+Ideology,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info'}",7
+Ideology,{'Links & Outside Content'},7
+Ideology,"{'Spam', 'Automated tools'}",7
+Ideology,"{'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Harassment', 'Images'}",6
+Ideology,"{'Dogpiling', 'Harassment'}",5
+Ideology,"{'Hate Speech', 'Off-topic/topic specific'}",5
+Ideology,"{'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Images'}",5
+Ideology,"{'Not Applicable', 'Automated tools'}",5
+Ideology,"{'Harassment', 'Incitement of Violence'}",4
+Ideology,"{'Hate Speech', 'Harassment', 'Doxxing/ Personal Info'}",4
+Ideology,"{'Illegal Content', 'Incitement of Violence'}",4
+Ideology,"{'Links & Outside Content', 'NSFW'}",4
+Ideology,"{'NSFW', 'Harassment'}",4
+Ideology,"{'Automated tools', 'Spam'}",3
+Ideology,"{'Illegal Content', 'Copyright/ Piracy'}",3
+Ideology,"{'Illegal Content', 'Hate Speech', 'Incitement of Violence'}",3
+Ideology,"{'Illegal Content', 'Mis/Disinformation/Conspiracy', 'Hate Speech'}",3
+Ideology,"{'Mis/Disinformation/Conspiracy', 'Spam'}",3
+Ideology,"{'Not Applicable', 'Hate Speech'}",3
+Ideology,"{'Off-topic/topic specific', 'Harassment'}",3
+Ideology,"{'Reposting/Crossposting', 'Automated tools'}",3
+Ideology,"{'Advertising & Commercialization', 'Links & Outside Content'}",2
+Ideology,"{'Harassment', 'Doxxing/ Personal Info', 'Incitement of Violence'}",2
+Ideology,"{'Hate Speech', 'Harassment', 'Incitement of Violence'}",2
+Ideology,"{'Hate Speech', 'Harassment', 'Off-topic/topic specific'}",2
+Ideology,"{'Hate Speech', 'Harassment', 'Trolling'}",2
+Ideology,"{'Hate Speech', 'Trolling'}",2
+Ideology,"{'Illegal Content', 'Hate Speech', 'Mis/Disinformation/Conspiracy', 'Images', 'Harassment'}",2
+Ideology,"{'Illegal Content', 'Links & Outside Content'}",2
+Ideology,"{'Illegal Content', 'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Images'}",2
+Ideology,"{'Illegal Content', 'Mis/Disinformation/Conspiracy'}",2
+Ideology,"{'Illegal Content', 'NSFW', 'Content Warnings'}",2
+Ideology,"{'Links & Outside Content', 'Images'}",2
+Ideology,"{'Links & Outside Content', 'Not Applicable'}",2
+Ideology,"{'Links & Outside Content', 'Reposting/Crossposting'}",2
+Ideology,"{'Links & Outside Content', 'Spam'}",2
+Ideology,"{'Mis/Disinformation/Conspiracy', 'Trolling'}",2
+Ideology,"{'Not Applicable', 'Images'}",2
+Ideology,"{'Off-topic/topic specific', 'Reposting/Crossposting'}",2
+Ideology,"{'Reposting/Crossposting', 'Spam'}",2
+Ideology,{'Reposting/Crossposting'},2
+Ideology,"{'Advertising & Commercialization', 'Automated tools', 'Spam'}",1
+Ideology,"{'Advertising & Commercialization', 'Impersonation', 'Spam'}",1
+Ideology,"{'Advertising & Commercialization', 'Links & Outside Content', 'Spam'}",1
+Ideology,"{'Advertising & Commercialization', 'NSFW'}",1
+Ideology,"{'Advertising & Commercialization', 'Not Applicable'}",1
+Ideology,"{'Advertising & Commercialization', 'Off-topic/topic specific'}",1
+Ideology,"{'Advertising & Commercialization', 'Reposting/Crossposting', 'Spam', 'Automated tools'}",1
+Ideology,"{'Advertising & Commercialization', 'Reposting/Crossposting'}",1
+Ideology,"{'Advertising & Commercialization', 'Trolling', 'Spam'}",1
+Ideology,"{'Dogpiling', 'Harassment', 'Trolling'}",1
+Ideology,"{'Dogpiling', 'Hate Speech', 'Harassment'}",1
+Ideology,"{'Doxxing/ Personal Info', 'Hate Speech', 'Mis/Disinformation/Conspiracy', 'Trolling', 'Spam', 'Harassment', 'Impersonation'}",1
+Ideology,"{'Doxxing/ Personal Info', 'NSFW', 'Hate Speech', 'Harassment', 'Incitement of Violence'}",1
+Ideology,"{'Doxxing/ Personal Info', 'Spam'}",1
+Ideology,"{'Doxxing/ Personal Info', 'Trolling'}",1
+Ideology,"{'Harassment', 'Doxxing/ Personal Info', 'Impersonation'}",1
+Ideology,"{'Harassment', 'Doxxing/ Personal Info', 'Trolling'}",1
+Ideology,"{'Harassment', 'Spam'}",1
+Ideology,"{'Hate Speech', 'Content Warnings'}",1
+Ideology,"{'Hate Speech', 'Doxxing/ Personal Info'}",1
+Ideology,"{'Hate Speech', 'Images', 'Copyright/ Piracy'}",1
+Ideology,"{'Hate Speech', 'Images'}",1
+Ideology,"{'Illegal Content', 'Content Warnings', 'NSFW', 'Hate Speech', 'Mis/Disinformation/Conspiracy', 'Spam'}",1
+Ideology,"{'Illegal Content', 'Harassment', 'Doxxing/ Personal Info'}",1
+Ideology,"{'Illegal Content', 'Hate Speech', 'Mis/Disinformation/Conspiracy', 'Trolling', 'Harassment'}",1
+Ideology,"{'Illegal Content', 'Mis/Disinformation/Conspiracy', 'Impersonation'}",1
+Ideology,"{'Illegal Content', 'NSFW', 'Hate Speech', 'Harassment', 'Incitement of Violence'}",1
+Ideology,"{'Illegal Content', 'NSFW', 'Hate Speech', 'Incitement of Violence'}",1
+Ideology,"{'Illegal Content', 'Not Applicable'}",1
+Ideology,"{'Illegal Content', 'Spam'}",1
+Ideology,"{'Images', 'Spam'}",1
+Ideology,"{'Impersonation', 'Automated tools'}",1
+Ideology,"{'Impersonation', 'Copyright/ Piracy'}",1
+Ideology,"{'Impersonation', 'Spam'}",1
+Ideology,"{'Incitement of Violence', 'Harassment', 'Impersonation', 'Automated tools'}",1
+Ideology,"{'Links & Outside Content', 'Content Warnings', 'Illegal Content'}",1
+Ideology,"{'Links & Outside Content', 'Content Warnings'}",1
+Ideology,"{'Links & Outside Content', 'Harassment', 'Doxxing/ Personal Info'}",1
+Ideology,"{'Links & Outside Content', 'Harassment', 'Trolling', 'Spam'}",1
+Ideology,"{'Links & Outside Content', 'Illegal Content', 'Incitement of Violence'}",1
+Ideology,"{'Links & Outside Content', 'Illegal Content'}",1
+Ideology,"{'Links & Outside Content', 'Off-topic/topic specific', 'Reposting/Crossposting'}",1
+Ideology,"{'Links & Outside Content', 'Off-topic/topic specific'}",1
+Ideology,"{'Links & Outside Content', 'Reposting/Crossposting', 'Copyright/ Piracy'}",1
+Ideology,"{'Mis/Disinformation/Conspiracy', 'Automated tools'}",1
+Ideology,"{'Mis/Disinformation/Conspiracy', 'Harassment'}",1
+Ideology,"{'Mis/Disinformation/Conspiracy', 'Impersonation'}",1
+Ideology,"{'NSFW', 'Content Warnings', 'Hate Speech'}",1
+Ideology,"{'NSFW', 'Harassment', 'Spam', 'Incitement of Violence'}",1
+Ideology,"{'NSFW', 'Hate Speech'}",1
+Ideology,"{'NSFW', 'Off-topic/topic specific', 'Content Warnings'}",1
+Ideology,"{'Not Applicable', 'Content Warnings'}",1
+Ideology,"{'Not Applicable', 'Mis/Disinformation/Conspiracy', 'Spam', 'Automated tools'}",1
+Ideology,"{'Not Applicable', 'Mis/Disinformation/Conspiracy'}",1
+Ideology,"{'Not Applicable', 'NSFW'}",1
+Ideology,"{'Not Applicable', 'Reposting/Crossposting', 'Automated tools'}",1
+Ideology,"{'Not Applicable', 'Spam'}",1
+Ideology,"{'Off-topic/topic specific', 'Content Warnings'}",1
+Ideology,"{'Off-topic/topic specific', 'Harassment', 'Doxxing/ Personal Info', 'Hate Speech'}",1
+Ideology,"{'Off-topic/topic specific', 'Harassment', 'Trolling', 'Hate Speech'}",1
+Ideology,"{'Off-topic/topic specific', 'Spam'}",1
+Ideology,"{'Reposting/Crossposting', 'Copyright/ Piracy'}",1
+Ideology,"{'Trolling', 'Spam'}",1
+Ideology,{'Trolling'},1
+Interests,{'Hate Speech'},373
+Interests,{'Illegal Content'},210
+Interests,"{'NSFW', 'Content Warnings'}",115
+Interests,{'Mis/Disinformation/Conspiracy'},109
+Interests,{'Incitement of Violence'},101
+Interests,{'Harassment'},94
+Interests,"{'Advertising & Commercialization', 'Spam'}",93
+Interests,"{'Hate Speech', 'Harassment'}",93
+Interests,{'NSFW'},77
+Interests,"{'Harassment', 'Doxxing/ Personal Info'}",75
+Interests,{'Content Warnings'},70
+Interests,"{'NSFW', 'Images'}",64
+Interests,"{'Content Warnings', 'Images'}",56
+Interests,{'Copyright/ Piracy'},56
+Interests,{'Spam'},56
+Interests,{'Off-topic/topic specific'},54
+Interests,{'Impersonation'},53
+Interests,{'Doxxing/ Personal Info'},46
+Interests,"{'Illegal Content', 'NSFW'}",34
+Interests,{'Automated tools'},33
+Interests,{'Advertising & Commercialization'},31
+Interests,"{'Hate Speech', 'Incitement of Violence'}",29
+Interests,"{'NSFW', 'Content Warnings', 'Images'}",27
+Interests,{'Images'},26
+Interests,"{'Illegal Content', 'Hate Speech'}",22
+Interests,"{'Not Applicable', 'Automated tools'}",21
+Interests,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info'}",19
+Interests,"{'Harassment', 'Trolling'}",18
+Interests,"{'Dogpiling', 'Harassment'}",14
+Interests,"{'Illegal Content', 'Copyright/ Piracy'}",14
+Interests,"{'Mis/Disinformation/Conspiracy', 'Hate Speech'}",14
+Interests,{'Links & Outside Content'},13
+Interests,"{'Harassment', 'Incitement of Violence'}",10
+Interests,"{'Links & Outside Content', 'Spam'}",10
+Interests,"{'Off-topic/topic specific', 'Harassment'}",10
+Interests,"{'Hate Speech', 'Harassment', 'Doxxing/ Personal Info'}",9
+Interests,"{'Images', 'Copyright/ Piracy'}",8
+Interests,"{'Links & Outside Content', 'Not Applicable'}",8
+Interests,"{'Mis/Disinformation/Conspiracy', 'Incitement of Violence'}",8
+Interests,"{'Spam', 'Automated tools'}",7
+Interests,{'Trolling'},7
+Interests,"{'Automated tools', 'Spam'}",6
+Interests,"{'Off-topic/topic specific', 'Content Warnings'}",6
+Interests,"{'Hate Speech', 'Harassment', 'Incitement of Violence'}",5
+Interests,"{'Hate Speech', 'Harassment', 'Trolling'}",5
+Interests,"{'Illegal Content', 'Incitement of Violence'}",5
+Interests,"{'NSFW', 'Incitement of Violence'}",5
+Interests,"{'Advertising & Commercialization', 'Automated tools'}",4
+Interests,"{'Illegal Content', 'Not Applicable'}",4
+Interests,"{'Links & Outside Content', 'Copyright/ Piracy'}",4
+Interests,"{'Not Applicable', 'Harassment'}",4
+Interests,"{'Not Applicable', 'Images'}",4
+Interests,"{'Reposting/Crossposting', 'Automated tools'}",4
+Interests,"{'Advertising & Commercialization', 'Mis/Disinformation/Conspiracy'}",3
+Interests,"{'Advertising & Commercialization', 'Spam', 'Automated tools'}",3
+Interests,"{'Harassment', 'Doxxing/ Personal Info', 'Incitement of Violence'}",3
+Interests,"{'Harassment', 'Impersonation'}",3
+Interests,"{'Harassment', 'Spam'}",3
+Interests,"{'Hate Speech', 'Harassment', 'Spam'}",3
+Interests,"{'Illegal Content', 'Harassment', 'Doxxing/ Personal Info'}",3
+Interests,"{'Illegal Content', 'Hate Speech', 'Harassment'}",3
+Interests,"{'Illegal Content', 'Hate Speech', 'Incitement of Violence'}",3
+Interests,"{'Illegal Content', 'Links & Outside Content'}",3
+Interests,"{'Illegal Content', 'Mis/Disinformation/Conspiracy'}",3
+Interests,"{'Images', 'Incitement of Violence'}",3
+Interests,"{'Links & Outside Content', 'Off-topic/topic specific'}",3
+Interests,"{'Links & Outside Content', 'Reposting/Crossposting'}",3
+Interests,"{'Not Applicable', 'Content Warnings'}",3
+Interests,"{'Not Applicable', 'Doxxing/ Personal Info'}",3
+Interests,"{'Not Applicable', 'Hate Speech'}",3
+Interests,"{'Off-topic/topic specific', 'Spam'}",3
+Interests,"{'Off-topic/topic specific', 'Trolling'}",3
+Interests,{'Reposting/Crossposting'},3
+Interests,"{'Advertising & Commercialization', 'Automated tools', 'Spam'}",2
+Interests,"{'Advertising & Commercialization', 'Illegal Content'}",2
+Interests,"{'Advertising & Commercialization', 'Links & Outside Content'}",2
+Interests,"{'Advertising & Commercialization', 'NSFW', 'Spam', 'Incitement of Violence'}",2
+Interests,"{'Advertising & Commercialization', 'Not Applicable'}",2
+Interests,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info', 'Impersonation'}",2
+Interests,"{'Hate Speech', 'Images'}",2
+Interests,"{'Hate Speech', 'Off-topic/topic specific'}",2
+Interests,"{'Hate Speech', 'Trolling'}",2
+Interests,"{'Illegal Content', 'Images'}",2
+Interests,"{'Illegal Content', 'Impersonation'}",2
+Interests,"{'Illegal Content', 'NSFW', 'Content Warnings'}",2
+Interests,"{'Illegal Content', 'NSFW', 'Harassment', 'Incitement of Violence'}",2
+Interests,"{'Impersonation', 'Automated tools'}",2
+Interests,"{'Links & Outside Content', 'Illegal Content'}",2
+Interests,"{'Links & Outside Content', 'Images'}",2
+Interests,"{'Links & Outside Content', 'Mis/Disinformation/Conspiracy'}",2
+Interests,"{'Links & Outside Content', 'NSFW'}",2
+Interests,"{'Mis/Disinformation/Conspiracy', 'Harassment'}",2
+Interests,"{'NSFW', 'Harassment', 'Hate Speech', 'Spam'}",2
+Interests,"{'NSFW', 'Harassment'}",2
+Interests,"{'NSFW', 'Hate Speech', 'Spam'}",2
+Interests,"{'NSFW', 'Hate Speech'}",2
+Interests,"{'Not Applicable', 'Reposting/Crossposting'}",2
+Interests,"{'Not Applicable', 'Spam'}",2
+Interests,"{'Off-topic/topic specific', 'Images'}",2
+Interests,"{'Off-topic/topic specific', 'Reposting/Crossposting'}",2
+Interests,"{'Off-topic/topic specific', 'Trolling', 'Spam'}",2
+Interests,"{'Reposting/Crossposting', 'Spam'}",2
+Interests,"{'Trolling', 'Spam'}",2
+Interests,"{'Advertising & Commercialization', 'Impersonation', 'Spam'}",1
+Interests,"{'Advertising & Commercialization', 'Mis/Disinformation/Conspiracy', 'Spam'}",1
+Interests,"{'Advertising & Commercialization', 'NSFW'}",1
+Interests,"{'Advertising & Commercialization', 'Reposting/Crossposting'}",1
+Interests,"{'Content Warnings', 'Automated tools'}",1
+Interests,"{'Dogpiling', 'Doxxing/ Personal Info', 'Hate Speech', 'Trolling', 'Harassment', 'Incitement of Violence'}",1
+Interests,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info', 'Incitement of Violence'}",1
+Interests,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info', 'Spam'}",1
+Interests,"{'Dogpiling', 'Hate Speech', 'Harassment'}",1
+Interests,"{'Dogpiling', 'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Harassment'}",1
+Interests,"{'Doxxing/ Personal Info', 'Content Warnings', 'Copyright/ Piracy'}",1
+Interests,"{'Doxxing/ Personal Info', 'Content Warnings'}",1
+Interests,"{'Doxxing/ Personal Info', 'Hate Speech', 'Harassment', 'Reposting/Crossposting', 'Incitement of Violence'}",1
+Interests,"{'Doxxing/ Personal Info', 'Images'}",1
+Interests,"{'Doxxing/ Personal Info', 'Impersonation'}",1
+Interests,"{'Harassment', 'Automated tools'}",1
+Interests,"{'Harassment', 'Images'}",1
+Interests,"{'Harassment', 'Trolling', 'Spam'}",1
+Interests,"{'Hate Speech', 'Harassment', 'Off-topic/topic specific'}",1
+Interests,"{'Hate Speech', 'Harassment', 'Trolling', 'Incitement of Violence'}",1
+Interests,"{'Hate Speech', 'Impersonation'}",1
+Interests,"{'Hate Speech', 'Spam'}",1
+Interests,"{'Illegal Content', 'Content Warnings', 'Images'}",1
+Interests,"{'Illegal Content', 'Doxxing/ Personal Info'}",1
+Interests,"{'Illegal Content', 'Harassment', 'Doxxing/ Personal Info', 'Incitement of Violence'}",1
+Interests,"{'Illegal Content', 'Hate Speech', 'Advertising & Commercialization', 'Spam'}",1
+Interests,"{'Illegal Content', 'Hate Speech', 'Harassment', 'Incitement of Violence'}",1
+Interests,"{'Illegal Content', 'Hate Speech', 'Impersonation'}",1
+Interests,"{'Illegal Content', 'Mis/Disinformation/Conspiracy', 'Hate Speech'}",1
+Interests,"{'Illegal Content', 'NSFW', 'Content Warnings', 'Images'}",1
+Interests,"{'Illegal Content', 'NSFW', 'Copyright/ Piracy'}",1
+Interests,"{'Illegal Content', 'NSFW', 'Harassment'}",1
+Interests,"{'Illegal Content', 'NSFW', 'Hate Speech', 'Advertising & Commercialization', 'Incitement of Violence'}",1
+Interests,"{'Illegal Content', 'NSFW', 'Hate Speech', 'Incitement of Violence'}",1
+Interests,"{'Illegal Content', 'NSFW', 'Hate Speech', 'Spam', 'Harassment', 'Incitement of Violence'}",1
+Interests,"{'Illegal Content', 'NSFW', 'Images'}",1
+Interests,"{'Illegal Content', 'NSFW', 'Spam'}",1
+Interests,"{'Illegal Content', 'Off-topic/topic specific'}",1
+Interests,"{'Illegal Content', 'Spam'}",1
+Interests,"{'Impersonation', 'Copyright/ Piracy'}",1
+Interests,"{'Impersonation', 'Spam'}",1
+Interests,"{'Links & Outside Content', 'Harassment', 'Doxxing/ Personal Info'}",1
+Interests,"{'Links & Outside Content', 'Illegal Content', 'Copyright/ Piracy'}",1
+Interests,"{'Links & Outside Content', 'Illegal Content', 'Spam', 'Copyright/ Piracy'}",1
+Interests,"{'Links & Outside Content', 'Images', 'Copyright/ Piracy'}",1
+Interests,"{'Links & Outside Content', 'NSFW', 'Advertising & Commercialization', 'Spam'}",1
+Interests,"{'Links & Outside Content', 'NSFW', 'Images'}",1
+Interests,"{'Links & Outside Content', 'Reposting/Crossposting', 'Spam'}",1
+Interests,"{'Mis/Disinformation/Conspiracy', 'Automated tools'}",1
+Interests,"{'Mis/Disinformation/Conspiracy', 'Content Warnings'}",1
+Interests,"{'Mis/Disinformation/Conspiracy', 'Harassment', 'Incitement of Violence'}",1
+Interests,"{'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Harassment', 'Doxxing/ Personal Info'}",1
+Interests,"{'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Harassment'}",1
+Interests,"{'Mis/Disinformation/Conspiracy', 'Images'}",1
+Interests,"{'Mis/Disinformation/Conspiracy', 'Impersonation'}",1
+Interests,"{'Mis/Disinformation/Conspiracy', 'Off-topic/topic specific'}",1
+Interests,"{'Mis/Disinformation/Conspiracy', 'Spam'}",1
+Interests,"{'Mis/Disinformation/Conspiracy', 'Trolling'}",1
+Interests,"{'NSFW', 'Advertising & Commercialization', 'Images', 'Spam', 'Incitement of Violence'}",1
+Interests,"{'NSFW', 'Automated tools', 'Images', 'Spam', 'Reposting/Crossposting'}",1
+Interests,"{'NSFW', 'Content Warnings', 'Incitement of Violence'}",1
+Interests,"{'NSFW', 'Copyright/ Piracy'}",1
+Interests,"{'NSFW', 'Harassment', 'Hate Speech'}",1
+Interests,"{'NSFW', 'Harassment', 'Trolling'}",1
+Interests,"{'NSFW', 'Hate Speech', 'Incitement of Violence'}",1
+Interests,"{'NSFW', 'Images', 'Copyright/ Piracy'}",1
+Interests,"{'NSFW', 'Images', 'Incitement of Violence'}",1
+Interests,"{'NSFW', 'Spam'}",1
+Interests,"{'Not Applicable', 'Impersonation'}",1
+Interests,"{'Not Applicable', 'NSFW'}",1
+Interests,"{'Not Applicable', 'Off-topic/topic specific'}",1
+Interests,"{'Off-topic/topic specific', 'Content Warnings', 'Images'}",1
+Interests,"{'Off-topic/topic specific', 'Harassment', 'Trolling'}",1
+Interests,"{'Off-topic/topic specific', 'Hate Speech'}",1
+Interests,"{'Off-topic/topic specific', 'Reposting/Crossposting', 'Automated tools'}",1
+Interests,"{'Reposting/Crossposting', 'Copyright/ Piracy'}",1
+Interests,"{'Reposting/Crossposting', 'Doxxing/ Personal Info'}",1
+Interests,"{'Reposting/Crossposting', 'Images', 'Copyright/ Piracy'}",1
+Interests,"{'Reposting/Crossposting', 'Images', 'Spam'}",1
+Interests,"{'Reposting/Crossposting', 'Impersonation'}",1
+Interests,"{'Trolling', 'Impersonation'}",1
+LGBTQ,{'Hate Speech'},172
+LGBTQ,{'Illegal Content'},60
+LGBTQ,"{'NSFW', 'Content Warnings'}",56
+LGBTQ,{'Mis/Disinformation/Conspiracy'},33
+LGBTQ,{'Content Warnings'},31
+LGBTQ,{'Harassment'},27
+LGBTQ,"{'Hate Speech', 'Harassment'}",26
+LGBTQ,{'Incitement of Violence'},25
+LGBTQ,{'NSFW'},25
+LGBTQ,"{'Advertising & Commercialization', 'Spam'}",23
+LGBTQ,"{'Harassment', 'Doxxing/ Personal Info'}",20
+LGBTQ,"{'NSFW', 'Content Warnings', 'Images'}",18
+LGBTQ,{'Doxxing/ Personal Info'},17
+LGBTQ,"{'Illegal Content', 'NSFW'}",15
+LGBTQ,"{'Content Warnings', 'Images'}",12
+LGBTQ,{'Copyright/ Piracy'},11
+LGBTQ,"{'NSFW', 'Images'}",11
+LGBTQ,{'Advertising & Commercialization'},10
+LGBTQ,"{'Spam', 'Automated tools'}",10
+LGBTQ,{'Spam'},10
+LGBTQ,"{'Illegal Content', 'Hate Speech'}",9
+LGBTQ,{'Images'},9
+LGBTQ,{'Impersonation'},9
+LGBTQ,{'Automated tools'},8
+LGBTQ,"{'Hate Speech', 'Incitement of Violence'}",8
+LGBTQ,"{'Off-topic/topic specific', 'Harassment'}",8
+LGBTQ,"{'Dogpiling', 'Harassment'}",7
+LGBTQ,"{'Not Applicable', 'Automated tools'}",7
+LGBTQ,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info'}",6
+LGBTQ,"{'Harassment', 'Trolling'}",6
+LGBTQ,"{'Harassment', 'Incitement of Violence'}",5
+LGBTQ,"{'Illegal Content', 'NSFW', 'Content Warnings'}",4
+LGBTQ,"{'Images', 'Copyright/ Piracy'}",4
+LGBTQ,"{'Links & Outside Content', 'Not Applicable'}",4
+LGBTQ,"{'Not Applicable', 'Hate Speech'}",4
+LGBTQ,{'Off-topic/topic specific'},4
+LGBTQ,"{'Harassment', 'Spam'}",3
+LGBTQ,"{'Illegal Content', 'Mis/Disinformation/Conspiracy'}",3
+LGBTQ,{'Links & Outside Content'},3
+LGBTQ,"{'Mis/Disinformation/Conspiracy', 'Hate Speech'}",3
+LGBTQ,"{'Not Applicable', 'Content Warnings'}",3
+LGBTQ,"{'Reposting/Crossposting', 'Spam'}",3
+LGBTQ,"{'Advertising & Commercialization', 'Spam', 'Automated tools'}",2
+LGBTQ,"{'Dogpiling', 'Harassment', 'Trolling'}",2
+LGBTQ,"{'Dogpiling', 'Hate Speech', 'Harassment'}",2
+LGBTQ,"{'Harassment', 'Doxxing/ Personal Info', 'Incitement of Violence'}",2
+LGBTQ,"{'Hate Speech', 'Harassment', 'Doxxing/ Personal Info'}",2
+LGBTQ,"{'Hate Speech', 'Trolling'}",2
+LGBTQ,"{'Illegal Content', 'Copyright/ Piracy'}",2
+LGBTQ,"{'Illegal Content', 'Hate Speech', 'Incitement of Violence'}",2
+LGBTQ,"{'Illegal Content', 'Images'}",2
+LGBTQ,"{'Illegal Content', 'Not Applicable'}",2
+LGBTQ,"{'Links & Outside Content', 'NSFW'}",2
+LGBTQ,"{'NSFW', 'Copyright/ Piracy'}",2
+LGBTQ,"{'NSFW', 'Doxxing/ Personal Info'}",2
+LGBTQ,"{'NSFW', 'Harassment'}",2
+LGBTQ,"{'NSFW', 'Spam'}",2
+LGBTQ,"{'Off-topic/topic specific', 'Content Warnings'}",2
+LGBTQ,"{'Off-topic/topic specific', 'Reposting/Crossposting'}",2
+LGBTQ,"{'Reposting/Crossposting', 'Copyright/ Piracy'}",2
+LGBTQ,{'Reposting/Crossposting'},2
+LGBTQ,{'Trolling'},2
+LGBTQ,"{'Advertising & Commercialization', 'Automated tools'}",1
+LGBTQ,"{'Advertising & Commercialization', 'Impersonation', 'Spam'}",1
+LGBTQ,"{'Advertising & Commercialization', 'Links & Outside Content'}",1
+LGBTQ,"{'Advertising & Commercialization', 'Not Applicable'}",1
+LGBTQ,"{'Advertising & Commercialization', 'Spam', 'Copyright/ Piracy'}",1
+LGBTQ,"{'Content Warnings', 'Incitement of Violence'}",1
+LGBTQ,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info', 'Spam'}",1
+LGBTQ,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info', 'Trolling'}",1
+LGBTQ,"{'Dogpiling', 'Hate Speech'}",1
+LGBTQ,"{'Doxxing/ Personal Info', 'Content Warnings'}",1
+LGBTQ,"{'Harassment', 'Automated tools'}",1
+LGBTQ,"{'Harassment', 'Doxxing/ Personal Info', 'Impersonation'}",1
+LGBTQ,"{'Hate Speech', 'Content Warnings'}",1
+LGBTQ,"{'Hate Speech', 'Harassment', 'Incitement of Violence'}",1
+LGBTQ,"{'Hate Speech', 'Harassment', 'Trolling'}",1
+LGBTQ,"{'Hate Speech', 'Off-topic/topic specific'}",1
+LGBTQ,"{'Illegal Content', 'Automated tools'}",1
+LGBTQ,"{'Illegal Content', 'Doxxing/ Personal Info', 'Incitement of Violence'}",1
+LGBTQ,"{'Illegal Content', 'Harassment', 'Doxxing/ Personal Info'}",1
+LGBTQ,"{'Illegal Content', 'Harassment', 'Incitement of Violence'}",1
+LGBTQ,"{'Illegal Content', 'Hate Speech', 'Harassment'}",1
+LGBTQ,"{'Illegal Content', 'Hate Speech', 'Impersonation'}",1
+LGBTQ,"{'Illegal Content', 'Incitement of Violence', 'Copyright/ Piracy'}",1
+LGBTQ,"{'Illegal Content', 'Incitement of Violence'}",1
+LGBTQ,"{'Illegal Content', 'Links & Outside Content'}",1
+LGBTQ,"{'Illegal Content', 'Mis/Disinformation/Conspiracy', 'Hate Speech'}",1
+LGBTQ,"{'Illegal Content', 'NSFW', 'Content Warnings', 'Hate Speech'}",1
+LGBTQ,"{'Illegal Content', 'NSFW', 'Images'}",1
+LGBTQ,"{'Impersonation', 'Automated tools'}",1
+LGBTQ,"{'Links & Outside Content', 'Content Warnings', 'Illegal Content'}",1
+LGBTQ,"{'Links & Outside Content', 'Harassment', 'Trolling', 'Spam'}",1
+LGBTQ,"{'Links & Outside Content', 'Illegal Content', 'Incitement of Violence'}",1
+LGBTQ,"{'Links & Outside Content', 'Illegal Content', 'Spam'}",1
+LGBTQ,"{'Links & Outside Content', 'Illegal Content'}",1
+LGBTQ,"{'Links & Outside Content', 'Reposting/Crossposting', 'Spam'}",1
+LGBTQ,"{'Links & Outside Content', 'Spam'}",1
+LGBTQ,"{'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Harassment', 'Trolling'}",1
+LGBTQ,"{'Mis/Disinformation/Conspiracy', 'Impersonation'}",1
+LGBTQ,"{'Mis/Disinformation/Conspiracy', 'Incitement of Violence'}",1
+LGBTQ,"{'Mis/Disinformation/Conspiracy', 'Spam'}",1
+LGBTQ,"{'NSFW', 'Content Warnings', 'Hate Speech'}",1
+LGBTQ,"{'NSFW', 'Hate Speech', 'Images'}",1
+LGBTQ,"{'NSFW', 'Images', 'Incitement of Violence'}",1
+LGBTQ,"{'NSFW', 'Off-topic/topic specific'}",1
+LGBTQ,"{'Not Applicable', 'Doxxing/ Personal Info'}",1
+LGBTQ,"{'Not Applicable', 'Harassment'}",1
+LGBTQ,"{'Off-topic/topic specific', 'Reposting/Crossposting', 'Spam'}",1
+LGBTQ,"{'Off-topic/topic specific', 'Spam'}",1
+LGBTQ,"{'Off-topic/topic specific', 'Trolling'}",1
+LGBTQ,"{'Reposting/Crossposting', 'Automated tools'}",1
+LGBTQ,"{'Reposting/Crossposting', 'Content Warnings'}",1
+LGBTQ,"{'Spam', 'Copyright/ Piracy'}",1
+LGBTQ,"{'Trolling', 'Harassment', 'Impersonation'}",1
+LGBTQ,"{'Trolling', 'Impersonation'}",1
+LGBTQ,"{'Trolling', 'Incitement of Violence'}",1
+Memes,{'Hate Speech'},11
+Memes,{'NSFW'},5
+Memes,{'Doxxing/ Personal Info'},4
+Memes,"{'Hate Speech', 'Harassment'}",4
+Memes,{'Harassment'},3
+Memes,{'Impersonation'},3
+Memes,{'Spam'},3
+Memes,"{'Advertising & Commercialization', 'Spam'}",2
+Memes,{'Content Warnings'},2
+Memes,{'Illegal Content'},2
+Memes,{'Incitement of Violence'},2
+Memes,{'Mis/Disinformation/Conspiracy'},2
+Memes,"{'NSFW', 'Content Warnings'}",2
+Memes,{'Advertising & Commercialization'},1
+Memes,{'Automated tools'},1
+Memes,"{'Content Warnings', 'Images'}",1
+Memes,{'Copyright/ Piracy'},1
+Memes,"{'Dogpiling', 'Harassment'}",1
+Memes,"{'Harassment', 'Doxxing/ Personal Info'}",1
+Memes,"{'Hate Speech', 'Trolling'}",1
+Memes,"{'Illegal Content', 'Hate Speech'}",1
+Memes,"{'Not Applicable', 'Harassment'}",1
+N/A,{'Hate Speech'},180
+N/A,{'Illegal Content'},95
+N/A,{'Harassment'},44
+N/A,{'Mis/Disinformation/Conspiracy'},36
+N/A,"{'NSFW', 'Content Warnings'}",36
+N/A,{'Incitement of Violence'},35
+N/A,"{'Harassment', 'Doxxing/ Personal Info'}",32
+N/A,"{'Hate Speech', 'Harassment'}",31
+N/A,{'Spam'},26
+N/A,{'NSFW'},25
+N/A,"{'Advertising & Commercialization', 'Spam'}",23
+N/A,"{'Content Warnings', 'Images'}",20
+N/A,{'Content Warnings'},20
+N/A,{'Doxxing/ Personal Info'},19
+N/A,"{'NSFW', 'Images'}",16
+N/A,"{'Harassment', 'Trolling'}",15
+N/A,{'Impersonation'},15
+N/A,"{'Illegal Content', 'NSFW'}",13
+N/A,{'Images'},13
+N/A,{'Off-topic/topic specific'},13
+N/A,{'Copyright/ Piracy'},12
+N/A,{'Advertising & Commercialization'},11
+N/A,{'Automated tools'},11
+N/A,{'Links & Outside Content'},8
+N/A,"{'Hate Speech', 'Incitement of Violence'}",7
+N/A,"{'NSFW', 'Content Warnings', 'Images'}",7
+N/A,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info'}",6
+N/A,"{'Illegal Content', 'Hate Speech'}",6
+N/A,"{'Dogpiling', 'Harassment'}",4
+N/A,"{'Illegal Content', 'Images'}",4
+N/A,"{'Mis/Disinformation/Conspiracy', 'Hate Speech'}",4
+N/A,"{'Mis/Disinformation/Conspiracy', 'Incitement of Violence'}",4
+N/A,"{'Not Applicable', 'Automated tools'}",4
+N/A,"{'Harassment', 'Incitement of Violence'}",3
+N/A,"{'Harassment', 'Spam'}",3
+N/A,"{'Illegal Content', 'Doxxing/ Personal Info'}",3
+N/A,"{'Illegal Content', 'Incitement of Violence'}",3
+N/A,"{'Trolling', 'Spam'}",3
+N/A,"{'Advertising & Commercialization', 'Links & Outside Content'}",2
+N/A,"{'Automated tools', 'Spam'}",2
+N/A,"{'Hate Speech', 'Off-topic/topic specific'}",2
+N/A,"{'Hate Speech', 'Trolling', 'Spam'}",2
+N/A,"{'Illegal Content', 'Copyright/ Piracy'}",2
+N/A,"{'Illegal Content', 'Hate Speech', 'Harassment'}",2
+N/A,"{'Illegal Content', 'Links & Outside Content'}",2
+N/A,"{'Illegal Content', 'Mis/Disinformation/Conspiracy'}",2
+N/A,"{'Illegal Content', 'NSFW', 'Hate Speech'}",2
+N/A,"{'Links & Outside Content', 'Spam'}",2
+N/A,"{'Not Applicable', 'NSFW'}",2
+N/A,"{'Not Applicable', 'Spam'}",2
+N/A,"{'Off-topic/topic specific', 'Content Warnings'}",2
+N/A,"{'Off-topic/topic specific', 'Harassment'}",2
+N/A,"{'Advertising & Commercialization', 'Automated tools'}",1
+N/A,"{'Advertising & Commercialization', 'Illegal Content'}",1
+N/A,"{'Advertising & Commercialization', 'Impersonation', 'Spam'}",1
+N/A,"{'Advertising & Commercialization', 'Mis/Disinformation/Conspiracy', 'Spam'}",1
+N/A,"{'Advertising & Commercialization', 'Not Applicable', 'Harassment'}",1
+N/A,"{'Advertising & Commercialization', 'Reposting/Crossposting', 'Spam'}",1
+N/A,"{'Dogpiling', 'Doxxing/ Personal Info', 'Trolling', 'Harassment', 'Incitement of Violence'}",1
+N/A,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info', 'Incitement of Violence'}",1
+N/A,"{'Dogpiling', 'Mis/Disinformation/Conspiracy', 'Harassment'}",1
+N/A,"{'Doxxing/ Personal Info', 'Copyright/ Piracy'}",1
+N/A,"{'Harassment', 'Automated tools'}",1
+N/A,"{'Harassment', 'Doxxing/ Personal Info', 'Incitement of Violence'}",1
+N/A,"{'Harassment', 'Doxxing/ Personal Info', 'Trolling'}",1
+N/A,"{'Harassment', 'Trolling', 'Incitement of Violence'}",1
+N/A,"{'Hate Speech', 'Copyright/ Piracy'}",1
+N/A,"{'Hate Speech', 'Harassment', 'Doxxing/ Personal Info', 'Incitement of Violence'}",1
+N/A,"{'Hate Speech', 'Harassment', 'Impersonation'}",1
+N/A,"{'Hate Speech', 'Harassment', 'Incitement of Violence'}",1
+N/A,"{'Hate Speech', 'Harassment', 'Trolling'}",1
+N/A,"{'Hate Speech', 'Images'}",1
+N/A,"{'Hate Speech', 'Spam'}",1
+N/A,"{'Hate Speech', 'Trolling'}",1
+N/A,"{'Illegal Content', 'Content Warnings'}",1
+N/A,"{'Illegal Content', 'Mis/Disinformation/Conspiracy', 'Hate Speech'}",1
+N/A,"{'Illegal Content', 'NSFW', 'Hate Speech', 'Incitement of Violence'}",1
+N/A,"{'Illegal Content', 'NSFW', 'Off-topic/topic specific', 'Hate Speech'}",1
+N/A,"{'Illegal Content', 'Not Applicable'}",1
+N/A,"{'Illegal Content', 'Spam'}",1
+N/A,"{'Images', 'Copyright/ Piracy'}",1
+N/A,"{'Images', 'Spam'}",1
+N/A,"{'Impersonation', 'Automated tools'}",1
+N/A,"{'Links & Outside Content', 'Content Warnings'}",1
+N/A,"{'Links & Outside Content', 'Doxxing/ Personal Info'}",1
+N/A,"{'Links & Outside Content', 'Illegal Content'}",1
+N/A,"{'Links & Outside Content', 'Images'}",1
+N/A,"{'Links & Outside Content', 'NSFW', 'Content Warnings'}",1
+N/A,"{'Links & Outside Content', 'NSFW', 'Images'}",1
+N/A,"{'Mis/Disinformation/Conspiracy', 'Harassment', 'Doxxing/ Personal Info'}",1
+N/A,"{'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Harassment'}",1
+N/A,"{'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Incitement of Violence'}",1
+N/A,"{'Mis/Disinformation/Conspiracy', 'Spam'}",1
+N/A,"{'NSFW', 'Harassment', 'Off-topic/topic specific'}",1
+N/A,"{'NSFW', 'Harassment'}",1
+N/A,"{'NSFW', 'Hate Speech', 'Incitement of Violence'}",1
+N/A,"{'NSFW', 'Hate Speech'}",1
+N/A,"{'Not Applicable', 'Hate Speech'}",1
+N/A,"{'Not Applicable', 'Mis/Disinformation/Conspiracy'}",1
+N/A,"{'Not Applicable', 'Reposting/Crossposting'}",1
+N/A,"{'Reposting/Crossposting', 'Automated tools'}",1
+N/A,"{'Reposting/Crossposting', 'Spam'}",1
+N/A,{'Reposting/Crossposting'},1
+N/A,{'Trolling'},1
+News,{'Mis/Disinformation/Conspiracy'},16
+News,{'Hate Speech'},15
+News,{'Illegal Content'},10
+News,{'Incitement of Violence'},9
+News,"{'Content Warnings', 'Images'}",7
+News,"{'Harassment', 'Doxxing/ Personal Info'}",7
+News,"{'Hate Speech', 'Harassment'}",7
+News,{'Impersonation'},7
+News,"{'Advertising & Commercialization', 'Spam'}",5
+News,{'Automated tools'},5
+News,{'Content Warnings'},5
+News,{'Harassment'},5
+News,{'NSFW'},5
+News,{'Images'},4
+News,{'Doxxing/ Personal Info'},3
+News,"{'Hate Speech', 'Incitement of Violence'}",3
+News,{'Links & Outside Content'},3
+News,{'Off-topic/topic specific'},3
+News,{'Advertising & Commercialization'},2
+News,"{'Automated tools', 'Spam'}",2
+News,"{'Harassment', 'Doxxing/ Personal Info', 'Trolling'}",2
+News,"{'Harassment', 'Trolling'}",2
+News,"{'Illegal Content', 'Hate Speech'}",2
+News,"{'Illegal Content', 'NSFW', 'Images', 'Incitement of Violence'}",2
+News,"{'NSFW', 'Images'}",2
+News,"{'Off-topic/topic specific', 'Harassment'}",2
+News,"{'Advertising & Commercialization', 'Copyright/ Piracy'}",1
+News,"{'Advertising & Commercialization', 'Links & Outside Content', 'Spam'}",1
+News,"{'Dogpiling', 'Doxxing/ Personal Info', 'Hate Speech', 'Harassment', 'Incitement of Violence'}",1
+News,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info'}",1
+News,"{'Dogpiling', 'Harassment'}",1
+News,"{'Dogpiling', 'Incitement of Violence'}",1
+News,"{'Doxxing/ Personal Info', 'Hate Speech', 'Mis/Disinformation/Conspiracy', 'Trolling', 'Spam', 'Harassment', 'Impersonation'}",1
+News,"{'Hate Speech', 'Harassment', 'Incitement of Violence'}",1
+News,"{'Hate Speech', 'Images'}",1
+News,"{'Hate Speech', 'Spam'}",1
+News,"{'Illegal Content', 'Harassment', 'Doxxing/ Personal Info'}",1
+News,"{'Illegal Content', 'Mis/Disinformation/Conspiracy', 'Hate Speech'}",1
+News,"{'Links & Outside Content', 'Illegal Content'}",1
+News,"{'Links & Outside Content', 'Reposting/Crossposting', 'Spam'}",1
+News,"{'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Copyright/ Piracy'}",1
+News,"{'Mis/Disinformation/Conspiracy', 'Spam', 'Automated tools'}",1
+News,"{'Mis/Disinformation/Conspiracy', 'Spam'}",1
+News,"{'NSFW', 'Content Warnings'}",1
+News,"{'NSFW', 'Harassment'}",1
+News,"{'NSFW', 'Spam'}",1
+News,"{'Not Applicable', 'Doxxing/ Personal Info'}",1
+News,"{'Off-topic/topic specific', 'Reposting/Crossposting'}",1
+News,"{'Reposting/Crossposting', 'Automated tools'}",1
+News,{'Spam'},1
+News,{'Trolling'},1
+Organization,{'Hate Speech'},210
+Organization,{'Illegal Content'},115
+Organization,{'Mis/Disinformation/Conspiracy'},89
+Organization,{'Incitement of Violence'},68
+Organization,"{'Hate Speech', 'Harassment'}",56
+Organization,"{'Advertising & Commercialization', 'Spam'}",52
+Organization,"{'Harassment', 'Doxxing/ Personal Info'}",52
+Organization,"{'Content Warnings', 'Images'}",40
+Organization,{'Harassment'},37
+Organization,{'NSFW'},26
+Organization,"{'NSFW', 'Content Warnings'}",25
+Organization,{'Spam'},25
+Organization,{'Advertising & Commercialization'},24
+Organization,{'Content Warnings'},24
+Organization,{'Impersonation'},24
+Organization,"{'NSFW', 'Images'}",22
+Organization,{'Copyright/ Piracy'},20
+Organization,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info'}",19
+Organization,{'Doxxing/ Personal Info'},19
+Organization,{'Automated tools'},18
+Organization,"{'Hate Speech', 'Incitement of Violence'}",17
+Organization,{'Links & Outside Content'},16
+Organization,{'Images'},15
+Organization,{'Off-topic/topic specific'},14
+Organization,"{'Illegal Content', 'Hate Speech'}",13
+Organization,"{'Harassment', 'Trolling'}",12
+Organization,"{'Mis/Disinformation/Conspiracy', 'Hate Speech'}",11
+Organization,"{'NSFW', 'Content Warnings', 'Images'}",11
+Organization,"{'Dogpiling', 'Harassment'}",10
+Organization,"{'Harassment', 'Incitement of Violence'}",10
+Organization,"{'Illegal Content', 'Incitement of Violence'}",8
+Organization,{'Trolling'},8
+Organization,"{'Illegal Content', 'Copyright/ Piracy'}",7
+Organization,"{'Illegal Content', 'NSFW'}",7
+Organization,"{'Reposting/Crossposting', 'Automated tools'}",7
+Organization,"{'Hate Speech', 'Harassment', 'Incitement of Violence'}",5
+Organization,"{'Illegal Content', 'Mis/Disinformation/Conspiracy'}",5
+Organization,"{'Mis/Disinformation/Conspiracy', 'Spam'}",5
+Organization,"{'NSFW', 'Incitement of Violence'}",5
+Organization,"{'Not Applicable', 'Automated tools'}",5
+Organization,"{'Not Applicable', 'Doxxing/ Personal Info'}",5
+Organization,"{'Automated tools', 'Spam'}",4
+Organization,"{'Links & Outside Content', 'Illegal Content'}",4
+Organization,"{'Links & Outside Content', 'Spam'}",4
+Organization,"{'Mis/Disinformation/Conspiracy', 'Incitement of Violence'}",4
+Organization,"{'NSFW', 'Harassment'}",4
+Organization,"{'Hate Speech', 'Content Warnings'}",3
+Organization,"{'Illegal Content', 'Hate Speech', 'Harassment', 'Doxxing/ Personal Info'}",3
+Organization,"{'Illegal Content', 'Links & Outside Content'}",3
+Organization,"{'Illegal Content', 'NSFW', 'Hate Speech', 'Harassment', 'Incitement of Violence'}",3
+Organization,"{'NSFW', 'Harassment', 'Hate Speech', 'Incitement of Violence'}",3
+Organization,"{'NSFW', 'Images', 'Incitement of Violence'}",3
+Organization,"{'Advertising & Commercialization', 'Automated tools'}",2
+Organization,"{'Advertising & Commercialization', 'Links & Outside Content', 'Spam'}",2
+Organization,"{'Advertising & Commercialization', 'Spam', 'Automated tools'}",2
+Organization,"{'Content Warnings', 'Incitement of Violence'}",2
+Organization,"{'Dogpiling', 'Doxxing/ Personal Info'}",2
+Organization,"{'Harassment', 'Impersonation'}",2
+Organization,"{'Harassment', 'Spam'}",2
+Organization,"{'Hate Speech', 'Harassment', 'Doxxing/ Personal Info'}",2
+Organization,"{'Hate Speech', 'Off-topic/topic specific'}",2
+Organization,"{'Hate Speech', 'Spam'}",2
+Organization,"{'Illegal Content', 'Doxxing/ Personal Info'}",2
+Organization,"{'Illegal Content', 'Harassment'}",2
+Organization,"{'Illegal Content', 'Hate Speech', 'Harassment'}",2
+Organization,"{'Illegal Content', 'NSFW', 'Hate Speech', 'Incitement of Violence'}",2
+Organization,"{'Illegal Content', 'NSFW', 'Images'}",2
+Organization,"{'Links & Outside Content', 'Hate Speech'}",2
+Organization,"{'Links & Outside Content', 'Not Applicable'}",2
+Organization,"{'Links & Outside Content', 'Off-topic/topic specific'}",2
+Organization,"{'Mis/Disinformation/Conspiracy', 'Off-topic/topic specific'}",2
+Organization,"{'NSFW', 'Doxxing/ Personal Info'}",2
+Organization,"{'NSFW', 'Hate Speech'}",2
+Organization,"{'NSFW', 'Off-topic/topic specific', 'Content Warnings'}",2
+Organization,"{'Not Applicable', 'Hate Speech'}",2
+Organization,"{'Not Applicable', 'Mis/Disinformation/Conspiracy'}",2
+Organization,"{'Off-topic/topic specific', 'Harassment'}",2
+Organization,{'Reposting/Crossposting'},2
+Organization,"{'Advertising & Commercialization', 'Harassment', 'Incitement of Violence'}",1
+Organization,"{'Advertising & Commercialization', 'Hate Speech'}",1
+Organization,"{'Advertising & Commercialization', 'Links & Outside Content', 'Doxxing/ Personal Info'}",1
+Organization,"{'Advertising & Commercialization', 'Mis/Disinformation/Conspiracy', 'Spam'}",1
+Organization,"{'Advertising & Commercialization', 'Mis/Disinformation/Conspiracy'}",1
+Organization,"{'Advertising & Commercialization', 'Not Applicable'}",1
+Organization,"{'Advertising & Commercialization', 'Off-topic/topic specific'}",1
+Organization,"{'Dogpiling', 'Doxxing/ Personal Info', 'Hate Speech', 'Harassment', 'Incitement of Violence'}",1
+Organization,"{'Dogpiling', 'Hate Speech', 'Harassment', 'Doxxing/ Personal Info'}",1
+Organization,"{'Doxxing/ Personal Info', 'Copyright/ Piracy'}",1
+Organization,"{'Doxxing/ Personal Info', 'Hate Speech', 'Mis/Disinformation/Conspiracy', 'Trolling', 'Spam', 'Harassment', 'Impersonation'}",1
+Organization,"{'Doxxing/ Personal Info', 'Incitement of Violence'}",1
+Organization,"{'Harassment', 'Doxxing/ Personal Info', 'Copyright/ Piracy'}",1
+Organization,"{'Harassment', 'Images'}",1
+Organization,"{'Harassment', 'Trolling', 'Spam'}",1
+Organization,"{'Hate Speech', 'Doxxing/ Personal Info', 'Incitement of Violence'}",1
+Organization,"{'Hate Speech', 'Harassment', 'Images'}",1
+Organization,"{'Hate Speech', 'Harassment', 'Off-topic/topic specific'}",1
+Organization,"{'Hate Speech', 'Harassment', 'Spam'}",1
+Organization,"{'Hate Speech', 'Images', 'Incitement of Violence'}",1
+Organization,"{'Hate Speech', 'Images'}",1
+Organization,"{'Hate Speech', 'Trolling'}",1
+Organization,"{'Illegal Content', 'Content Warnings', 'NSFW', 'Hate Speech', 'Harassment'}",1
+Organization,"{'Illegal Content', 'Doxxing/ Personal Info', 'NSFW', 'Hate Speech', 'Incitement of Violence'}",1
+Organization,"{'Illegal Content', 'Hate Speech', 'Incitement of Violence'}",1
+Organization,"{'Illegal Content', 'Images'}",1
+Organization,"{'Illegal Content', 'Mis/Disinformation/Conspiracy', 'Harassment', 'Doxxing/ Personal Info'}",1
+Organization,"{'Illegal Content', 'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Harassment'}",1
+Organization,"{'Illegal Content', 'Mis/Disinformation/Conspiracy', 'Hate Speech'}",1
+Organization,"{'Illegal Content', 'NSFW', 'Copyright/ Piracy'}",1
+Organization,"{'Illegal Content', 'NSFW', 'Hate Speech', 'Mis/Disinformation/Conspiracy', 'Incitement of Violence'}",1
+Organization,"{'Illegal Content', 'NSFW', 'Hate Speech'}",1
+Organization,"{'Illegal Content', 'NSFW', 'Spam'}",1
+Organization,"{'Illegal Content', 'Spam'}",1
+Organization,"{'Images', 'Copyright/ Piracy'}",1
+Organization,"{'Images', 'Incitement of Violence'}",1
+Organization,"{'Impersonation', 'Automated tools'}",1
+Organization,"{'Impersonation', 'Copyright/ Piracy'}",1
+Organization,"{'Links & Outside Content', 'Content Warnings', 'Images'}",1
+Organization,"{'Links & Outside Content', 'Content Warnings', 'Incitement of Violence'}",1
+Organization,"{'Links & Outside Content', 'Mis/Disinformation/Conspiracy'}",1
+Organization,"{'Links & Outside Content', 'NSFW', 'Content Warnings'}",1
+Organization,"{'Links & Outside Content', 'NSFW', 'Images'}",1
+Organization,"{'Links & Outside Content', 'Reposting/Crossposting', 'Spam'}",1
+Organization,"{'Mis/Disinformation/Conspiracy', 'Content Warnings'}",1
+Organization,"{'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Automated tools'}",1
+Organization,"{'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Harassment', 'Incitement of Violence'}",1
+Organization,"{'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Harassment'}",1
+Organization,"{'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Incitement of Violence'}",1
+Organization,"{'NSFW', 'Automated tools'}",1
+Organization,"{'NSFW', 'Harassment', 'Doxxing/ Personal Info'}",1
+Organization,"{'NSFW', 'Harassment', 'Hate Speech'}",1
+Organization,"{'NSFW', 'Harassment', 'Incitement of Violence'}",1
+Organization,"{'NSFW', 'Harassment', 'Trolling'}",1
+Organization,"{'NSFW', 'Hate Speech', 'Incitement of Violence'}",1
+Organization,"{'NSFW', 'Hate Speech', 'Trolling', 'Harassment', 'Incitement of Violence'}",1
+Organization,"{'NSFW', 'Hate Speech', 'Trolling', 'Spam', 'Harassment', 'Incitement of Violence'}",1
+Organization,"{'NSFW', 'Off-topic/topic specific', 'Spam'}",1
+Organization,"{'NSFW', 'Off-topic/topic specific'}",1
+Organization,"{'NSFW', 'Trolling', 'Hate Speech', 'Incitement of Violence'}",1
+Organization,"{'Not Applicable', 'Content Warnings'}",1
+Organization,"{'Not Applicable', 'Harassment'}",1
+Organization,"{'Not Applicable', 'Impersonation'}",1
+Organization,"{'Off-topic/topic specific', 'Harassment', 'Trolling'}",1
+Organization,"{'Off-topic/topic specific', 'Spam'}",1
+Organization,"{'Off-topic/topic specific', 'Trolling'}",1
+Organization,"{'Reposting/Crossposting', 'Copyright/ Piracy'}",1
+Organization,"{'Reposting/Crossposting', 'Spam'}",1
+Organization,"{'Spam', 'Automated tools'}",1
+Organization,"{'Trolling', 'Spam'}",1
+Personal,{'Hate Speech'},169
+Personal,{'Illegal Content'},91
+Personal,{'Incitement of Violence'},55
+Personal,"{'Harassment', 'Doxxing/ Personal Info'}",41
+Personal,{'Mis/Disinformation/Conspiracy'},41
+Personal,{'Harassment'},33
+Personal,"{'Content Warnings', 'Images'}",31
+Personal,"{'Hate Speech', 'Harassment'}",25
+Personal,"{'Advertising & Commercialization', 'Spam'}",23
+Personal,{'Content Warnings'},23
+Personal,"{'NSFW', 'Content Warnings'}",22
+Personal,{'Spam'},21
+Personal,{'Copyright/ Piracy'},14
+Personal,{'Images'},12
+Personal,"{'Mis/Disinformation/Conspiracy', 'Hate Speech'}",12
+Personal,{'NSFW'},12
+Personal,{'Impersonation'},11
+Personal,"{'NSFW', 'Content Warnings', 'Images'}",10
+Personal,{'Automated tools'},9
+Personal,"{'Harassment', 'Trolling'}",9
+Personal,{'Advertising & Commercialization'},7
+Personal,{'Doxxing/ Personal Info'},7
+Personal,"{'Hate Speech', 'Incitement of Violence'}",6
+Personal,"{'Hate Speech', 'Off-topic/topic specific'}",6
+Personal,"{'Illegal Content', 'Hate Speech'}",6
+Personal,"{'Illegal Content', 'NSFW'}",6
+Personal,{'Links & Outside Content'},5
+Personal,"{'Illegal Content', 'Links & Outside Content'}",4
+Personal,"{'Mis/Disinformation/Conspiracy', 'Incitement of Violence'}",4
+Personal,"{'NSFW', 'Images'}",4
+Personal,"{'NSFW', 'Incitement of Violence'}",3
+Personal,"{'Dogpiling', 'Harassment'}",2
+Personal,"{'Harassment', 'Spam'}",2
+Personal,"{'Hate Speech', 'Content Warnings'}",2
+Personal,"{'Hate Speech', 'Spam'}",2
+Personal,"{'Hate Speech', 'Trolling'}",2
+Personal,"{'Illegal Content', 'Incitement of Violence'}",2
+Personal,"{'Links & Outside Content', 'Hate Speech'}",2
+Personal,"{'Links & Outside Content', 'Not Applicable'}",2
+Personal,"{'Links & Outside Content', 'Reposting/Crossposting'}",2
+Personal,"{'Not Applicable', 'Hate Speech'}",2
+Personal,{'Off-topic/topic specific'},2
+Personal,{'Trolling'},2
+Personal,"{'Advertising & Commercialization', 'Spam', 'Automated tools'}",1
+Personal,"{'Advertising & Commercialization', 'Trolling', 'Spam'}",1
+Personal,"{'Automated tools', 'Spam'}",1
+Personal,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info', 'Spam'}",1
+Personal,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info', 'Trolling'}",1
+Personal,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info'}",1
+Personal,"{'Dogpiling', 'Hate Speech'}",1
+Personal,"{'Dogpiling', 'NSFW', 'Automated tools', 'Advertising & Commercialization', 'Harassment', 'Incitement of Violence'}",1
+Personal,"{'Doxxing/ Personal Info', 'Copyright/ Piracy'}",1
+Personal,"{'Doxxing/ Personal Info', 'Images'}",1
+Personal,"{'Harassment', 'Incitement of Violence'}",1
+Personal,"{'Hate Speech', 'Content Warnings', 'Images'}",1
+Personal,"{'Hate Speech', 'Harassment', 'Doxxing/ Personal Info'}",1
+Personal,"{'Hate Speech', 'Harassment', 'Trolling'}",1
+Personal,"{'Illegal Content', 'Harassment', 'Spam'}",1
+Personal,"{'Illegal Content', 'NSFW', 'Content Warnings'}",1
+Personal,"{'Illegal Content', 'NSFW', 'Harassment', 'Hate Speech'}",1
+Personal,"{'Illegal Content', 'NSFW', 'Hate Speech', 'Advertising & Commercialization', 'Spam', 'Harassment', 'Incitement of Violence'}",1
+Personal,"{'Illegal Content', 'NSFW', 'Images'}",1
+Personal,"{'Illegal Content', 'NSFW', 'Spam'}",1
+Personal,"{'Images', 'Incitement of Violence'}",1
+Personal,"{'Links & Outside Content', 'Content Warnings'}",1
+Personal,"{'Links & Outside Content', 'Copyright/ Piracy'}",1
+Personal,"{'Links & Outside Content', 'Illegal Content'}",1
+Personal,"{'Links & Outside Content', 'Images', 'Copyright/ Piracy'}",1
+Personal,"{'Links & Outside Content', 'Off-topic/topic specific'}",1
+Personal,"{'Mis/Disinformation/Conspiracy', 'Harassment', 'Doxxing/ Personal Info'}",1
+Personal,"{'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Harassment'}",1
+Personal,"{'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Spam'}",1
+Personal,"{'Mis/Disinformation/Conspiracy', 'Impersonation'}",1
+Personal,"{'Mis/Disinformation/Conspiracy', 'Spam'}",1
+Personal,"{'Mis/Disinformation/Conspiracy', 'Trolling', 'Incitement of Violence'}",1
+Personal,"{'NSFW', 'Doxxing/ Personal Info', 'Spam'}",1
+Personal,"{'NSFW', 'Harassment'}",1
+Personal,"{'NSFW', 'Off-topic/topic specific'}",1
+Personal,"{'Not Applicable', 'Automated tools'}",1
+Personal,"{'Not Applicable', 'Content Warnings'}",1
+Personal,"{'Not Applicable', 'Doxxing/ Personal Info'}",1
+Personal,"{'Not Applicable', 'Harassment'}",1
+Personal,"{'Not Applicable', 'Off-topic/topic specific'}",1
+Personal,"{'Not Applicable', 'Spam'}",1
+Personal,"{'Off-topic/topic specific', 'Harassment'}",1
+Personal,"{'Off-topic/topic specific', 'Trolling'}",1
+Personal,"{'Reposting/Crossposting', 'Copyright/ Piracy'}",1
+Personal,{'Reposting/Crossposting'},1
+Personal,"{'Spam', 'Automated tools'}",1
+Pets,{'Hate Speech'},32
+Pets,{'Illegal Content'},11
+Pets,{'NSFW'},9
+Pets,{'Doxxing/ Personal Info'},7
+Pets,"{'NSFW', 'Content Warnings'}",7
+Pets,"{'Harassment', 'Doxxing/ Personal Info'}",5
+Pets,{'Harassment'},5
+Pets,{'Incitement of Violence'},5
+Pets,{'Mis/Disinformation/Conspiracy'},5
+Pets,{'Spam'},5
+Pets,"{'Advertising & Commercialization', 'Spam'}",3
+Pets,{'Images'},3
+Pets,{'Impersonation'},3
+Pets,{'Advertising & Commercialization'},2
+Pets,{'Content Warnings'},2
+Pets,{'Copyright/ Piracy'},2
+Pets,"{'NSFW', 'Images'}",2
+Pets,"{'Advertising & Commercialization', 'Illegal Content'}",1
+Pets,"{'Advertising & Commercialization', 'Not Applicable'}",1
+Pets,"{'Content Warnings', 'Images'}",1
+Pets,"{'Harassment', 'Impersonation'}",1
+Pets,"{'Harassment', 'Incitement of Violence'}",1
+Pets,"{'Harassment', 'Trolling'}",1
+Pets,"{'Hate Speech', 'Harassment'}",1
+Pets,"{'Hate Speech', 'Incitement of Violence'}",1
+Pets,"{'Hate Speech', 'Off-topic/topic specific'}",1
+Pets,"{'Hate Speech', 'Trolling'}",1
+Pets,"{'Illegal Content', 'Hate Speech'}",1
+Pets,"{'Illegal Content', 'Incitement of Violence'}",1
+Pets,"{'Illegal Content', 'NSFW'}",1
+Pets,"{'Links & Outside Content', 'Off-topic/topic specific'}",1
+Pets,"{'Mis/Disinformation/Conspiracy', 'Hate Speech'}",1
+Pets,"{'Mis/Disinformation/Conspiracy', 'Incitement of Violence'}",1
+Pets,"{'NSFW', 'Content Warnings', 'Images'}",1
+Pets,"{'Not Applicable', 'Automated tools'}",1
+Pets,"{'Not Applicable', 'Content Warnings'}",1
+Pets,"{'Off-topic/topic specific', 'Content Warnings'}",1
+Pets,{'Off-topic/topic specific'},1
+Pets,"{'Reposting/Crossposting', 'Content Warnings'}",1
+Pets,"{'Spam', 'Automated tools'}",1
+Politics,{'Hate Speech'},23
+Politics,{'Illegal Content'},11
+Politics,{'Mis/Disinformation/Conspiracy'},8
+Politics,"{'Hate Speech', 'Harassment'}",7
+Politics,"{'Harassment', 'Doxxing/ Personal Info'}",5
+Politics,"{'NSFW', 'Content Warnings'}",5
+Politics,{'Incitement of Violence'},4
+Politics,{'Off-topic/topic specific'},4
+Politics,"{'Advertising & Commercialization', 'Spam'}",3
+Politics,"{'Content Warnings', 'Images'}",3
+Politics,{'Impersonation'},3
+Politics,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info'}",2
+Politics,{'Doxxing/ Personal Info'},2
+Politics,"{'Harassment', 'Trolling'}",2
+Politics,{'Harassment'},2
+Politics,"{'Hate Speech', 'Incitement of Violence'}",2
+Politics,"{'Illegal Content', 'Hate Speech'}",2
+Politics,"{'Illegal Content', 'Incitement of Violence'}",2
+Politics,"{'NSFW', 'Images'}",2
+Politics,{'NSFW'},2
+Politics,"{'Advertising & Commercialization', 'Links & Outside Content', 'Doxxing/ Personal Info'}",1
+Politics,{'Advertising & Commercialization'},1
+Politics,{'Automated tools'},1
+Politics,{'Content Warnings'},1
+Politics,{'Copyright/ Piracy'},1
+Politics,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info', 'Trolling'}",1
+Politics,"{'Doxxing/ Personal Info', 'Images'}",1
+Politics,"{'Harassment', 'Reposting/Crossposting'}",1
+Politics,"{'Hate Speech', 'Harassment', 'Trolling'}",1
+Politics,"{'Hate Speech', 'Images'}",1
+Politics,"{'Hate Speech', 'Off-topic/topic specific'}",1
+Politics,"{'Hate Speech', 'Trolling'}",1
+Politics,"{'Illegal Content', 'Content Warnings', 'NSFW', 'Hate Speech', 'Mis/Disinformation/Conspiracy', 'Spam'}",1
+Politics,"{'Illegal Content', 'Copyright/ Piracy'}",1
+Politics,"{'Illegal Content', 'Hate Speech', 'Harassment', 'Spam'}",1
+Politics,"{'Illegal Content', 'NSFW', 'Content Warnings'}",1
+Politics,"{'Illegal Content', 'NSFW'}",1
+Politics,"{'Incitement of Violence', 'Harassment', 'Impersonation', 'Automated tools'}",1
+Politics,{'Links & Outside Content'},1
+Politics,"{'Mis/Disinformation/Conspiracy', 'Impersonation'}",1
+Politics,"{'NSFW', 'Content Warnings', 'Hate Speech'}",1
+Politics,"{'NSFW', 'Content Warnings', 'Images'}",1
+Politics,"{'Not Applicable', 'Automated tools'}",1
+Politics,"{'Not Applicable', 'NSFW'}",1
+Politics,"{'Off-topic/topic specific', 'Harassment', 'Trolling', 'Hate Speech'}",1
+Politics,{'Spam'},1
+Religion,{'Hate Speech'},19
+Religion,{'Content Warnings'},10
+Religion,{'Illegal Content'},9
+Religion,"{'Advertising & Commercialization', 'Spam'}",7
+Religion,"{'Hate Speech', 'Harassment'}",7
+Religion,{'Harassment'},6
+Religion,{'NSFW'},5
+Religion,"{'Harassment', 'Doxxing/ Personal Info'}",4
+Religion,{'Mis/Disinformation/Conspiracy'},4
+Religion,{'Images'},3
+Religion,{'Incitement of Violence'},3
+Religion,{'Links & Outside Content'},3
+Religion,"{'NSFW', 'Content Warnings'}",3
+Religion,"{'NSFW', 'Images'}",3
+Religion,{'Spam'},3
+Religion,{'Advertising & Commercialization'},2
+Religion,"{'Content Warnings', 'Images'}",2
+Religion,"{'Illegal Content', 'NSFW'}",2
+Religion,{'Impersonation'},2
+Religion,"{'Not Applicable', 'Automated tools'}",2
+Religion,{'Automated tools'},1
+Religion,{'Copyright/ Piracy'},1
+Religion,"{'Harassment', 'Trolling'}",1
+Religion,"{'Hate Speech', 'Incitement of Violence'}",1
+Religion,"{'Illegal Content', 'Incitement of Violence'}",1
+Religion,"{'Illegal Content', 'NSFW', 'Hate Speech'}",1
+Religion,"{'Mis/Disinformation/Conspiracy', 'Incitement of Violence'}",1
+Religion,"{'Mis/Disinformation/Conspiracy', 'Spam'}",1
+Religion,"{'NSFW', 'Incitement of Violence'}",1
+Religion,"{'Not Applicable', 'Mis/Disinformation/Conspiracy'}",1
+Religion,"{'Reposting/Crossposting', 'Automated tools'}",1
+Self-improvement,{'Content Warnings'},9
+Self-improvement,{'Hate Speech'},8
+Self-improvement,{'Illegal Content'},6
+Self-improvement,{'Mis/Disinformation/Conspiracy'},5
+Self-improvement,{'Harassment'},4
+Self-improvement,"{'Advertising & Commercialization', 'Spam'}",3
+Self-improvement,"{'Content Warnings', 'Images'}",3
+Self-improvement,{'Incitement of Violence'},3
+Self-improvement,"{'NSFW', 'Content Warnings'}",3
+Self-improvement,{'Copyright/ Piracy'},2
+Self-improvement,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info'}",2
+Self-improvement,"{'Harassment', 'Trolling'}",2
+Self-improvement,"{'Illegal Content', 'Hate Speech'}",2
+Self-improvement,{'Images'},2
+Self-improvement,{'Impersonation'},2
+Self-improvement,"{'Not Applicable', 'Automated tools'}",2
+Self-improvement,"{'Advertising & Commercialization', 'Mis/Disinformation/Conspiracy'}",1
+Self-improvement,"{'Advertising & Commercialization', 'NSFW'}",1
+Self-improvement,{'Advertising & Commercialization'},1
+Self-improvement,{'Automated tools'},1
+Self-improvement,"{'Harassment', 'Doxxing/ Personal Info', 'Incitement of Violence'}",1
+Self-improvement,"{'Harassment', 'Doxxing/ Personal Info'}",1
+Self-improvement,"{'Hate Speech', 'Harassment'}",1
+Self-improvement,"{'Illegal Content', 'Links & Outside Content'}",1
+Self-improvement,"{'Illegal Content', 'NSFW', 'Spam'}",1
+Self-improvement,"{'Illegal Content', 'NSFW'}",1
+Self-improvement,"{'Links & Outside Content', 'Not Applicable'}",1
+Self-improvement,"{'Links & Outside Content', 'Spam'}",1
+Self-improvement,{'Links & Outside Content'},1
+Self-improvement,"{'Not Applicable', 'Harassment', 'Spam'}",1
+Self-improvement,"{'Not Applicable', 'Mis/Disinformation/Conspiracy', 'Spam', 'Automated tools'}",1
+Self-improvement,{'Off-topic/topic specific'},1
+Sexual Content,{'Hate Speech'},35
+Sexual Content,{'Illegal Content'},29
+Sexual Content,{'NSFW'},23
+Sexual Content,"{'NSFW', 'Content Warnings'}",16
+Sexual Content,"{'Hate Speech', 'Harassment'}",14
+Sexual Content,"{'Advertising & Commercialization', 'Spam'}",11
+Sexual Content,{'Copyright/ Piracy'},11
+Sexual Content,"{'Illegal Content', 'NSFW'}",11
+Sexual Content,"{'Content Warnings', 'Images'}",10
+Sexual Content,{'Content Warnings'},10
+Sexual Content,"{'Harassment', 'Doxxing/ Personal Info'}",9
+Sexual Content,{'Doxxing/ Personal Info'},8
+Sexual Content,"{'NSFW', 'Content Warnings', 'Images'}",8
+Sexual Content,{'Harassment'},7
+Sexual Content,{'Mis/Disinformation/Conspiracy'},7
+Sexual Content,"{'NSFW', 'Images'}",6
+Sexual Content,{'Spam'},6
+Sexual Content,{'Impersonation'},5
+Sexual Content,{'Incitement of Violence'},5
+Sexual Content,"{'Harassment', 'Incitement of Violence'}",4
+Sexual Content,"{'Off-topic/topic specific', 'Harassment'}",4
+Sexual Content,"{'Hate Speech', 'Incitement of Violence'}",3
+Sexual Content,"{'Illegal Content', 'Copyright/ Piracy'}",3
+Sexual Content,"{'Illegal Content', 'Hate Speech', 'Incitement of Violence'}",3
+Sexual Content,"{'Illegal Content', 'Hate Speech'}",3
+Sexual Content,{'Links & Outside Content'},3
+Sexual Content,{'Off-topic/topic specific'},3
+Sexual Content,"{'Reposting/Crossposting', 'Spam'}",3
+Sexual Content,{'Automated tools'},2
+Sexual Content,"{'Dogpiling', 'Harassment'}",2
+Sexual Content,"{'Hate Speech', 'Harassment', 'Incitement of Violence'}",2
+Sexual Content,"{'Illegal Content', 'Images'}",2
+Sexual Content,{'Images'},2
+Sexual Content,"{'NSFW', 'Doxxing/ Personal Info'}",2
+Sexual Content,"{'NSFW', 'Harassment'}",2
+Sexual Content,"{'NSFW', 'Images', 'Copyright/ Piracy'}",2
+Sexual Content,"{'Reposting/Crossposting', 'Copyright/ Piracy'}",2
+Sexual Content,"{'Spam', 'Automated tools'}",2
+Sexual Content,"{'Advertising & Commercialization', 'NSFW'}",1
+Sexual Content,{'Advertising & Commercialization'},1
+Sexual Content,"{'Content Warnings', 'Incitement of Violence'}",1
+Sexual Content,"{'Harassment', 'Doxxing/ Personal Info', 'Spam'}",1
+Sexual Content,"{'Harassment', 'Trolling', 'Spam'}",1
+Sexual Content,"{'Harassment', 'Trolling'}",1
+Sexual Content,"{'Hate Speech', 'Harassment', 'Doxxing/ Personal Info'}",1
+Sexual Content,"{'Hate Speech', 'Trolling'}",1
+Sexual Content,"{'Illegal Content', 'Harassment', 'Spam'}",1
+Sexual Content,"{'Illegal Content', 'Harassment'}",1
+Sexual Content,"{'Illegal Content', 'Hate Speech', 'Harassment'}",1
+Sexual Content,"{'Illegal Content', 'Hate Speech', 'Images', 'Incitement of Violence'}",1
+Sexual Content,"{'Illegal Content', 'Incitement of Violence', 'Copyright/ Piracy'}",1
+Sexual Content,"{'Illegal Content', 'Links & Outside Content'}",1
+Sexual Content,"{'Illegal Content', 'Mis/Disinformation/Conspiracy'}",1
+Sexual Content,"{'Illegal Content', 'NSFW', 'Images'}",1
+Sexual Content,"{'Images', 'Copyright/ Piracy'}",1
+Sexual Content,"{'Images', 'Spam'}",1
+Sexual Content,"{'Impersonation', 'Automated tools'}",1
+Sexual Content,"{'Links & Outside Content', 'Illegal Content', 'Spam'}",1
+Sexual Content,"{'Links & Outside Content', 'Mis/Disinformation/Conspiracy'}",1
+Sexual Content,"{'Links & Outside Content', 'NSFW'}",1
+Sexual Content,"{'Links & Outside Content', 'Not Applicable'}",1
+Sexual Content,"{'NSFW', 'Copyright/ Piracy'}",1
+Sexual Content,"{'NSFW', 'Off-topic/topic specific'}",1
+Sexual Content,"{'NSFW', 'Spam'}",1
+Sexual Content,"{'Not Applicable', 'Automated tools'}",1
+Sexual Content,"{'Not Applicable', 'Doxxing/ Personal Info'}",1
+Sexual Content,"{'Not Applicable', 'NSFW'}",1
+Sexual Content,"{'Not Applicable', 'Reposting/Crossposting'}",1
+Sexual Content,"{'Not Applicable', 'Spam'}",1
+Sexual Content,"{'Off-topic/topic specific', 'Spam'}",1
+Sexual Content,"{'Reposting/Crossposting', 'Automated tools'}",1
+Sexual Content,{'Reposting/Crossposting'},1
+Support,{'Hate Speech'},220
+Support,{'Illegal Content'},82
+Support,{'Mis/Disinformation/Conspiracy'},63
+Support,{'Incitement of Violence'},47
+Support,"{'NSFW', 'Content Warnings'}",47
+Support,"{'Advertising & Commercialization', 'Spam'}",44
+Support,{'Content Warnings'},43
+Support,"{'Hate Speech', 'Harassment'}",41
+Support,{'Harassment'},40
+Support,"{'Harassment', 'Doxxing/ Personal Info'}",39
+Support,{'Doxxing/ Personal Info'},25
+Support,{'Advertising & Commercialization'},24
+Support,{'Spam'},23
+Support,{'Impersonation'},21
+Support,"{'Content Warnings', 'Images'}",19
+Support,{'Copyright/ Piracy'},19
+Support,"{'NSFW', 'Images'}",19
+Support,{'NSFW'},16
+Support,"{'NSFW', 'Content Warnings', 'Images'}",14
+Support,{'Off-topic/topic specific'},14
+Support,"{'Illegal Content', 'NSFW'}",13
+Support,"{'Harassment', 'Trolling'}",12
+Support,{'Images'},12
+Support,"{'Not Applicable', 'Automated tools'}",11
+Support,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info'}",10
+Support,"{'Hate Speech', 'Incitement of Violence'}",10
+Support,"{'Mis/Disinformation/Conspiracy', 'Hate Speech'}",10
+Support,"{'Spam', 'Automated tools'}",8
+Support,"{'Dogpiling', 'Harassment'}",7
+Support,"{'Illegal Content', 'Hate Speech'}",7
+Support,{'Automated tools'},6
+Support,{'Links & Outside Content'},6
+Support,"{'Illegal Content', 'Copyright/ Piracy'}",5
+Support,"{'Reposting/Crossposting', 'Automated tools'}",5
+Support,"{'Content Warnings', 'Incitement of Violence'}",4
+Support,"{'Harassment', 'Incitement of Violence'}",4
+Support,"{'Illegal Content', 'NSFW', 'Content Warnings'}",4
+Support,"{'Links & Outside Content', 'Not Applicable'}",4
+Support,"{'Not Applicable', 'Images'}",4
+Support,"{'Not Applicable', 'Mis/Disinformation/Conspiracy'}",4
+Support,"{'Harassment', 'Spam'}",3
+Support,"{'Hate Speech', 'Harassment', 'Doxxing/ Personal Info'}",3
+Support,"{'Hate Speech', 'Harassment', 'Incitement of Violence'}",3
+Support,"{'Illegal Content', 'Incitement of Violence'}",3
+Support,"{'Links & Outside Content', 'Illegal Content'}",3
+Support,"{'Links & Outside Content', 'NSFW'}",3
+Support,"{'Links & Outside Content', 'Spam'}",3
+Support,"{'NSFW', 'Harassment'}",3
+Support,"{'Not Applicable', 'Content Warnings'}",3
+Support,"{'Not Applicable', 'Hate Speech'}",3
+Support,"{'Off-topic/topic specific', 'Harassment'}",3
+Support,"{'Off-topic/topic specific', 'Spam'}",3
+Support,{'Trolling'},3
+Support,"{'Advertising & Commercialization', 'Automated tools', 'Spam'}",2
+Support,"{'Advertising & Commercialization', 'Mis/Disinformation/Conspiracy'}",2
+Support,"{'Advertising & Commercialization', 'Not Applicable'}",2
+Support,"{'Advertising & Commercialization', 'Spam', 'Automated tools'}",2
+Support,"{'Automated tools', 'Spam'}",2
+Support,"{'Hate Speech', 'Content Warnings'}",2
+Support,"{'Illegal Content', 'Hate Speech', 'Harassment'}",2
+Support,"{'Illegal Content', 'Hate Speech', 'Incitement of Violence'}",2
+Support,"{'Illegal Content', 'Links & Outside Content'}",2
+Support,"{'Links & Outside Content', 'Copyright/ Piracy'}",2
+Support,"{'Mis/Disinformation/Conspiracy', 'Incitement of Violence'}",2
+Support,"{'NSFW', 'Images', 'Incitement of Violence'}",2
+Support,"{'NSFW', 'Off-topic/topic specific', 'Spam'}",2
+Support,"{'Not Applicable', 'Off-topic/topic specific'}",2
+Support,"{'Reposting/Crossposting', 'Copyright/ Piracy'}",2
+Support,{'Reposting/Crossposting'},2
+Support,"{'Advertising & Commercialization', 'Content Warnings'}",1
+Support,"{'Advertising & Commercialization', 'Impersonation', 'Spam'}",1
+Support,"{'Advertising & Commercialization', 'Impersonation'}",1
+Support,"{'Advertising & Commercialization', 'Links & Outside Content'}",1
+Support,"{'Advertising & Commercialization', 'NSFW', 'Spam'}",1
+Support,"{'Advertising & Commercialization', 'Off-topic/topic specific', 'Spam'}",1
+Support,"{'Advertising & Commercialization', 'Off-topic/topic specific'}",1
+Support,"{'Advertising & Commercialization', 'Reposting/Crossposting', 'Spam', 'Automated tools'}",1
+Support,"{'Advertising & Commercialization', 'Spam', 'Copyright/ Piracy'}",1
+Support,"{'Dogpiling', 'Doxxing/ Personal Info', 'Hate Speech', 'Trolling', 'Harassment', 'Incitement of Violence'}",1
+Support,"{'Dogpiling', 'Harassment', 'Trolling'}",1
+Support,"{'Dogpiling', 'Hate Speech', 'Harassment', 'Doxxing/ Personal Info'}",1
+Support,"{'Dogpiling', 'Hate Speech'}",1
+Support,"{'Doxxing/ Personal Info', 'Content Warnings'}",1
+Support,"{'Doxxing/ Personal Info', 'Spam'}",1
+Support,"{'Harassment', 'Automated tools'}",1
+Support,"{'Harassment', 'Doxxing/ Personal Info', 'Impersonation'}",1
+Support,"{'Harassment', 'Doxxing/ Personal Info', 'Trolling'}",1
+Support,"{'Harassment', 'Trolling', 'Spam'}",1
+Support,"{'Hate Speech', 'Doxxing/ Personal Info'}",1
+Support,"{'Hate Speech', 'Harassment', 'Trolling'}",1
+Support,"{'Hate Speech', 'Images'}",1
+Support,"{'Hate Speech', 'Spam'}",1
+Support,"{'Illegal Content', 'Doxxing/ Personal Info', 'Incitement of Violence'}",1
+Support,"{'Illegal Content', 'Doxxing/ Personal Info', 'NSFW', 'Hate Speech', 'Incitement of Violence'}",1
+Support,"{'Illegal Content', 'Doxxing/ Personal Info'}",1
+Support,"{'Illegal Content', 'Harassment', 'Doxxing/ Personal Info'}",1
+Support,"{'Illegal Content', 'Harassment', 'Incitement of Violence'}",1
+Support,"{'Illegal Content', 'Harassment', 'Spam'}",1
+Support,"{'Illegal Content', 'Harassment'}",1
+Support,"{'Illegal Content', 'Images'}",1
+Support,"{'Illegal Content', 'Mis/Disinformation/Conspiracy', 'Hate Speech'}",1
+Support,"{'Illegal Content', 'Mis/Disinformation/Conspiracy', 'Not Applicable'}",1
+Support,"{'Illegal Content', 'Mis/Disinformation/Conspiracy'}",1
+Support,"{'Illegal Content', 'NSFW', 'Doxxing/ Personal Info', 'Copyright/ Piracy'}",1
+Support,"{'Illegal Content', 'NSFW', 'Doxxing/ Personal Info', 'Spam'}",1
+Support,"{'Illegal Content', 'NSFW', 'Hate Speech', 'Spam'}",1
+Support,"{'Illegal Content', 'NSFW', 'Images'}",1
+Support,"{'Illegal Content', 'Off-topic/topic specific'}",1
+Support,"{'Illegal Content', 'Reposting/Crossposting'}",1
+Support,"{'Illegal Content', 'Spam'}",1
+Support,"{'Images', 'Copyright/ Piracy'}",1
+Support,"{'Images', 'Incitement of Violence'}",1
+Support,"{'Impersonation', 'Automated tools'}",1
+Support,"{'Links & Outside Content', 'Content Warnings', 'Illegal Content'}",1
+Support,"{'Links & Outside Content', 'Content Warnings'}",1
+Support,"{'Links & Outside Content', 'Harassment', 'Trolling', 'Spam'}",1
+Support,"{'Links & Outside Content', 'Illegal Content', 'Incitement of Violence'}",1
+Support,"{'Links & Outside Content', 'Illegal Content', 'Spam', 'Copyright/ Piracy'}",1
+Support,"{'Links & Outside Content', 'Mis/Disinformation/Conspiracy'}",1
+Support,"{'Links & Outside Content', 'Off-topic/topic specific'}",1
+Support,"{'Links & Outside Content', 'Reposting/Crossposting', 'Copyright/ Piracy'}",1
+Support,"{'Mis/Disinformation/Conspiracy', 'Harassment', 'Incitement of Violence'}",1
+Support,"{'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Harassment', 'Doxxing/ Personal Info'}",1
+Support,"{'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Harassment', 'Trolling'}",1
+Support,"{'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Harassment'}",1
+Support,"{'Mis/Disinformation/Conspiracy', 'NSFW', 'Harassment', 'Trolling'}",1
+Support,"{'NSFW', 'Content Warnings', 'Hate Speech'}",1
+Support,"{'NSFW', 'Content Warnings', 'Spam'}",1
+Support,"{'NSFW', 'Copyright/ Piracy'}",1
+Support,"{'NSFW', 'Harassment', 'Spam', 'Incitement of Violence'}",1
+Support,"{'NSFW', 'Hate Speech', 'Images'}",1
+Support,"{'NSFW', 'Off-topic/topic specific'}",1
+Support,"{'NSFW', 'Spam'}",1
+Support,"{'Not Applicable', 'Doxxing/ Personal Info'}",1
+Support,"{'Not Applicable', 'Trolling'}",1
+Support,"{'Off-topic/topic specific', 'Automated tools'}",1
+Support,"{'Off-topic/topic specific', 'Content Warnings'}",1
+Support,"{'Off-topic/topic specific', 'Harassment', 'Doxxing/ Personal Info', 'Hate Speech'}",1
+Support,"{'Off-topic/topic specific', 'Reposting/Crossposting'}",1
+Support,"{'Reposting/Crossposting', 'Content Warnings'}",1
+Support,"{'Spam', 'Copyright/ Piracy'}",1
+Support,"{'Trolling', 'Harassment', 'Impersonation'}",1
+Support,"{'Trolling', 'Spam'}",1
+Tech,{'Hate Speech'},315
+Tech,{'Illegal Content'},189
+Tech,{'Incitement of Violence'},108
+Tech,{'Mis/Disinformation/Conspiracy'},107
+Tech,"{'Advertising & Commercialization', 'Spam'}",87
+Tech,"{'Hate Speech', 'Harassment'}",87
+Tech,"{'Harassment', 'Doxxing/ Personal Info'}",69
+Tech,"{'NSFW', 'Content Warnings'}",67
+Tech,{'Harassment'},66
+Tech,{'Spam'},64
+Tech,{'Copyright/ Piracy'},55
+Tech,{'NSFW'},52
+Tech,{'Doxxing/ Personal Info'},48
+Tech,{'Impersonation'},47
+Tech,"{'Content Warnings', 'Images'}",46
+Tech,{'Content Warnings'},37
+Tech,"{'NSFW', 'Images'}",31
+Tech,{'Automated tools'},29
+Tech,{'Advertising & Commercialization'},28
+Tech,"{'Hate Speech', 'Incitement of Violence'}",27
+Tech,{'Links & Outside Content'},24
+Tech,{'Images'},20
+Tech,{'Off-topic/topic specific'},20
+Tech,"{'Illegal Content', 'Hate Speech'}",16
+Tech,"{'Not Applicable', 'Automated tools'}",16
+Tech,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info'}",15
+Tech,"{'Illegal Content', 'NSFW'}",11
+Tech,"{'Illegal Content', 'Incitement of Violence'}",10
+Tech,"{'NSFW', 'Content Warnings', 'Images'}",10
+Tech,{'Trolling'},10
+Tech,"{'Harassment', 'Incitement of Violence'}",9
+Tech,"{'Harassment', 'Trolling'}",9
+Tech,"{'Illegal Content', 'Mis/Disinformation/Conspiracy'}",7
+Tech,"{'Spam', 'Automated tools'}",7
+Tech,"{'Illegal Content', 'Copyright/ Piracy'}",6
+Tech,"{'Mis/Disinformation/Conspiracy', 'Hate Speech'}",6
+Tech,"{'Off-topic/topic specific', 'Spam'}",6
+Tech,"{'Illegal Content', 'NSFW', 'Content Warnings'}",5
+Tech,"{'Mis/Disinformation/Conspiracy', 'Spam'}",5
+Tech,"{'Off-topic/topic specific', 'Harassment'}",5
+Tech,"{'Dogpiling', 'Harassment'}",4
+Tech,"{'Hate Speech', 'Off-topic/topic specific'}",4
+Tech,"{'Links & Outside Content', 'Off-topic/topic specific'}",4
+Tech,"{'Links & Outside Content', 'Spam'}",4
+Tech,"{'Mis/Disinformation/Conspiracy', 'Incitement of Violence'}",4
+Tech,"{'NSFW', 'Hate Speech'}",4
+Tech,"{'Harassment', 'Doxxing/ Personal Info', 'Incitement of Violence'}",3
+Tech,"{'Hate Speech', 'Harassment', 'Incitement of Violence'}",3
+Tech,"{'Illegal Content', 'Images'}",3
+Tech,"{'Illegal Content', 'Not Applicable'}",3
+Tech,"{'Images', 'Copyright/ Piracy'}",3
+Tech,"{'Images', 'Incitement of Violence'}",3
+Tech,"{'Links & Outside Content', 'Reposting/Crossposting'}",3
+Tech,"{'Mis/Disinformation/Conspiracy', 'Copyright/ Piracy'}",3
+Tech,"{'NSFW', 'Harassment'}",3
+Tech,"{'NSFW', 'Incitement of Violence'}",3
+Tech,"{'Not Applicable', 'Off-topic/topic specific'}",3
+Tech,"{'Off-topic/topic specific', 'Content Warnings'}",3
+Tech,"{'Off-topic/topic specific', 'Trolling'}",3
+Tech,"{'Reposting/Crossposting', 'Automated tools'}",3
+Tech,"{'Reposting/Crossposting', 'Spam'}",3
+Tech,"{'Advertising & Commercialization', 'Automated tools'}",2
+Tech,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info', 'Impersonation'}",2
+Tech,"{'Doxxing/ Personal Info', 'Images'}",2
+Tech,"{'Harassment', 'Spam'}",2
+Tech,"{'Hate Speech', 'Harassment', 'Doxxing/ Personal Info'}",2
+Tech,"{'Hate Speech', 'Harassment', 'Trolling'}",2
+Tech,"{'Hate Speech', 'Trolling'}",2
+Tech,"{'Illegal Content', 'Harassment', 'Doxxing/ Personal Info'}",2
+Tech,"{'Illegal Content', 'Hate Speech', 'Harassment'}",2
+Tech,"{'Illegal Content', 'Links & Outside Content'}",2
+Tech,"{'Links & Outside Content', 'Mis/Disinformation/Conspiracy'}",2
+Tech,"{'Links & Outside Content', 'NSFW', 'Images'}",2
+Tech,"{'Links & Outside Content', 'Not Applicable'}",2
+Tech,"{'Mis/Disinformation/Conspiracy', 'Harassment'}",2
+Tech,"{'NSFW', 'Content Warnings', 'Spam'}",2
+Tech,"{'NSFW', 'Off-topic/topic specific'}",2
+Tech,"{'NSFW', 'Spam'}",2
+Tech,"{'Reposting/Crossposting', 'Copyright/ Piracy'}",2
+Tech,"{'Advertising & Commercialization', 'Links & Outside Content'}",1
+Tech,"{'Advertising & Commercialization', 'Mis/Disinformation/Conspiracy'}",1
+Tech,"{'Advertising & Commercialization', 'NSFW', 'Automated tools', 'Spam'}",1
+Tech,"{'Advertising & Commercialization', 'NSFW', 'Spam', 'Incitement of Violence'}",1
+Tech,"{'Advertising & Commercialization', 'Not Applicable'}",1
+Tech,"{'Advertising & Commercialization', 'Off-topic/topic specific'}",1
+Tech,"{'Advertising & Commercialization', 'Spam', 'Automated tools'}",1
+Tech,"{'Automated tools', 'Spam'}",1
+Tech,"{'Content Warnings', 'Images', 'Incitement of Violence'}",1
+Tech,"{'Dogpiling', 'Doxxing/ Personal Info', 'NSFW', 'Hate Speech', 'Harassment'}",1
+Tech,"{'Dogpiling', 'Harassment', 'Doxxing/ Personal Info', 'Trolling'}",1
+Tech,"{'Doxxing/ Personal Info', 'Copyright/ Piracy'}",1
+Tech,"{'Doxxing/ Personal Info', 'Trolling', 'Spam'}",1
+Tech,"{'Harassment', 'Automated tools'}",1
+Tech,"{'Harassment', 'Doxxing/ Personal Info', 'Impersonation'}",1
+Tech,"{'Harassment', 'Impersonation'}",1
+Tech,"{'Hate Speech', 'Harassment', 'Doxxing/ Personal Info', 'Trolling'}",1
+Tech,"{'Hate Speech', 'Harassment', 'Spam'}",1
+Tech,"{'Hate Speech', 'Images', 'Incitement of Violence'}",1
+Tech,"{'Hate Speech', 'Images'}",1
+Tech,"{'Illegal Content', 'Automated tools'}",1
+Tech,"{'Illegal Content', 'Doxxing/ Personal Info', 'NSFW', 'Hate Speech', 'Incitement of Violence'}",1
+Tech,"{'Illegal Content', 'Hate Speech', 'Harassment', 'Spam'}",1
+Tech,"{'Illegal Content', 'Hate Speech', 'Incitement of Violence'}",1
+Tech,"{'Illegal Content', 'Incitement of Violence', 'Copyright/ Piracy'}",1
+Tech,"{'Illegal Content', 'Links & Outside Content', 'Copyright/ Piracy'}",1
+Tech,"{'Illegal Content', 'Mis/Disinformation/Conspiracy', 'Harassment', 'Doxxing/ Personal Info'}",1
+Tech,"{'Illegal Content', 'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Harassment'}",1
+Tech,"{'Illegal Content', 'Mis/Disinformation/Conspiracy', 'Hate Speech'}",1
+Tech,"{'Illegal Content', 'NSFW', 'Copyright/ Piracy'}",1
+Tech,"{'Illegal Content', 'NSFW', 'Doxxing/ Personal Info', 'Copyright/ Piracy'}",1
+Tech,"{'Illegal Content', 'NSFW', 'Hate Speech', 'Incitement of Violence'}",1
+Tech,"{'Illegal Content', 'NSFW', 'Hate Speech', 'Mis/Disinformation/Conspiracy', 'Incitement of Violence'}",1
+Tech,"{'Illegal Content', 'NSFW', 'Hate Speech'}",1
+Tech,"{'Illegal Content', 'NSFW', 'Images'}",1
+Tech,"{'Illegal Content', 'NSFW', 'Spam', 'Incitement of Violence'}",1
+Tech,"{'Illegal Content', 'NSFW', 'Spam'}",1
+Tech,"{'Illegal Content', 'Off-topic/topic specific'}",1
+Tech,"{'Illegal Content', 'Spam'}",1
+Tech,"{'Impersonation', 'Automated tools'}",1
+Tech,"{'Impersonation', 'Spam'}",1
+Tech,"{'Links & Outside Content', 'Content Warnings'}",1
+Tech,"{'Links & Outside Content', 'Illegal Content', 'Spam'}",1
+Tech,"{'Links & Outside Content', 'Images', 'Spam'}",1
+Tech,"{'Links & Outside Content', 'Images'}",1
+Tech,"{'Links & Outside Content', 'NSFW', 'Advertising & Commercialization', 'Spam'}",1
+Tech,"{'Links & Outside Content', 'Reposting/Crossposting', 'Automated tools'}",1
+Tech,"{'Mis/Disinformation/Conspiracy', 'Automated tools'}",1
+Tech,"{'Mis/Disinformation/Conspiracy', 'Harassment', 'Incitement of Violence'}",1
+Tech,"{'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Harassment', 'Incitement of Violence'}",1
+Tech,"{'Mis/Disinformation/Conspiracy', 'Hate Speech', 'Harassment'}",1
+Tech,"{'Mis/Disinformation/Conspiracy', 'NSFW', 'Incitement of Violence'}",1
+Tech,"{'NSFW', 'Doxxing/ Personal Info'}",1
+Tech,"{'NSFW', 'Hate Speech', 'Spam'}",1
+Tech,"{'NSFW', 'Images', 'Incitement of Violence'}",1
+Tech,"{'Not Applicable', 'Content Warnings'}",1
+Tech,"{'Not Applicable', 'Copyright/ Piracy'}",1
+Tech,"{'Not Applicable', 'Harassment'}",1
+Tech,"{'Not Applicable', 'Images'}",1
+Tech,"{'Not Applicable', 'Impersonation'}",1
+Tech,"{'Off-topic/topic specific', 'Automated tools'}",1
+Tech,"{'Off-topic/topic specific', 'Reposting/Crossposting'}",1
+Tech,"{'Reposting/Crossposting', 'Images', 'Spam'}",1
+Tech,"{'Reposting/Crossposting', 'Impersonation'}",1
+Tech,"{'Trolling', 'Incitement of Violence'}",1

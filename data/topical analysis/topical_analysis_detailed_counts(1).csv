@@ -1,0 +1,494 @@
+GPT category single,Rule topic single cleaned,Count
+Activism,Hate Speech,141
+Activism,Harassment,63
+Activism,Illegal Content,44
+Activism,Mis/Disinformation/Conspiracy,44
+Activism,NSFW,40
+Activism,Doxxing/ Personal Info,34
+Activism,Images,31
+Activism,Content Warnings,30
+Activism,Incitement of Violence,27
+Activism,Spam,27
+Activism,Advertising & Commercialization,20
+Activism,Links & Outside Content,17
+Activism,Off-topic/topic specific,17
+Activism,Not Applicable,13
+Activism,Automated tools,7
+Activism,Copyright/ Piracy,6
+Activism,Trolling,6
+Activism,Dogpiling,5
+Activism,Impersonation,4
+Activism,Reposting/Crossposting,2
+Art & Culture,Hate Speech,118
+Art & Culture,Harassment,104
+Art & Culture,Illegal Content,69
+Art & Culture,Content Warnings,61
+Art & Culture,NSFW,61
+Art & Culture,Spam,46
+Art & Culture,Images,44
+Art & Culture,Doxxing/ Personal Info,43
+Art & Culture,Incitement of Violence,38
+Art & Culture,Advertising & Commercialization,37
+Art & Culture,Mis/Disinformation/Conspiracy,32
+Art & Culture,Copyright/ Piracy,26
+Art & Culture,Automated tools,25
+Art & Culture,Trolling,20
+Art & Culture,Not Applicable,15
+Art & Culture,Impersonation,12
+Art & Culture,Links & Outside Content,11
+Art & Culture,Off-topic/topic specific,11
+Art & Culture,Dogpiling,10
+Art & Culture,Reposting/Crossposting,5
+Bots,Hate Speech,12
+Bots,Harassment,11
+Bots,Automated tools,8
+Bots,Spam,8
+Bots,Images,6
+Bots,NSFW,6
+Bots,Content Warnings,4
+Bots,Doxxing/ Personal Info,4
+Bots,Illegal Content,4
+Bots,Advertising & Commercialization,3
+Bots,Impersonation,3
+Bots,Mis/Disinformation/Conspiracy,3
+Bots,Incitement of Violence,2
+Bots,Dogpiling,1
+Bots,Not Applicable,1
+Bots,Off-topic/topic specific,1
+Bots,Reposting/Crossposting,1
+Bots,Trolling,1
+Community,Advertising & Commercialization,1
+Community,Automated tools,1
+Community,Content Warnings,1
+Community,Doxxing/ Personal Info,1
+Community,Harassment,1
+Community,Hate Speech,1
+Community,Links & Outside Content,1
+Community,Not Applicable,1
+Community,Off-topic/topic specific,1
+Education,Hate Speech,4
+Education,Impersonation,4
+Education,Automated tools,3
+Education,Harassment,3
+Education,Links & Outside Content,2
+Education,NSFW,2
+Education,Not Applicable,2
+Education,Spam,2
+Education,Advertising & Commercialization,1
+Education,Doxxing/ Personal Info,1
+Education,Images,1
+Education,Mis/Disinformation/Conspiracy,1
+Education,Reposting/Crossposting,1
+Entertainment,Hate Speech,124
+Entertainment,Harassment,73
+Entertainment,Illegal Content,66
+Entertainment,NSFW,63
+Entertainment,Content Warnings,55
+Entertainment,Doxxing/ Personal Info,43
+Entertainment,Incitement of Violence,40
+Entertainment,Spam,40
+Entertainment,Images,39
+Entertainment,Mis/Disinformation/Conspiracy,38
+Entertainment,Advertising & Commercialization,21
+Entertainment,Automated tools,21
+Entertainment,Off-topic/topic specific,17
+Entertainment,Links & Outside Content,16
+Entertainment,Impersonation,12
+Entertainment,Copyright/ Piracy,11
+Entertainment,Reposting/Crossposting,11
+Entertainment,Not Applicable,10
+Entertainment,Trolling,10
+Entertainment,Dogpiling,8
+Family & Friends,Hate Speech,416
+Family & Friends,Harassment,274
+Family & Friends,Illegal Content,228
+Family & Friends,Content Warnings,195
+Family & Friends,NSFW,178
+Family & Friends,Incitement of Violence,130
+Family & Friends,Doxxing/ Personal Info,124
+Family & Friends,Mis/Disinformation/Conspiracy,122
+Family & Friends,Images,115
+Family & Friends,Spam,111
+Family & Friends,Advertising & Commercialization,63
+Family & Friends,Trolling,39
+Family & Friends,Copyright/ Piracy,36
+Family & Friends,Off-topic/topic specific,36
+Family & Friends,Automated tools,35
+Family & Friends,Dogpiling,33
+Family & Friends,Not Applicable,24
+Family & Friends,Impersonation,23
+Family & Friends,Links & Outside Content,22
+Family & Friends,Reposting/Crossposting,15
+Fediverse,Hate Speech,418
+Fediverse,Harassment,258
+Fediverse,Illegal Content,239
+Fediverse,NSFW,192
+Fediverse,Spam,166
+Fediverse,Content Warnings,158
+Fediverse,Incitement of Violence,144
+Fediverse,Mis/Disinformation/Conspiracy,131
+Fediverse,Doxxing/ Personal Info,122
+Fediverse,Images,116
+Fediverse,Advertising & Commercialization,113
+Fediverse,Automated tools,57
+Fediverse,Copyright/ Piracy,51
+Fediverse,Links & Outside Content,43
+Fediverse,Trolling,37
+Fediverse,Not Applicable,36
+Fediverse,Off-topic/topic specific,35
+Fediverse,Impersonation,30
+Fediverse,Dogpiling,18
+Fediverse,Reposting/Crossposting,18
+Gaming,Hate Speech,113
+Gaming,Harassment,92
+Gaming,NSFW,87
+Gaming,Illegal Content,70
+Gaming,Content Warnings,65
+Gaming,Spam,43
+Gaming,Incitement of Violence,38
+Gaming,Doxxing/ Personal Info,36
+Gaming,Mis/Disinformation/Conspiracy,34
+Gaming,Images,33
+Gaming,Off-topic/topic specific,27
+Gaming,Advertising & Commercialization,26
+Gaming,Copyright/ Piracy,19
+Gaming,Automated tools,13
+Gaming,Dogpiling,13
+Gaming,Links & Outside Content,13
+Gaming,Not Applicable,13
+Gaming,Impersonation,12
+Gaming,Trolling,11
+Gaming,Reposting/Crossposting,9
+General,Hate Speech,413
+General,Harassment,278
+General,Illegal Content,276
+General,NSFW,234
+General,Content Warnings,208
+General,Spam,176
+General,Incitement of Violence,152
+General,Doxxing/ Personal Info,149
+General,Mis/Disinformation/Conspiracy,140
+General,Images,137
+General,Advertising & Commercialization,120
+General,Automated tools,75
+General,Copyright/ Piracy,69
+General,Off-topic/topic specific,46
+General,Trolling,43
+General,Impersonation,42
+General,Not Applicable,39
+General,Links & Outside Content,34
+General,Dogpiling,30
+General,Reposting/Crossposting,21
+Geographic,Hate Speech,771
+Geographic,Harassment,478
+Geographic,Illegal Content,442
+Geographic,NSFW,341
+Geographic,Spam,295
+Geographic,Incitement of Violence,282
+Geographic,Content Warnings,271
+Geographic,Doxxing/ Personal Info,267
+Geographic,Mis/Disinformation/Conspiracy,256
+Geographic,Advertising & Commercialization,210
+Geographic,Images,205
+Geographic,Automated tools,113
+Geographic,Copyright/ Piracy,67
+Geographic,Impersonation,60
+Geographic,Off-topic/topic specific,56
+Geographic,Trolling,52
+Geographic,Dogpiling,50
+Geographic,Links & Outside Content,49
+Geographic,Not Applicable,47
+Geographic,Reposting/Crossposting,31
+Ideology,Hate Speech,290
+Ideology,Harassment,165
+Ideology,Illegal Content,107
+Ideology,NSFW,96
+Ideology,Mis/Disinformation/Conspiracy,95
+Ideology,Content Warnings,88
+Ideology,Spam,86
+Ideology,Images,79
+Ideology,Doxxing/ Personal Info,66
+Ideology,Advertising & Commercialization,62
+Ideology,Incitement of Violence,62
+Ideology,Automated tools,36
+Ideology,Links & Outside Content,33
+Ideology,Off-topic/topic specific,30
+Ideology,Trolling,28
+Ideology,Impersonation,24
+Ideology,Copyright/ Piracy,20
+Ideology,Not Applicable,20
+Ideology,Reposting/Crossposting,17
+Ideology,Dogpiling,14
+Interests,Hate Speech,594
+Interests,Harassment,406
+Interests,NSFW,360
+Interests,Illegal Content,335
+Interests,Content Warnings,287
+Interests,Spam,218
+Interests,Images,211
+Interests,Incitement of Violence,190
+Interests,Doxxing/ Personal Info,173
+Interests,Mis/Disinformation/Conspiracy,154
+Interests,Advertising & Commercialization,152
+Interests,Off-topic/topic specific,95
+Interests,Copyright/ Piracy,92
+Interests,Automated tools,87
+Interests,Impersonation,72
+Interests,Links & Outside Content,61
+Interests,Not Applicable,59
+Interests,Trolling,46
+Interests,Dogpiling,40
+Interests,Reposting/Crossposting,26
+LGBTQ,Hate Speech,242
+LGBTQ,NSFW,145
+LGBTQ,Content Warnings,133
+LGBTQ,Harassment,131
+LGBTQ,Illegal Content,115
+LGBTQ,Spam,64
+LGBTQ,Images,59
+LGBTQ,Doxxing/ Personal Info,56
+LGBTQ,Incitement of Violence,52
+LGBTQ,Mis/Disinformation/Conspiracy,44
+LGBTQ,Advertising & Commercialization,40
+LGBTQ,Automated tools,32
+LGBTQ,Copyright/ Piracy,24
+LGBTQ,Not Applicable,23
+LGBTQ,Off-topic/topic specific,21
+LGBTQ,Dogpiling,20
+LGBTQ,Trolling,20
+LGBTQ,Links & Outside Content,18
+LGBTQ,Impersonation,16
+LGBTQ,Reposting/Crossposting,13
+Memes,Hate Speech,17
+Memes,Harassment,10
+Memes,NSFW,7
+Memes,Content Warnings,5
+Memes,Doxxing/ Personal Info,5
+Memes,Spam,5
+Memes,Advertising & Commercialization,3
+Memes,Illegal Content,3
+Memes,Impersonation,3
+Memes,Incitement of Violence,2
+Memes,Mis/Disinformation/Conspiracy,2
+Memes,Automated tools,1
+Memes,Copyright/ Piracy,1
+Memes,Dogpiling,1
+Memes,Images,1
+Memes,Not Applicable,1
+Memes,Trolling,1
+N/A,Hate Speech,252
+N/A,Harassment,158
+N/A,Illegal Content,142
+N/A,NSFW,109
+N/A,Content Warnings,88
+N/A,Spam,71
+N/A,Doxxing/ Personal Info,68
+N/A,Images,65
+N/A,Incitement of Violence,61
+N/A,Mis/Disinformation/Conspiracy,54
+N/A,Advertising & Commercialization,42
+N/A,Trolling,26
+N/A,Automated tools,21
+N/A,Off-topic/topic specific,21
+N/A,Links & Outside Content,20
+N/A,Impersonation,18
+N/A,Copyright/ Piracy,17
+N/A,Dogpiling,13
+N/A,Not Applicable,13
+N/A,Reposting/Crossposting,5
+News,Hate Speech,34
+News,Harassment,32
+News,Mis/Disinformation/Conspiracy,21
+News,Doxxing/ Personal Info,17
+News,Illegal Content,17
+News,Incitement of Violence,17
+News,Images,16
+News,Spam,15
+News,Content Warnings,13
+News,NSFW,12
+News,Advertising & Commercialization,9
+News,Automated tools,9
+News,Impersonation,8
+News,Links & Outside Content,6
+News,Off-topic/topic specific,6
+News,Trolling,6
+News,Dogpiling,4
+News,Reposting/Crossposting,3
+News,Copyright/ Piracy,2
+News,Not Applicable,1
+Organization,Hate Speech,367
+Organization,Harassment,249
+Organization,Illegal Content,190
+Organization,Incitement of Violence,147
+Organization,NSFW,138
+Organization,Mis/Disinformation/Conspiracy,131
+Organization,Doxxing/ Personal Info,117
+Organization,Content Warnings,113
+Organization,Spam,111
+Organization,Images,102
+Organization,Advertising & Commercialization,89
+Organization,Automated tools,42
+Organization,Links & Outside Content,42
+Organization,Copyright/ Piracy,33
+Organization,Dogpiling,33
+Organization,Off-topic/topic specific,31
+Organization,Impersonation,30
+Organization,Trolling,30
+Organization,Not Applicable,20
+Organization,Reposting/Crossposting,12
+Personal,Hate Speech,242
+Personal,Harassment,127
+Personal,Illegal Content,116
+Personal,Content Warnings,92
+Personal,Incitement of Violence,75
+Personal,NSFW,66
+Personal,Mis/Disinformation/Conspiracy,63
+Personal,Images,62
+Personal,Spam,60
+Personal,Doxxing/ Personal Info,57
+Personal,Advertising & Commercialization,34
+Personal,Links & Outside Content,20
+Personal,Copyright/ Piracy,18
+Personal,Trolling,18
+Personal,Automated tools,14
+Personal,Off-topic/topic specific,13
+Personal,Impersonation,12
+Personal,Not Applicable,10
+Personal,Dogpiling,7
+Personal,Reposting/Crossposting,4
+Pets,Hate Speech,38
+Pets,NSFW,20
+Pets,Illegal Content,15
+Pets,Content Warnings,14
+Pets,Harassment,14
+Pets,Doxxing/ Personal Info,12
+Pets,Incitement of Violence,9
+Pets,Spam,9
+Pets,Advertising & Commercialization,7
+Pets,Images,7
+Pets,Mis/Disinformation/Conspiracy,7
+Pets,Impersonation,4
+Pets,Off-topic/topic specific,4
+Pets,Not Applicable,3
+Pets,Automated tools,2
+Pets,Copyright/ Piracy,2
+Pets,Trolling,2
+Pets,Links & Outside Content,1
+Pets,Reposting/Crossposting,1
+Politics,Hate Speech,42
+Politics,Harassment,24
+Politics,Illegal Content,20
+Politics,NSFW,15
+Politics,Content Warnings,13
+Politics,Doxxing/ Personal Info,12
+Politics,Mis/Disinformation/Conspiracy,10
+Politics,Incitement of Violence,9
+Politics,Images,8
+Politics,Off-topic/topic specific,6
+Politics,Spam,6
+Politics,Trolling,6
+Politics,Advertising & Commercialization,5
+Politics,Impersonation,5
+Politics,Automated tools,3
+Politics,Dogpiling,3
+Politics,Copyright/ Piracy,2
+Politics,Links & Outside Content,2
+Politics,Not Applicable,2
+Politics,Reposting/Crossposting,1
+Religion,Hate Speech,28
+Religion,Harassment,18
+Religion,Content Warnings,15
+Religion,NSFW,15
+Religion,Illegal Content,13
+Religion,Spam,11
+Religion,Advertising & Commercialization,9
+Religion,Images,8
+Religion,Incitement of Violence,7
+Religion,Mis/Disinformation/Conspiracy,7
+Religion,Automated tools,4
+Religion,Doxxing/ Personal Info,4
+Religion,Links & Outside Content,3
+Religion,Not Applicable,3
+Religion,Impersonation,2
+Religion,Copyright/ Piracy,1
+Religion,Reposting/Crossposting,1
+Religion,Trolling,1
+Self-improvement,Content Warnings,15
+Self-improvement,Harassment,12
+Self-improvement,Hate Speech,11
+Self-improvement,Illegal Content,11
+Self-improvement,Mis/Disinformation/Conspiracy,7
+Self-improvement,Spam,7
+Self-improvement,Advertising & Commercialization,6
+Self-improvement,NSFW,6
+Self-improvement,Images,5
+Self-improvement,Not Applicable,5
+Self-improvement,Automated tools,4
+Self-improvement,Doxxing/ Personal Info,4
+Self-improvement,Incitement of Violence,4
+Self-improvement,Links & Outside Content,4
+Self-improvement,Copyright/ Piracy,2
+Self-improvement,Dogpiling,2
+Self-improvement,Impersonation,2
+Self-improvement,Trolling,2
+Self-improvement,Off-topic/topic specific,1
+Sexual Content,NSFW,77
+Sexual Content,Hate Speech,64
+Sexual Content,Illegal Content,60
+Sexual Content,Harassment,51
+Sexual Content,Content Warnings,45
+Sexual Content,Images,34
+Sexual Content,Spam,30
+Sexual Content,Doxxing/ Personal Info,22
+Sexual Content,Copyright/ Piracy,21
+Sexual Content,Incitement of Violence,20
+Sexual Content,Advertising & Commercialization,13
+Sexual Content,Mis/Disinformation/Conspiracy,9
+Sexual Content,Off-topic/topic specific,9
+Sexual Content,Links & Outside Content,8
+Sexual Content,Reposting/Crossposting,8
+Sexual Content,Automated tools,7
+Sexual Content,Impersonation,6
+Sexual Content,Not Applicable,6
+Sexual Content,Trolling,3
+Sexual Content,Dogpiling,2
+Support,Hate Speech,319
+Support,Harassment,191
+Support,Content Warnings,144
+Support,Illegal Content,144
+Support,NSFW,137
+Support,Spam,111
+Support,Doxxing/ Personal Info,93
+Support,Mis/Disinformation/Conspiracy,90
+Support,Advertising & Commercialization,85
+Support,Incitement of Violence,85
+Support,Images,76
+Support,Automated tools,40
+Support,Not Applicable,36
+Support,Copyright/ Piracy,35
+Support,Off-topic/topic specific,33
+Support,Links & Outside Content,32
+Support,Impersonation,26
+Support,Trolling,26
+Support,Dogpiling,21
+Support,Reposting/Crossposting,14
+Tech,Hate Speech,486
+Tech,Harassment,301
+Tech,Illegal Content,276
+Tech,NSFW,211
+Tech,Spam,198
+Tech,Incitement of Violence,184
+Tech,Content Warnings,173
+Tech,Doxxing/ Personal Info,153
+Tech,Mis/Disinformation/Conspiracy,146
+Tech,Images,129
+Tech,Advertising & Commercialization,125
+Tech,Copyright/ Piracy,75
+Tech,Automated tools,66
+Tech,Impersonation,55
+Tech,Off-topic/topic specific,54
+Tech,Links & Outside Content,51
+Tech,Not Applicable,30
+Tech,Trolling,30
+Tech,Dogpiling,23
+Tech,Reposting/Crossposting,15
